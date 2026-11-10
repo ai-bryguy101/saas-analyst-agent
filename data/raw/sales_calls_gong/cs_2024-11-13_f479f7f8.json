@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "f479f7f8-77e0-6533-19df-a475b6860bee",
+  "url": "https://app.gong.example/call?id=f479f7f8-77e0-6533-19df-a475b6860bee",
+  "title": "Liu Works LLC | Quarterly check-in",
+  "scheduled": "2024-11-13T18:00:00Z",
+  "started": "2024-11-13T18:03:19Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "George Ramos",
+   "affiliation": "External",
+   "emailAddress": "george.ramos@liuhq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5871,
+     "end": 9956,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11433,
+     "end": 14803,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16844,
+     "end": 19719,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "eab1ef23-4292-44bb-f5f7-9aebc8b80b67",
+  "url": "https://app.gong.example/call?id=eab1ef23-4292-44bb-f5f7-9aebc8b80b67",
+  "title": "Rivers Couriers | Quarterly check-in",
+  "scheduled": "2024-11-08T14:00:00Z",
+  "started": "2024-11-08T14:05:04Z",
+  "duration": 42,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Aaron Parker",
+   "affiliation": "External",
+   "emailAddress": "aaron.parker@rivers.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5596,
+     "end": 8471,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9090,
+     "end": 12790,
+     "text": "Every time it disconnects we lose a day."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13395,
+     "end": 17480,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 18796,
+     "end": 23981,
+     "text": "Honestly the QuickBooks sync has been a nightmare since the summer."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 26109,
+     "end": 30139,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 31953,
+     "end": 35928,
+     "text": "Our bookkeeper is re-keying invoices by hand."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 37553,
+     "end": 41638,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

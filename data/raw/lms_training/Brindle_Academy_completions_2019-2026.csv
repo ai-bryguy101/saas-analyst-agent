@@ -1,0 +1,1702 @@
+learner_email,learner_name,course_code,course_title,enrolled_at,completed_at,score_pct,certificate_id
+joseph.walker@marrowcorp.example,Joseph Walker,OCA-101,Ops Cloud Admin Essentials,2019-01-06,2019-01-13,97,CERT-ebPxsDBB
+diana.jackson@larkspur.example,Diana Jackson,RPT-210,Reporting and Insights,2019-07-10,2019-08-01,55,
+james.yamamoto@tricounty.example,James Yamamoto,INV-120,Invoicing in Ops Cloud,2019-08-17,2019-09-16,91,
+nathan.johansson@gatehouse-inc-uk.example,Nathan Johansson,OCA-101,Ops Cloud Admin Essentials,2019-01-07,2019-02-01,94,CERT-3stNiUZz
+sean.abernathy@gatehouse-inc-uk.example,Sean Abernathy,MOB-130,Mobile App for Technicians,2019-04-25,2019-06-03,98,
+elif.mendoza@gatehouse-inc-uk.example,Elif Mendoza,INV-120,Invoicing in Ops Cloud,2019-05-20,2019-06-02,59,
+charlotte.green@gatehouse-inc-uk.example,Charlotte Green,RPT-210,Reporting and Insights,2019-02-17,2019-03-17,72,
+javier.goodenough@patriot-inc-uk.example,Javier Goodenough,RPT-210,Reporting and Insights,2019-08-29,,,
+camila.penhallow@patriot-inc-uk.example,Camila Penhallow,RPT-210,Reporting and Insights,2019-07-27,2019-08-17,96,
+ngozi.campbell-rhys@valleycorp-uk.example,Ngozi Campbell-Rhys,OCA-101,Ops Cloud Admin Essentials,2019-01-07,2019-01-10,80,CERT-l9fuwvI1
+dennis.castillo@huang-inc.example,Dennis Castillo,INV-120,Invoicing in Ops Cloud,2019-04-23,2019-04-28,64,
+valentina.calloway@quillfeatherhq.example,Valentina Calloway,OCA-101,Ops Cloud Admin Essentials,2019-01-01,,,
+jennifer.murphy@quillfeatherhq.example,Jennifer Murphy,MOB-130,Mobile App for Technicians,2019-06-06,2019-07-10,82,
+richard.green@summitcorp.example,Richard Green,OCA-101,Ops Cloud Admin Essentials,2019-01-05,2019-01-20,80,CERT-9JPPLS9l
+wei.gagnon@summitcorp.example,Wei Gagnon,INV-120,Invoicing in Ops Cloud,2019-06-02,2019-07-05,91,
+marguerite.foster@summitcorp.example,Marguerite Foster,DSP-110,Dispatch Board Basics,2019-09-01,2019-10-10,88,
+chidi.hernandez@brookside-inc.example,Chidi Hernandez,OCA-101,Ops Cloud Admin Essentials,2019-01-07,2019-01-20,89,CERT-R5OGbAJU
+henry.martin@johanssoncorp.example,Henry Martin,OCA-101,Ops Cloud Admin Essentials,2019-01-04,,,
+logan.sorensen@johanssoncorp.example,Logan Sorensen,DSP-110,Dispatch Board Basics,2019-08-15,2019-08-22,59,
+thiago.phillips@johanssoncorp.example,Thiago Phillips,INV-120,Invoicing in Ops Cloud,2019-03-27,,,
+siobhan.haddad@keystone.example,Siobhan Haddad,OCA-101,Ops Cloud Admin Essentials,2019-01-06,2019-01-28,94,CERT-w09ayKXj
+nicole.price@riveracorp.example,Nicole Price,OCA-101,Ops Cloud Admin Essentials,2019-01-02,2019-01-24,92,CERT-ZDO0iexf
+ravi.wright@riveracorp.example,Ravi Wright,RPT-210,Reporting and Insights,2019-06-24,,,
+richard.tremblay@tamarack.example,Richard Tremblay,OCA-101,Ops Cloud Admin Essentials,2019-01-02,2019-05-18,64,CERT-RmIfAlE9
+harry.adeyemi@tamarack.example,Harry Adeyemi,MOB-130,Mobile App for Technicians,2019-08-30,,,
+emma.ellsworth@tamarack.example,Emma Ellsworth,MOB-130,Mobile App for Technicians,2019-10-17,,,
+kwame.alvarez@beaconcorp.example,Kwame Alvarez,OCA-101,Ops Cloud Admin Essentials,2019-01-02,,,
+genevieve.miller@beaconcorp.example,Genevieve Miller,INV-120,Invoicing in Ops Cloud,2019-08-26,2019-09-14,78,
+etienne.smith@ridgelinecorp.example,Etienne Smith,OCA-101,Ops Cloud Admin Essentials,2019-01-07,2019-02-01,100,CERT-HfEuRdgI
+kyle.chaudhry@ridgelinecorp.example,Kyle Chaudhry,INV-120,Invoicing in Ops Cloud,2019-04-17,,,
+joe.stewart@ridgelinecorp.example,Joe Stewart,MOB-130,Mobile App for Technicians,2019-08-17,2019-09-02,70,
+karen.flores@ridgelinecorp.example,Karen Flores,INV-120,Invoicing in Ops Cloud,2019-10-06,2019-10-18,82,
+declan.blackwood@ridgelinecorp.example,Declan Blackwood,RPT-210,Reporting and Insights,2019-06-13,2019-07-03,96,
+amanda.carter@delacroix-ca.example,Amanda Carter,OCA-101,Ops Cloud Admin Essentials,2019-01-05,2019-02-27,85,CERT-804rySB1
+arthur.liu@delacroix-ca.example,Arthur Liu,DSP-110,Dispatch Board Basics,2019-07-22,2019-07-31,78,
+virginia.boateng@delacroix-ca.example,Virginia Boateng,RPT-210,Reporting and Insights,2019-03-28,2019-04-30,78,
+ashley.baker@stonebridge.example,Ashley Baker,OCA-101,Ops Cloud Admin Essentials,2019-02-04,2019-02-07,88,CERT-2pu49PDN
+brandon.garcia@stonebridge.example,Brandon Garcia,RPT-210,Reporting and Insights,2019-06-19,,,
+elijah.cooper@stonebridge.example,Elijah Cooper,MOB-130,Mobile App for Technicians,2019-04-15,,,
+alan.morris@stonebridge.example,Alan Morris,INV-120,Invoicing in Ops Cloud,2019-10-30,,,
+hamid.ostrander@lopezcorp-uk.example,Hamid Ostrander,INV-120,Invoicing in Ops Cloud,2019-09-12,,,
+arthur.gray@ravenwood-inc-uk.example,Arthur Gray,OCA-101,Ops Cloud Admin Essentials,2019-02-04,2019-02-19,80,CERT-7NHUCddy
+marilyn.harris@ravenwood-inc-uk.example,Marilyn Harris,INV-120,Invoicing in Ops Cloud,2019-07-04,2019-07-11,91,
+deborah.martinez@allegheny-inc-uk.example,Deborah Martinez,OCA-101,Ops Cloud Admin Essentials,2019-02-07,2019-02-13,86,CERT-GDnwA62L
+thuy.scott@allegheny-inc-uk.example,Thuy Scott,RPT-210,Reporting and Insights,2019-06-11,2019-06-25,90,
+donna.oconnor@allegheny-inc-uk.example,Donna O'Connor,DSP-110,Dispatch Board Basics,2019-07-23,,,
+george.haddad@allegheny-inc-uk.example,George Haddad,MOB-130,Mobile App for Technicians,2019-05-19,2019-06-06,100,
+george.jimenez@cascadehq.example,George Jimenez,OCA-101,Ops Cloud Admin Essentials,2019-02-01,2019-02-17,79,CERT-TvU5ZWsh
+janice.wilson@stonebridgecorp.example,Janice Wilson,DSP-110,Dispatch Board Basics,2019-05-19,2019-06-03,99,
+santiago.anderson@stonebridgecorp.example,Santiago Anderson,MOB-130,Mobile App for Technicians,2019-04-07,2019-04-23,84,
+larry.robinson@tremblayhq.example,Larry Robinson,OCA-101,Ops Cloud Admin Essentials,2019-02-03,2019-02-27,91,CERT-LNZ1Pm5n
+jordan.rivera@tremblayhq.example,Jordan Rivera,RPT-210,Reporting and Insights,2019-06-03,2019-07-13,90,
+LINDA.MOREAU@TREMBLAYHQ.EXAMPLE,Linda Moreau,MOB-130,Mobile App for Technicians,2019-10-21,,,
+jeffrey.ruiz@ostrander.example,Jeffrey Ruiz,OCA-101,Ops Cloud Admin Essentials,2019-02-03,2019-02-24,74,CERT-WRXemlKR
+jacqueline.martinez@ostrander.example,Jacqueline Martinez,DSP-110,Dispatch Board Basics,2019-10-23,,,
+henry.cruz@ostrander.example,Henry Cruz,INV-120,Invoicing in Ops Cloud,2019-06-02,2019-06-25,77,
+ingrid.evans@brooksidecorp.example,Ingrid Evans,OCA-101,Ops Cloud Admin Essentials,2019-02-04,2019-02-09,85,CERT-5j9j7nIF
+kathleen.cook@brooksidecorp.example,Kathleen Cook,DSP-110,Dispatch Board Basics,2019-02-18,2019-02-28,71,
+nikolai.kowalski@kingsley.example,Nikolai Kowalski,OCA-101,Ops Cloud Admin Essentials,2019-02-07,2019-02-10,77,CERT-aKr79GxA
+cheryl.torres@kingsley.example,Cheryl Torres,MOB-130,Mobile App for Technicians,2019-11-29,,,
+olivia.whitlock@kingsley.example,Olivia Whitlock,RPT-210,Reporting and Insights,2019-11-28,2019-12-02,81,
+valentina.jimenez@kingsley.example,Valentina Jimenez,RPT-210,Reporting and Insights,2019-11-10,,,
+dennis.bennett@heroncorp.example,Dennis Bennett,OCA-101,Ops Cloud Admin Essentials,2019-02-04,2019-03-02,97,CERT-go6WmhZX
+callum.hill@heroncorp.example,Callum Hill,MOB-130,Mobile App for Technicians,2019-09-20,2019-10-26,67,
+DOUGLAS.THOMAS@HERONCORP.EXAMPLE,Douglas Thomas,INV-120,Invoicing in Ops Cloud,2019-03-16,2019-04-12,86,
+andrew.campbell@heroncorp.example,Andrew Campbell,MOB-130,Mobile App for Technicians,2019-10-05,2019-10-19,59,
+thiago.jimenez@miami-inc.example,Thiago Jimenez,OCA-101,Ops Cloud Admin Essentials,2019-03-07,2019-03-30,88,CERT-5ULLqMIB
+nicole.marchetti@miami-inc.example,Nicole Marchetti,DSP-110,Dispatch Board Basics,2019-10-08,2019-10-31,81,
+richard.hall@chavez-inc.example,Richard Hall,MOB-130,Mobile App for Technicians,2019-05-06,2019-05-09,80,
+tomasz.dubois@chavez-inc.example,Tomasz Dubois,RPT-210,Reporting and Insights,2019-10-16,2019-11-08,69,
+lars.blackwood@morales-inc-uk.example,Lars Blackwood,OCA-101,Ops Cloud Admin Essentials,2019-03-05,2019-08-14,78,CERT-BL2ot3Jj
+ann.quillfeather@watanabe-uk.example,Ann Quillfeather,DSP-110,Dispatch Board Basics,2019-08-27,2019-09-29,87,
+santiago.lindqvist@watanabe-uk.example,Santiago Lindqvist,RPT-210,Reporting and Insights,2019-07-23,2019-07-25,63,
+kimberly.reed@watanabe-uk.example,Kimberly Reed,DSP-110,Dispatch Board Basics,2019-09-05,2019-09-13,58,
+ryan.hall@watanabe-uk.example,Ryan Hall,DSP-110,Dispatch Board Basics,2019-03-29,2019-04-04,82,
+andrew.llewellyn@lantern-inc-uk.example,Andrew Llewellyn,OCA-101,Ops Cloud Admin Essentials,2019-03-06,2019-04-24,72,CERT-v0LnmDsD
+thiago.raghunathan@myers-uk.example,Thiago Raghunathan,MOB-130,Mobile App for Technicians,2019-11-06,,,
+nathan.huang@myers-uk.example,Nathan Huang,RPT-210,Reporting and Insights,2019-11-02,,,
+fatima.jackson@myers-uk.example,Fatima Jackson,DSP-110,Dispatch Board Basics,2019-04-09,,,
+timothy.gonzalez@myers-uk.example,Timothy Gonzalez,RPT-210,Reporting and Insights,2019-07-14,2019-08-07,68,
+bronwen.marchetti@myers-uk.example,Bronwen Marchetti,DSP-110,Dispatch Board Basics,2019-06-30,2019-07-20,80,
+alan.bennett@millbrookhq-uk.example,Alan Bennett,OCA-101,Ops Cloud Admin Essentials,2019-03-01,2019-03-23,72,CERT-PG5pccNz
+david.moreau@millbrookhq-uk.example,David Moreau,MOB-130,Mobile App for Technicians,2019-10-06,2019-10-09,85,
+noor.calloway@blackhawk-inc-ca.example,Noor Calloway,OCA-101,Ops Cloud Admin Essentials,2019-03-07,2019-05-11,90,CERT-Bv3KJ7hB
+ALEXANDER.ROGERS@BLACKHAWK-INC-CA.EXAMPLE,Alexander Rogers,RPT-210,Reporting and Insights,2019-09-03,2019-09-10,65,
+noor.williams@blackhawk-inc-ca.example,Noor Williams,INV-120,Invoicing in Ops Cloud,2019-03-28,2019-04-06,78,
+astrid.morales@silverleafcorp.example,Astrid Morales,OCA-101,Ops Cloud Admin Essentials,2019-03-03,2019-03-22,80,CERT-gF0lI5h5
+alan.hill@silverleafcorp.example,Alan Hill,RPT-210,Reporting and Insights,2019-08-24,2019-09-12,88,
+grace.ortiz@tricounty.example,Grace Ortiz,OCA-101,Ops Cloud Admin Essentials,2019-03-02,2019-03-20,82,CERT-ayuAFFXt
+ashley.ingleby@tricounty.example,Ashley Ingleby,DSP-110,Dispatch Board Basics,2019-03-19,2019-03-21,90,
+etienne.foster@tricounty.example,Etienne Foster,RPT-210,Reporting and Insights,2019-09-29,,,
+minh.hughes@tricounty.example,Minh Hughes,DSP-110,Dispatch Board Basics,2019-04-04,2019-04-19,97,
+larry.reyes@riverbend-inc.example,Larry Reyes,OCA-101,Ops Cloud Admin Essentials,2019-03-05,2019-03-19,85,CERT-o2sMxVaB
+randy.jackson@beacon-inc.example,Randy Jackson,OCA-101,Ops Cloud Admin Essentials,2019-03-04,2019-09-12,89,CERT-mmwxH12P
+judith.jackson@beacon-inc.example,Judith Jackson,INV-120,Invoicing in Ops Cloud,2019-09-23,2019-10-24,82,
+isla.hill@green.example,Isla Hill,OCA-101,Ops Cloud Admin Essentials,2019-03-06,2019-03-23,100,CERT-YsLR9kvC
+nikolai.quillfeather@green.example,Nikolai Quillfeather,INV-120,Invoicing in Ops Cloud,2019-11-23,,,
+willie.allen@ashford.example,Willie Allen,OCA-101,Ops Cloud Admin Essentials,2019-03-05,2019-03-31,80,CERT-Ofk10c9C
+john.hernandez@ashford.example,John Hernandez,DSP-110,Dispatch Board Basics,2019-04-10,2019-04-22,63,
+judy.lindqvist@ashford.example,Judy Lindqvist,MOB-130,Mobile App for Technicians,2019-09-16,,,
+harry.gutierrez@ravenwoodcorp.example,Harry Gutierrez,OCA-101,Ops Cloud Admin Essentials,2019-03-03,2019-03-20,75,CERT-dGMH4V6H
+joao.adeyemi@ravenwoodcorp.example,Joao Adeyemi,DSP-110,Dispatch Board Basics,2019-06-01,2019-06-28,80,
+diego.oconnor@ravenwoodcorp.example,Diego O'Connor,INV-120,Invoicing in Ops Cloud,2019-09-30,,,
+ASTRID.TRAN@BENNETT-INC.EXAMPLE,Astrid Tran,DSP-110,Dispatch Board Basics,2019-03-17,,,
+deborah.esposito@beacon-inc.example,Deborah Esposito,OCA-101,Ops Cloud Admin Essentials,2019-03-01,2019-03-20,87,CERT-31rBes2t
+tomasz.richardson@beacon-inc.example,Tomasz Richardson,RPT-210,Reporting and Insights,2019-06-09,2019-06-22,100,
+martha.garcia@beacon-inc.example,Martha Garcia,MOB-130,Mobile App for Technicians,2019-11-12,2019-12-02,90,
+logan.quillfeather@granite-inc.example,Logan Quillfeather,OCA-101,Ops Cloud Admin Essentials,2019-03-05,,,
+danielle.gagnon@blackhawkhq.example,Danielle Gagnon,OCA-101,Ops Cloud Admin Essentials,2019-03-05,2019-04-19,72,CERT-Dxz4gBZj
+martha.moreau@blackhawkhq.example,Martha Moreau,RPT-210,Reporting and Insights,2019-05-24,2019-06-11,62,
+brandon.carter@blackhawkhq.example,Brandon Carter,INV-120,Invoicing in Ops Cloud,2019-12-15,,,
+joyce.parker@blackhawkhq.example,Joyce Parker,INV-120,Invoicing in Ops Cloud,2019-07-04,2019-08-09,58,
+anastasia.gomez@ridgelinecorp.example,Anastasia Gomez,OCA-101,Ops Cloud Admin Essentials,2019-04-01,2019-07-20,71,CERT-KshrBX9M
+jason.brown@ridgelinecorp.example,Jason Brown,MOB-130,Mobile App for Technicians,2019-07-12,2019-08-19,90,
+priya.blackwood@ravenwood-uk.example,Priya Blackwood,OCA-101,Ops Cloud Admin Essentials,2019-04-07,2019-04-16,95,CERT-PvA8vZTK
+pamela.garcia@ravenwood-uk.example,Pamela Garcia,RPT-210,Reporting and Insights,2019-09-08,,,
+ashley.rahman@ravenwood-uk.example,Ashley Rahman,RPT-210,Reporting and Insights,2019-06-22,2019-07-13,60,
+steven.turner@sanchez-inc-uk.example,Steven Turner,OCA-101,Ops Cloud Admin Essentials,2019-04-03,2019-04-27,77,CERT-Nsvsgehg
+eugene.delacroix@sanchez-inc-uk.example,Eugene Delacroix,DSP-110,Dispatch Board Basics,2019-11-25,,,
+marguerite.nelson@campbellhq.example,Marguerite Nelson,OCA-101,Ops Cloud Admin Essentials,2019-04-07,2019-04-19,75,CERT-XzrSzcgu
+robert.hall@campbellhq.example,Robert Hall,DSP-110,Dispatch Board Basics,2019-10-11,2019-11-12,99,
+ronald.murphy@campbellhq.example,Ronald Murphy,RPT-210,Reporting and Insights,2019-04-28,2019-05-03,87,
+diana.hughes@highland-inc.example,Diana Hughes,OCA-101,Ops Cloud Admin Essentials,2019-04-01,2019-04-07,89,CERT-qDjHxizZ
+michelle.james@thompsonhq.example,Michelle James,MOB-130,Mobile App for Technicians,2019-05-14,2019-05-25,68,
+siobhan.hargreaves@thompsonhq.example,Siobhan Hargreaves,INV-120,Invoicing in Ops Cloud,2019-08-22,2019-09-24,91,
+dylan.wright@unionhq.example,Dylan Wright,OCA-101,Ops Cloud Admin Essentials,2019-04-06,2019-04-29,88,CERT-EVpiQgMk
+mei.lockwood@campbellrhyscorp.example,Mei Lockwood,OCA-101,Ops Cloud Admin Essentials,2019-04-05,2019-04-12,77,CERT-LYUIUJxf
+joyce.carter@campbellrhyscorp.example,Joyce Carter,RPT-210,Reporting and Insights,2020-01-24,,,
+james.miller@campbellrhyscorp.example,James Miller,RPT-210,Reporting and Insights,2019-10-18,,,
+jennifer.ellsworth@beacon.example,Jennifer Ellsworth,OCA-101,Ops Cloud Admin Essentials,2019-04-07,2019-08-07,62,CERT-Ss7OOg3R
+christina.reed@beacon.example,Christina Reed,MOB-130,Mobile App for Technicians,2019-05-05,2019-05-30,70,
+emre.abernathy@harbortownhq.example,Emre Abernathy,OCA-101,Ops Cloud Admin Essentials,2019-04-07,2019-05-03,91,CERT-gFTDvTeP
+beverly.fontaine@johnson-inc.example,Beverly Fontaine,OCA-101,Ops Cloud Admin Essentials,2019-04-02,,,
+scott.wilson@johnson-inc.example,Scott Wilson,RPT-210,Reporting and Insights,2019-06-01,2019-06-09,66,
+janet.morris@eriecorp.example,Janet Morris,OCA-101,Ops Cloud Admin Essentials,2019-04-06,2019-04-14,88,CERT-S0knPp79
+keith.moreau@cook.example,Keith Moreau,OCA-101,Ops Cloud Admin Essentials,2019-04-05,2019-04-26,78,CERT-Y6YeCUuB
+soo-ah.clark@cook.example,Soo-ah Clark,MOB-130,Mobile App for Technicians,2020-01-09,2020-02-15,70,
+gloria.chaudhry@cook.example,Gloria Chaudhry,INV-120,Invoicing in Ops Cloud,2019-06-18,2019-07-01,68,
+douglas.torres@tamarackcorp.example,Douglas Torres,OCA-101,Ops Cloud Admin Essentials,2019-04-03,2019-04-29,85,CERT-4SSAC90T
+linda.adeyemi@tamarackcorp.example,Linda Adeyemi,RPT-210,Reporting and Insights,2019-04-19,,,
+olivia.mccarthy@tamarackcorp.example,Olivia McCarthy,RPT-210,Reporting and Insights,2019-07-02,2019-08-05,90,
+paul.dubois@hernandez.example,Paul Dubois,OCA-101,Ops Cloud Admin Essentials,2019-04-04,2019-04-30,78,CERT-HIXwbB9w
+joe.gagnon@thornburycorp.example,Joe Gagnon,OCA-101,Ops Cloud Admin Essentials,2019-05-04,2019-05-27,100,CERT-zk7t3JKs
+jacob.kowalski@thornburycorp.example,Jacob Kowalski,INV-120,Invoicing in Ops Cloud,2020-02-12,,,
+EMRE.BOUCHARD@THORNBURYCORP.EXAMPLE,Emre Bouchard,DSP-110,Dispatch Board Basics,2019-05-18,2019-05-19,88,
+brian.fairweather@superiorcorp.example,Brian Fairweather,OCA-101,Ops Cloud Admin Essentials,2019-05-02,2019-05-24,93,CERT-SXfOSJDv
+shirley.hill@browncorp-uk.example,Shirley Hill,OCA-101,Ops Cloud Admin Essentials,2019-05-01,2019-05-20,93,CERT-PswaTsII
+camila.howard@browncorp-uk.example,Camila Howard,INV-120,Invoicing in Ops Cloud,2019-05-28,2019-06-23,78,
+john.morgan@osprey-inc-uk.example,John Morgan,RPT-210,Reporting and Insights,2019-10-31,2019-12-04,90,
+alan.carter@quarry-uk.example,Alan Carter,OCA-101,Ops Cloud Admin Essentials,2019-05-04,2019-05-22,90,CERT-fYLD24gM
+sean.jones@quarry-uk.example,Sean Jones,DSP-110,Dispatch Board Basics,2019-05-10,2019-05-15,90,
+randy.green@quarry-uk.example,Randy Green,INV-120,Invoicing in Ops Cloud,2019-11-19,2019-11-22,91,
+layla.abernathy@quarry-uk.example,Layla Abernathy,RPT-210,Reporting and Insights,2019-09-27,,,
+danielle.yamamoto@martin-uk.example,Danielle Yamamoto,OCA-101,Ops Cloud Admin Essentials,2019-05-06,2019-09-10,93,CERT-K4vXhAi0
+joao.howard@martin-uk.example,Joao Howard,MOB-130,Mobile App for Technicians,2019-07-16,,,
+joshua.kim@cornerstonecorp.example,Joshua Kim,OCA-101,Ops Cloud Admin Essentials,2019-05-01,2019-05-15,88,CERT-nTrLZG8d
+christine.wilson@cornerstonecorp.example,Christine Wilson,INV-120,Invoicing in Ops Cloud,2019-05-06,,,
+william.cruz@cornerstonecorp.example,William Cruz,MOB-130,Mobile App for Technicians,2020-01-17,2020-02-15,86,
+pierre.fenwick@cornerstonecorp.example,Pierre Fenwick,RPT-210,Reporting and Insights,2019-11-13,2019-12-13,63,
+sara.llewellyn@heron.example,Sara Llewellyn,OCA-101,Ops Cloud Admin Essentials,2019-05-06,2019-05-30,81,CERT-8idwILBr
+rosa.flores@heron.example,Rosa Flores,INV-120,Invoicing in Ops Cloud,2020-01-27,2020-03-01,82,
+jason.mitchell@heron.example,Jason Mitchell,INV-120,Invoicing in Ops Cloud,2019-09-03,2019-09-18,68,
+nikolai.james@heritagecorp.example,Nikolai James,INV-120,Invoicing in Ops Cloud,2019-10-28,2019-11-02,75,
+kwame.morris@quarryhq.example,Kwame Morris,OCA-101,Ops Cloud Admin Essentials,2019-05-04,2019-09-07,92,CERT-1Q8ILpZ4
+logan.ruiz@quarryhq.example,Logan Ruiz,RPT-210,Reporting and Insights,2019-07-08,2019-07-29,73,
+amy.jones@westbrookcorp.example,Amy Jones,OCA-101,Ops Cloud Admin Essentials,2019-05-07,2019-05-19,100,CERT-VeueECsE
+jeffrey.williams@taylor-ca.example,Jeffrey Williams,OCA-101,Ops Cloud Admin Essentials,2019-05-02,2019-07-22,62,CERT-fYK2O0Lw
+heather.jones@taylor-ca.example,Heather Jones,RPT-210,Reporting and Insights,2019-10-22,2019-11-16,76,
+linda.murphy@taylor-ca.example,Linda Murphy,RPT-210,Reporting and Insights,2019-07-13,2019-08-18,96,
+deepa.fontaine@taylor-ca.example,Deepa Fontaine,RPT-210,Reporting and Insights,2019-11-19,2019-12-07,59,
+noor.marchetti@wright.example,Noor Marchetti,OCA-101,Ops Cloud Admin Essentials,2019-05-03,,,
+mei.moreau@wright.example,Mei Moreau,INV-120,Invoicing in Ops Cloud,2019-06-06,2019-06-11,79,
+mei.watson@king-inc.example,Mei Watson,OCA-101,Ops Cloud Admin Essentials,2019-05-01,2019-05-07,87,CERT-R8KVnsUe
+timothy.cartwright@king-inc.example,Timothy Cartwright,DSP-110,Dispatch Board Basics,2019-06-18,,,
+victoria.ramirez@lakescorp.example,Victoria Ramirez,OCA-101,Ops Cloud Admin Essentials,2019-05-03,2019-05-14,72,CERT-cbWM2G6x
+genevieve.diaz@lakescorp.example,Genevieve Diaz,RPT-210,Reporting and Insights,2019-08-23,,,
+kathryn.watanabe@marrowhq.example,Kathryn Watanabe,OCA-101,Ops Cloud Admin Essentials,2019-06-03,2019-12-14,93,CERT-g06aVRoI
+zainab.nguyen@marrowhq.example,Zainab Nguyen,DSP-110,Dispatch Board Basics,2019-06-03,,,
+patrick.lee@tricountyhq.example,Patrick Lee,INV-120,Invoicing in Ops Cloud,2019-08-31,,,
+JOSHUA.EDWARDS@TRICOUNTYHQ.EXAMPLE,Joshua Edwards,INV-120,Invoicing in Ops Cloud,2020-02-10,,,
+donald.perez@tricountyhq.example,Donald Perez,INV-120,Invoicing in Ops Cloud,2019-11-21,,,
+willie.halvorsen@tricountyhq.example,Willie Halvorsen,INV-120,Invoicing in Ops Cloud,2019-10-12,2019-10-19,78,
+evelyn.allen@lanternhq.example,Evelyn Allen,OCA-101,Ops Cloud Admin Essentials,2019-06-06,2019-06-23,74,CERT-93tavHqe
+laura.johnson@pricecorp.example,Laura Johnson,OCA-101,Ops Cloud Admin Essentials,2019-06-07,2019-06-27,85,CERT-5aB6jFAp
+joe.morris@saguaro.example,Joe Morris,OCA-101,Ops Cloud Admin Essentials,2019-06-01,2019-11-11,75,CERT-TBLxIf9k
+kwame.quillfeather@saguaro.example,Kwame Quillfeather,MOB-130,Mobile App for Technicians,2019-09-19,,,
+matthew.turner@saguaro.example,Matthew Turner,INV-120,Invoicing in Ops Cloud,2020-01-20,,,
+hannah.lopez@saguaro.example,Hannah Lopez,MOB-130,Mobile App for Technicians,2020-01-05,2020-02-03,68,
+timothy.okonkwo-hale@ozark-inc-uk.example,Timothy Okonkwo-Hale,OCA-101,Ops Cloud Admin Essentials,2019-06-05,2019-06-29,77,CERT-L7xJbrt5
+sanjay.morales@marrowcorp-uk.example,Sanjay Morales,INV-120,Invoicing in Ops Cloud,2020-03-15,,,
+laura.baker@yamamoto-inc-uk.example,Laura Baker,OCA-101,Ops Cloud Admin Essentials,2019-06-04,,,
+katherine.llewellyn@lanternhq-uk.example,Katherine Llewellyn,MOB-130,Mobile App for Technicians,2019-11-23,,,
+kenneth.hughes@lanternhq-uk.example,Kenneth Hughes,DSP-110,Dispatch Board Basics,2019-08-22,,,
+sofia.bailey@kingsley-inc-uk.example,Sofia Bailey,MOB-130,Mobile App for Technicians,2020-02-29,,,
+dorothy.ellsworth@lakes-uk.example,Dorothy Ellsworth,OCA-101,Ops Cloud Admin Essentials,2019-06-06,2019-06-15,96,CERT-k6h0nZed
+sara.adeyemi@lakes-uk.example,Sara Adeyemi,INV-120,Invoicing in Ops Cloud,2019-08-20,2019-08-23,58,
+zachary.reed@lakes-uk.example,Zachary Reed,RPT-210,Reporting and Insights,2019-08-01,2019-08-21,98,
+etienne.huang@lakes-uk.example,Etienne Huang,MOB-130,Mobile App for Technicians,2019-06-29,,,
+amanda.campbell@lakes-uk.example,Amanda Campbell,INV-120,Invoicing in Ops Cloud,2019-12-18,,,
+JEREMY.DELACROIX@REDSTONE-INC-CA.EXAMPLE,Jeremy Delacroix,RPT-210,Reporting and Insights,2020-02-28,2020-03-21,62,
+katherine.byrne@redstone-inc-ca.example,Katherine Byrne,INV-120,Invoicing in Ops Cloud,2019-06-28,,,
+declan.okafor@redstone-inc-ca.example,Declan Okafor,INV-120,Invoicing in Ops Cloud,2020-02-22,,,
+julia.ross@bayviewhq.example,Julia Ross,OCA-101,Ops Cloud Admin Essentials,2019-06-03,2019-06-18,88,CERT-3P8gsDph
+ann.moore@hernandezhq.example,Ann Moore,OCA-101,Ops Cloud Admin Essentials,2019-06-02,2019-06-28,96,CERT-IkmTgqq0
+layla.carter@halvorsenhq.example,Layla Carter,OCA-101,Ops Cloud Admin Essentials,2019-06-07,2019-06-15,92,CERT-shw6mOTf
+megan.halvorsen@halvorsenhq.example,Megan Halvorsen,MOB-130,Mobile App for Technicians,2019-10-20,2019-11-21,71,
+jason.lockwood@magnoliahq.example,Jason Lockwood,OCA-101,Ops Cloud Admin Essentials,2019-06-06,2019-06-28,90,CERT-uOeNyV3V
+laura.lopez@magnoliahq.example,Laura Lopez,RPT-210,Reporting and Insights,2020-01-06,2020-01-30,83,
+mark.sorensen@clearwater-inc.example,Mark Sorensen,OCA-101,Ops Cloud Admin Essentials,2019-06-01,2019-06-11,89,CERT-R2DUL1Yu
+gerald.jones@clearwater-inc.example,Gerald Jones,INV-120,Invoicing in Ops Cloud,2019-09-17,2019-10-23,75,
+karen.sanchez@stonebridge-inc.example,Karen Sanchez,OCA-101,Ops Cloud Admin Essentials,2019-06-07,2019-06-10,74,CERT-8Ez81G9Z
+yusuf.hughes@stonebridge-inc.example,Yusuf Hughes,DSP-110,Dispatch Board Basics,2019-08-02,2019-08-10,57,
+cheryl.esposito@longhq.example,Cheryl Esposito,OCA-101,Ops Cloud Admin Essentials,2019-06-03,2019-06-25,74,CERT-H6ZDgITy
+yusuf.yamamoto@longhq.example,Yusuf Yamamoto,INV-120,Invoicing in Ops Cloud,2020-01-25,2020-02-07,55,
+noor.foster@longhq.example,Noor Foster,INV-120,Invoicing in Ops Cloud,2020-02-18,2020-02-26,71,
+ingrid.tanaka@brooksidehq.example,Ingrid Tanaka,RPT-210,Reporting and Insights,2019-06-12,2019-07-12,82,
+olivia.cooper@brooksidehq.example,Olivia Cooper,INV-120,Invoicing in Ops Cloud,2020-01-19,2020-02-06,94,
+DANIELLE.PARKER@BROOKSIDEHQ.EXAMPLE,Danielle Parker,DSP-110,Dispatch Board Basics,2019-06-29,2019-07-04,83,
+bruce.cooper@frontier.example,Bruce Cooper,MOB-130,Mobile App for Technicians,2020-01-28,2020-02-25,75,
+nancy.lopez@riverbend-inc.example,Nancy Lopez,RPT-210,Reporting and Insights,2019-09-17,2019-10-16,75,
+katarzyna.richardson@riverbend-inc.example,Katarzyna Richardson,MOB-130,Mobile App for Technicians,2020-01-04,2020-01-22,60,
+CAROLYN.CHAVEZ@RIVERBEND-INC.EXAMPLE,Carolyn Chavez,INV-120,Invoicing in Ops Cloud,2019-07-10,,,
+timothy.cox@riverbend-inc.example,Timothy Cox,MOB-130,Mobile App for Technicians,2019-08-17,2019-09-18,95,
+sophia.nelson@lee.example,Sophia Nelson,OCA-101,Ops Cloud Admin Essentials,2019-07-06,2019-07-23,75,CERT-GFuH1OUh
+justin.alvarez@harbortownhq-uk.example,Justin Alvarez,OCA-101,Ops Cloud Admin Essentials,2019-07-05,2019-07-10,100,CERT-dcOR1JM6
+brenda.richardson@harbortownhq-uk.example,Brenda Richardson,MOB-130,Mobile App for Technicians,2019-09-22,2019-10-14,96,
+kenneth.calloway@harbortownhq-uk.example,Kenneth Calloway,DSP-110,Dispatch Board Basics,2019-08-21,2019-09-02,65,
+brandon.evans@harbortownhq-uk.example,Brandon Evans,RPT-210,Reporting and Insights,2019-10-28,,,
+danielle.jackson@inglebycorp-uk.example,Danielle Jackson,OCA-101,Ops Cloud Admin Essentials,2019-07-02,2019-07-28,84,CERT-7f0MkG09
+ronald.turner@inglebycorp-uk.example,Ronald Turner,RPT-210,Reporting and Insights,2020-01-19,,,
+joao.bennett@harbortownhq-uk.example,Joao Bennett,OCA-101,Ops Cloud Admin Essentials,2019-07-02,2019-07-05,80,CERT-bX7ramg3
+PRIYA.NELSON@HARBORTOWNHQ-UK.EXAMPLE,Priya Nelson,INV-120,Invoicing in Ops Cloud,2020-04-07,2020-04-15,76,
+mei.edwards@harbortownhq-uk.example,Mei Edwards,MOB-130,Mobile App for Technicians,2019-11-08,2019-11-28,55,
+henry.thomas@stonebridgecorp-uk.example,Henry Thomas,OCA-101,Ops Cloud Admin Essentials,2019-07-01,2019-07-03,93,CERT-RMOsoc41
+oluwaseun.sanders@stonebridgecorp-uk.example,Oluwaseun Sanders,DSP-110,Dispatch Board Basics,2020-04-15,2020-05-17,68,
+kelly.chavez@gonzalez.example,Kelly Chavez,MOB-130,Mobile App for Technicians,2019-12-16,2019-12-18,56,
+ronald.rahman@gonzalez.example,Ronald Rahman,RPT-210,Reporting and Insights,2019-08-16,2019-09-24,90,
+theresa.gagnon@young-ca.example,Theresa Gagnon,DSP-110,Dispatch Board Basics,2019-12-12,2019-12-28,56,
+jae-won.flores@northgate-inc.example,Jae-won Flores,OCA-101,Ops Cloud Admin Essentials,2019-07-01,2019-10-07,63,CERT-zDYMgWQU
+thomas.jackson@northgate-inc.example,Thomas Jackson,INV-120,Invoicing in Ops Cloud,2019-10-19,,,
+keith.adams@northgate-inc.example,Keith Adams,RPT-210,Reporting and Insights,2019-09-16,,,
+katarzyna.penhallow@liberty.example,Katarzyna Penhallow,OCA-101,Ops Cloud Admin Essentials,2019-07-01,2019-07-14,73,CERT-iPH3DJuY
+aoife.johnson@blackhawkhq.example,Aoife Johnson,OCA-101,Ops Cloud Admin Essentials,2019-07-02,2019-07-07,98,CERT-3cBQZ9fw
+ngozi.martinez@blackhawkhq.example,Ngozi Martinez,MOB-130,Mobile App for Technicians,2019-10-28,2019-11-23,55,
+laura.flores@blackhawkhq.example,Laura Flores,INV-120,Invoicing in Ops Cloud,2020-04-13,2020-05-06,74,
+diego.foster@blackhawkhq.example,Diego Foster,DSP-110,Dispatch Board Basics,2019-11-29,2019-12-15,68,
+jerry.hargreaves@blackhawkhq.example,Jerry Hargreaves,RPT-210,Reporting and Insights,2019-08-03,2019-08-29,65,
+terry.long@allegheny.example,Terry Long,OCA-101,Ops Cloud Admin Essentials,2019-07-04,2019-07-17,84,CERT-fF7PpAax
+ANDREA.COTE@ALLEGHENY.EXAMPLE,Andrea Cote,MOB-130,Mobile App for Technicians,2020-03-11,,,
+alexander.wilson@allegheny.example,Alexander Wilson,RPT-210,Reporting and Insights,2020-02-29,2020-03-02,58,
+amanda.patel@allegheny.example,Amanda Patel,DSP-110,Dispatch Board Basics,2019-11-25,,,
+declan.wang@gagnon.example,Declan Wang,OCA-101,Ops Cloud Admin Essentials,2019-07-02,,,
+samuel.morris@gagnon.example,Samuel Morris,DSP-110,Dispatch Board Basics,2020-03-08,2020-03-13,72,
+jesse.raghunathan@gagnon.example,Jesse Raghunathan,INV-120,Invoicing in Ops Cloud,2020-01-02,2020-01-07,70,
+declan.lefebvre@gagnon.example,Declan Lefebvre,MOB-130,Mobile App for Technicians,2019-09-15,2019-10-20,64,
+logan.mensah@hargreaves.example,Logan Mensah,OCA-101,Ops Cloud Admin Essentials,2019-07-03,2019-07-25,78,CERT-QuKLsJYj
+genevieve.hill@choicorp.example,Genevieve Hill,OCA-101,Ops Cloud Admin Essentials,2019-07-06,2019-07-23,80,CERT-yqcGjcHD
+julie.kowalski@choicorp.example,Julie Kowalski,INV-120,Invoicing in Ops Cloud,2019-12-01,2020-01-05,65,
+tyler.morgan@choicorp.example,Tyler Morgan,RPT-210,Reporting and Insights,2019-08-11,2019-09-15,59,
+thiago.lopez@turnercorp.example,Thiago Lopez,OCA-101,Ops Cloud Admin Essentials,2019-07-01,2019-07-17,89,CERT-8Am9LFif
+christian.ruiz@turnercorp.example,Christian Ruiz,DSP-110,Dispatch Board Basics,2019-10-12,2019-11-02,79,
+austin.rogers@turnercorp.example,Austin Rogers,INV-120,Invoicing in Ops Cloud,2020-01-12,2020-02-15,74,
+rachel.bennett@northgatehq.example,Rachel Bennett,OCA-101,Ops Cloud Admin Essentials,2019-07-04,2020-01-16,65,CERT-s4k1CpPe
+kelly.blackwood@northgatehq.example,Kelly Blackwood,DSP-110,Dispatch Board Basics,2019-09-11,2019-10-01,99,
+sean.brooks@lakeshorecorp.example,Sean Brooks,OCA-101,Ops Cloud Admin Essentials,2019-07-07,2019-07-23,74,CERT-AmlUhG11
+benjamin.le@lakeshorecorp.example,Benjamin Le,INV-120,Invoicing in Ops Cloud,2019-11-24,,,
+james.smith@lakeshorecorp.example,James Smith,DSP-110,Dispatch Board Basics,2019-09-01,2019-10-10,94,
+brenda.lavoie@lakeshorecorp.example,Brenda Lavoie,DSP-110,Dispatch Board Basics,2020-03-06,2020-04-14,65,
+wei.pelletier@ashford.example,Wei Pelletier,OCA-101,Ops Cloud Admin Essentials,2019-08-02,,,
+hiroshi.williams@lakes-inc.example,Hiroshi Williams,OCA-101,Ops Cloud Admin Essentials,2019-08-02,,,
+danielle.vance@hawthornecorp.example,Danielle Vance,OCA-101,Ops Cloud Admin Essentials,2019-08-02,2019-08-12,72,CERT-Jik2bEMP
+randy.williams@hawthornecorp.example,Randy Williams,DSP-110,Dispatch Board Basics,2019-10-28,2019-10-31,94,
+betty.chen@huron.example,Betty Chen,OCA-101,Ops Cloud Admin Essentials,2019-08-06,2019-08-08,79,CERT-VZtjYpjm
+bryce.gutierrez@huron.example,Bryce Gutierrez,DSP-110,Dispatch Board Basics,2020-05-17,2020-06-21,63,
+lawrence.kittredge@huron.example,Lawrence Kittredge,MOB-130,Mobile App for Technicians,2019-10-27,,,
+ryan.jessop@huron.example,Ryan Jessop,INV-120,Invoicing in Ops Cloud,2019-10-23,2019-11-16,93,
+siobhan.davis@beaconcorp-uk.example,Siobhan Davis,OCA-101,Ops Cloud Admin Essentials,2019-08-06,2019-08-10,90,CERT-aY6UNQ26
+abigail.takahashi@beaconcorp-uk.example,Abigail Takahashi,INV-120,Invoicing in Ops Cloud,2020-05-08,,,
+austin.rahman@parkercorp-uk.example,Austin Rahman,OCA-101,Ops Cloud Admin Essentials,2019-08-07,2019-08-31,95,CERT-IpeYctlL
+margaret.diaz@parkercorp-uk.example,Margaret Diaz,DSP-110,Dispatch Board Basics,2020-04-21,2020-05-20,67,
+leila.wood@parkercorp-uk.example,Leila Wood,MOB-130,Mobile App for Technicians,2020-05-19,,,
+SOO-AH.LOPEZ@PARKERCORP-UK.EXAMPLE,Soo-ah Lopez,DSP-110,Dispatch Board Basics,2020-04-13,,,
+christian.johansson@meadowlark-uk.example,Christian Johansson,OCA-101,Ops Cloud Admin Essentials,2019-08-01,2019-08-16,85,CERT-QIp1vN6z
+amber.fairweather@meadowlark-uk.example,Amber Fairweather,RPT-210,Reporting and Insights,2019-08-29,,,
+cheryl.cox@meadowlark-uk.example,Cheryl Cox,INV-120,Invoicing in Ops Cloud,2020-01-07,2020-02-12,59,
+harry.penhallow@foxglovehq-uk.example,Harry Penhallow,OCA-101,Ops Cloud Admin Essentials,2019-08-07,2019-08-25,74,CERT-jxhxha0E
+janice.tremblay@cruz-uk.example,Janice Tremblay,RPT-210,Reporting and Insights,2020-03-30,2020-04-29,91,
+michelle.gray@cruz-uk.example,Michelle Gray,MOB-130,Mobile App for Technicians,2020-03-01,2020-03-30,90,
+desmond.parker@cruz-uk.example,Desmond Parker,DSP-110,Dispatch Board Basics,2019-12-16,2019-12-23,78,
+jeremy.castillo@hillhq.example,Jeremy Castillo,OCA-101,Ops Cloud Admin Essentials,2019-08-01,,,
+theodora.dubois@vance-inc.example,Theodora Dubois,OCA-101,Ops Cloud Admin Essentials,2019-08-02,2019-08-22,82,CERT-Swbx9q3U
+REBECCA.PETERSON@CEDAR-CA.EXAMPLE,Rebecca Peterson,MOB-130,Mobile App for Technicians,2019-09-30,2019-10-15,63,
+elif.sanchez@evans-inc.example,Elif Sanchez,OCA-101,Ops Cloud Admin Essentials,2019-08-07,,,
+albert.haddad@evans-inc.example,Albert Haddad,DSP-110,Dispatch Board Basics,2020-04-05,2020-04-18,57,
+christian.allen@evans-inc.example,Christian Allen,MOB-130,Mobile App for Technicians,2020-04-25,2020-05-28,94,
+amber.james@evans-inc.example,Amber James,DSP-110,Dispatch Board Basics,2019-11-21,2019-12-14,91,
+siobhan.green@evans-inc.example,Siobhan Green,INV-120,Invoicing in Ops Cloud,2019-11-11,2019-12-21,57,
+kwame.castillo@nasserhq-ca.example,Kwame Castillo,OCA-101,Ops Cloud Admin Essentials,2019-08-04,2019-08-13,82,CERT-zVBSM7xK
+theresa.hall@nasserhq-ca.example,Theresa Hall,INV-120,Invoicing in Ops Cloud,2020-01-24,2020-02-27,62,
+astrid.james@patriot.example,Astrid James,OCA-101,Ops Cloud Admin Essentials,2019-08-06,2019-08-31,95,CERT-hjrJPE7E
+margaret.kelly@patriot.example,Margaret Kelly,RPT-210,Reporting and Insights,2020-02-15,2020-03-01,56,
+emily.chen@kinghq.example,Emily Chen,MOB-130,Mobile App for Technicians,2019-08-07,,,
+callum.lavoie@kinghq.example,Callum Lavoie,RPT-210,Reporting and Insights,2020-01-30,,,
+emily.fitzgerald@harbortowncorp.example,Emily Fitzgerald,OCA-101,Ops Cloud Admin Essentials,2019-09-03,2019-09-19,75,CERT-eqZucAMB
+emily.ostrander@harbortowncorp.example,Emily Ostrander,RPT-210,Reporting and Insights,2019-10-15,2019-11-13,82,
+lars.fairweather@copperfield-inc.example,Lars Fairweather,OCA-101,Ops Cloud Admin Essentials,2019-09-02,,,
+brenda.lindqvist@copperfield-inc.example,Brenda Lindqvist,MOB-130,Mobile App for Technicians,2019-10-29,2019-11-27,77,
+justin.wilson@ross.example,Justin Wilson,OCA-101,Ops Cloud Admin Essentials,2019-09-06,2019-12-12,95,CERT-ej7m0EYZ
+mary.nelson@ross.example,Mary Nelson,RPT-210,Reporting and Insights,2020-06-03,2020-07-02,72,
+bruce.nelson@ross.example,Bruce Nelson,DSP-110,Dispatch Board Basics,2019-12-06,2020-01-02,74,
+ARTHUR.SANCHEZ@ROSS.EXAMPLE,Arthur Sanchez,INV-120,Invoicing in Ops Cloud,2020-01-21,2020-01-31,76,
+austin.clark@zhangcorp.example,Austin Clark,OCA-101,Ops Cloud Admin Essentials,2019-09-01,2019-09-25,81,CERT-XTW3qPd0
+samantha.morris@clearwater-inc-uk.example,Samantha Morris,OCA-101,Ops Cloud Admin Essentials,2019-09-06,2019-09-29,90,CERT-5Go8dSGT
+olivia.marchetti@clearwater-inc-uk.example,Olivia Marchetti,MOB-130,Mobile App for Technicians,2020-05-08,,,
+soo-ah.gutierrez@halvorsen-inc-uk.example,Soo-ah Gutierrez,OCA-101,Ops Cloud Admin Essentials,2019-09-01,2019-09-08,83,CERT-Aqwo182v
+mei.thomas@jessopcorp-uk.example,Mei Thomas,DSP-110,Dispatch Board Basics,2020-05-31,,,
+DANIEL.ABERNATHY@LEWISHQ-UK.EXAMPLE,Daniel Abernathy,INV-120,Invoicing in Ops Cloud,2019-10-06,2019-11-14,70,
+wei.cook@heronhq.example,Wei Cook,DSP-110,Dispatch Board Basics,2019-09-13,2019-10-07,89,
+charles.lewis@heronhq.example,Charles Lewis,RPT-210,Reporting and Insights,2019-10-11,,,
+diana.rogers@commonwealthcorp.example,Diana Rogers,OCA-101,Ops Cloud Admin Essentials,2019-09-05,2019-09-15,99,CERT-C90ltAIM
+stephen.cote@westbrookhq.example,Stephen Cote,OCA-101,Ops Cloud Admin Essentials,2019-09-04,2019-09-17,86,CERT-6cpk1G5S
+bryce.sanders@westbrookhq.example,Bryce Sanders,INV-120,Invoicing in Ops Cloud,2020-06-09,2020-06-17,64,
+george.perez@sycamorehq.example,George Perez,OCA-101,Ops Cloud Admin Essentials,2019-09-05,2019-09-19,74,CERT-tG1zpqfd
+rebecca.richardson@huroncorp.example,Rebecca Richardson,OCA-101,Ops Cloud Admin Essentials,2019-09-01,2019-09-17,100,CERT-Sb4UgbFs
+HIROSHI.GOODENOUGH@THOMPSON-INC.EXAMPLE,Hiroshi Goodenough,DSP-110,Dispatch Board Basics,2019-12-11,,,
+WALTER.VANCE@THOMPSON-INC.EXAMPLE,Walter Vance,MOB-130,Mobile App for Technicians,2019-11-25,2019-12-25,95,
+janice.raghunathan@sierracorp.example,Janice Raghunathan,OCA-101,Ops Cloud Admin Essentials,2019-09-05,,,
+linda.kittredge@sierracorp.example,Linda Kittredge,DSP-110,Dispatch Board Basics,2019-11-18,,,
+arthur.edwards@sierracorp.example,Arthur Edwards,RPT-210,Reporting and Insights,2020-02-09,2020-03-13,67,
+thomas.thomas@copperfieldcorp.example,Thomas Thomas,INV-120,Invoicing in Ops Cloud,2019-09-11,,,
+danielle.collins@wabash.example,Danielle Collins,OCA-101,Ops Cloud Admin Essentials,2019-09-04,2019-09-17,81,CERT-mIOUYdN2
+DONNA.FAIRWEATHER@WABASH.EXAMPLE,Donna Fairweather,RPT-210,Reporting and Insights,2019-11-02,2019-11-27,78,
+fatima.rodriguez@wabash.example,Fatima Rodriguez,DSP-110,Dispatch Board Basics,2019-12-26,2020-01-11,94,
+bronwen.ortiz@wabash.example,Bronwen Ortiz,MOB-130,Mobile App for Technicians,2020-03-15,2020-03-18,79,
+camila.rivera@kingsley-inc.example,Camila Rivera,OCA-101,Ops Cloud Admin Essentials,2019-09-03,2019-12-12,77,CERT-0IxgKYG6
+kathleen.scott@kingsley-inc.example,Kathleen Scott,INV-120,Invoicing in Ops Cloud,2019-11-04,2019-11-24,73,
+bryce.bouchard@kingsley-inc.example,Bryce Bouchard,INV-120,Invoicing in Ops Cloud,2019-12-17,,,
+renata.wright@jackson-inc.example,Renata Wright,OCA-101,Ops Cloud Admin Essentials,2019-09-03,2019-09-07,79,CERT-Oi3axBmd
+elizabeth.mensah@jackson-inc.example,Elizabeth Mensah,MOB-130,Mobile App for Technicians,2019-09-06,2019-09-30,88,
+heather.boateng@plains-inc.example,Heather Boateng,RPT-210,Reporting and Insights,2020-04-26,2020-05-31,92,
+JAMES.STEWART@PLAINS-INC.EXAMPLE,James Stewart,MOB-130,Mobile App for Technicians,2019-11-26,,,
+ETIENNE.CAMPBELL@PLAINS-INC.EXAMPLE,Etienne Campbell,INV-120,Invoicing in Ops Cloud,2019-10-30,,,
+frank.chaudhry@myershq.example,Frank Chaudhry,DSP-110,Dispatch Board Basics,2020-07-25,2020-07-31,70,
+emily.ellsworth@myershq.example,Emily Ellsworth,MOB-130,Mobile App for Technicians,2020-01-15,2020-01-24,81,
+diego.cook@ward.example,Diego Cook,OCA-101,Ops Cloud Admin Essentials,2019-10-01,2019-10-23,75,CERT-lo92TSuN
+christian.campbell@ward.example,Christian Campbell,INV-120,Invoicing in Ops Cloud,2019-10-13,2019-10-25,64,
+thuy.long@scott.example,Thuy Long,OCA-101,Ops Cloud Admin Essentials,2019-10-07,2019-10-10,100,CERT-XCccbp7S
+peter.adeyemi@westbrook.example,Peter Adeyemi,OCA-101,Ops Cloud Admin Essentials,2019-10-01,2019-10-18,95,CERT-M6nSbiza
+thiago.scott@westbrook.example,Thiago Scott,MOB-130,Mobile App for Technicians,2020-01-22,,,
+lauren.scott@westbrook.example,Lauren Scott,DSP-110,Dispatch Board Basics,2020-04-26,,,
+roger.ortiz@harbortown-inc.example,Roger Ortiz,OCA-101,Ops Cloud Admin Essentials,2019-10-07,2019-10-22,83,CERT-4EldLrP7
+JUDY.INGLEBY@HARBORTOWN-INC.EXAMPLE,Judy Ingleby,RPT-210,Reporting and Insights,2020-02-07,,,
+hannah.evans@harbortown-inc.example,Hannah Evans,RPT-210,Reporting and Insights,2020-01-16,,,
+renata.reed@lefebvrecorp.example,Renata Reed,OCA-101,Ops Cloud Admin Essentials,2019-10-04,2019-10-26,94,CERT-bXTFGq36
+douglas.okafor@lefebvrecorp.example,Douglas Okafor,MOB-130,Mobile App for Technicians,2019-12-26,2020-01-14,100,
+julie.johnson@leecorp.example,Julie Johnson,OCA-101,Ops Cloud Admin Essentials,2019-10-02,2019-11-20,85,CERT-adDHQKQW
+etienne.ashdown@leecorp.example,Etienne Ashdown,DSP-110,Dispatch Board Basics,2020-07-01,2020-07-06,82,
+albert.lavoie@leecorp.example,Albert Lavoie,RPT-210,Reporting and Insights,2020-04-24,2020-05-09,82,
+elijah.macleod@leecorp.example,Elijah MacLeod,DSP-110,Dispatch Board Basics,2020-02-03,,,
+harold.gonzalez@saginaw-inc.example,Harold Gonzalez,RPT-210,Reporting and Insights,2020-05-10,2020-06-03,81,
+elif.peterson@bayviewhq.example,Elif Peterson,OCA-101,Ops Cloud Admin Essentials,2019-10-03,2019-10-10,99,CERT-MB1i4kdv
+HEATHER.SANDERS@BAYVIEWHQ.EXAMPLE,Heather Sanders,RPT-210,Reporting and Insights,2020-01-06,2020-01-26,100,
+tyler.evans@bayviewhq.example,Tyler Evans,INV-120,Invoicing in Ops Cloud,2020-03-23,2020-04-17,94,
+angela.blackwood@sciotohq.example,Angela Blackwood,OCA-101,Ops Cloud Admin Essentials,2019-10-02,2019-10-12,90,CERT-HOgayrLN
+kwame.campbell@sciotohq.example,Kwame Campbell,DSP-110,Dispatch Board Basics,2020-06-19,2020-07-03,63,
+lauren.cartwright@sciotohq.example,Lauren Cartwright,RPT-210,Reporting and Insights,2019-10-05,2019-10-27,92,
+gregory.stewart@bayview-inc.example,Gregory Stewart,OCA-101,Ops Cloud Admin Essentials,2019-11-05,,,
+christine.harris@marrow-uk.example,Christine Harris,OCA-101,Ops Cloud Admin Essentials,2019-11-07,2019-11-28,77,CERT-yKoHkH54
+alice.phillips@marrow-uk.example,Alice Phillips,DSP-110,Dispatch Board Basics,2020-03-31,2020-04-08,68,
+jean.bennett@superiorhq-uk.example,Jean Bennett,OCA-101,Ops Cloud Admin Essentials,2019-11-03,2019-11-21,90,CERT-FZlMWY7k
+kathleen.lefebvre@superiorhq-uk.example,Kathleen Lefebvre,MOB-130,Mobile App for Technicians,2020-03-16,2020-04-18,74,
+james.diaz@superiorhq-uk.example,James Diaz,INV-120,Invoicing in Ops Cloud,2020-05-20,2020-05-28,56,
+thiago.alvarez@pinecrestcorp-uk.example,Thiago Alvarez,MOB-130,Mobile App for Technicians,2019-12-01,2019-12-25,63,
+virginia.park@pinecrestcorp-uk.example,Virginia Park,INV-120,Invoicing in Ops Cloud,2019-12-20,,,
+victoria.ross@twin-uk.example,Victoria Ross,OCA-101,Ops Cloud Admin Essentials,2019-11-07,,,
+alexander.venkatesan@twin-uk.example,Alexander Venkatesan,DSP-110,Dispatch Board Basics,2019-11-24,2019-12-11,76,
+anthony.price-jones@brooksidehq-uk.example,Anthony Price-Jones,OCA-101,Ops Cloud Admin Essentials,2019-11-05,2019-11-28,79,CERT-9ddcCD77
+WILLIE.BROWN@BROOKSIDEHQ-UK.EXAMPLE,Willie Brown,RPT-210,Reporting and Insights,2020-02-07,2020-02-11,84,
+sophia.martin@brooksidehq-uk.example,Sophia Martin,RPT-210,Reporting and Insights,2020-03-25,2020-04-08,77,
+tomasz.macleod@cumberlandhq.example,Tomasz MacLeod,OCA-101,Ops Cloud Admin Essentials,2019-11-05,2019-11-15,82,CERT-RBCPtElB
+angela.king@cumberlandhq.example,Angela King,DSP-110,Dispatch Board Basics,2020-05-13,2020-06-09,63,
+valentina.marchetti@cumberlandhq.example,Valentina Marchetti,MOB-130,Mobile App for Technicians,2020-03-08,,,
+benjamin.bennett@cumberlandhq.example,Benjamin Bennett,DSP-110,Dispatch Board Basics,2020-07-24,2020-08-07,99,
+carol.ellsworth@fairhaven-inc.example,Carol Ellsworth,OCA-101,Ops Cloud Admin Essentials,2019-11-07,2019-11-20,87,CERT-Ebcb5AOn
+patricia.james@lewishq.example,Patricia James,OCA-101,Ops Cloud Admin Essentials,2019-11-06,2019-11-30,75,CERT-p7MngFE0
+shirley.lindqvist@lewishq.example,Shirley Lindqvist,DSP-110,Dispatch Board Basics,2020-04-24,,,
+harry.morris@lewishq.example,Harry Morris,DSP-110,Dispatch Board Basics,2020-03-17,2020-04-07,80,
+aoife.ruiz@willow-inc.example,Aoife Ruiz,OCA-101,Ops Cloud Admin Essentials,2019-11-04,,,
+jennifer.cox@willow-inc.example,Jennifer Cox,DSP-110,Dispatch Board Basics,2020-04-14,2020-05-15,86,
+JAMES.KING@WILLOW-INC.EXAMPLE,James King,RPT-210,Reporting and Insights,2020-03-24,,,
+jonathan.calloway@scioto-inc.example,Jonathan Calloway,OCA-101,Ops Cloud Admin Essentials,2019-11-05,2019-11-23,88,CERT-R6NRb2Os
+tyler.garcia@thomascorp.example,Tyler Garcia,OCA-101,Ops Cloud Admin Essentials,2019-11-04,2019-11-25,75,CERT-0zxZOWtw
+kwame.sorensen@thomascorp.example,Kwame Sorensen,DSP-110,Dispatch Board Basics,2020-04-21,2020-05-04,71,
+sandra.cook@northgate-inc.example,Sandra Cook,OCA-101,Ops Cloud Admin Essentials,2019-11-05,2019-11-12,91,CERT-czGwHi9z
+anna.roberts@northgate-inc.example,Anna Roberts,INV-120,Invoicing in Ops Cloud,2020-01-04,2020-01-20,85,
+rebecca.mensah@northgate-inc.example,Rebecca Mensah,INV-120,Invoicing in Ops Cloud,2020-04-26,,,
+javier.wright@clarkhq.example,Javier Wright,OCA-101,Ops Cloud Admin Essentials,2019-11-07,,,
+elif.reed@clarkhq.example,Elif Reed,MOB-130,Mobile App for Technicians,2020-06-19,2020-07-03,93,
+martha.huang@coopercorp.example,Martha Huang,OCA-101,Ops Cloud Admin Essentials,2019-11-06,2019-11-15,97,CERT-Whtk7CxC
+martha.torres@coopercorp.example,Martha Torres,RPT-210,Reporting and Insights,2020-04-21,,,
+pierre.gagnon@tricountyhq.example,Pierre Gagnon,OCA-101,Ops Cloud Admin Essentials,2019-11-05,,,
+ARJUN.MARCHETTI@TRICOUNTYHQ.EXAMPLE,Arjun Marchetti,DSP-110,Dispatch Board Basics,2020-01-26,2020-02-08,71,
+amanda.tanaka@tricountyhq.example,Amanda Tanaka,RPT-210,Reporting and Insights,2020-07-27,2020-08-18,83,
+hiroshi.cox@blackhawkhq-ca.example,Hiroshi Cox,OCA-101,Ops Cloud Admin Essentials,2019-11-03,,,
+jacqueline.huang@blackhawkhq-ca.example,Jacqueline Huang,RPT-210,Reporting and Insights,2020-06-08,2020-06-19,100,
+harold.mitchell@blackhawkhq-ca.example,Harold Mitchell,INV-120,Invoicing in Ops Cloud,2019-12-28,2020-01-07,99,
+angela.flores@kingsley-inc.example,Angela Flores,OCA-101,Ops Cloud Admin Essentials,2019-11-05,2019-11-30,74,CERT-g7dwrBKB
+kwame.chaudhry@kingsley-inc.example,Kwame Chaudhry,INV-120,Invoicing in Ops Cloud,2020-01-05,2020-02-11,99,
+hamid.tran@kingsley-inc.example,Hamid Tran,DSP-110,Dispatch Board Basics,2020-02-24,,,
+janet.mendoza@scott-inc.example,Janet Mendoza,OCA-101,Ops Cloud Admin Essentials,2019-11-04,2019-11-19,91,CERT-6dnWCTiS
+linda.pelletier@scott-inc.example,Linda Pelletier,INV-120,Invoicing in Ops Cloud,2020-04-02,2020-04-05,69,
+logan.richardson@southportcorp.example,Logan Richardson,OCA-101,Ops Cloud Admin Essentials,2019-11-05,2019-11-25,83,CERT-pwqzeEBO
+ZAINAB.BROWN@SOUTHPORTCORP.EXAMPLE,Zainab Brown,RPT-210,Reporting and Insights,2020-08-08,2020-09-04,84,
+amara.pelletier@southportcorp.example,Amara Pelletier,MOB-130,Mobile App for Technicians,2019-12-12,2019-12-31,57,
+keith.turner@baker-inc.example,Keith Turner,OCA-101,Ops Cloud Admin Essentials,2019-12-02,2019-12-19,74,CERT-atd7lGkX
+janice.pham@baker-inc.example,Janice Pham,MOB-130,Mobile App for Technicians,2020-08-20,2020-08-28,81,
+ronald.ingleby@calloway.example,Ronald Ingleby,DSP-110,Dispatch Board Basics,2019-12-09,2020-01-16,55,
+declan.ramos@bayou-inc-uk.example,Declan Ramos,OCA-101,Ops Cloud Admin Essentials,2019-12-05,2019-12-27,82,CERT-IEMLVgkf
+hiroshi.romano@bayou-inc-uk.example,Hiroshi Romano,DSP-110,Dispatch Board Basics,2020-08-05,2020-09-04,75,
+joao.tanaka@bayou-inc-uk.example,Joao Tanaka,MOB-130,Mobile App for Technicians,2020-02-05,2020-02-25,90,
+judy.miller@kingsley-inc-uk.example,Judy Miller,DSP-110,Dispatch Board Basics,2020-02-10,2020-02-26,82,
+virginia.cooper@kingsley-inc-uk.example,Virginia Cooper,RPT-210,Reporting and Insights,2020-01-12,,,
+MARK.FLORES@KINGSLEY-INC-UK.EXAMPLE,Mark Flores,MOB-130,Mobile App for Technicians,2020-01-12,2020-01-24,89,
+ines.zhang@crescenthq-uk.example,Ines Zhang,RPT-210,Reporting and Insights,2020-08-04,,,
+randy.jessop@halvorsenhq-uk.example,Randy Jessop,INV-120,Invoicing in Ops Cloud,2020-05-17,2020-05-20,79,
+declan.miller@great-uk.example,Declan Miller,OCA-101,Ops Cloud Admin Essentials,2019-12-05,2019-12-17,90,CERT-vonLhCbI
+bronwen.ramos@copperfield-inc-uk.example,Bronwen Ramos,OCA-101,Ops Cloud Admin Essentials,2019-12-04,2019-12-06,82,CERT-ayRZbb7y
+gerald.vance@copperfield-inc-uk.example,Gerald Vance,RPT-210,Reporting and Insights,2019-12-08,,,
+valentina.edwards@heronhq.example,Valentina Edwards,OCA-101,Ops Cloud Admin Essentials,2019-12-06,,,
+adam.miller@three.example,Adam Miller,OCA-101,Ops Cloud Admin Essentials,2019-12-03,2019-12-24,92,CERT-7G0XTEve
+zachary.white@three.example,Zachary White,RPT-210,Reporting and Insights,2020-07-10,2020-07-14,56,
+JESSICA.TREMBLAY@THREE.EXAMPLE,Jessica Tremblay,MOB-130,Mobile App for Technicians,2020-06-01,2020-06-05,87,
+george.mccarthy@muskingum.example,George McCarthy,OCA-101,Ops Cloud Admin Essentials,2019-12-07,,,
+ronald.chavez@muskingum.example,Ronald Chavez,DSP-110,Dispatch Board Basics,2020-03-30,2020-04-01,63,
+douglas.nasser@tamarack.example,Douglas Nasser,OCA-101,Ops Cloud Admin Essentials,2019-12-04,2020-01-31,85,CERT-kS0FiYyt
+gerald.green@tamarack.example,Gerald Green,RPT-210,Reporting and Insights,2020-02-26,2020-03-22,76,
+roger.thompson@tamarack.example,Roger Thompson,DSP-110,Dispatch Board Basics,2020-05-31,2020-06-18,78,
+arjun.sanders@superior.example,Arjun Sanders,OCA-101,Ops Cloud Admin Essentials,2019-12-02,2020-02-20,61,CERT-P4M5qwZn
+carolyn.gutierrez@superior.example,Carolyn Gutierrez,DSP-110,Dispatch Board Basics,2020-08-07,,,
+walter.baker@copperfield-inc.example,Walter Baker,MOB-130,Mobile App for Technicians,2020-07-03,2020-07-25,96,
+emma.morris@juniper.example,Emma Morris,OCA-101,Ops Cloud Admin Essentials,2019-12-04,2019-12-25,89,CERT-dWwtsXba
+bjorn.murphy@boateng-inc.example,Bjorn Murphy,OCA-101,Ops Cloud Admin Essentials,2019-12-01,2019-12-19,99,CERT-bn3wOBJT
+kyle.hall@abernathyhq.example,Kyle Hall,MOB-130,Mobile App for Technicians,2019-12-30,,,
+patrick.hargreaves@miamihq.example,Patrick Hargreaves,OCA-101,Ops Cloud Admin Essentials,2019-12-02,,,
+theresa.walker@miamihq.example,Theresa Walker,DSP-110,Dispatch Board Basics,2019-12-21,2019-12-28,70,
+alan.iyer@miamihq.example,Alan Iyer,MOB-130,Mobile App for Technicians,2020-05-15,,,
+debra.whitlock@miamihq.example,Debra Whitlock,INV-120,Invoicing in Ops Cloud,2020-09-26,,,
+jack.alvarez@bennettcorp.example,Jack Alvarez,OCA-101,Ops Cloud Admin Essentials,2019-12-02,,,
+fatima.moreau@libertycorp.example,Fatima Moreau,OCA-101,Ops Cloud Admin Essentials,2019-12-07,2019-12-24,86,CERT-5D7DpWjq
+philip.cruz@libertycorp.example,Philip Cruz,RPT-210,Reporting and Insights,2020-08-22,2020-09-09,71,
+christine.haddad@blackhawkcorp.example,Christine Haddad,MOB-130,Mobile App for Technicians,2020-04-21,2020-05-20,75,
+RENATA.MYERS@BLACKHAWKCORP.EXAMPLE,Renata Myers,INV-120,Invoicing in Ops Cloud,2020-08-22,2020-08-24,57,
+theodora.gray@blackhawkcorp.example,Theodora Gray,DSP-110,Dispatch Board Basics,2020-08-26,2020-09-25,82,
+bjorn.davis@larkspur.example,Bjorn Davis,OCA-101,Ops Cloud Admin Essentials,2020-01-07,2020-01-28,100,CERT-Kf4dQfi2
+janice.mensah@larkspur.example,Janice Mensah,INV-120,Invoicing in Ops Cloud,2020-02-06,2020-02-07,59,
+julie.penhallow@ellsworthcorp.example,Julie Penhallow,OCA-101,Ops Cloud Admin Essentials,2020-01-06,2020-01-10,96,CERT-WwXk4fSv
+JANICE.NASSER@ELLSWORTHCORP.EXAMPLE,Janice Nasser,INV-120,Invoicing in Ops Cloud,2020-08-28,2020-08-31,93,
+rhys.jessop@willow-inc-uk.example,Rhys Jessop,OCA-101,Ops Cloud Admin Essentials,2020-01-03,2020-01-26,97,CERT-BwfvmfNG
+brandon.myers@fostercorp-uk.example,Brandon Myers,OCA-101,Ops Cloud Admin Essentials,2020-01-07,2020-04-08,90,CERT-arID2M3J
+katherine.llewellyn@saguarocorp-uk.example,Katherine Llewellyn,OCA-101,Ops Cloud Admin Essentials,2020-01-02,2020-01-25,98,CERT-VRNNWkva
+callum.miller@saguarocorp-uk.example,Callum Miller,MOB-130,Mobile App for Technicians,2020-01-02,2020-01-10,77,
+cynthia.adams@frontier-inc.example,Cynthia Adams,OCA-101,Ops Cloud Admin Essentials,2020-01-07,2020-01-25,74,CERT-P1dRJQxk
+scott.rodriguez@frontier-inc.example,Scott Rodriguez,INV-120,Invoicing in Ops Cloud,2020-09-22,,,
+joyce.perez@frontier-inc.example,Joyce Perez,DSP-110,Dispatch Board Basics,2020-08-20,2020-09-16,71,
+marguerite.jones@frontier-inc.example,Marguerite Jones,DSP-110,Dispatch Board Basics,2020-04-26,,,
+rosa.adams@lopez-inc.example,Rosa Adams,DSP-110,Dispatch Board Basics,2020-08-05,2020-08-14,94,
+chidi.watanabe@lopez-inc.example,Chidi Watanabe,MOB-130,Mobile App for Technicians,2020-03-07,,,
+hannah.vance@union-inc.example,Hannah Vance,DSP-110,Dispatch Board Basics,2020-04-04,,,
+david.thompson@union-inc.example,David Thompson,RPT-210,Reporting and Insights,2020-04-05,,,
+rebecca.raghunathan@bluewater.example,Rebecca Raghunathan,OCA-101,Ops Cloud Admin Essentials,2020-01-07,2020-05-02,88,CERT-KXWmsln8
+priya.ellsworth@copperfield-inc.example,Priya Ellsworth,OCA-101,Ops Cloud Admin Essentials,2020-01-03,2020-01-26,90,CERT-zUQ4XKze
+janice.mccarthy@goodenough-inc.example,Janice McCarthy,RPT-210,Reporting and Insights,2020-10-27,,,
+mary.gomez@cote-inc.example,Mary Gomez,OCA-101,Ops Cloud Admin Essentials,2020-01-01,2020-01-10,72,CERT-ervYkMgY
+daniel.lindqvist@cote-inc.example,Daniel Lindqvist,DSP-110,Dispatch Board Basics,2020-03-24,,,
+walter.harris@lakeshore.example,Walter Harris,OCA-101,Ops Cloud Admin Essentials,2020-01-04,2020-01-21,88,CERT-dU0sG6UA
+nicholas.kittredge@lakeshore.example,Nicholas Kittredge,DSP-110,Dispatch Board Basics,2020-09-11,2020-10-04,64,
+benjamin.haddad@kestrelcorp.example,Benjamin Haddad,OCA-101,Ops Cloud Admin Essentials,2020-01-07,2020-01-27,97,CERT-AZgSUOIT
+anthony.davis@kestrelcorp.example,Anthony Davis,MOB-130,Mobile App for Technicians,2020-07-23,2020-07-25,92,
+jean.cooper@kestrelcorp.example,Jean Cooper,MOB-130,Mobile App for Technicians,2020-07-25,2020-08-16,87,
+diane.sanders@delacroix.example,Diane Sanders,OCA-101,Ops Cloud Admin Essentials,2020-01-07,2020-01-20,89,CERT-RoLfToHt
+elizabeth.okafor@delacroix.example,Elizabeth Okafor,MOB-130,Mobile App for Technicians,2020-07-15,,,
+ERIC.THOMPSON@DELACROIX.EXAMPLE,Eric Thompson,MOB-130,Mobile App for Technicians,2020-07-31,2020-08-19,61,
+sarah.le@fairweather.example,Sarah Le,OCA-101,Ops Cloud Admin Essentials,2020-01-07,,,
+DEBORAH.LEWIS@FAIRWEATHER.EXAMPLE,Deborah Lewis,DSP-110,Dispatch Board Basics,2020-09-23,,,
+steven.garcia@fairweather.example,Steven Garcia,INV-120,Invoicing in Ops Cloud,2020-09-26,,,
+JOSE.ORTIZ@WILLIAMSHQ.EXAMPLE,Jose Ortiz,RPT-210,Reporting and Insights,2020-04-28,2020-05-06,65,
+declan.gonzalez@lakeshq.example,Declan Gonzalez,OCA-101,Ops Cloud Admin Essentials,2020-02-04,2020-03-01,81,CERT-2nC7NzEV
+carol.mendoza@juniper-inc.example,Carol Mendoza,RPT-210,Reporting and Insights,2020-02-19,2020-03-26,82,
+carolyn.mendoza@jessop-uk.example,Carolyn Mendoza,OCA-101,Ops Cloud Admin Essentials,2020-02-02,,,
+mateo.delacroix@jessop-uk.example,Mateo Delacroix,RPT-210,Reporting and Insights,2020-07-29,2020-08-11,70,
+pamela.cote@jessop-uk.example,Pamela Cote,MOB-130,Mobile App for Technicians,2020-07-31,2020-08-12,73,
+deborah.peterson@jessop-uk.example,Deborah Peterson,DSP-110,Dispatch Board Basics,2020-04-03,,,
+william.james@watsoncorp-uk.example,William James,OCA-101,Ops Cloud Admin Essentials,2020-02-06,2020-02-13,93,CERT-qOFbhM3I
+mateo.venkatesan@watsoncorp-uk.example,Mateo Venkatesan,MOB-130,Mobile App for Technicians,2020-03-02,,,
+grace.lindqvist@cedar-uk.example,Grace Lindqvist,OCA-101,Ops Cloud Admin Essentials,2020-02-06,2020-02-15,78,CERT-LMGjIWto
+harold.ashdown@cedar-uk.example,Harold Ashdown,INV-120,Invoicing in Ops Cloud,2020-11-06,2020-12-06,77,
+mateo.gutierrez@cedar-uk.example,Mateo Gutierrez,MOB-130,Mobile App for Technicians,2020-10-28,,,
+justin.howard@sciotohq-uk.example,Justin Howard,DSP-110,Dispatch Board Basics,2020-08-08,,,
+denise.morris@sciotohq-uk.example,Denise Morris,MOB-130,Mobile App for Technicians,2020-10-03,2020-10-19,80,
+scott.llewellyn@morganhq-uk.example,Scott Llewellyn,OCA-101,Ops Cloud Admin Essentials,2020-02-02,2020-06-08,79,CERT-mWP5Fm72
+wei.diaz@morganhq-uk.example,Wei Diaz,MOB-130,Mobile App for Technicians,2020-08-29,2020-09-01,63,
+charlotte.marchetti@morganhq-uk.example,Charlotte Marchetti,DSP-110,Dispatch Board Basics,2020-08-31,,,
+ruth.huang@clearwatercorp.example,Ruth Huang,OCA-101,Ops Cloud Admin Essentials,2020-02-03,2020-02-29,83,CERT-WHkDg1uq
+michael.edwards@clearwatercorp.example,Michael Edwards,INV-120,Invoicing in Ops Cloud,2020-04-08,,,
+shirley.pham@campbellrhyshq.example,Shirley Pham,OCA-101,Ops Cloud Admin Essentials,2020-02-05,2020-02-28,77,CERT-G0F4sll8
+bruce.mensah@campbellrhyshq.example,Bruce Mensah,INV-120,Invoicing in Ops Cloud,2020-07-12,,,
+teresa.zhang@miami.example,Teresa Zhang,MOB-130,Mobile App for Technicians,2020-10-14,2020-10-19,68,
+rhys.cox@miami.example,Rhys Cox,DSP-110,Dispatch Board Basics,2020-02-05,2020-03-06,75,
+tyler.garcia@clearwatercorp.example,Tyler Garcia,DSP-110,Dispatch Board Basics,2020-03-27,2020-04-10,58,
+aoife.lindqvist@perezhq.example,Aoife Lindqvist,OCA-101,Ops Cloud Admin Essentials,2020-02-05,2020-02-18,76,CERT-sJ0d3Ht0
+peter.lefebvre@shenandoahhq.example,Peter Lefebvre,OCA-101,Ops Cloud Admin Essentials,2020-02-03,2020-02-07,81,CERT-XErdc3Ob
+abigail.reyes@shenandoahhq.example,Abigail Reyes,RPT-210,Reporting and Insights,2020-04-13,2020-04-21,89,
+timothy.reed@gagnon-ca.example,Timothy Reed,OCA-101,Ops Cloud Admin Essentials,2020-02-05,2020-02-20,87,CERT-jYvdMSYC
+hannah.sorensen@valley.example,Hannah Sorensen,OCA-101,Ops Cloud Admin Essentials,2020-02-03,,,
+sophia.gagnon@valley.example,Sophia Gagnon,MOB-130,Mobile App for Technicians,2020-05-26,,,
+dennis.cruz@valley.example,Dennis Cruz,MOB-130,Mobile App for Technicians,2020-03-13,2020-04-22,81,
+siobhan.mendoza@valley.example,Siobhan Mendoza,MOB-130,Mobile App for Technicians,2020-02-06,2020-02-18,93,
+brandon.garcia@valley.example,Brandon Garcia,RPT-210,Reporting and Insights,2020-03-21,2020-03-26,64,
+jesse.whitlock@maplewoodhq.example,Jesse Whitlock,OCA-101,Ops Cloud Admin Essentials,2020-02-07,2020-02-14,76,CERT-3Splywon
+jennifer.davis@maplewoodhq.example,Jennifer Davis,DSP-110,Dispatch Board Basics,2020-06-30,2020-08-01,83,
+linda.lefebvre@stewartcorp.example,Linda Lefebvre,OCA-101,Ops Cloud Admin Essentials,2020-02-07,2020-02-15,81,CERT-4TMwNkU0
+LAYLA.CHAVEZ@STEWARTCORP.EXAMPLE,Layla Chavez,MOB-130,Mobile App for Technicians,2020-11-23,2020-12-01,64,
+laura.takahashi@heron.example,Laura Takahashi,MOB-130,Mobile App for Technicians,2020-10-04,2020-10-28,82,
+jeremy.harris@eastlakehq.example,Jeremy Harris,OCA-101,Ops Cloud Admin Essentials,2020-03-05,2020-03-30,86,CERT-BhXRtbSx
+jordan.tran@eastlakehq.example,Jordan Tran,MOB-130,Mobile App for Technicians,2020-11-05,,,
+rachel.brown@superiorcorp-uk.example,Rachel Brown,OCA-101,Ops Cloud Admin Essentials,2020-03-07,2020-03-15,78,CERT-fdxo6ou3
+shirley.chen@superiorcorp-uk.example,Shirley Chen,DSP-110,Dispatch Board Basics,2020-03-15,2020-04-21,59,
+leila.penhallow@three.example,Leila Penhallow,OCA-101,Ops Cloud Admin Essentials,2020-03-03,2020-03-21,77,CERT-9MAMUpAa
+charlotte.okafor@three.example,Charlotte Okafor,RPT-210,Reporting and Insights,2020-12-09,2021-01-06,61,
+victoria.lefebvre@three.example,Victoria Lefebvre,RPT-210,Reporting and Insights,2020-07-10,,,
+charlotte.dubois@copperfield-inc.example,Charlotte Dubois,OCA-101,Ops Cloud Admin Essentials,2020-03-04,2020-03-17,94,CERT-BePrAH5w
+matthew.moore@harris.example,Matthew Moore,OCA-101,Ops Cloud Admin Essentials,2020-03-04,,,
+gloria.sanchez@riverbendcorp-ca.example,Gloria Sanchez,MOB-130,Mobile App for Technicians,2020-06-26,2020-07-02,66,
+lauren.kowalski@oakmere.example,Lauren Kowalski,OCA-101,Ops Cloud Admin Essentials,2020-03-07,2020-03-19,76,CERT-HCNPWBqo
+marguerite.adams@oakmere.example,Marguerite Adams,INV-120,Invoicing in Ops Cloud,2020-05-27,2020-06-21,97,
+george.ramos@liuhq.example,George Ramos,OCA-101,Ops Cloud Admin Essentials,2020-03-01,,,
+VALENTINA.KING@LIUHQ.EXAMPLE,Valentina King,INV-120,Invoicing in Ops Cloud,2020-10-07,2020-10-27,59,
+samuel.moreau@martin-inc.example,Samuel Moreau,OCA-101,Ops Cloud Admin Essentials,2020-03-05,2020-03-22,95,CERT-XHekDfDf
+karen.sanders@martin-inc.example,Karen Sanders,MOB-130,Mobile App for Technicians,2020-07-11,2020-08-01,66,
+james.rogers@martin-inc.example,James Rogers,INV-120,Invoicing in Ops Cloud,2020-12-17,,,
+heather.bennett@chavez.example,Heather Bennett,OCA-101,Ops Cloud Admin Essentials,2020-03-01,2020-03-14,95,CERT-s7SDLxL5
+david.foster@kelly-inc.example,David Foster,OCA-101,Ops Cloud Admin Essentials,2020-04-01,2020-09-08,66,CERT-EAVqI3TW
+TARIQ.OKONKWO-HALE@KELLY-INC.EXAMPLE,Tariq Okonkwo-Hale,MOB-130,Mobile App for Technicians,2020-06-29,2020-08-01,56,
+aoife.romano@whitlock.example,Aoife Romano,OCA-101,Ops Cloud Admin Essentials,2020-04-01,2020-04-22,82,CERT-bgidxYlI
+david.price-jones@pricejoneshq.example,David Price-Jones,OCA-101,Ops Cloud Admin Essentials,2020-04-02,,,
+charlotte.hall@pricejoneshq.example,Charlotte Hall,MOB-130,Mobile App for Technicians,2020-09-25,2020-10-06,79,
+yuki.gutierrez@twincorp.example,Yuki Gutierrez,OCA-101,Ops Cloud Admin Essentials,2020-04-07,2020-04-17,81,CERT-7WDJEdzh
+matthew.macleod@twincorp.example,Matthew MacLeod,MOB-130,Mobile App for Technicians,2020-11-14,,,
+katherine.morris@northgatecorp.example,Katherine Morris,OCA-101,Ops Cloud Admin Essentials,2020-04-02,2020-04-13,88,CERT-5K7PJdm1
+peter.vance@northgatecorp.example,Peter Vance,DSP-110,Dispatch Board Basics,2020-09-30,2020-11-01,88,
+larry.hall@northgatecorp.example,Larry Hall,RPT-210,Reporting and Insights,2020-06-08,2020-06-21,59,
+nicole.peterson@martin-inc-uk.example,Nicole Peterson,OCA-101,Ops Cloud Admin Essentials,2020-04-06,,,
+emily.pham@martin-inc-uk.example,Emily Pham,RPT-210,Reporting and Insights,2020-07-08,2020-07-30,67,
+christina.cartwright@highlandhq.example,Christina Cartwright,OCA-101,Ops Cloud Admin Essentials,2020-04-01,2020-04-10,82,CERT-KfJQQ7gg
+joyce.taylor@highlandhq.example,Joyce Taylor,INV-120,Invoicing in Ops Cloud,2020-06-30,2020-07-09,77,
+nikolai.green@beaconcorp.example,Nikolai Green,RPT-210,Reporting and Insights,2020-05-10,2020-05-31,89,
+brian.fitzgerald@beaconcorp.example,Brian Fitzgerald,MOB-130,Mobile App for Technicians,2020-06-04,2020-07-05,67,
+wei.boateng@erie.example,Wei Boateng,OCA-101,Ops Cloud Admin Essentials,2020-04-06,2020-06-10,69,CERT-xfcpsMrY
+CAMILA.GONZALEZ@ERIE.EXAMPLE,Camila Gonzalez,MOB-130,Mobile App for Technicians,2020-08-03,,,
+betty.wang@liu.example,Betty Wang,OCA-101,Ops Cloud Admin Essentials,2020-04-05,,,
+denise.king@liu.example,Denise King,INV-120,Invoicing in Ops Cloud,2020-05-07,2020-06-01,74,
+julia.watanabe@kittredge.example,Julia Watanabe,DSP-110,Dispatch Board Basics,2020-10-14,2020-10-21,89,
+scott.price@oakmerecorp.example,Scott Price,OCA-101,Ops Cloud Admin Essentials,2020-04-02,,,
+karen.mccarthy@oakmerecorp.example,Karen McCarthy,INV-120,Invoicing in Ops Cloud,2020-11-20,,,
+kathleen.parker@oakmerecorp.example,Kathleen Parker,DSP-110,Dispatch Board Basics,2020-07-13,,,
+janet.fitzgerald@keystonecorp-ca.example,Janet Fitzgerald,OCA-101,Ops Cloud Admin Essentials,2020-04-02,2020-04-08,84,CERT-T9OwIgmH
+carl.nowak@keystonecorp-ca.example,Carl Nowak,MOB-130,Mobile App for Technicians,2020-07-02,2020-07-26,80,
+gerald.morgan@keystonecorp-ca.example,Gerald Morgan,RPT-210,Reporting and Insights,2021-01-14,,,
+yuki.bouchard@lindenwood.example,Yuki Bouchard,OCA-101,Ops Cloud Admin Essentials,2020-04-06,,,
+lauren.taylor@torrescorp.example,Lauren Taylor,INV-120,Invoicing in Ops Cloud,2020-10-19,2020-11-03,58,
+jessica.fairweather@mccarthycorp.example,Jessica Fairweather,DSP-110,Dispatch Board Basics,2020-12-19,,,
+thuy.le@millbrookhq.example,Thuy Le,OCA-101,Ops Cloud Admin Essentials,2020-04-02,,,
+olivia.gray@millbrookhq.example,Olivia Gray,RPT-210,Reporting and Insights,2020-05-19,2020-06-06,73,
+arthur.lefebvre@millbrookhq.example,Arthur Lefebvre,DSP-110,Dispatch Board Basics,2021-01-09,,,
+robert.brown@oakmerehq.example,Robert Brown,DSP-110,Dispatch Board Basics,2021-01-07,2021-01-13,60,
+renata.esposito@callowaycorp.example,Renata Esposito,OCA-101,Ops Cloud Admin Essentials,2020-05-04,2020-05-26,84,CERT-SEN2xXCQ
+daniel.lindqvist@callowaycorp.example,Daniel Lindqvist,RPT-210,Reporting and Insights,2020-12-17,,,
+natalie.boateng@callowaycorp.example,Natalie Boateng,RPT-210,Reporting and Insights,2020-09-12,,,
+joyce.king@callowaycorp.example,Joyce King,RPT-210,Reporting and Insights,2020-07-23,2020-08-05,66,
+samantha.price-jones@callowaycorp.example,Samantha Price-Jones,RPT-210,Reporting and Insights,2020-06-10,2020-07-02,78,
+sarah.ingleby@wexford-inc.example,Sarah Ingleby,OCA-101,Ops Cloud Admin Essentials,2020-05-03,2020-06-24,92,CERT-UFpvBb6T
+tariq.vance@wexford-inc.example,Tariq Vance,RPT-210,Reporting and Insights,2021-01-07,2021-01-30,87,
+cynthia.blackwood@willowcorp.example,Cynthia Blackwood,OCA-101,Ops Cloud Admin Essentials,2020-05-06,2020-05-16,73,CERT-ZeLkLRs4
+andrew.park@willowcorp.example,Andrew Park,INV-120,Invoicing in Ops Cloud,2020-05-23,2020-05-30,81,
+stephen.clark@willowcorp.example,Stephen Clark,DSP-110,Dispatch Board Basics,2020-10-16,,,
+jacqueline.takahashi@halvorsencorp-uk.example,Jacqueline Takahashi,OCA-101,Ops Cloud Admin Essentials,2020-05-05,2020-05-19,99,CERT-v2iZI91i
+minh.fairweather@halvorsencorp-uk.example,Minh Fairweather,RPT-210,Reporting and Insights,2020-10-25,2020-11-21,90,
+lisa.gonzalez@watson-inc-uk.example,Lisa Gonzalez,OCA-101,Ops Cloud Admin Essentials,2020-05-01,,,
+dylan.flores@blackhawkcorp.example,Dylan Flores,OCA-101,Ops Cloud Admin Essentials,2020-05-06,2020-05-23,84,CERT-ycHejkgy
+DONALD.LIU@BLACKHAWKCORP.EXAMPLE,Donald Liu,RPT-210,Reporting and Insights,2020-07-21,,,
+mateo.carter@blackhawkcorp.example,Mateo Carter,DSP-110,Dispatch Board Basics,2020-09-06,2020-10-14,89,
+katarzyna.adams@blackhawkcorp.example,Katarzyna Adams,INV-120,Invoicing in Ops Cloud,2020-09-21,,,
+mireille.castillo@tricountyhq.example,Mireille Castillo,OCA-101,Ops Cloud Admin Essentials,2020-05-05,2020-05-13,88,CERT-fFfV26Wm
+edward.foster@pelletier-inc.example,Edward Foster,OCA-101,Ops Cloud Admin Essentials,2020-05-04,2020-05-28,78,CERT-vADr64cd
+leila.gonzalez@miamicorp.example,Leila Gonzalez,OCA-101,Ops Cloud Admin Essentials,2020-05-05,2020-05-12,85,CERT-ZNWRbbDq
+renata.obrien@riverbendhq.example,Renata O'Brien,OCA-101,Ops Cloud Admin Essentials,2020-06-05,2020-06-09,98,CERT-DaxvZqnO
+etienne.myers@riverbendhq.example,Etienne Myers,DSP-110,Dispatch Board Basics,2021-01-01,,,
+javier.mendoza@riverbendhq.example,Javier Mendoza,MOB-130,Mobile App for Technicians,2020-12-01,,,
+emily.campbell@thornbury-inc.example,Emily Campbell,OCA-101,Ops Cloud Admin Essentials,2020-06-02,2020-06-05,99,CERT-zbhTCVEy
+anthony.torres@thornbury-inc.example,Anthony Torres,INV-120,Invoicing in Ops Cloud,2020-08-27,2020-09-04,87,
+marilyn.gagnon@cascade.example,Marilyn Gagnon,OCA-101,Ops Cloud Admin Essentials,2020-06-07,2020-06-26,100,CERT-GoxpKBEz
+thomas.watanabe@patelcorp.example,Thomas Watanabe,OCA-101,Ops Cloud Admin Essentials,2020-06-04,,,
+alice.morgan@patelcorp.example,Alice Morgan,MOB-130,Mobile App for Technicians,2020-09-09,2020-10-11,75,
+renata.miller@pioneer.example,Renata Miller,MOB-130,Mobile App for Technicians,2021-02-21,2021-03-19,80,
+sarah.perez@pioneer.example,Sarah Perez,RPT-210,Reporting and Insights,2021-02-27,2021-03-21,92,
+declan.cooper@prairiehq-uk.example,Declan Cooper,OCA-101,Ops Cloud Admin Essentials,2020-06-01,2020-06-20,96,CERT-2PBtHknw
+helen.hargreaves@prairiehq-uk.example,Helen Hargreaves,MOB-130,Mobile App for Technicians,2021-02-11,,,
+robert.long@nguyen-uk.example,Robert Long,OCA-101,Ops Cloud Admin Essentials,2020-06-01,,,
+william.brown@nguyen-uk.example,William Brown,RPT-210,Reporting and Insights,2021-02-18,2021-03-24,89,
+LEILA.ROGERS@NGUYEN-UK.EXAMPLE,Leila Rogers,INV-120,Invoicing in Ops Cloud,2020-06-25,2020-07-21,72,
+grace.perez@pioneerhq.example,Grace Perez,OCA-101,Ops Cloud Admin Essentials,2020-06-03,2020-06-20,79,CERT-zdwDR4IQ
+patricia.chaudhry@pioneerhq.example,Patricia Chaudhry,DSP-110,Dispatch Board Basics,2020-11-11,2020-11-23,85,
+thuy.ashdown@pioneerhq.example,Thuy Ashdown,DSP-110,Dispatch Board Basics,2020-12-04,2021-01-10,94,
+jordan.quillfeather@riverscorp.example,Jordan Quillfeather,OCA-101,Ops Cloud Admin Essentials,2020-06-07,2020-06-16,77,CERT-0K214ns2
+jacob.alvarez@riverscorp.example,Jacob Alvarez,DSP-110,Dispatch Board Basics,2020-06-16,,,
+bryce.le@campbellhq.example,Bryce Le,INV-120,Invoicing in Ops Cloud,2020-07-13,2020-07-23,86,
+frances.howard@lopezhq.example,Frances Howard,OCA-101,Ops Cloud Admin Essentials,2020-06-04,2020-06-19,78,CERT-tW0KSKhv
+renata.anderson@lopezhq.example,Renata Anderson,MOB-130,Mobile App for Technicians,2020-12-23,,,
+janet.goodenough@gatehouse-inc.example,Janet Goodenough,DSP-110,Dispatch Board Basics,2020-08-25,2020-09-02,92,
+ngozi.nelson@tidewatercorp.example,Ngozi Nelson,OCA-101,Ops Cloud Admin Essentials,2020-06-06,2020-06-22,96,CERT-axTAyO9P
+diana.edwards@tidewatercorp.example,Diana Edwards,MOB-130,Mobile App for Technicians,2020-06-17,2020-06-24,97,
+melissa.boateng@tidewatercorp.example,Melissa Boateng,DSP-110,Dispatch Board Basics,2021-03-24,,,
+george.taylor@tidewatercorp.example,George Taylor,DSP-110,Dispatch Board Basics,2021-03-04,2021-03-20,95,
+kenneth.hernandez@alleghenycorp.example,Kenneth Hernandez,OCA-101,Ops Cloud Admin Essentials,2020-06-06,2020-06-20,90,CERT-Rvhq6ffQ
+ASHLEY.THOMPSON@ALLEGHENYCORP.EXAMPLE,Ashley Thompson,INV-120,Invoicing in Ops Cloud,2020-10-26,2020-11-22,65,
+daniel.morgan@wexfordcorp-uk.example,Daniel Morgan,OCA-101,Ops Cloud Admin Essentials,2020-07-02,2020-07-28,91,CERT-iyRXpa5j
+judy.foster@wexfordcorp-uk.example,Judy Foster,INV-120,Invoicing in Ops Cloud,2021-02-07,2021-02-25,63,
+benjamin.brown@rogershq-uk.example,Benjamin Brown,RPT-210,Reporting and Insights,2020-08-21,2020-09-02,100,
+sanjay.kelly@sandpiper-inc-uk.example,Sanjay Kelly,OCA-101,Ops Cloud Admin Essentials,2020-07-04,2020-07-22,80,CERT-BK1BhsNt
+brandon.mendoza@keystonehq-uk.example,Brandon Mendoza,MOB-130,Mobile App for Technicians,2020-07-21,2020-08-13,59,
+sophia.davis@collins-inc-uk.example,Sophia Davis,OCA-101,Ops Cloud Admin Essentials,2020-07-03,2020-07-09,77,CERT-jytcDbqg
+GLORIA.EVANS@COLLINS-INC-UK.EXAMPLE,Gloria Evans,DSP-110,Dispatch Board Basics,2020-11-12,2020-11-22,74,
+ngozi.okafor@saginaw.example,Ngozi Okafor,OCA-101,Ops Cloud Admin Essentials,2020-07-07,2020-07-09,85,CERT-Pz4eJAQc
+kevin.kowalski@frontierhq.example,Kevin Kowalski,OCA-101,Ops Cloud Admin Essentials,2020-07-02,2020-07-17,92,CERT-Kbx4834H
+alice.price-jones@frontierhq.example,Alice Price-Jones,RPT-210,Reporting and Insights,2021-04-03,2021-04-23,72,
+frances.takahashi@cedarhq.example,Frances Takahashi,OCA-101,Ops Cloud Admin Essentials,2020-07-06,2020-07-18,100,CERT-GwcjxyXG
+leila.zhang@cedarhq.example,Leila Zhang,RPT-210,Reporting and Insights,2021-02-25,,,
+zachary.morgan@pinecrestcorp.example,Zachary Morgan,OCA-101,Ops Cloud Admin Essentials,2020-07-03,2020-11-25,68,CERT-TOyjFDur
+barbara.mendoza@pinecrestcorp.example,Barbara Mendoza,INV-120,Invoicing in Ops Cloud,2021-04-07,,,
+omar.allen@magnolia.example,Omar Allen,OCA-101,Ops Cloud Admin Essentials,2020-07-04,2020-11-20,73,CERT-XMWPYxbU
+dylan.pelletier@magnolia.example,Dylan Pelletier,MOB-130,Mobile App for Technicians,2020-11-29,2020-12-27,58,
+joe.stewart@highlandcorp.example,Joe Stewart,OCA-101,Ops Cloud Admin Essentials,2020-07-03,2020-07-20,75,CERT-lsaRIpVM
+frank.calloway@highlandcorp.example,Frank Calloway,RPT-210,Reporting and Insights,2020-11-03,2020-12-09,90,
+emre.wright@williams.example,Emre Wright,RPT-210,Reporting and Insights,2020-10-12,2020-10-21,88,
+JASON.LONG@RAGHUNATHANHQ.EXAMPLE,Jason Long,MOB-130,Mobile App for Technicians,2020-08-09,2020-08-24,84,
+minh.jessop@scioto.example,Minh Jessop,DSP-110,Dispatch Board Basics,2020-08-14,2020-08-25,100,
+theresa.cook@scioto.example,Theresa Cook,MOB-130,Mobile App for Technicians,2020-10-24,2020-11-05,80,
+brandon.moore@stonebridge-inc.example,Brandon Moore,MOB-130,Mobile App for Technicians,2020-12-26,2021-02-03,72,
+ines.davis@stonebridge-inc.example,Ines Davis,DSP-110,Dispatch Board Basics,2020-11-06,2020-11-08,73,
+rhys.price@penhallowcorp.example,Rhys Price,INV-120,Invoicing in Ops Cloud,2020-09-09,,,
+logan.jackson@heritage-inc.example,Logan Jackson,MOB-130,Mobile App for Technicians,2021-04-03,2021-04-05,93,
+charles.carter@le-inc-uk.example,Charles Carter,OCA-101,Ops Cloud Admin Essentials,2020-08-02,2020-08-17,74,CERT-Di9j0XEf
+beverly.watanabe@le-inc-uk.example,Beverly Watanabe,DSP-110,Dispatch Board Basics,2021-05-21,2021-05-31,89,
+emily.alvarez@osprey-uk.example,Emily Alvarez,OCA-101,Ops Cloud Admin Essentials,2020-08-02,2020-08-25,100,CERT-jpUYW9tV
+soo-ah.sorensen@wangcorp-uk.example,Soo-ah Sorensen,OCA-101,Ops Cloud Admin Essentials,2020-08-02,2020-08-21,72,CERT-ZiPHeICD
+joan.ramos@westbrook.example,Joan Ramos,INV-120,Invoicing in Ops Cloud,2021-03-25,,,
+ngozi.mendoza@westbrook.example,Ngozi Mendoza,RPT-210,Reporting and Insights,2021-01-30,2021-03-06,98,
+joao.marchetti@marchetti.example,Joao Marchetti,OCA-101,Ops Cloud Admin Essentials,2020-08-03,2020-08-26,98,CERT-WEaJBSeD
+siobhan.ross@abernathycorp.example,Siobhan Ross,OCA-101,Ops Cloud Admin Essentials,2020-08-05,2020-08-08,100,CERT-5Nq9eE0n
+theresa.howard@anchorhq.example,Theresa Howard,RPT-210,Reporting and Insights,2021-01-29,2021-02-26,64,
+mark.davis@anchorhq.example,Mark Davis,INV-120,Invoicing in Ops Cloud,2021-03-16,,,
+madison.roberts@rivers-inc-ca.example,Madison Roberts,INV-120,Invoicing in Ops Cloud,2021-01-26,2021-02-06,75,
+victoria.haddad@heron-inc.example,Victoria Haddad,OCA-101,Ops Cloud Admin Essentials,2020-08-01,2020-11-28,81,CERT-lVJbbTmD
+pierre.yamamoto@heron-inc.example,Pierre Yamamoto,MOB-130,Mobile App for Technicians,2020-10-01,2020-10-02,87,
+ALICE.JACKSON@HERON-INC.EXAMPLE,Alice Jackson,DSP-110,Dispatch Board Basics,2021-04-16,2021-05-14,89,
+kevin.jackson@lockwoodcorp.example,Kevin Jackson,DSP-110,Dispatch Board Basics,2020-12-18,2020-12-21,72,
+nathan.evans@lockwoodcorp.example,Nathan Evans,RPT-210,Reporting and Insights,2021-04-07,,,
+NATALIE.NASSER@LOCKWOODCORP.EXAMPLE,Natalie Nasser,MOB-130,Mobile App for Technicians,2021-04-05,2021-04-26,92,
+aaron.kittredge@foxglove.example,Aaron Kittredge,OCA-101,Ops Cloud Admin Essentials,2020-08-04,2020-08-08,75,CERT-HPfL2pRe
+teresa.le@foxglove.example,Teresa Le,RPT-210,Reporting and Insights,2020-10-21,2020-11-10,90,
+carl.young@millbrookhq.example,Carl Young,OCA-101,Ops Cloud Admin Essentials,2020-08-04,2020-08-22,92,CERT-TpAGnnwj
+nathan.cruz@millbrookhq.example,Nathan Cruz,INV-120,Invoicing in Ops Cloud,2020-12-11,2021-01-20,74,
+donald.jessop@haddadcorp-ca.example,Donald Jessop,OCA-101,Ops Cloud Admin Essentials,2020-08-03,2020-08-27,88,CERT-nFPbgRRk
+thiago.yamamoto@haddadcorp-ca.example,Thiago Yamamoto,INV-120,Invoicing in Ops Cloud,2020-08-31,,,
+YUKI.PENHALLOW@FAIRHAVENHQ.EXAMPLE,Yuki Penhallow,INV-120,Invoicing in Ops Cloud,2020-08-07,,,
+femi.blackwood@kestrelcorp.example,Femi Blackwood,DSP-110,Dispatch Board Basics,2021-05-22,2021-06-09,82,
+alan.flores@kestrelcorp.example,Alan Flores,RPT-210,Reporting and Insights,2021-02-06,,,
+alice.young@clearwater.example,Alice Young,OCA-101,Ops Cloud Admin Essentials,2020-08-02,2020-08-21,73,CERT-JCJ0ZcC8
+ann.peterson@clearwater.example,Ann Peterson,MOB-130,Mobile App for Technicians,2021-01-16,2021-01-30,75,
+ann.johnson@juniperhq.example,Ann Johnson,OCA-101,Ops Cloud Admin Essentials,2020-08-03,2020-08-12,82,CERT-97gs7t0H
+sara.jackson@juniperhq.example,Sara Jackson,INV-120,Invoicing in Ops Cloud,2020-08-07,2020-09-09,77,
+thomas.mensah@juniperhq.example,Thomas Mensah,RPT-210,Reporting and Insights,2021-02-18,2021-02-26,63,
+ashley.calloway@millbrookhq-uk.example,Ashley Calloway,OCA-101,Ops Cloud Admin Essentials,2020-09-06,2020-09-17,100,CERT-QkQqJRXi
+maria.gonzalez@millbrookhq-uk.example,Maria Gonzalez,RPT-210,Reporting and Insights,2021-05-23,,,
+sean.myers@saguarohq-uk.example,Sean Myers,OCA-101,Ops Cloud Admin Essentials,2020-09-07,2020-09-22,74,CERT-6oN6Wahn
+natalie.jones@alleghenycorp-uk.example,Natalie Jones,OCA-101,Ops Cloud Admin Essentials,2020-09-01,2020-09-20,73,CERT-E4skkOKG
+joan.morales@alleghenycorp-uk.example,Joan Morales,DSP-110,Dispatch Board Basics,2021-04-15,,,
+russell.ruiz@alleghenycorp-uk.example,Russell Ruiz,INV-120,Invoicing in Ops Cloud,2021-06-18,2021-06-29,74,
+tyler.sanchez@cornerstonecorp-uk.example,Tyler Sanchez,OCA-101,Ops Cloud Admin Essentials,2020-09-01,,,
+abigail.tanaka@cornerstonecorp-uk.example,Abigail Tanaka,MOB-130,Mobile App for Technicians,2020-10-26,,,
+genevieve.ashdown@cornerstonecorp-uk.example,Genevieve Ashdown,RPT-210,Reporting and Insights,2021-03-20,,,
+adam.okonkwo-hale@cornerstonecorp-uk.example,Adam Okonkwo-Hale,RPT-210,Reporting and Insights,2020-09-18,2020-10-25,77,
+frances.yamamoto@delacroixcorp-uk.example,Frances Yamamoto,OCA-101,Ops Cloud Admin Essentials,2020-09-04,2020-09-28,99,CERT-9vxEf0p7
+madison.fitzgerald@delacroixcorp-uk.example,Madison Fitzgerald,RPT-210,Reporting and Insights,2020-09-19,,,
+katherine.blackwood@delacroixcorp-uk.example,Katherine Blackwood,RPT-210,Reporting and Insights,2020-11-27,2020-12-05,99,
+bryce.perez@redstonecorp-uk.example,Bryce Perez,OCA-101,Ops Cloud Admin Essentials,2020-09-06,2020-09-08,84,CERT-8O0ngo4A
+melissa.mccarthy@redstonecorp-uk.example,Melissa McCarthy,INV-120,Invoicing in Ops Cloud,2021-01-23,,,
+KEITH.BOATENG@REDSTONECORP-UK.EXAMPLE,Keith Boateng,INV-120,Invoicing in Ops Cloud,2021-05-22,,,
+christine.perez@boatenghq.example,Christine Perez,OCA-101,Ops Cloud Admin Essentials,2020-09-03,2020-09-13,78,CERT-XRH4MZNS
+joao.peterson@boatenghq.example,Joao Peterson,RPT-210,Reporting and Insights,2020-09-06,2020-10-16,84,
+isla.pham@boatenghq.example,Isla Pham,INV-120,Invoicing in Ops Cloud,2020-12-19,2021-01-07,55,
+declan.lockwood@boatenghq.example,Declan Lockwood,INV-120,Invoicing in Ops Cloud,2021-01-04,2021-01-15,96,
+deepa.halvorsen@stonebridgehq.example,Deepa Halvorsen,OCA-101,Ops Cloud Admin Essentials,2020-09-06,,,
+abigail.rivera@stonebridgehq.example,Abigail Rivera,RPT-210,Reporting and Insights,2021-01-10,2021-01-16,81,
+sanjay.flores@fairhaven-inc.example,Sanjay Flores,OCA-101,Ops Cloud Admin Essentials,2020-09-03,2020-09-17,88,CERT-e1gZoWRY
+ann.anderson@fairhaven-inc.example,Ann Anderson,MOB-130,Mobile App for Technicians,2021-06-18,2021-07-06,61,
+astrid.ellsworth@summit.example,Astrid Ellsworth,OCA-101,Ops Cloud Admin Essentials,2020-09-07,2020-09-12,95,CERT-1nQowwkh
+dennis.flores@summit.example,Dennis Flores,RPT-210,Reporting and Insights,2021-06-10,2021-06-24,90,
+lucia.gonzalez@summit.example,Lucia Gonzalez,DSP-110,Dispatch Board Basics,2020-10-20,2020-11-17,91,
+thiago.ramos@muskingumhq.example,Thiago Ramos,OCA-101,Ops Cloud Admin Essentials,2020-09-07,2020-09-13,97,CERT-ybP8gsym
+femi.taylor@sycamorehq.example,Femi Taylor,DSP-110,Dispatch Board Basics,2020-11-01,2020-11-10,82,
+judy.morris@sycamorehq.example,Judy Morris,MOB-130,Mobile App for Technicians,2021-02-18,2021-03-11,77,
+paul.goodenough@oakmerecorp.example,Paul Goodenough,OCA-101,Ops Cloud Admin Essentials,2020-09-02,2020-09-25,85,CERT-SyndrqtW
+kelly.smith@oakmerecorp.example,Kelly Smith,RPT-210,Reporting and Insights,2021-03-08,,,
+carolyn.marchetti@unionhq.example,Carolyn Marchetti,OCA-101,Ops Cloud Admin Essentials,2020-09-04,2020-09-15,91,CERT-z6PkNIqw
+christine.brooks@unionhq.example,Christine Brooks,RPT-210,Reporting and Insights,2020-09-22,2020-10-29,58,
+alexander.walker@great.example,Alexander Walker,OCA-101,Ops Cloud Admin Essentials,2020-09-05,2020-09-07,74,CERT-arxJUp1z
+jeremy.howard@smithcorp.example,Jeremy Howard,INV-120,Invoicing in Ops Cloud,2021-01-15,2021-02-20,96,
+theodora.adams@smithcorp.example,Theodora Adams,RPT-210,Reporting and Insights,2020-10-18,,,
+paul.gagnon@smithcorp.example,Paul Gagnon,MOB-130,Mobile App for Technicians,2021-01-07,2021-02-02,72,
+hiroshi.bennett@smithcorp.example,Hiroshi Bennett,INV-120,Invoicing in Ops Cloud,2021-03-21,2021-04-03,64,
+linda.lockwood@pinecrest-inc.example,Linda Lockwood,OCA-101,Ops Cloud Admin Essentials,2020-09-07,2020-09-28,83,CERT-ydJ15ZZw
+cheryl.raghunathan@pinecrest-inc.example,Cheryl Raghunathan,MOB-130,Mobile App for Technicians,2020-11-03,2020-11-06,60,
+ingrid.hill@oakmerehq-uk.example,Ingrid Hill,RPT-210,Reporting and Insights,2020-10-18,2020-11-10,86,
+cynthia.bailey@oakmerehq-uk.example,Cynthia Bailey,MOB-130,Mobile App for Technicians,2021-01-10,2021-02-11,94,
+stephanie.fenwick@millbrook-inc-uk.example,Stephanie Fenwick,OCA-101,Ops Cloud Admin Essentials,2020-10-04,2020-10-16,99,CERT-k3hsWE3y
+frances.roberts@tamarack-uk.example,Frances Roberts,OCA-101,Ops Cloud Admin Essentials,2020-10-06,2020-10-08,94,CERT-0G8q8MeP
+etienne.liu@rivers-inc-uk.example,Etienne Liu,OCA-101,Ops Cloud Admin Essentials,2020-10-05,2020-10-30,83,CERT-1upHkxGm
+katarzyna.watson@rivers-inc-uk.example,Katarzyna Watson,RPT-210,Reporting and Insights,2021-01-19,2021-02-16,76,
+eugene.mensah@wilsoncorp-uk.example,Eugene Mensah,OCA-101,Ops Cloud Admin Essentials,2020-10-07,2021-02-21,76,CERT-6RZW77QS
+barbara.huang@wilsoncorp-uk.example,Barbara Huang,DSP-110,Dispatch Board Basics,2021-03-06,2021-03-28,70,
+amanda.alvarez@wilsoncorp-uk.example,Amanda Alvarez,DSP-110,Dispatch Board Basics,2020-10-17,2020-11-03,96,
+donna.martin@lindqvist-inc-uk.example,Donna Martin,OCA-101,Ops Cloud Admin Essentials,2020-10-07,2020-10-28,88,CERT-PUtasDBT
+NICHOLAS.MCCARTHY@LINDQVIST-INC-UK.EXAMPLE,Nicholas McCarthy,MOB-130,Mobile App for Technicians,2021-03-03,,,
+frank.roberts@parkhq-uk.example,Frank Roberts,INV-120,Invoicing in Ops Cloud,2021-03-21,2021-04-29,73,
+sean.stewart@juniper-inc.example,Sean Stewart,OCA-101,Ops Cloud Admin Essentials,2020-10-04,,,
+BEVERLY.SANDERS@JUNIPER-INC.EXAMPLE,Beverly Sanders,DSP-110,Dispatch Board Basics,2021-04-14,2021-04-30,64,
+sanjay.mendoza@lindenwood-inc.example,Sanjay Mendoza,OCA-101,Ops Cloud Admin Essentials,2020-10-02,,,
+WEI.GRAY@LINDENWOOD-INC.EXAMPLE,Wei Gray,MOB-130,Mobile App for Technicians,2021-05-18,2021-06-05,69,
+jean.mccarthy@lindenwood-inc.example,Jean McCarthy,DSP-110,Dispatch Board Basics,2021-06-15,2021-06-23,65,
+bjorn.wilson@redstonecorp.example,Bjorn Wilson,OCA-101,Ops Cloud Admin Essentials,2020-10-05,2020-10-13,84,CERT-MbLy491V
+amy.brooks@redstonecorp.example,Amy Brooks,RPT-210,Reporting and Insights,2021-05-11,,,
+sanjay.taylor@redstonecorp.example,Sanjay Taylor,INV-120,Invoicing in Ops Cloud,2021-07-06,2021-07-15,56,
+elif.macleod@redstonecorp.example,Elif MacLeod,RPT-210,Reporting and Insights,2021-03-15,2021-04-08,91,
+judy.evans@twin.example,Judy Evans,OCA-101,Ops Cloud Admin Essentials,2020-10-05,,,
+gloria.pham@twin.example,Gloria Pham,DSP-110,Dispatch Board Basics,2021-04-25,2021-06-03,78,
+theodora.ellsworth@bayouhq.example,Theodora Ellsworth,RPT-210,Reporting and Insights,2021-02-25,2021-04-04,70,
+ashley.edwards@bluewater-inc.example,Ashley Edwards,OCA-101,Ops Cloud Admin Essentials,2020-10-03,2020-10-09,78,CERT-Kc4wsKZ4
+ines.hall@bluewater-inc.example,Ines Hall,MOB-130,Mobile App for Technicians,2021-01-30,2021-03-05,58,
+brenda.rahman@bluewater-inc.example,Brenda Rahman,RPT-210,Reporting and Insights,2021-01-28,2021-01-31,73,
+edward.reyes@foxglove-inc.example,Edward Reyes,OCA-101,Ops Cloud Admin Essentials,2020-10-06,2020-10-08,94,CERT-ocXegKCx
+adam.tremblay@foxglove-inc.example,Adam Tremblay,DSP-110,Dispatch Board Basics,2021-03-20,,,
+jeremy.cox@foxglove-inc.example,Jeremy Cox,MOB-130,Mobile App for Technicians,2021-01-14,2021-02-18,65,
+melissa.dubois@foxglove-inc.example,Melissa Dubois,MOB-130,Mobile App for Technicians,2021-01-10,2021-01-25,72,
+elijah.penhallow@elmhurst.example,Elijah Penhallow,OCA-101,Ops Cloud Admin Essentials,2020-10-06,2020-10-30,80,CERT-pAVuJoPj
+joyce.ashdown@elmhurst.example,Joyce Ashdown,MOB-130,Mobile App for Technicians,2020-10-09,2020-11-17,74,
+carolyn.huang@jackson.example,Carolyn Huang,OCA-101,Ops Cloud Admin Essentials,2020-10-04,2021-04-16,89,CERT-j5cN12vK
+nathan.fairweather@jackson.example,Nathan Fairweather,MOB-130,Mobile App for Technicians,2021-04-24,,,
+amy.allen@jackson.example,Amy Allen,DSP-110,Dispatch Board Basics,2021-07-14,2021-08-02,74,
+paul.whitlock@lantern.example,Paul Whitlock,OCA-101,Ops Cloud Admin Essentials,2020-10-07,2020-10-20,87,CERT-AqtngT8M
+astrid.ashdown@lantern.example,Astrid Ashdown,RPT-210,Reporting and Insights,2021-03-22,2021-03-30,59,
+russell.hill@lantern.example,Russell Hill,INV-120,Invoicing in Ops Cloud,2021-03-08,,,
+MINH.ELLSWORTH@JOHANSSON-INC.EXAMPLE,Minh Ellsworth,INV-120,Invoicing in Ops Cloud,2021-06-10,,,
+emma.oconnor@johansson-inc.example,Emma O'Connor,MOB-130,Mobile App for Technicians,2021-05-21,,,
+nicholas.pelletier@hawthornecorp.example,Nicholas Pelletier,OCA-101,Ops Cloud Admin Essentials,2020-10-02,2020-10-28,81,CERT-Kr6M9cQN
+vincent.romano@hawthornecorp.example,Vincent Romano,MOB-130,Mobile App for Technicians,2020-10-06,2020-11-09,95,
+bruce.jackson@wabash-inc.example,Bruce Jackson,OCA-101,Ops Cloud Admin Essentials,2020-10-02,2020-10-10,94,CERT-DPBUM7Ih
+pierre.murphy@wabash-inc.example,Pierre Murphy,MOB-130,Mobile App for Technicians,2021-01-30,2021-02-04,81,
+amara.gomez@johnsoncorp.example,Amara Gomez,OCA-101,Ops Cloud Admin Essentials,2020-10-02,,,
+gary.ellsworth@wilson-uk.example,Gary Ellsworth,OCA-101,Ops Cloud Admin Essentials,2020-11-03,2020-11-11,87,CERT-FxyXhmtM
+adam.evans@wilson-uk.example,Adam Evans,MOB-130,Mobile App for Technicians,2021-04-21,2021-05-25,84,
+JERRY.ADAMS@WILSON-UK.EXAMPLE,Jerry Adams,DSP-110,Dispatch Board Basics,2021-08-28,2021-09-03,90,
+anna.abernathy@obriencorp-uk.example,Anna Abernathy,OCA-101,Ops Cloud Admin Essentials,2020-11-05,2020-11-15,73,CERT-O0sXbnPx
+hannah.le@obriencorp-uk.example,Hannah Le,INV-120,Invoicing in Ops Cloud,2021-04-12,2021-04-23,93,
+rachel.cox@obriencorp-uk.example,Rachel Cox,RPT-210,Reporting and Insights,2020-12-30,2021-01-15,71,
+janet.cote@bayoucorp.example,Janet Cote,RPT-210,Reporting and Insights,2021-03-01,2021-03-09,85,
+elizabeth.moreau@sycamorehq.example,Elizabeth Moreau,OCA-101,Ops Cloud Admin Essentials,2020-11-01,2020-11-14,73,CERT-DU0z579U
+barbara.miller@sycamorehq.example,Barbara Miller,DSP-110,Dispatch Board Basics,2021-02-20,2021-03-28,75,
+emma.rivera@ridgelinehq.example,Emma Rivera,OCA-101,Ops Cloud Admin Essentials,2020-11-01,2020-11-24,86,CERT-NVGgCBy0
+joe.long@ridgelinehq.example,Joe Long,MOB-130,Mobile App for Technicians,2020-11-23,,,
+jonathan.thompson@wexford-inc.example,Jonathan Thompson,OCA-101,Ops Cloud Admin Essentials,2020-11-06,2020-11-22,83,CERT-XinSKIWI
+anastasia.brown@wexford-inc.example,Anastasia Brown,INV-120,Invoicing in Ops Cloud,2020-11-27,2021-01-06,71,
+sofia.lockwood@parkerhq.example,Sofia Lockwood,OCA-101,Ops Cloud Admin Essentials,2020-11-07,2020-11-24,95,CERT-dpqvCgBx
+rachel.gomez@parkerhq.example,Rachel Gomez,MOB-130,Mobile App for Technicians,2021-04-03,,,
+kimberly.lindqvist@parkerhq.example,Kimberly Lindqvist,RPT-210,Reporting and Insights,2021-08-17,,,
+jae-won.moore@ravenwoodcorp.example,Jae-won Moore,OCA-101,Ops Cloud Admin Essentials,2020-11-07,2020-11-12,89,CERT-l7bHh37F
+sofia.wang@tamarack.example,Sofia Wang,INV-120,Invoicing in Ops Cloud,2020-11-14,2020-12-03,85,
+aoife.okafor@tamarack.example,Aoife Okafor,MOB-130,Mobile App for Technicians,2021-01-11,,,
+ines.brown@saginaw-inc.example,Ines Brown,OCA-101,Ops Cloud Admin Essentials,2020-11-06,2020-11-21,79,CERT-TjceN8XE
+joe.mensah@saginaw-inc.example,Joe Mensah,DSP-110,Dispatch Board Basics,2021-01-13,,,
+harold.collins@saginaw-inc.example,Harold Collins,RPT-210,Reporting and Insights,2021-06-22,2021-07-26,93,
+martha.rivera@saginaw-inc.example,Martha Rivera,MOB-130,Mobile App for Technicians,2020-12-21,,,
+tariq.gray@bayoucorp.example,Tariq Gray,OCA-101,Ops Cloud Admin Essentials,2020-11-03,2020-11-16,89,CERT-zmg9tlTq
+robert.wilson@marrow-inc-ca.example,Robert Wilson,OCA-101,Ops Cloud Admin Essentials,2020-11-06,2021-05-20,91,CERT-C9f9Eogm
+hamid.sorensen@robinson-uk.example,Hamid Sorensen,DSP-110,Dispatch Board Basics,2021-04-27,2021-05-15,87,
+douglas.collins@zhanghq-uk.example,Douglas Collins,MOB-130,Mobile App for Technicians,2021-04-13,2021-05-17,67,
+SARAH.LAVOIE@GONZALEZHQ-UK.EXAMPLE,Sarah Lavoie,MOB-130,Mobile App for Technicians,2021-05-18,2021-05-31,61,
+siobhan.clark@highland-uk.example,Siobhan Clark,OCA-101,Ops Cloud Admin Essentials,2020-12-04,2020-12-08,95,CERT-pmNgayvA
+margaret.gutierrez@highland-uk.example,Margaret Gutierrez,MOB-130,Mobile App for Technicians,2021-02-22,2021-03-17,82,
+jacob.garcia@highland-uk.example,Jacob Garcia,MOB-130,Mobile App for Technicians,2021-05-19,,,
+ingrid.wang@highland-uk.example,Ingrid Wang,DSP-110,Dispatch Board Basics,2021-07-07,,,
+donna.llewellyn@adams-uk.example,Donna Llewellyn,OCA-101,Ops Cloud Admin Essentials,2020-12-06,2020-12-15,73,CERT-2BH87vlY
+austin.moreau@adams-uk.example,Austin Moreau,RPT-210,Reporting and Insights,2021-05-29,2021-07-06,73,
+harold.okonkwo-hale@bayou-uk.example,Harold Okonkwo-Hale,OCA-101,Ops Cloud Admin Essentials,2020-12-02,2021-02-17,71,CERT-CASoaBMe
+katarzyna.watanabe@kestrelhq-uk.example,Katarzyna Watanabe,OCA-101,Ops Cloud Admin Essentials,2020-12-07,2020-12-24,80,CERT-8JdPLizt
+benjamin.ross@kestrelhq-uk.example,Benjamin Ross,INV-120,Invoicing in Ops Cloud,2021-03-05,2021-04-06,73,
+harold.white@kestrelhq-uk.example,Harold White,RPT-210,Reporting and Insights,2021-07-24,2021-08-17,83,
+karen.mitchell@kestrel-inc.example,Karen Mitchell,OCA-101,Ops Cloud Admin Essentials,2020-12-05,2020-12-23,88,CERT-qZIcDMbQ
+hiroshi.boateng@kestrel-inc.example,Hiroshi Boateng,MOB-130,Mobile App for Technicians,2021-01-01,2021-01-11,68,
+patrick.mccarthy@kestrel-inc.example,Patrick McCarthy,INV-120,Invoicing in Ops Cloud,2021-04-09,2021-04-30,63,
+PETER.FAIRWEATHER@KESTREL-INC.EXAMPLE,Peter Fairweather,RPT-210,Reporting and Insights,2021-06-15,2021-07-12,74,
+kevin.rodriguez@lindenwood-inc.example,Kevin Rodriguez,OCA-101,Ops Cloud Admin Essentials,2020-12-02,2020-12-17,84,CERT-HMlU6pcj
+LOGAN.TREMBLAY@LINDENWOOD-INC.EXAMPLE,Logan Tremblay,DSP-110,Dispatch Board Basics,2021-02-11,,,
+declan.lefebvre@lindenwood-inc.example,Declan Lefebvre,RPT-210,Reporting and Insights,2021-06-28,2021-07-10,92,
+thiago.young@lindenwood-inc.example,Thiago Young,DSP-110,Dispatch Board Basics,2021-01-15,2021-02-06,73,
+martha.hughes@erie.example,Martha Hughes,OCA-101,Ops Cloud Admin Essentials,2020-12-06,,,
+jerry.okafor@erie.example,Jerry Okafor,DSP-110,Dispatch Board Basics,2021-05-26,,,
+emre.gray@erie.example,Emre Gray,RPT-210,Reporting and Insights,2021-05-07,,,
+yuki.iyer@floreshq.example,Yuki Iyer,OCA-101,Ops Cloud Admin Essentials,2020-12-05,,,
+kimberly.gonzalez@floreshq.example,Kimberly Gonzalez,MOB-130,Mobile App for Technicians,2021-04-15,2021-04-17,83,
+jack.price-jones@kittredgecorp-ca.example,Jack Price-Jones,OCA-101,Ops Cloud Admin Essentials,2020-12-01,2020-12-09,73,CERT-oZcdoyNR
+jose.price@kittredgecorp-ca.example,Jose Price,RPT-210,Reporting and Insights,2021-04-11,2021-05-19,80,
+ROBERT.GARCIA@KITTREDGECORP-CA.EXAMPLE,Robert Garcia,RPT-210,Reporting and Insights,2020-12-29,2021-01-09,71,
+william.lindqvist@pioneer.example,William Lindqvist,OCA-101,Ops Cloud Admin Essentials,2020-12-02,2020-12-05,97,CERT-zCQrpJ1w
+jesse.gonzalez@pioneer.example,Jesse Gonzalez,INV-120,Invoicing in Ops Cloud,2021-06-08,,,
+mireille.nelson@pioneer.example,Mireille Nelson,DSP-110,Dispatch Board Basics,2021-09-28,2021-10-22,61,
+james.mensah@lecorp-ca.example,James Mensah,OCA-101,Ops Cloud Admin Essentials,2021-01-07,2021-01-14,92,CERT-0TWehnxx
+nicole.martinez@cedar.example,Nicole Martinez,OCA-101,Ops Cloud Admin Essentials,2021-01-07,2021-04-05,81,CERT-l9PWimff
+jacob.whitlock@cedar.example,Jacob Whitlock,DSP-110,Dispatch Board Basics,2021-06-23,,,
+nathan.pham@cedar.example,Nathan Pham,INV-120,Invoicing in Ops Cloud,2021-02-05,,,
+adam.collins@cedar.example,Adam Collins,MOB-130,Mobile App for Technicians,2021-09-30,2021-10-21,81,
+dylan.rodriguez@mesa-inc.example,Dylan Rodriguez,INV-120,Invoicing in Ops Cloud,2021-05-28,,,
+maria.mccarthy@cascadehq.example,Maria McCarthy,MOB-130,Mobile App for Technicians,2021-05-14,2021-06-22,78,
+zachary.clark@cascadehq.example,Zachary Clark,INV-120,Invoicing in Ops Cloud,2021-06-21,2021-07-13,84,
+kevin.chavez@cascadehq.example,Kevin Chavez,DSP-110,Dispatch Board Basics,2021-03-13,2021-04-11,73,
+douglas.adeyemi@commonwealthhq.example,Douglas Adeyemi,OCA-101,Ops Cloud Admin Essentials,2021-01-01,2021-01-12,80,CERT-J8MYgBuj
+jessica.ingleby@commonwealthhq.example,Jessica Ingleby,INV-120,Invoicing in Ops Cloud,2021-07-02,2021-07-18,67,
+lucia.kowalski@kingsley-inc.example,Lucia Kowalski,DSP-110,Dispatch Board Basics,2021-07-05,2021-08-04,91,
+jason.rivera@kingsley-inc.example,Jason Rivera,INV-120,Invoicing in Ops Cloud,2021-03-26,2021-04-15,87,
+diana.williams@kingsley-inc.example,Diana Williams,RPT-210,Reporting and Insights,2021-03-06,2021-03-15,64,
+ethan.jimenez@thompson-inc.example,Ethan Jimenez,OCA-101,Ops Cloud Admin Essentials,2021-01-04,2021-01-07,86,CERT-NfHQZeyH
+willie.whitlock@pinecrestcorp.example,Willie Whitlock,OCA-101,Ops Cloud Admin Essentials,2021-01-06,,,
+nathan.chen@pinecrestcorp.example,Nathan Chen,MOB-130,Mobile App for Technicians,2021-06-23,2021-07-05,60,
+gabriel.venkatesan@green-uk.example,Gabriel Venkatesan,OCA-101,Ops Cloud Admin Essentials,2021-02-05,2021-02-14,89,CERT-tZfQnBhO
+paul.obrien@jonescorp.example,Paul O'Brien,OCA-101,Ops Cloud Admin Essentials,2021-02-03,2021-02-08,89,CERT-qkCsMFLU
+diana.flores@jonescorp.example,Diana Flores,INV-120,Invoicing in Ops Cloud,2021-08-31,2021-09-14,90,
+roger.reed@cartwright-inc.example,Roger Reed,INV-120,Invoicing in Ops Cloud,2021-10-31,,,
+zainab.gomez@highlandhq.example,Zainab Gomez,OCA-101,Ops Cloud Admin Essentials,2021-02-02,2021-02-26,78,CERT-8I60UmXm
+genevieve.rodriguez@highlandhq.example,Genevieve Rodriguez,RPT-210,Reporting and Insights,2021-04-12,,,
+lisa.reed@highlandhq.example,Lisa Reed,DSP-110,Dispatch Board Basics,2021-09-21,2021-10-30,73,
+amanda.anderson@highlandhq.example,Amanda Anderson,MOB-130,Mobile App for Technicians,2021-08-11,2021-08-17,68,
+jeffrey.edwards@tamarack-inc.example,Jeffrey Edwards,OCA-101,Ops Cloud Admin Essentials,2021-02-07,2021-02-18,98,CERT-9mKweeRB
+shirley.fairweather@tamarack-inc.example,Shirley Fairweather,MOB-130,Mobile App for Technicians,2021-04-25,,,
+wei.watson@fairhavencorp.example,Wei Watson,RPT-210,Reporting and Insights,2021-08-18,2021-09-04,67,
+jordan.mendoza@fairhavencorp.example,Jordan Mendoza,INV-120,Invoicing in Ops Cloud,2021-02-12,,,
+frank.le@union.example,Frank Le,RPT-210,Reporting and Insights,2021-07-21,2021-07-27,55,
+sanjay.mccarthy@union.example,Sanjay McCarthy,RPT-210,Reporting and Insights,2021-04-12,2021-04-28,67,
+thiago.kittredge@quillfeather.example,Thiago Kittredge,OCA-101,Ops Cloud Admin Essentials,2021-02-01,2021-02-12,73,CERT-P4jlOzSB
+douglas.goodenough@miami-inc.example,Douglas Goodenough,OCA-101,Ops Cloud Admin Essentials,2021-02-07,2021-02-16,88,CERT-QJn4Iins
+john.ortiz@miami-inc.example,John Ortiz,MOB-130,Mobile App for Technicians,2021-07-27,2021-08-21,75,
+jason.castillo@pioneer.example,Jason Castillo,OCA-101,Ops Cloud Admin Essentials,2021-02-06,2021-02-18,90,CERT-4Ln5xS4v
+MADISON.HARGREAVES@PIONEER.EXAMPLE,Madison Hargreaves,RPT-210,Reporting and Insights,2021-09-18,,,
+theresa.williams@pioneer.example,Theresa Williams,MOB-130,Mobile App for Technicians,2021-09-26,,,
+dennis.lindqvist@cedarhq-uk.example,Dennis Lindqvist,OCA-101,Ops Cloud Admin Essentials,2021-03-07,,,
+noor.wright@cedarhq-uk.example,Noor Wright,INV-120,Invoicing in Ops Cloud,2021-12-23,2022-01-29,81,
+christopher.ingleby@halvorsen-inc-uk.example,Christopher Ingleby,OCA-101,Ops Cloud Admin Essentials,2021-03-06,2021-03-18,81,CERT-JvvuTdyB
+alexander.brown@riverbend-inc-uk.example,Alexander Brown,OCA-101,Ops Cloud Admin Essentials,2021-03-03,2021-03-24,93,CERT-RVA2cx0z
+margaret.campbell@riverbend-inc-uk.example,Margaret Campbell,RPT-210,Reporting and Insights,2021-06-07,,,
+amelie.brown@allegheny-uk.example,Amelie Brown,OCA-101,Ops Cloud Admin Essentials,2021-03-06,2021-03-24,97,CERT-dutpNUOk
+raymond.long@allegheny-uk.example,Raymond Long,DSP-110,Dispatch Board Basics,2021-10-21,2021-11-20,68,
+laura.perez@maplewood.example,Laura Perez,OCA-101,Ops Cloud Admin Essentials,2021-03-05,2021-03-28,72,CERT-RddxXIZu
+ethan.bailey@maplewood.example,Ethan Bailey,DSP-110,Dispatch Board Basics,2021-08-16,2021-08-27,81,
+susan.cox@maplewood.example,Susan Cox,MOB-130,Mobile App for Technicians,2021-12-02,2021-12-05,70,
+albert.le@maplewood.example,Albert Le,INV-120,Invoicing in Ops Cloud,2021-04-27,2021-05-31,59,
+kevin.rahman@highlandcorp.example,Kevin Rahman,OCA-101,Ops Cloud Admin Essentials,2021-03-04,2021-03-12,92,CERT-BvhpsIQR
+william.mitchell@highlandcorp.example,William Mitchell,DSP-110,Dispatch Board Basics,2021-08-18,,,
+sara.gomez@ravenwoodhq-ca.example,Sara Gomez,MOB-130,Mobile App for Technicians,2021-08-20,2021-09-20,96,
+amelie.moore@shenandoahhq.example,Amelie Moore,OCA-101,Ops Cloud Admin Essentials,2021-03-01,2021-03-23,75,CERT-sJCXjrL2
+nikolai.adeyemi@garcia.example,Nikolai Adeyemi,MOB-130,Mobile App for Technicians,2021-07-26,,,
+anika.lee@prairiecorp.example,Anika Lee,OCA-101,Ops Cloud Admin Essentials,2021-03-07,2021-03-28,81,CERT-k3EUzLRg
+charles.ortiz@prairiecorp.example,Charles Ortiz,RPT-210,Reporting and Insights,2021-06-27,2021-08-06,62,
+gabriel.hernandez@prairiecorp.example,Gabriel Hernandez,MOB-130,Mobile App for Technicians,2021-07-03,,,
+sean.huang@lakes-inc.example,Sean Huang,OCA-101,Ops Cloud Admin Essentials,2021-03-03,2021-07-04,64,CERT-gDkzPQBH
+lucia.iyer@lakes-inc.example,Lucia Iyer,DSP-110,Dispatch Board Basics,2021-07-15,2021-07-20,66,
+aaron.carter@cartercorp-uk.example,Aaron Carter,INV-120,Invoicing in Ops Cloud,2022-01-23,2022-01-26,99,
+nicholas.johansson@cartercorp-uk.example,Nicholas Johansson,RPT-210,Reporting and Insights,2021-09-03,,,
+kwame.hughes@sanders-inc-uk.example,Kwame Hughes,OCA-101,Ops Cloud Admin Essentials,2021-04-07,,,
+layla.kowalski@sanders-inc-uk.example,Layla Kowalski,RPT-210,Reporting and Insights,2021-05-01,,,
+patricia.brown@parkercorp.example,Patricia Brown,OCA-101,Ops Cloud Admin Essentials,2021-04-03,2021-04-27,86,CERT-ZfDUXWwC
+evelyn.young@parkercorp.example,Evelyn Young,RPT-210,Reporting and Insights,2021-06-30,2021-08-02,75,
+donald.clark@eastlakecorp.example,Donald Clark,OCA-101,Ops Cloud Admin Essentials,2021-04-06,2021-05-02,91,CERT-5TQaj000
+janice.gomez@eastlakecorp.example,Janice Gomez,RPT-210,Reporting and Insights,2021-06-02,,,
+mei.ostrander@eastlakecorp.example,Mei Ostrander,RPT-210,Reporting and Insights,2022-01-04,2022-02-12,81,
+amanda.wright@eastlakecorp.example,Amanda Wright,MOB-130,Mobile App for Technicians,2021-08-05,,,
+janet.moore@chen-inc.example,Janet Moore,OCA-101,Ops Cloud Admin Essentials,2021-04-05,,,
+keith.esposito@chen-inc.example,Keith Esposito,RPT-210,Reporting and Insights,2022-01-30,2022-03-05,96,
+callum.martinez@bluewatercorp.example,Callum Martinez,OCA-101,Ops Cloud Admin Essentials,2021-04-01,2021-04-16,87,CERT-0yAGpYga
+jacqueline.okafor@bluewatercorp.example,Jacqueline Okafor,MOB-130,Mobile App for Technicians,2021-08-16,2021-09-03,89,
+jordan.moore@bluewatercorp.example,Jordan Moore,MOB-130,Mobile App for Technicians,2022-01-07,2022-02-10,90,
+katherine.tran@bluewatercorp.example,Katherine Tran,INV-120,Invoicing in Ops Cloud,2021-10-30,2021-11-30,89,
+femi.choi@kestrel-inc.example,Femi Choi,DSP-110,Dispatch Board Basics,2021-11-04,2021-11-08,71,
+siobhan.kelly@kestrel-inc.example,Siobhan Kelly,MOB-130,Mobile App for Technicians,2021-05-03,,,
+shirley.richardson@fitzgeraldhq.example,Shirley Richardson,OCA-101,Ops Cloud Admin Essentials,2021-04-04,2021-04-13,95,CERT-oO1sBQND
+judith.young@ingleby-inc.example,Judith Young,OCA-101,Ops Cloud Admin Essentials,2021-04-02,2021-04-04,94,CERT-qoeSEj8z
+kimberly.alvarez@ingleby-inc.example,Kimberly Alvarez,MOB-130,Mobile App for Technicians,2021-05-30,2021-06-19,80,
+ruth.hall@ingleby-inc.example,Ruth Hall,RPT-210,Reporting and Insights,2021-05-02,,,
+eric.perez@ashfordhq.example,Eric Perez,OCA-101,Ops Cloud Admin Essentials,2021-04-02,2021-08-28,67,CERT-LEk3Oz19
+bjorn.johnson@muskingumcorp-ca.example,Bjorn Johnson,INV-120,Invoicing in Ops Cloud,2022-01-29,,,
+leila.alvarez@muskingumcorp-ca.example,Leila Alvarez,INV-120,Invoicing in Ops Cloud,2021-06-12,,,
+joyce.rogers@muskingumcorp-ca.example,Joyce Rogers,RPT-210,Reporting and Insights,2021-12-16,2021-12-24,97,
+ABIGAIL.BROOKS@MENDOZA.EXAMPLE,Abigail Brooks,INV-120,Invoicing in Ops Cloud,2021-07-13,2021-08-12,79,
+austin.abernathy@pinecrestcorp.example,Austin Abernathy,OCA-101,Ops Cloud Admin Essentials,2021-04-04,2021-04-11,98,CERT-NplmJjm9
+robert.adeyemi@pinecrestcorp.example,Robert Adeyemi,RPT-210,Reporting and Insights,2021-04-14,2021-05-18,62,
+ronald.turner@yamamoto.example,Ronald Turner,INV-120,Invoicing in Ops Cloud,2021-09-29,2021-10-15,71,
+jesse.ingleby@beaconhq-uk.example,Jesse Ingleby,RPT-210,Reporting and Insights,2021-10-21,2021-10-29,93,
+kathleen.choi@beaconhq-uk.example,Kathleen Choi,RPT-210,Reporting and Insights,2021-10-09,2021-11-01,64,
+frances.dubois@sierracorp-uk.example,Frances Dubois,OCA-101,Ops Cloud Admin Essentials,2021-05-07,2021-05-23,91,CERT-iq0TbgsZ
+natalie.myers@sierracorp-uk.example,Natalie Myers,DSP-110,Dispatch Board Basics,2021-09-08,2021-09-13,91,
+rosa.campbell-rhys@sierracorp-uk.example,Rosa Campbell-Rhys,RPT-210,Reporting and Insights,2021-05-16,2021-06-14,79,
+brenda.diaz@sierracorp-uk.example,Brenda Diaz,RPT-210,Reporting and Insights,2021-12-09,2022-01-14,82,
+samantha.walker@wright-inc-uk.example,Samantha Walker,OCA-101,Ops Cloud Admin Essentials,2021-05-07,2021-05-26,73,CERT-HubBTKJw
+zachary.cox@wright-inc-uk.example,Zachary Cox,MOB-130,Mobile App for Technicians,2021-05-25,2021-06-19,85,
+patricia.baker@wright-inc-uk.example,Patricia Baker,MOB-130,Mobile App for Technicians,2021-10-30,2021-12-07,83,
+bryce.quillfeather@wright-inc-uk.example,Bryce Quillfeather,DSP-110,Dispatch Board Basics,2021-05-12,2021-05-25,87,
+etienne.abernathy@mccarthycorp-uk.example,Etienne Abernathy,RPT-210,Reporting and Insights,2021-12-05,,,
+lisa.ostrander@muskingum-uk.example,Lisa Ostrander,OCA-101,Ops Cloud Admin Essentials,2021-05-06,2021-05-16,74,CERT-r9dP9WDv
+amelie.bennett@muskingum-uk.example,Amelie Bennett,DSP-110,Dispatch Board Basics,2022-01-26,,,
+javier.ruiz@muskingum-uk.example,Javier Ruiz,INV-120,Invoicing in Ops Cloud,2021-07-11,2021-08-14,92,
+RAYMOND.BYRNE@SOUTHPORT.EXAMPLE,Raymond Byrne,RPT-210,Reporting and Insights,2021-07-02,,,
+lisa.taylor@oakmerecorp.example,Lisa Taylor,MOB-130,Mobile App for Technicians,2021-08-18,,,
+walter.brown@oakmerecorp.example,Walter Brown,MOB-130,Mobile App for Technicians,2021-09-14,,,
+ngozi.tanaka@union.example,Ngozi Tanaka,OCA-101,Ops Cloud Admin Essentials,2021-05-03,2021-05-05,72,CERT-a889lKXZ
+gloria.cox@libertyhq.example,Gloria Cox,OCA-101,Ops Cloud Admin Essentials,2021-05-02,2021-05-13,100,CERT-dnznWr0t
+natalie.young@libertyhq.example,Natalie Young,INV-120,Invoicing in Ops Cloud,2022-01-23,2022-02-16,73,
+astrid.chaudhry@beaconcorp.example,Astrid Chaudhry,OCA-101,Ops Cloud Admin Essentials,2021-05-04,2021-05-11,81,CERT-jwQD4vY4
+lawrence.myers@beaconcorp.example,Lawrence Myers,MOB-130,Mobile App for Technicians,2022-02-14,,,
+frank.kim@whitlockcorp.example,Frank Kim,OCA-101,Ops Cloud Admin Essentials,2021-05-04,2021-05-25,73,CERT-l7ki6rzd
+timothy.perez@whitlockcorp.example,Timothy Perez,INV-120,Invoicing in Ops Cloud,2021-06-02,,,
+renata.ramirez@whitlockcorp.example,Renata Ramirez,RPT-210,Reporting and Insights,2021-12-06,2022-01-14,62,
+FEMI.BAILEY@WHITLOCKCORP.EXAMPLE,Femi Bailey,INV-120,Invoicing in Ops Cloud,2021-09-05,2021-10-11,77,
+hiroshi.reyes@great-inc.example,Hiroshi Reyes,OCA-101,Ops Cloud Admin Essentials,2021-05-07,2021-05-13,82,CERT-EACSLvGL
+ruth.torres@frontiercorp.example,Ruth Torres,OCA-101,Ops Cloud Admin Essentials,2021-05-04,2021-05-09,91,CERT-sw2OVLUN
+ngozi.nguyen@frontiercorp.example,Ngozi Nguyen,MOB-130,Mobile App for Technicians,2021-08-29,2021-09-22,100,
+judy.cooper@cooper-inc.example,Judy Cooper,OCA-101,Ops Cloud Admin Essentials,2021-05-01,2021-05-06,94,CERT-cXIsL6aJ
+sean.sorensen@cooper-inc.example,Sean Sorensen,DSP-110,Dispatch Board Basics,2021-11-26,2022-01-03,97,
+cheryl.wood@cooper-inc.example,Cheryl Wood,MOB-130,Mobile App for Technicians,2021-12-04,2021-12-07,75,
+oluwaseun.walker@granitecorp.example,Oluwaseun Walker,INV-120,Invoicing in Ops Cloud,2022-01-19,,,
+anastasia.mitchell@blackhawkhq.example,Anastasia Mitchell,OCA-101,Ops Cloud Admin Essentials,2021-05-02,2021-05-20,97,CERT-Q6HJEjCw
+joan.rogers@prairiecorp.example,Joan Rogers,OCA-101,Ops Cloud Admin Essentials,2021-06-06,2021-06-14,82,CERT-hXYMVeJ9
+charles.moore@prairiecorp.example,Charles Moore,DSP-110,Dispatch Board Basics,2021-09-23,2021-10-08,83,
+austin.lefebvre@prairiecorp.example,Austin Lefebvre,MOB-130,Mobile App for Technicians,2022-01-18,2022-02-05,83,
+albert.morgan@liberty.example,Albert Morgan,MOB-130,Mobile App for Technicians,2021-08-31,2021-09-16,67,
+helen.ruiz@liberty.example,Helen Ruiz,RPT-210,Reporting and Insights,2022-01-27,,,
+john.gonzalez@williamshq.example,John Gonzalez,OCA-101,Ops Cloud Admin Essentials,2021-06-06,2021-08-10,62,CERT-n15Pr6NW
+margaret.oconnor@williamshq.example,Margaret O'Connor,DSP-110,Dispatch Board Basics,2021-09-18,2021-09-27,82,
+jesse.brooks@williamshq.example,Jesse Brooks,DSP-110,Dispatch Board Basics,2022-02-12,2022-03-07,91,
+victoria.clark@williamshq.example,Victoria Clark,DSP-110,Dispatch Board Basics,2021-12-17,2022-01-12,66,
+minh.garcia@plainscorp.example,Minh Garcia,OCA-101,Ops Cloud Admin Essentials,2021-06-05,2021-06-08,85,CERT-hHub342G
+rhys.thompson@prairiehq.example,Rhys Thompson,OCA-101,Ops Cloud Admin Essentials,2021-06-04,2021-06-13,78,CERT-gDrQXN6u
+arthur.castillo@peterson.example,Arthur Castillo,OCA-101,Ops Cloud Admin Essentials,2021-06-01,2021-06-06,93,CERT-uOXDplHc
+carolyn.ashdown@lindenwoodcorp.example,Carolyn Ashdown,OCA-101,Ops Cloud Admin Essentials,2021-06-03,2021-06-05,73,CERT-0RnMY2Fl
+aaron.morales@lindenwoodcorp.example,Aaron Morales,INV-120,Invoicing in Ops Cloud,2021-12-04,2021-12-30,67,
+roger.obrien@miamihq.example,Roger O'Brien,OCA-101,Ops Cloud Admin Essentials,2021-06-07,2021-06-19,80,CERT-6AcHaRQM
+andrew.martin@miamihq.example,Andrew Martin,INV-120,Invoicing in Ops Cloud,2021-07-11,2021-08-02,66,
+javier.rivera@miamihq.example,Javier Rivera,DSP-110,Dispatch Board Basics,2022-01-15,2022-02-02,59,
+christian.campbell@miamihq.example,Christian Campbell,INV-120,Invoicing in Ops Cloud,2022-03-02,2022-03-19,99,
+justin.carter@marrow.example,Justin Carter,OCA-101,Ops Cloud Admin Essentials,2021-06-07,2021-06-27,89,CERT-l4mPRFOl
+DEEPA.MORALES@MARROW.EXAMPLE,Deepa Morales,INV-120,Invoicing in Ops Cloud,2022-02-02,,,
+angela.chen@esposito.example,Angela Chen,MOB-130,Mobile App for Technicians,2022-02-24,2022-03-30,72,
+leila.lopez@esposito.example,Leila Lopez,INV-120,Invoicing in Ops Cloud,2022-01-09,2022-02-12,60,
+james.moreau@esposito.example,James Moreau,DSP-110,Dispatch Board Basics,2021-06-22,2021-06-26,82,
+austin.vance@rivers.example,Austin Vance,MOB-130,Mobile App for Technicians,2022-02-02,2022-03-04,57,
+amelie.mensah@rivers.example,Amelie Mensah,INV-120,Invoicing in Ops Cloud,2022-03-24,,,
+siobhan.wang@riverscorp-ca.example,Siobhan Wang,OCA-101,Ops Cloud Admin Essentials,2021-06-01,2021-06-05,98,CERT-FzCfYWyR
+christina.harris@riverscorp-ca.example,Christina Harris,MOB-130,Mobile App for Technicians,2021-08-06,2021-08-16,89,
+thomas.lefebvre@rivera-inc.example,Thomas Lefebvre,OCA-101,Ops Cloud Admin Essentials,2021-06-06,2021-06-19,86,CERT-OlpC4E9I
+evelyn.mccarthy@larkspur-inc.example,Evelyn McCarthy,OCA-101,Ops Cloud Admin Essentials,2021-06-02,2021-06-17,74,CERT-Bun9IscI
+michelle.rivera@larkspur-inc.example,Michelle Rivera,MOB-130,Mobile App for Technicians,2021-06-09,,,
+joyce.kim@ravenwood-inc.example,Joyce Kim,DSP-110,Dispatch Board Basics,2021-12-28,,,
+bronwen.nasser@ravenwood-inc.example,Bronwen Nasser,RPT-210,Reporting and Insights,2022-03-05,2022-04-07,65,
+rachel.patel@bluewatercorp.example,Rachel Patel,OCA-101,Ops Cloud Admin Essentials,2021-06-07,2021-10-27,83,CERT-ntdwxaRa
+renata.adams@bluewatercorp.example,Renata Adams,MOB-130,Mobile App for Technicians,2021-11-24,2021-12-13,63,
+cynthia.edwards@bluewatercorp.example,Cynthia Edwards,DSP-110,Dispatch Board Basics,2021-12-12,2022-01-14,90,
+minh.fontaine@brooksidehq.example,Minh Fontaine,OCA-101,Ops Cloud Admin Essentials,2021-07-07,2021-07-11,73,CERT-QsoCqxNE
+janet.jackson@sycamorehq.example,Janet Jackson,OCA-101,Ops Cloud Admin Essentials,2021-07-05,2021-07-08,100,CERT-ESGiBtVs
+elif.ward@sycamorehq.example,Elif Ward,MOB-130,Mobile App for Technicians,2021-10-17,2021-11-25,90,
+carl.penhallow@bluewatercorp.example,Carl Penhallow,OCA-101,Ops Cloud Admin Essentials,2021-07-03,2021-07-12,72,CERT-uajRp5Te
+rhys.bennett@bluewatercorp.example,Rhys Bennett,RPT-210,Reporting and Insights,2022-02-03,2022-02-20,75,
+astrid.chaudhry@bluewatercorp.example,Astrid Chaudhry,MOB-130,Mobile App for Technicians,2021-08-08,,,
+zainab.lefebvre@tillamook.example,Zainab Lefebvre,OCA-101,Ops Cloud Admin Essentials,2021-08-01,2021-08-20,100,CERT-JPff7GAv
+adam.parker@threecorp.example,Adam Parker,OCA-101,Ops Cloud Admin Essentials,2021-08-04,2021-08-20,99,CERT-jhaYGCKa
+AUSTIN.MILLER@THREECORP.EXAMPLE,Austin Miller,INV-120,Invoicing in Ops Cloud,2022-01-26,2022-02-18,97,
+minh.davis@keystone.example,Minh Davis,RPT-210,Reporting and Insights,2022-04-01,2022-05-05,71,
+bruce.brown@keystone.example,Bruce Brown,RPT-210,Reporting and Insights,2022-02-23,2022-03-11,66,
+carl.ramirez@gatehouse.example,Carl Ramirez,OCA-101,Ops Cloud Admin Essentials,2021-08-06,2021-08-08,83,CERT-ZGRBXlIJ
+christina.chaudhry@llewellyn-inc.example,Christina Chaudhry,OCA-101,Ops Cloud Admin Essentials,2021-08-03,2021-08-14,94,CERT-iOmnP1p8
+betty.martin@llewellyn-inc.example,Betty Martin,MOB-130,Mobile App for Technicians,2021-11-13,2021-12-17,76,
+AMY.SORENSEN@LLEWELLYN-INC.EXAMPLE,Amy Sorensen,RPT-210,Reporting and Insights,2021-11-10,2021-11-18,86,
+george.allen@keystone-inc.example,George Allen,OCA-101,Ops Cloud Admin Essentials,2021-08-06,,,
+lars.morris@keystone-inc.example,Lars Morris,DSP-110,Dispatch Board Basics,2022-04-04,2022-05-11,59,
+laura.ramirez@keystone-inc.example,Laura Ramirez,MOB-130,Mobile App for Technicians,2021-11-30,2022-01-01,72,
+sophia.scott@keystone-inc.example,Sophia Scott,MOB-130,Mobile App for Technicians,2021-08-29,2021-09-22,60,
+carol.alvarez@magnolia.example,Carol Alvarez,OCA-101,Ops Cloud Admin Essentials,2021-08-01,2021-08-22,75,CERT-sGog5llW
+ethan.young@howard-inc.example,Ethan Young,OCA-101,Ops Cloud Admin Essentials,2021-08-01,2021-08-25,97,CERT-dfpLYeEZ
+GENEVIEVE.WATSON@HOWARD-INC.EXAMPLE,Genevieve Watson,INV-120,Invoicing in Ops Cloud,2021-10-17,2021-11-19,94,
+jonathan.bennett@quillfeather-inc.example,Jonathan Bennett,OCA-101,Ops Cloud Admin Essentials,2021-08-02,2021-08-05,91,CERT-oTbk5cBI
+astrid.rahman@quillfeather-inc.example,Astrid Rahman,DSP-110,Dispatch Board Basics,2021-10-04,,,
+benjamin.gonzalez@quillfeather-inc.example,Benjamin Gonzalez,INV-120,Invoicing in Ops Cloud,2021-09-16,2021-09-28,86,
+jose.kittredge@marrowhq.example,Jose Kittredge,OCA-101,Ops Cloud Admin Essentials,2021-09-06,2021-09-16,77,CERT-W30luSfq
+rosa.clark@marrowhq.example,Rosa Clark,DSP-110,Dispatch Board Basics,2021-10-13,,,
+charlotte.evans@marrowhq.example,Charlotte Evans,MOB-130,Mobile App for Technicians,2022-05-08,,,
+theodora.williams@marrowhq.example,Theodora Williams,DSP-110,Dispatch Board Basics,2021-11-19,,,
+kenneth.raghunathan@garcia.example,Kenneth Raghunathan,OCA-101,Ops Cloud Admin Essentials,2021-09-02,2021-09-18,99,CERT-tdYmXqnq
+donna.le@garcia.example,Donna Le,DSP-110,Dispatch Board Basics,2021-11-14,,,
+jae-won.lefebvre@southportcorp.example,Jae-won Lefebvre,OCA-101,Ops Cloud Admin Essentials,2021-09-04,2022-02-22,87,CERT-vh2QWwYn
+JASON.OKONKWO-HALE@ROGERS-INC.EXAMPLE,Jason Okonkwo-Hale,RPT-210,Reporting and Insights,2022-01-05,,,
+wei.mccarthy@rogers-inc.example,Wei McCarthy,DSP-110,Dispatch Board Basics,2021-09-20,2021-10-08,74,
+renata.davis@huron-inc.example,Renata Davis,OCA-101,Ops Cloud Admin Essentials,2021-09-01,,,
+susan.pham@ramoscorp.example,Susan Pham,OCA-101,Ops Cloud Admin Essentials,2021-09-07,2022-02-12,62,CERT-mLBIvOaP
+matthew.young@ramoscorp.example,Matthew Young,MOB-130,Mobile App for Technicians,2022-02-05,2022-03-12,57,
+renata.lewis@delacroixcorp.example,Renata Lewis,OCA-101,Ops Cloud Admin Essentials,2021-09-01,2021-09-05,91,CERT-bxMWFZtN
+jae-won.chavez@delacroixcorp.example,Jae-won Chavez,INV-120,Invoicing in Ops Cloud,2021-11-05,2021-11-19,83,
+noor.lindqvist@delacroixcorp.example,Noor Lindqvist,MOB-130,Mobile App for Technicians,2021-09-15,,,
+sara.morris@clearwater-ca.example,Sara Morris,OCA-101,Ops Cloud Admin Essentials,2021-09-07,2021-09-16,78,CERT-rykEQhP4
+willie.tanaka@valley.example,Willie Tanaka,OCA-101,Ops Cloud Admin Essentials,2021-10-02,2021-10-04,74,CERT-OH5zewqG
+russell.lefebvre@valley.example,Russell Lefebvre,MOB-130,Mobile App for Technicians,2022-01-13,2022-01-15,72,
+sara.jimenez@valley.example,Sara Jimenez,MOB-130,Mobile App for Technicians,2022-06-21,2022-07-28,95,
+janet.johnson@valley.example,Janet Johnson,DSP-110,Dispatch Board Basics,2022-03-18,2022-03-28,91,
+isabella.white@ramirez-inc.example,Isabella White,DSP-110,Dispatch Board Basics,2021-12-21,2021-12-27,55,
+joshua.ostrander@venkatesan.example,Joshua Ostrander,OCA-101,Ops Cloud Admin Essentials,2021-10-05,2021-10-26,74,CERT-DbHKRIwI
+austin.haddad@venkatesan.example,Austin Haddad,MOB-130,Mobile App for Technicians,2022-04-25,,,
+ronald.mendoza@venkatesan.example,Ronald Mendoza,MOB-130,Mobile App for Technicians,2022-04-10,,,
+samuel.delacroix@blackwood-inc.example,Samuel Delacroix,OCA-101,Ops Cloud Admin Essentials,2021-11-02,2021-11-18,100,CERT-MGJpPwCJ
+JERRY.LINDQVIST@BLACKWOOD-INC.EXAMPLE,Jerry Lindqvist,DSP-110,Dispatch Board Basics,2022-02-05,2022-03-09,78,
+joe.romano@blackhawk.example,Joe Romano,OCA-101,Ops Cloud Admin Essentials,2021-11-03,2021-11-11,100,CERT-gicMAdMS
+stephanie.mitchell@blackhawk.example,Stephanie Mitchell,DSP-110,Dispatch Board Basics,2022-01-15,2022-01-23,78,
+ruth.kim@blackhawk.example,Ruth Kim,INV-120,Invoicing in Ops Cloud,2022-08-08,2022-09-06,58,
+carolyn.pham@bennetthq.example,Carolyn Pham,OCA-101,Ops Cloud Admin Essentials,2021-11-01,2021-11-15,93,CERT-bdT9P6jv
+brandon.haddad@saginaw.example,Brandon Haddad,DSP-110,Dispatch Board Basics,2022-06-07,2022-07-14,55,
+sandra.park@saginaw.example,Sandra Park,INV-120,Invoicing in Ops Cloud,2022-05-22,,,
+yusuf.hernandez@kinghq.example,Yusuf Hernandez,OCA-101,Ops Cloud Admin Essentials,2021-11-02,2022-02-08,92,CERT-5ssytLTV
+elijah.macleod@kinghq.example,Elijah MacLeod,DSP-110,Dispatch Board Basics,2022-02-21,2022-03-18,79,
+LAYLA.ESPOSITO@KINGHQ.EXAMPLE,Layla Esposito,DSP-110,Dispatch Board Basics,2022-03-26,2022-04-29,85,
+amber.johansson@edwardshq.example,Amber Johansson,OCA-101,Ops Cloud Admin Essentials,2021-11-02,2021-11-12,80,CERT-nwpwwLfB
+olivia.carter@edwardshq.example,Olivia Carter,DSP-110,Dispatch Board Basics,2022-04-23,2022-05-27,75,
+thiago.abernathy@ironwoodhq.example,Thiago Abernathy,OCA-101,Ops Cloud Admin Essentials,2021-11-02,2022-05-12,88,CERT-yNxRsx35
+elizabeth.park@ironwoodhq.example,Elizabeth Park,RPT-210,Reporting and Insights,2021-12-21,2022-01-10,78,
+emma.allen@ironwoodhq.example,Emma Allen,MOB-130,Mobile App for Technicians,2022-02-27,2022-04-07,97,
+lisa.price@ironwoodhq.example,Lisa Price,DSP-110,Dispatch Board Basics,2021-12-08,2021-12-27,62,
+gabriel.collins@fosterhq.example,Gabriel Collins,OCA-101,Ops Cloud Admin Essentials,2021-12-06,2021-12-08,72,CERT-vD9XovDd
+william.wright@castillohq.example,William Wright,OCA-101,Ops Cloud Admin Essentials,2021-12-07,2021-12-25,81,CERT-H8eJoTYh
+camila.cook@chaudhry-ca.example,Camila Cook,OCA-101,Ops Cloud Admin Essentials,2021-12-07,2021-12-17,79,CERT-yYFjpPLj
+harry.gomez@whitlock-inc.example,Harry Gomez,DSP-110,Dispatch Board Basics,2022-05-02,2022-06-01,60,
+vincent.davis@whitlock-inc.example,Vincent Davis,MOB-130,Mobile App for Technicians,2022-02-05,2022-02-06,77,
+lawrence.turner@northgate.example,Lawrence Turner,OCA-101,Ops Cloud Admin Essentials,2021-12-07,2021-12-27,87,CERT-dJS8Td3c
+BRIAN.DELACROIX@NORTHGATE.EXAMPLE,Brian Delacroix,DSP-110,Dispatch Board Basics,2022-02-07,2022-03-17,57,
+andrea.alvarez@duboiscorp-ca.example,Andrea Alvarez,OCA-101,Ops Cloud Admin Essentials,2021-12-02,,,
+aaron.turner@jamescorp.example,Aaron Turner,OCA-101,Ops Cloud Admin Essentials,2021-12-01,,,
+scott.brooks@jamescorp.example,Scott Brooks,RPT-210,Reporting and Insights,2022-01-02,2022-01-29,99,
+susan.phillips@jamescorp.example,Susan Phillips,INV-120,Invoicing in Ops Cloud,2022-02-26,2022-03-10,55,
+mary.walker@jamescorp.example,Mary Walker,DSP-110,Dispatch Board Basics,2022-06-21,2022-07-19,100,
+charlotte.yamamoto@martinezcorp.example,Charlotte Yamamoto,OCA-101,Ops Cloud Admin Essentials,2021-12-01,2022-02-26,80,CERT-T4LaUnTa
+john.green@martinezcorp.example,John Green,MOB-130,Mobile App for Technicians,2022-03-25,,,
+linda.sanders@anderson.example,Linda Sanders,OCA-101,Ops Cloud Admin Essentials,2021-12-05,2021-12-23,100,CERT-qGg8wuV0
+logan.cook@anderson.example,Logan Cook,DSP-110,Dispatch Board Basics,2022-01-06,,,
+femi.howard@anderson.example,Femi Howard,MOB-130,Mobile App for Technicians,2022-06-21,2022-07-09,91,
+james.adeyemi@bluewater-inc.example,James Adeyemi,OCA-101,Ops Cloud Admin Essentials,2021-12-06,2021-12-14,77,CERT-t6ZQ9A5d
+anika.johnson@bluewater-inc.example,Anika Johnson,INV-120,Invoicing in Ops Cloud,2022-03-13,,,
+layla.mendoza@bluewater-inc.example,Layla Mendoza,DSP-110,Dispatch Board Basics,2022-01-31,2022-03-12,72,
+thuy.cooper@bluewater-inc.example,Thuy Cooper,INV-120,Invoicing in Ops Cloud,2022-07-17,2022-07-23,68,
+mei.hall@takahashi-inc.example,Mei Hall,OCA-101,Ops Cloud Admin Essentials,2022-01-02,2022-01-11,82,CERT-hPgQ1tXG
+JESSICA.GUTIERREZ@TAKAHASHI-INC.EXAMPLE,Jessica Gutierrez,MOB-130,Mobile App for Technicians,2022-09-10,,,
+deborah.mendoza@takahashi-inc.example,Deborah Mendoza,RPT-210,Reporting and Insights,2022-01-15,2022-01-17,99,
+eric.kittredge@takahashi-inc.example,Eric Kittredge,MOB-130,Mobile App for Technicians,2022-08-09,2022-08-28,60,
+helen.price@maplewood-inc.example,Helen Price,OCA-101,Ops Cloud Admin Essentials,2022-01-03,2022-05-08,95,CERT-WlOkrIsS
+anastasia.perez@maplewood-inc.example,Anastasia Perez,MOB-130,Mobile App for Technicians,2022-02-19,,,
+madison.wang@tricountyhq.example,Madison Wang,MOB-130,Mobile App for Technicians,2022-02-14,,,
+jonathan.jessop@tricountyhq.example,Jonathan Jessop,RPT-210,Reporting and Insights,2022-05-06,2022-06-10,72,
+rachel.sanchez@sandershq.example,Rachel Sanchez,OCA-101,Ops Cloud Admin Essentials,2022-01-02,2022-01-28,78,CERT-1alsGYtp
+wei.lee@sandershq.example,Wei Lee,RPT-210,Reporting and Insights,2022-03-23,,,
+denise.walker@miami.example,Denise Walker,OCA-101,Ops Cloud Admin Essentials,2022-01-06,2022-01-22,72,CERT-nRc9PIjH
+james.ramos@miami.example,James Ramos,DSP-110,Dispatch Board Basics,2022-06-04,2022-06-27,70,
+valentina.turner@miami.example,Valentina Turner,MOB-130,Mobile App for Technicians,2022-06-27,,,
+ryan.sorensen@miami.example,Ryan Sorensen,DSP-110,Dispatch Board Basics,2022-03-09,2022-04-09,94,
+javier.ross@huroncorp.example,Javier Ross,OCA-101,Ops Cloud Admin Essentials,2022-02-01,2022-02-25,97,CERT-7NCH1eYA
+karen.bouchard@huroncorp.example,Karen Bouchard,MOB-130,Mobile App for Technicians,2022-09-06,2022-09-07,82,
+bruce.ostrander@huroncorp.example,Bruce Ostrander,INV-120,Invoicing in Ops Cloud,2022-07-25,,,
+valentina.bailey@cornerstone.example,Valentina Bailey,OCA-101,Ops Cloud Admin Essentials,2022-02-02,2022-02-15,78,CERT-NxGQFIr4
+amber.murphy@cornerstone.example,Amber Murphy,MOB-130,Mobile App for Technicians,2022-02-24,2022-03-21,62,
+diane.perez@cornerstone.example,Diane Perez,INV-120,Invoicing in Ops Cloud,2022-04-06,2022-04-30,89,
+valentina.collins@cornerstone.example,Valentina Collins,INV-120,Invoicing in Ops Cloud,2022-02-11,2022-03-21,59,
+MARY.REYES@CORNERSTONE.EXAMPLE,Mary Reyes,INV-120,Invoicing in Ops Cloud,2022-03-07,2022-04-06,70,
+margaret.kim@cornerstone.example,Margaret Kim,INV-120,Invoicing in Ops Cloud,2022-09-22,2022-10-17,82,
+alan.rogers@highlandcorp.example,Alan Rogers,OCA-101,Ops Cloud Admin Essentials,2022-02-07,2022-02-11,73,CERT-aMA9uU5v
+isabella.taylor@highlandcorp.example,Isabella Taylor,INV-120,Invoicing in Ops Cloud,2022-07-23,2022-08-22,71,
+femi.calloway@highlandcorp.example,Femi Calloway,INV-120,Invoicing in Ops Cloud,2022-09-22,,,
+christopher.tanaka@highlandcorp.example,Christopher Tanaka,RPT-210,Reporting and Insights,2022-06-07,2022-06-28,64,
+david.okafor@northgatecorp.example,David Okafor,OCA-101,Ops Cloud Admin Essentials,2022-02-01,2022-02-25,100,CERT-gvZKbXv9
+patrick.gray@bluewater-inc.example,Patrick Gray,OCA-101,Ops Cloud Admin Essentials,2022-02-02,2022-02-16,95,CERT-ITKAQ5AQ
+ines.venkatesan@bluewater-inc.example,Ines Venkatesan,MOB-130,Mobile App for Technicians,2022-10-08,2022-10-12,80,
+jeffrey.macleod@crescenthq.example,Jeffrey MacLeod,OCA-101,Ops Cloud Admin Essentials,2022-02-04,2022-02-09,96,CERT-U00EgvyF
+thomas.davis@crescenthq.example,Thomas Davis,RPT-210,Reporting and Insights,2022-11-27,2022-12-06,97,
+vincent.green@crescenthq.example,Vincent Green,INV-120,Invoicing in Ops Cloud,2022-02-22,,,
+bjorn.esposito@hawthorne-inc.example,Bjorn Esposito,OCA-101,Ops Cloud Admin Essentials,2022-02-02,2022-02-26,87,CERT-dUOeU1cJ
+joao.ruiz@hawthorne-inc.example,Joao Ruiz,INV-120,Invoicing in Ops Cloud,2022-05-10,2022-06-11,85,
+kimberly.cook@hawthorne-inc.example,Kimberly Cook,DSP-110,Dispatch Board Basics,2022-08-15,2022-09-06,69,
+bryce.marchetti@llewellynhq.example,Bryce Marchetti,OCA-101,Ops Cloud Admin Essentials,2022-02-06,2022-02-17,98,CERT-KhgMsqJx
+nicole.gutierrez@riverbendcorp.example,Nicole Gutierrez,OCA-101,Ops Cloud Admin Essentials,2022-02-06,2022-02-22,90,CERT-1fdfz4uI
+sean.rodriguez@riverbendcorp.example,Sean Rodriguez,DSP-110,Dispatch Board Basics,2022-12-01,2022-12-09,87,
+bryce.sanders@valley-inc.example,Bryce Sanders,OCA-101,Ops Cloud Admin Essentials,2022-02-05,2022-02-10,98,CERT-wM1s75QE
+mireille.ortiz@valley-inc.example,Mireille Ortiz,RPT-210,Reporting and Insights,2022-02-05,,,
+hiroshi.murphy@valley-inc.example,Hiroshi Murphy,MOB-130,Mobile App for Technicians,2022-03-11,,,
+mark.gagnon@wexfordhq.example,Mark Gagnon,OCA-101,Ops Cloud Admin Essentials,2022-02-06,2022-02-16,79,CERT-LIJOasbh
+carl.pham@wexfordhq.example,Carl Pham,RPT-210,Reporting and Insights,2022-03-16,,,
+brandon.park@clearwater.example,Brandon Park,OCA-101,Ops Cloud Admin Essentials,2022-03-01,2022-03-11,75,CERT-qCbCUXJI
+jason.rahman@penhallowcorp.example,Jason Rahman,OCA-101,Ops Cloud Admin Essentials,2022-03-06,2022-03-08,79,CERT-drabriSc
+dylan.ingleby@penhallowcorp.example,Dylan Ingleby,RPT-210,Reporting and Insights,2022-09-02,2022-10-04,73,
+yusuf.walker@lindenwood.example,Yusuf Walker,OCA-101,Ops Cloud Admin Essentials,2022-03-01,,,
+walter.boateng@southportcorp.example,Walter Boateng,OCA-101,Ops Cloud Admin Essentials,2022-03-07,2022-03-28,95,CERT-6ukrLTbv
+stephanie.kittredge@southportcorp.example,Stephanie Kittredge,DSP-110,Dispatch Board Basics,2022-06-22,2022-07-24,94,
+jonathan.morales@crescenthq.example,Jonathan Morales,OCA-101,Ops Cloud Admin Essentials,2022-03-03,2022-03-29,93,CERT-cC0PvLMY
+sarah.sorensen@crescenthq.example,Sarah Sorensen,INV-120,Invoicing in Ops Cloud,2022-06-16,2022-06-27,63,
+priya.adams@crescenthq.example,Priya Adams,DSP-110,Dispatch Board Basics,2022-12-05,2022-12-12,62,
+santiago.garcia@commonwealth-inc.example,Santiago Garcia,OCA-101,Ops Cloud Admin Essentials,2022-03-02,2022-03-24,72,CERT-CeCvgNCX
+rhys.iyer@granitecorp-ca.example,Rhys Iyer,OCA-101,Ops Cloud Admin Essentials,2022-03-06,2022-03-22,82,CERT-1Aad7OLW
+roger.wang@anchorhq-ca.example,Roger Wang,OCA-101,Ops Cloud Admin Essentials,2022-03-02,2022-07-24,91,CERT-ApM22Qkk
+BETTY.SMITH@ANCHORHQ-CA.EXAMPLE,Betty Smith,MOB-130,Mobile App for Technicians,2022-07-30,2022-08-25,99,
+andrew.wilson@anchorhq-ca.example,Andrew Wilson,DSP-110,Dispatch Board Basics,2022-03-28,2022-04-22,57,
+kathleen.ashdown@anchorhq-ca.example,Kathleen Ashdown,DSP-110,Dispatch Board Basics,2022-05-31,,,
+oluwaseun.fenwick@bluewatercorp.example,Oluwaseun Fenwick,OCA-101,Ops Cloud Admin Essentials,2022-03-05,2022-03-07,88,CERT-ySuJpWaP
+jeffrey.myers@bluewatercorp.example,Jeffrey Myers,INV-120,Invoicing in Ops Cloud,2022-08-06,2022-08-12,68,
+judith.bouchard@pioneercorp.example,Judith Bouchard,OCA-101,Ops Cloud Admin Essentials,2022-03-07,2022-03-09,77,CERT-RXpD0gs2
+isabella.williams@pioneercorp.example,Isabella Williams,MOB-130,Mobile App for Technicians,2022-12-20,2023-01-09,86,
+theresa.chen@pioneercorp.example,Theresa Chen,DSP-110,Dispatch Board Basics,2022-04-24,2022-05-25,74,
+marilyn.esposito@maplewood-inc.example,Marilyn Esposito,MOB-130,Mobile App for Technicians,2022-07-21,,,
+nikolai.jackson@maplewood-inc.example,Nikolai Jackson,RPT-210,Reporting and Insights,2022-04-23,2022-05-11,57,
+lauren.edwards@ridgelinecorp.example,Lauren Edwards,OCA-101,Ops Cloud Admin Essentials,2022-04-04,2022-04-10,72,CERT-KCIL9SAT
+steven.vance@ridgelinecorp.example,Steven Vance,INV-120,Invoicing in Ops Cloud,2023-01-18,2023-02-18,70,
+charlotte.martin@eriecorp.example,Charlotte Martin,OCA-101,Ops Cloud Admin Essentials,2022-04-04,2022-04-16,73,CERT-UrIW74q3
+judith.gonzalez@superiorcorp.example,Judith Gonzalez,OCA-101,Ops Cloud Admin Essentials,2022-04-06,2022-04-20,72,CERT-bnbw6o5U
+eugene.mccarthy@superiorcorp.example,Eugene McCarthy,RPT-210,Reporting and Insights,2022-10-20,,,
+christine.green@superiorcorp.example,Christine Green,RPT-210,Reporting and Insights,2022-06-07,2022-06-30,78,
+tyler.green@pueblo-inc.example,Tyler Green,OCA-101,Ops Cloud Admin Essentials,2022-04-06,2022-04-21,95,CERT-3ge6lLRA
+samantha.jackson@gomezhq.example,Samantha Jackson,OCA-101,Ops Cloud Admin Essentials,2022-04-04,2022-04-08,93,CERT-k5CagZEL
+ingrid.okonkwo-hale@gomezhq.example,Ingrid Okonkwo-Hale,RPT-210,Reporting and Insights,2023-01-19,2023-02-07,91,
+carol.collins@gomezhq.example,Carol Collins,RPT-210,Reporting and Insights,2022-07-24,2022-08-31,91,
+tyler.stewart@gomezhq.example,Tyler Stewart,MOB-130,Mobile App for Technicians,2022-11-10,2022-12-19,78,
+betty.hall@okonkwohalehq.example,Betty Hall,OCA-101,Ops Cloud Admin Essentials,2022-04-05,2022-04-27,90,CERT-lm2pZtUH
+donna.turner@okonkwohalehq.example,Donna Turner,RPT-210,Reporting and Insights,2022-07-14,2022-07-27,91,
+rebecca.abernathy@heronhq.example,Rebecca Abernathy,OCA-101,Ops Cloud Admin Essentials,2022-04-04,,,
+arjun.thompson@sanchez.example,Arjun Thompson,OCA-101,Ops Cloud Admin Essentials,2022-04-01,2022-04-04,77,CERT-mrZUEmYw
+janice.gutierrez@sanchez.example,Janice Gutierrez,RPT-210,Reporting and Insights,2022-09-04,,,
+michael.lee@brooks-inc.example,Michael Lee,OCA-101,Ops Cloud Admin Essentials,2022-04-01,2022-04-22,73,CERT-H5Ooa0tA
+maria.rahman@brooks-inc.example,Maria Rahman,MOB-130,Mobile App for Technicians,2023-01-23,2023-02-26,74,
+beverly.okonkwo-hale@brooks-inc.example,Beverly Okonkwo-Hale,INV-120,Invoicing in Ops Cloud,2022-07-17,,,
+anika.llewellyn@sierra-inc-ca.example,Anika Llewellyn,OCA-101,Ops Cloud Admin Essentials,2022-04-06,2022-04-15,97,CERT-XH9o3ghH
+kathleen.pham@sierra-inc-ca.example,Kathleen Pham,INV-120,Invoicing in Ops Cloud,2022-09-30,,,
+shirley.delacroix@yamamoto-inc-ca.example,Shirley Delacroix,OCA-101,Ops Cloud Admin Essentials,2022-04-07,2022-04-11,88,CERT-MoiwYNgU
+scott.gutierrez@yamamoto-inc-ca.example,Scott Gutierrez,DSP-110,Dispatch Board Basics,2023-01-31,2023-03-08,69,
+bryce.ross@yamamoto-inc-ca.example,Bryce Ross,DSP-110,Dispatch Board Basics,2022-12-09,,,
+carl.alvarez@copperfield.example,Carl Alvarez,RPT-210,Reporting and Insights,2022-12-21,2023-01-27,66,
+shirley.scott@frontier-inc.example,Shirley Scott,OCA-101,Ops Cloud Admin Essentials,2022-04-04,2022-04-10,99,CERT-pfUUO2uh
+diana.sanders@gray-inc.example,Diana Sanders,OCA-101,Ops Cloud Admin Essentials,2022-04-05,2022-04-13,77,CERT-nBpafDyh
+diane.anderson@byrnecorp-ca.example,Diane Anderson,RPT-210,Reporting and Insights,2022-08-10,2022-09-11,76,
+bjorn.ashdown@byrnecorp-ca.example,Bjorn Ashdown,DSP-110,Dispatch Board Basics,2022-08-29,2022-09-17,89,
+heather.bennett@tricountyhq.example,Heather Bennett,OCA-101,Ops Cloud Admin Essentials,2022-05-04,2022-05-24,98,CERT-5BOuQPeM
+cheryl.lefebvre@tricountyhq.example,Cheryl Lefebvre,DSP-110,Dispatch Board Basics,2022-05-24,2022-06-05,56,
+SANJAY.RAMOS@TRICOUNTYHQ.EXAMPLE,Sanjay Ramos,RPT-210,Reporting and Insights,2022-10-28,2022-11-01,74,
+sophia.park@meadowlarkcorp.example,Sophia Park,INV-120,Invoicing in Ops Cloud,2023-01-07,,,
+raymond.calloway@anchor.example,Raymond Calloway,OCA-101,Ops Cloud Admin Essentials,2022-05-06,2022-05-31,87,CERT-k7prQuUk
+justin.peterson@anchor.example,Justin Peterson,INV-120,Invoicing in Ops Cloud,2023-02-07,2023-03-09,95,
+wei.lavoie@anchor.example,Wei Lavoie,RPT-210,Reporting and Insights,2022-10-02,,,
+sophia.chen@anchor.example,Sophia Chen,DSP-110,Dispatch Board Basics,2022-08-11,2022-08-17,87,
+carolyn.rivera@quarryhq-ca.example,Carolyn Rivera,INV-120,Invoicing in Ops Cloud,2022-10-04,,,
+samuel.johnson@tanakacorp.example,Samuel Johnson,OCA-101,Ops Cloud Admin Essentials,2022-05-03,2022-05-13,85,CERT-zLytKhdd
+brian.james@tanakacorp.example,Brian James,MOB-130,Mobile App for Technicians,2022-11-05,2022-11-23,65,
+laura.gray@wabashcorp.example,Laura Gray,DSP-110,Dispatch Board Basics,2022-07-24,2022-07-30,59,
+christina.gomez@wabashcorp.example,Christina Gomez,INV-120,Invoicing in Ops Cloud,2022-11-14,2022-12-16,72,
+leila.ellsworth@wabashcorp.example,Leila Ellsworth,MOB-130,Mobile App for Technicians,2022-07-15,2022-07-22,80,
+elizabeth.young@ramirezhq.example,Elizabeth Young,MOB-130,Mobile App for Technicians,2022-08-01,2022-08-15,88,
+rachel.adeyemi@tidewatercorp.example,Rachel Adeyemi,OCA-101,Ops Cloud Admin Essentials,2022-05-05,2022-05-23,90,CERT-QFuqJmTq
+patrick.reyes@tidewatercorp.example,Patrick Reyes,INV-120,Invoicing in Ops Cloud,2023-02-20,2023-02-27,79,
+brandon.robinson@tidewatercorp.example,Brandon Robinson,DSP-110,Dispatch Board Basics,2023-02-02,,,
+tariq.delacroix@lakeshore-inc.example,Tariq Delacroix,OCA-101,Ops Cloud Admin Essentials,2022-05-04,2022-05-09,93,CERT-rDnK3S5G
+danielle.zhang@lakeshore-inc.example,Danielle Zhang,DSP-110,Dispatch Board Basics,2022-11-23,2022-12-14,95,
+stephanie.martinez@lakeshore-inc.example,Stephanie Martinez,MOB-130,Mobile App for Technicians,2023-02-03,,,
+GABRIEL.DAVIS@LAKESHORE-INC.EXAMPLE,Gabriel Davis,RPT-210,Reporting and Insights,2022-11-10,2022-11-17,86,
+james.smith@westbrookcorp-ca.example,James Smith,OCA-101,Ops Cloud Admin Essentials,2022-05-03,2022-05-12,93,CERT-RdWNhUXc
+beverly.morales@westbrookcorp-ca.example,Beverly Morales,RPT-210,Reporting and Insights,2022-06-09,,,
+timothy.jones@westbrookcorp-ca.example,Timothy Jones,RPT-210,Reporting and Insights,2022-09-29,,,
+heather.taylor@westbrookcorp-ca.example,Heather Taylor,INV-120,Invoicing in Ops Cloud,2023-02-25,2023-02-28,75,
+noah.sorensen@harbortown.example,Noah Sorensen,OCA-101,Ops Cloud Admin Essentials,2022-05-07,2022-05-17,80,CERT-X9icA2OH
+george.sanders@harbortown.example,George Sanders,MOB-130,Mobile App for Technicians,2022-06-08,2022-07-02,74,
+nicole.brown@harbortown.example,Nicole Brown,RPT-210,Reporting and Insights,2022-09-08,2022-09-19,55,
+joe.tanaka@harbortown.example,Joe Tanaka,RPT-210,Reporting and Insights,2022-09-14,,,
+DOUGLAS.HERNANDEZ@THORNBURYCORP.EXAMPLE,Douglas Hernandez,DSP-110,Dispatch Board Basics,2022-10-29,2022-12-03,95,
+debra.fenwick@diaz-inc.example,Debra Fenwick,OCA-101,Ops Cloud Admin Essentials,2022-05-03,2022-05-14,90,CERT-gKE4TUJq
+mei.blackwood@westbrook.example,Mei Blackwood,MOB-130,Mobile App for Technicians,2022-05-13,2022-06-19,94,
+jessica.watson@westbrook.example,Jessica Watson,DSP-110,Dispatch Board Basics,2022-08-15,,,
+cynthia.collins@calloway-inc.example,Cynthia Collins,RPT-210,Reporting and Insights,2022-10-08,,,
+cynthia.penhallow@calloway-inc.example,Cynthia Penhallow,INV-120,Invoicing in Ops Cloud,2022-12-18,2023-01-20,80,
+ravi.morgan@lindenwood-inc.example,Ravi Morgan,OCA-101,Ops Cloud Admin Essentials,2022-05-05,2022-05-23,76,CERT-hAGw88Lr
+astrid.lefebvre@lindenwood-inc.example,Astrid Lefebvre,DSP-110,Dispatch Board Basics,2022-08-21,2022-09-13,67,
+rosa.abernathy@yarrow-inc.example,Rosa Abernathy,RPT-210,Reporting and Insights,2022-11-11,2022-12-08,65,
+jacob.ramos@browncorp.example,Jacob Ramos,OCA-101,Ops Cloud Admin Essentials,2022-06-07,,,
+jesse.morris@browncorp.example,Jesse Morris,MOB-130,Mobile App for Technicians,2023-03-25,2023-04-15,96,
+katherine.delacroix@browncorp.example,Katherine Delacroix,MOB-130,Mobile App for Technicians,2023-01-28,2023-02-10,88,
+thomas.castillo@bayou-inc.example,Thomas Castillo,OCA-101,Ops Cloud Admin Essentials,2022-06-07,2022-07-01,73,CERT-E6dbF1HF
+jordan.hughes@anchorcorp.example,Jordan Hughes,OCA-101,Ops Cloud Admin Essentials,2022-06-01,2022-06-17,74,CERT-Dui4vYYc
+raymond.rodriguez@anchorcorp.example,Raymond Rodriguez,INV-120,Invoicing in Ops Cloud,2023-01-29,,,
+donald.lockwood@union-inc.example,Donald Lockwood,INV-120,Invoicing in Ops Cloud,2022-12-11,,,
+elijah.pelletier@union-inc.example,Elijah Pelletier,RPT-210,Reporting and Insights,2023-01-23,,,
+LEILA.KING@UNION-INC.EXAMPLE,Leila King,INV-120,Invoicing in Ops Cloud,2022-07-12,,,
+deepa.mccarthy@saguarocorp.example,Deepa McCarthy,OCA-101,Ops Cloud Admin Essentials,2022-06-06,2022-12-11,74,CERT-QXQWBuut
+betty.johnson@saguarocorp.example,Betty Johnson,INV-120,Invoicing in Ops Cloud,2022-10-19,2022-11-24,68,
+RANDY.CASTILLO@SAGUAROCORP.EXAMPLE,Randy Castillo,INV-120,Invoicing in Ops Cloud,2023-01-30,2023-02-09,72,
+peter.turner@saguarocorp.example,Peter Turner,RPT-210,Reporting and Insights,2022-06-14,2022-06-16,77,
+logan.romano@heritagehq.example,Logan Romano,OCA-101,Ops Cloud Admin Essentials,2022-06-07,2022-07-02,81,CERT-S3Fr60Sp
+brian.ruiz@unioncorp-ca.example,Brian Ruiz,OCA-101,Ops Cloud Admin Essentials,2022-06-06,,,
+CHRISTOPHER.TREMBLAY@UNIONCORP-CA.EXAMPLE,Christopher Tremblay,DSP-110,Dispatch Board Basics,2022-08-11,2022-09-03,78,
+anika.yamamoto@hawthornecorp.example,Anika Yamamoto,RPT-210,Reporting and Insights,2023-01-10,2023-02-03,56,
+SAMANTHA.BROOKS@HAWTHORNECORP.EXAMPLE,Samantha Brooks,INV-120,Invoicing in Ops Cloud,2023-02-07,,,
+marguerite.scott@hawthornecorp.example,Marguerite Scott,INV-120,Invoicing in Ops Cloud,2022-09-09,2022-10-14,94,
+astrid.clark@mesacorp.example,Astrid Clark,OCA-101,Ops Cloud Admin Essentials,2022-06-07,2022-06-28,86,CERT-Y6yGOGRW
+deborah.clark@mesacorp.example,Deborah Clark,DSP-110,Dispatch Board Basics,2022-07-07,2022-08-10,67,
+ngozi.young@mesacorp.example,Ngozi Young,MOB-130,Mobile App for Technicians,2022-08-16,2022-08-31,68,
+KAREN.COOPER@STONEBRIDGEHQ.EXAMPLE,Karen Cooper,RPT-210,Reporting and Insights,2022-08-23,2022-09-07,99,
+jae-won.yamamoto@callowaycorp.example,Jae-won Yamamoto,OCA-101,Ops Cloud Admin Essentials,2022-06-04,2022-06-27,73,CERT-q0fBKfiL
+genevieve.green@callowaycorp.example,Genevieve Green,INV-120,Invoicing in Ops Cloud,2022-12-19,2023-01-28,99,
+edward.adeyemi@callowaycorp.example,Edward Adeyemi,RPT-210,Reporting and Insights,2023-02-13,2023-02-17,65,
+etienne.scott@walker-inc.example,Etienne Scott,OCA-101,Ops Cloud Admin Essentials,2022-06-04,2022-06-23,87,CERT-dibdeKoT
+bjorn.nasser@walker-inc.example,Bjorn Nasser,MOB-130,Mobile App for Technicians,2022-08-06,2022-08-09,94,
+sanjay.mccarthy@maplewoodcorp.example,Sanjay McCarthy,OCA-101,Ops Cloud Admin Essentials,2022-06-02,2022-12-06,74,CERT-qhy8owhT
+amber.chen@redstonecorp.example,Amber Chen,OCA-101,Ops Cloud Admin Essentials,2022-06-02,2022-10-09,73,CERT-tCLmtyxU
+raymond.iyer@redstonecorp.example,Raymond Iyer,DSP-110,Dispatch Board Basics,2022-08-20,,,
+bruce.carter@ridgeline.example,Bruce Carter,OCA-101,Ops Cloud Admin Essentials,2022-07-07,2022-07-23,75,CERT-N9HjJTTU
+eugene.okafor@rivers-inc.example,Eugene Okafor,OCA-101,Ops Cloud Admin Essentials,2022-07-07,2022-07-26,85,CERT-0W7sGXez
+paul.lefebvre@rivers-inc.example,Paul Lefebvre,DSP-110,Dispatch Board Basics,2023-01-18,2023-01-27,58,
+KEITH.DUBOIS@SAGUAROHQ-CA.EXAMPLE,Keith Dubois,INV-120,Invoicing in Ops Cloud,2022-10-20,,,
+YUSUF.WATSON@SAGUAROHQ-CA.EXAMPLE,Yusuf Watson,INV-120,Invoicing in Ops Cloud,2022-11-01,,,
+ngozi.mccarthy@saguarohq-ca.example,Ngozi McCarthy,RPT-210,Reporting and Insights,2023-02-07,2023-02-08,70,
+martha.brooks@rivershq.example,Martha Brooks,INV-120,Invoicing in Ops Cloud,2023-05-02,,,
+jean.vance@blackwood.example,Jean Vance,OCA-101,Ops Cloud Admin Essentials,2022-07-05,2022-07-26,74,CERT-S330HNAB
+hannah.whitlock@patelcorp.example,Hannah Whitlock,OCA-101,Ops Cloud Admin Essentials,2022-07-01,2022-07-10,87,CERT-58xrBoJM
+declan.parker@patelcorp.example,Declan Parker,RPT-210,Reporting and Insights,2023-02-21,2023-03-04,66,
+mireille.choi@patelcorp.example,Mireille Choi,RPT-210,Reporting and Insights,2022-12-09,,,
+patricia.ingleby@patelcorp.example,Patricia Ingleby,DSP-110,Dispatch Board Basics,2023-04-18,2023-04-29,96,
+diana.bennett@sierrahq.example,Diana Bennett,INV-120,Invoicing in Ops Cloud,2022-10-25,,,
+tyler.dubois@lakeshore.example,Tyler Dubois,OCA-101,Ops Cloud Admin Essentials,2022-07-07,2022-07-15,92,CERT-mkp3Lcgh
+lucia.goodenough@lakeshore.example,Lucia Goodenough,RPT-210,Reporting and Insights,2022-09-11,2022-09-24,89,
+emma.morgan@foxglovecorp.example,Emma Morgan,OCA-101,Ops Cloud Admin Essentials,2022-07-03,2022-07-12,87,CERT-9CnHSEQT
+bruce.diaz@foxglovecorp.example,Bruce Diaz,RPT-210,Reporting and Insights,2023-04-16,,,
+judy.raghunathan@garciacorp.example,Judy Raghunathan,OCA-101,Ops Cloud Admin Essentials,2022-07-05,2022-07-19,93,CERT-IN96uiXT
+carol.jackson@keystone-inc.example,Carol Jackson,OCA-101,Ops Cloud Admin Essentials,2022-08-01,2022-08-09,92,CERT-72DWMdgv
+sophia.lavoie@keystone-inc.example,Sophia Lavoie,MOB-130,Mobile App for Technicians,2023-02-02,2023-03-02,89,
+alan.cox@jimenezcorp.example,Alan Cox,OCA-101,Ops Cloud Admin Essentials,2022-08-05,2022-08-09,79,CERT-8tIBNLiY
+etienne.richardson@kingsley.example,Etienne Richardson,OCA-101,Ops Cloud Admin Essentials,2022-08-01,2022-08-18,94,CERT-eKHzxZRD
+sandra.le@kingsley.example,Sandra Le,MOB-130,Mobile App for Technicians,2022-08-14,,,
+emily.smith@sciotohq.example,Emily Smith,OCA-101,Ops Cloud Admin Essentials,2022-08-04,2022-08-07,90,CERT-LebLsVps
+layla.park@sciotohq.example,Layla Park,MOB-130,Mobile App for Technicians,2022-08-19,2022-09-09,66,
+douglas.morales@sciotohq.example,Douglas Morales,DSP-110,Dispatch Board Basics,2022-09-03,,,
+gloria.jackson@parkcorp.example,Gloria Jackson,OCA-101,Ops Cloud Admin Essentials,2022-08-04,2022-08-20,74,CERT-XLtMHe0U
+joseph.chaudhry@parkcorp.example,Joseph Chaudhry,DSP-110,Dispatch Board Basics,2023-02-05,2023-02-16,82,
+george.stewart@parkcorp.example,George Stewart,INV-120,Invoicing in Ops Cloud,2023-03-29,2023-04-25,79,
+abigail.morales@blackhawkcorp.example,Abigail Morales,RPT-210,Reporting and Insights,2023-03-27,,,
+william.james@reedhq.example,William James,RPT-210,Reporting and Insights,2022-11-23,2022-12-10,73,
+jonathan.chaudhry@watsoncorp.example,Jonathan Chaudhry,OCA-101,Ops Cloud Admin Essentials,2022-08-01,2022-08-14,76,CERT-X4HssJkV
+emma.llewellyn@watsoncorp.example,Emma Llewellyn,RPT-210,Reporting and Insights,2023-02-22,,,
+edward.garcia@gomezhq.example,Edward Garcia,OCA-101,Ops Cloud Admin Essentials,2022-08-05,2023-02-04,82,CERT-WEsduvBF
+JEREMY.TANAKA@GOMEZHQ.EXAMPLE,Jeremy Tanaka,RPT-210,Reporting and Insights,2023-03-17,2023-03-27,79,
+dylan.reed@gomezhq.example,Dylan Reed,DSP-110,Dispatch Board Basics,2023-01-19,2023-02-28,71,
+megan.howard@copperfield-inc.example,Megan Howard,OCA-101,Ops Cloud Admin Essentials,2022-08-05,2022-10-18,67,CERT-FE950k2L
+shirley.cooper@copperfield-inc.example,Shirley Cooper,INV-120,Invoicing in Ops Cloud,2022-12-22,2023-01-06,80,
+lawrence.stewart@superiorhq.example,Lawrence Stewart,OCA-101,Ops Cloud Admin Essentials,2022-08-06,2022-08-13,85,CERT-0NNrxssr
+dennis.richardson@kestrelcorp.example,Dennis Richardson,OCA-101,Ops Cloud Admin Essentials,2022-08-03,,,
+angela.lavoie@kestrelcorp.example,Angela Lavoie,INV-120,Invoicing in Ops Cloud,2023-05-21,,,
+steven.jones@pioneerhq.example,Steven Jones,OCA-101,Ops Cloud Admin Essentials,2022-09-03,2022-09-06,81,CERT-fWMbc9Nk
+abigail.sanchez@pioneerhq.example,Abigail Sanchez,INV-120,Invoicing in Ops Cloud,2022-11-26,2022-12-08,57,
+renata.fitzgerald@pioneerhq.example,Renata Fitzgerald,INV-120,Invoicing in Ops Cloud,2023-01-30,2023-02-20,60,
+astrid.collins@redstone.example,Astrid Collins,OCA-101,Ops Cloud Admin Essentials,2022-09-01,2022-09-08,94,CERT-P3NEmIPG
+nikolai.chavez@cascade-inc.example,Nikolai Chavez,OCA-101,Ops Cloud Admin Essentials,2022-09-05,2022-09-13,94,CERT-cFpJ7CGY
+shirley.mendoza@cascade-inc.example,Shirley Mendoza,MOB-130,Mobile App for Technicians,2022-11-20,2022-12-11,62,
+marilyn.tran@halvorsen-inc.example,Marilyn Tran,OCA-101,Ops Cloud Admin Essentials,2022-09-07,2022-09-11,73,CERT-jpl4jztf
+terry.byrne@halvorsen-inc.example,Terry Byrne,RPT-210,Reporting and Insights,2022-09-15,2022-09-26,80,
+camila.adeyemi@halvorsen-inc.example,Camila Adeyemi,MOB-130,Mobile App for Technicians,2023-06-28,,,
+victoria.cox@halvorsen-inc.example,Victoria Cox,INV-120,Invoicing in Ops Cloud,2023-04-25,2023-05-25,90,
+michelle.davis@cornerstone-inc.example,Michelle Davis,OCA-101,Ops Cloud Admin Essentials,2022-09-03,2022-09-13,83,CERT-OhJK4ikZ
+samantha.goodenough@cornerstone-inc.example,Samantha Goodenough,INV-120,Invoicing in Ops Cloud,2022-10-07,,,
+frances.lee@lanternhq.example,Frances Lee,RPT-210,Reporting and Insights,2023-05-30,2023-06-09,71,
+laura.long@haddadhq-ca.example,Laura Long,OCA-101,Ops Cloud Admin Essentials,2022-10-01,,,
+denise.calloway@haddadhq-ca.example,Denise Calloway,MOB-130,Mobile App for Technicians,2023-01-24,2023-02-06,58,
+julia.foster@sanchez-inc.example,Julia Foster,OCA-101,Ops Cloud Admin Essentials,2022-10-06,2023-03-29,75,CERT-f4CYwXVQ
+willie.fitzgerald@takahashihq.example,Willie Fitzgerald,INV-120,Invoicing in Ops Cloud,2022-11-28,,,
+FRANCES.WILSON@TAKAHASHIHQ.EXAMPLE,Frances Wilson,RPT-210,Reporting and Insights,2023-06-11,2023-07-19,89,
+jack.macleod@valleyhq-ca.example,Jack MacLeod,OCA-101,Ops Cloud Admin Essentials,2022-10-06,2022-11-01,95,CERT-Gf1jLBGs
+callum.wood@valleyhq-ca.example,Callum Wood,INV-120,Invoicing in Ops Cloud,2022-10-18,2022-10-21,78,
+hiroshi.parker@pioneer.example,Hiroshi Parker,OCA-101,Ops Cloud Admin Essentials,2022-10-07,2022-10-20,81,CERT-Kelpj5Kh
+mireille.lindqvist@thornburycorp.example,Mireille Lindqvist,RPT-210,Reporting and Insights,2022-11-01,,,
+lauren.mitchell@millerhq.example,Lauren Mitchell,OCA-101,Ops Cloud Admin Essentials,2022-10-04,2022-10-11,75,CERT-xFBhQ5g7
+michael.rodriguez@millerhq.example,Michael Rodriguez,DSP-110,Dispatch Board Basics,2023-07-03,2023-07-15,62,
+danielle.chen@perez.example,Danielle Chen,OCA-101,Ops Cloud Admin Essentials,2022-10-03,2022-10-18,92,CERT-Uhdvn21U
+joe.marchetti@perez.example,Joe Marchetti,MOB-130,Mobile App for Technicians,2023-01-01,2023-01-06,79,
+benjamin.vance@lakeshore-inc.example,Benjamin Vance,RPT-210,Reporting and Insights,2023-07-04,2023-07-29,88,
+noah.rogers@lakeshore-inc.example,Noah Rogers,MOB-130,Mobile App for Technicians,2022-12-19,,,
+jesse.gagnon@southport-inc.example,Jesse Gagnon,OCA-101,Ops Cloud Admin Essentials,2022-10-02,,,
+carolyn.takahashi@southport-inc.example,Carolyn Takahashi,DSP-110,Dispatch Board Basics,2023-05-15,2023-06-22,69,
+janet.adams@pioneer.example,Janet Adams,OCA-101,Ops Cloud Admin Essentials,2022-11-06,2022-11-19,95,CERT-A2urFXdh
+nathan.fenwick@pioneer.example,Nathan Fenwick,MOB-130,Mobile App for Technicians,2023-08-09,,,
+terry.smith@foxglove.example,Terry Smith,OCA-101,Ops Cloud Admin Essentials,2022-11-05,2022-12-01,84,CERT-V2BwAHMc
+madison.fontaine@foxglove.example,Madison Fontaine,DSP-110,Dispatch Board Basics,2023-05-14,,,
+gloria.hargreaves@foxglove.example,Gloria Hargreaves,INV-120,Invoicing in Ops Cloud,2023-07-12,2023-07-21,95,
+sandra.wang@foxglove.example,Sandra Wang,INV-120,Invoicing in Ops Cloud,2023-01-25,2023-01-26,75,
+denise.hall@clearwater-inc.example,Denise Hall,OCA-101,Ops Cloud Admin Essentials,2022-11-07,,,
+jacqueline.king@clearwater-inc.example,Jacqueline King,RPT-210,Reporting and Insights,2022-11-22,,,
+leila.cooper@clearwater-inc.example,Leila Cooper,INV-120,Invoicing in Ops Cloud,2023-06-21,2023-07-02,98,
+gabriel.penhallow@clearwater-inc.example,Gabriel Penhallow,DSP-110,Dispatch Board Basics,2023-01-22,2023-02-10,96,
+yuki.haddad@wabash.example,Yuki Haddad,OCA-101,Ops Cloud Admin Essentials,2022-11-05,2022-12-01,89,CERT-ayDSKhZB
+harold.mitchell@wabash.example,Harold Mitchell,RPT-210,Reporting and Insights,2022-12-19,,,
+jean.okafor@myers-inc.example,Jean Okafor,OCA-101,Ops Cloud Admin Essentials,2022-11-03,2022-11-25,94,CERT-6S70qQBH
+megan.halvorsen@copperfield.example,Megan Halvorsen,INV-120,Invoicing in Ops Cloud,2023-03-13,2023-03-27,65,
+ann.tanaka@copperfield.example,Ann Tanaka,RPT-210,Reporting and Insights,2022-12-16,,,
+bruce.ross@jones-inc.example,Bruce Ross,OCA-101,Ops Cloud Admin Essentials,2022-11-01,2022-11-04,86,CERT-RU9my4cB
+renata.price-jones@jones-inc.example,Renata Price-Jones,DSP-110,Dispatch Board Basics,2023-04-21,2023-05-26,76,
+jean.gagnon@duboiscorp.example,Jean Gagnon,OCA-101,Ops Cloud Admin Essentials,2022-11-05,,,
+joan.lefebvre@duboiscorp.example,Joan Lefebvre,MOB-130,Mobile App for Technicians,2023-05-18,,,
+scott.young@pinecrest.example,Scott Young,OCA-101,Ops Cloud Admin Essentials,2022-11-01,2022-11-18,75,CERT-mPgHSl7v
+jacqueline.young@petersonhq-ca.example,Jacqueline Young,OCA-101,Ops Cloud Admin Essentials,2022-11-04,2022-11-18,93,CERT-Yn1fxI3q
+ravi.brown@petersonhq-ca.example,Ravi Brown,RPT-210,Reporting and Insights,2023-04-01,2023-04-09,63,
+aaron.anderson@martinez.example,Aaron Anderson,OCA-101,Ops Cloud Admin Essentials,2022-12-05,,,
+rachel.perez@unioncorp.example,Rachel Perez,OCA-101,Ops Cloud Admin Essentials,2022-12-04,,,
+minh.phillips@unioncorp.example,Minh Phillips,DSP-110,Dispatch Board Basics,2023-09-01,2023-09-10,95,
+kathleen.diaz@westbrook-inc.example,Kathleen Diaz,MOB-130,Mobile App for Technicians,2023-04-20,2023-05-14,62,
+benjamin.jackson@westbrook-inc.example,Benjamin Jackson,RPT-210,Reporting and Insights,2023-05-16,,,
+anika.le@ozarkhq.example,Anika Le,OCA-101,Ops Cloud Admin Essentials,2022-12-04,2022-12-17,95,CERT-dR62aWGA
+theodora.garcia@huron.example,Theodora Garcia,OCA-101,Ops Cloud Admin Essentials,2022-12-02,2022-12-25,98,CERT-4Z774Jdp
+christopher.morgan@redstone-inc.example,Christopher Morgan,OCA-101,Ops Cloud Admin Essentials,2022-12-01,2022-12-23,93,CERT-M0xiVtnM
+cheryl.raghunathan@redstone-inc.example,Cheryl Raghunathan,MOB-130,Mobile App for Technicians,2023-04-26,,,
+SAMANTHA.CASTILLO@REDSTONE-INC.EXAMPLE,Samantha Castillo,INV-120,Invoicing in Ops Cloud,2023-06-17,,,
+george.obrien@redstone-inc.example,George O'Brien,DSP-110,Dispatch Board Basics,2023-05-21,2023-06-07,90,
+sarah.quillfeather@sandpiper-inc.example,Sarah Quillfeather,OCA-101,Ops Cloud Admin Essentials,2022-12-01,2022-12-15,78,CERT-xm6oZPWn
+helen.pelletier@tidewaterhq.example,Helen Pelletier,OCA-101,Ops Cloud Admin Essentials,2022-12-01,,,
+diane.haddad@tidewaterhq.example,Diane Haddad,RPT-210,Reporting and Insights,2023-06-03,2023-06-24,63,
+john.lewis@boateng.example,John Lewis,OCA-101,Ops Cloud Admin Essentials,2022-12-05,,,
+nancy.quillfeather@magnoliahq.example,Nancy Quillfeather,OCA-101,Ops Cloud Admin Essentials,2022-12-01,2022-12-08,75,CERT-Q6ZoGDI7
+ann.lindqvist@magnoliahq.example,Ann Lindqvist,RPT-210,Reporting and Insights,2023-03-16,2023-04-24,56,
+austin.morales@magnoliahq.example,Austin Morales,MOB-130,Mobile App for Technicians,2023-06-19,,,
+laura.hill@magnoliahq.example,Laura Hill,MOB-130,Mobile App for Technicians,2022-12-13,2023-01-20,87,
+melissa.lockwood@magnoliahq.example,Melissa Lockwood,RPT-210,Reporting and Insights,2023-06-01,2023-06-24,75,
+omar.nguyen@magnoliahq.example,Omar Nguyen,INV-120,Invoicing in Ops Cloud,2023-05-08,,,
+diana.lee@ashfordcorp.example,Diana Lee,OCA-101,Ops Cloud Admin Essentials,2022-12-03,2022-12-07,83,CERT-QH5wirCc
+rachel.kim@twin-inc.example,Rachel Kim,OCA-101,Ops Cloud Admin Essentials,2022-12-01,2022-12-20,95,CERT-7hoG6nNP
+sophia.sanders@twin-inc.example,Sophia Sanders,RPT-210,Reporting and Insights,2023-08-27,,,
+richard.kim@pioneerhq.example,Richard Kim,OCA-101,Ops Cloud Admin Essentials,2022-12-04,2022-12-23,96,CERT-zlTVtPzD
+diego.kittredge@pioneerhq.example,Diego Kittredge,INV-120,Invoicing in Ops Cloud,2023-09-29,2023-10-23,65,
+ann.williams@wexfordhq.example,Ann Williams,OCA-101,Ops Cloud Admin Essentials,2023-01-05,2023-06-23,94,CERT-DRyCOuQp
+janice.sanders@wexfordhq.example,Janice Sanders,MOB-130,Mobile App for Technicians,2023-06-06,2023-06-14,58,
+ann.obrien@wexfordhq.example,Ann O'Brien,DSP-110,Dispatch Board Basics,2023-05-15,2023-06-06,87,
+andrea.haddad@wexfordhq.example,Andrea Haddad,MOB-130,Mobile App for Technicians,2023-01-12,2023-02-18,80,
+anna.lewis@wexfordhq.example,Anna Lewis,RPT-210,Reporting and Insights,2023-07-01,2023-07-08,56,
+janet.garcia@hawthornecorp.example,Janet Garcia,INV-120,Invoicing in Ops Cloud,2023-06-01,,,
+jonathan.ortiz@ostrander.example,Jonathan Ortiz,OCA-101,Ops Cloud Admin Essentials,2023-01-04,2023-01-13,84,CERT-BQFTgH8Q
+steven.morris@ostrander.example,Steven Morris,DSP-110,Dispatch Board Basics,2023-07-01,,,
+nikolai.moreau@ostrander.example,Nikolai Moreau,DSP-110,Dispatch Board Basics,2023-08-18,2023-09-09,68,
+jacob.cartwright@miamicorp.example,Jacob Cartwright,OCA-101,Ops Cloud Admin Essentials,2023-01-01,2023-05-14,63,CERT-bJujrKEC
+siobhan.garcia@miamicorp.example,Siobhan Garcia,INV-120,Invoicing in Ops Cloud,2023-04-22,2023-04-25,72,
+madison.robinson@watsonhq.example,Madison Robinson,INV-120,Invoicing in Ops Cloud,2023-04-19,2023-05-24,74,
+daniel.castillo@blackhawkhq.example,Daniel Castillo,OCA-101,Ops Cloud Admin Essentials,2023-02-06,2023-02-09,73,CERT-vMwqCTYt
+samantha.halvorsen@blackhawkhq.example,Samantha Halvorsen,INV-120,Invoicing in Ops Cloud,2023-10-21,2023-11-11,95,
+CARL.SMITH@BLACKHAWKHQ.EXAMPLE,Carl Smith,INV-120,Invoicing in Ops Cloud,2023-08-23,,,
+emre.raghunathan@kestrelhq.example,Emre Raghunathan,DSP-110,Dispatch Board Basics,2023-09-09,2023-09-23,72,
+carl.penhallow@mesa.example,Carl Penhallow,OCA-101,Ops Cloud Admin Essentials,2023-02-05,2023-02-25,72,CERT-jAOY6T0v
+zachary.gray@mesa.example,Zachary Gray,RPT-210,Reporting and Insights,2023-10-12,,,
+judy.cruz@frontierhq.example,Judy Cruz,OCA-101,Ops Cloud Admin Essentials,2023-02-02,2023-02-19,99,CERT-0tMUNeWO
+femi.martin@frontierhq.example,Femi Martin,RPT-210,Reporting and Insights,2023-07-12,,,
+larry.diaz@frontierhq.example,Larry Diaz,INV-120,Invoicing in Ops Cloud,2023-08-26,2023-09-04,92,
+ravi.cook@lakeshorehq.example,Ravi Cook,OCA-101,Ops Cloud Admin Essentials,2023-02-05,2023-02-09,90,CERT-M92WU2RX
+abigail.thomas@lakeshorehq.example,Abigail Thomas,DSP-110,Dispatch Board Basics,2023-08-28,2023-09-30,90,
+jeremy.rivera@northgatehq.example,Jeremy Rivera,OCA-101,Ops Cloud Admin Essentials,2023-02-03,2023-06-14,76,CERT-Jnyip1nj
+minh.gomez@pioneerhq.example,Minh Gomez,DSP-110,Dispatch Board Basics,2023-02-24,2023-04-05,95,
+albert.walker@granite-inc.example,Albert Walker,DSP-110,Dispatch Board Basics,2023-09-02,2023-09-22,81,
+willie.whitlock@nasser.example,Willie Whitlock,OCA-101,Ops Cloud Admin Essentials,2023-03-06,2023-03-14,73,CERT-OBJp0c4A
+joao.sorensen@nasser.example,Joao Sorensen,RPT-210,Reporting and Insights,2023-12-05,2023-12-29,98,
+linda.fairweather@nasser.example,Linda Fairweather,DSP-110,Dispatch Board Basics,2023-09-29,2023-10-03,94,
+javier.goodenough@abernathyhq.example,Javier Goodenough,OCA-101,Ops Cloud Admin Essentials,2023-03-04,,,
+bronwen.howard@abernathyhq.example,Bronwen Howard,MOB-130,Mobile App for Technicians,2023-06-27,2023-07-26,84,
+roger.reyes@lakeshore-inc.example,Roger Reyes,OCA-101,Ops Cloud Admin Essentials,2023-03-02,2023-08-04,92,CERT-FHwPh0Dg
+valentina.reyes@lakeshore-inc.example,Valentina Reyes,INV-120,Invoicing in Ops Cloud,2023-09-21,,,
+zainab.wilson@haddad.example,Zainab Wilson,OCA-101,Ops Cloud Admin Essentials,2023-03-04,2023-03-09,81,CERT-DH5MG0HL
+camila.diaz@haddad.example,Camila Diaz,DSP-110,Dispatch Board Basics,2023-07-23,,,
+ryan.blackwood@haddad.example,Ryan Blackwood,INV-120,Invoicing in Ops Cloud,2023-05-05,2023-05-24,74,
+dorothy.scott@tricountycorp.example,Dorothy Scott,OCA-101,Ops Cloud Admin Essentials,2023-03-05,2023-03-10,92,CERT-17yv3bFN
+callum.kittredge@tricountycorp.example,Callum Kittredge,INV-120,Invoicing in Ops Cloud,2023-12-02,2024-01-01,55,
+donna.quillfeather@riverscorp.example,Donna Quillfeather,OCA-101,Ops Cloud Admin Essentials,2023-03-03,2023-03-21,97,CERT-HIrdHor9
+chidi.wilson@riverscorp.example,Chidi Wilson,MOB-130,Mobile App for Technicians,2023-09-28,2023-10-29,86,
+genevieve.richardson@smith-inc.example,Genevieve Richardson,DSP-110,Dispatch Board Basics,2023-07-16,2023-07-28,96,
+OLUWASEUN.TORRES@SMITH-INC.EXAMPLE,Oluwaseun Torres,INV-120,Invoicing in Ops Cloud,2023-04-05,,,
+amara.nasser@jessopcorp.example,Amara Nasser,OCA-101,Ops Cloud Admin Essentials,2023-04-05,,,
+mark.james@jessopcorp.example,Mark James,MOB-130,Mobile App for Technicians,2024-01-11,2024-01-14,73,
+kathryn.brown@murphyhq.example,Kathryn Brown,DSP-110,Dispatch Board Basics,2023-06-20,2023-07-08,99,
+linda.halvorsen@murphyhq.example,Linda Halvorsen,RPT-210,Reporting and Insights,2023-11-09,2023-11-24,68,
+abigail.hargreaves@shenandoahhq.example,Abigail Hargreaves,DSP-110,Dispatch Board Basics,2023-11-02,2023-12-12,94,
+william.walker@choi-inc.example,William Walker,OCA-101,Ops Cloud Admin Essentials,2023-04-01,2023-04-14,97,CERT-irvCCBmI
+austin.pham@bouchard-inc.example,Austin Pham,OCA-101,Ops Cloud Admin Essentials,2023-04-02,,,
+elizabeth.evans@bouchard-inc.example,Elizabeth Evans,MOB-130,Mobile App for Technicians,2023-08-16,,,
+hannah.vance@lindenwood-inc.example,Hannah Vance,RPT-210,Reporting and Insights,2023-10-06,2023-10-26,56,
+scott.peterson@huron.example,Scott Peterson,OCA-101,Ops Cloud Admin Essentials,2023-04-07,2023-04-29,96,CERT-7AIDS9Gh
+desmond.pham@martincorp.example,Desmond Pham,OCA-101,Ops Cloud Admin Essentials,2023-04-04,,,
+lisa.rivera@martincorp.example,Lisa Rivera,MOB-130,Mobile App for Technicians,2023-07-28,2023-08-15,83,
+randy.clark@martincorp.example,Randy Clark,INV-120,Invoicing in Ops Cloud,2023-04-04,2023-04-27,61,
+linda.jessop@bayview.example,Linda Jessop,OCA-101,Ops Cloud Admin Essentials,2023-04-05,2023-09-20,77,CERT-1aubEr0Q
+chidi.boateng@saginawcorp-ca.example,Chidi Boateng,OCA-101,Ops Cloud Admin Essentials,2023-04-05,2023-04-28,85,CERT-SLwMpd0W
+vincent.murphy@saginawcorp-ca.example,Vincent Murphy,RPT-210,Reporting and Insights,2023-06-04,,,
+denise.carter@esposito.example,Denise Carter,MOB-130,Mobile App for Technicians,2023-11-22,2023-12-23,92,
+tariq.long@cartwrightcorp.example,Tariq Long,OCA-101,Ops Cloud Admin Essentials,2023-04-02,2023-04-12,94,CERT-Qsgdac86
+gabriel.oconnor@cartwrightcorp.example,Gabriel O'Connor,RPT-210,Reporting and Insights,2023-08-26,,,
+michael.castillo@cartwrightcorp.example,Michael Castillo,RPT-210,Reporting and Insights,2023-08-15,,,
+tomasz.bennett@cartwrightcorp.example,Tomasz Bennett,MOB-130,Mobile App for Technicians,2024-01-21,2024-02-05,61,
+aaron.tanaka@ospreycorp.example,Aaron Tanaka,OCA-101,Ops Cloud Admin Essentials,2023-05-06,2023-05-14,76,CERT-6exceeg4
+santiago.nowak@fairweather.example,Santiago Nowak,OCA-101,Ops Cloud Admin Essentials,2023-05-06,2023-05-30,98,CERT-9Gesuuw5
+douglas.okafor@fairweather.example,Douglas Okafor,RPT-210,Reporting and Insights,2023-10-13,2023-10-24,63,
+kimberly.anderson@fairweather.example,Kimberly Anderson,INV-120,Invoicing in Ops Cloud,2023-08-05,2023-08-26,85,
+benjamin.howard@fairweather.example,Benjamin Howard,INV-120,Invoicing in Ops Cloud,2023-09-20,2023-10-04,75,
+zachary.gonzalez@fairweather.example,Zachary Gonzalez,INV-120,Invoicing in Ops Cloud,2023-07-22,2023-08-26,94,
+albert.fenwick@lindqvist.example,Albert Fenwick,MOB-130,Mobile App for Technicians,2023-07-28,,,
+genevieve.walker@saguarocorp.example,Genevieve Walker,RPT-210,Reporting and Insights,2023-07-05,2023-08-10,59,
+renata.reed@saguarocorp.example,Renata Reed,RPT-210,Reporting and Insights,2024-01-30,,,
+kyle.price@ashford-inc.example,Kyle Price,OCA-101,Ops Cloud Admin Essentials,2023-05-06,2023-05-20,76,CERT-boRweq5W
+jeremy.garcia@ashford-inc.example,Jeremy Garcia,DSP-110,Dispatch Board Basics,2023-08-30,2023-09-15,72,
+stephanie.vance@yarrowhq.example,Stephanie Vance,OCA-101,Ops Cloud Admin Essentials,2023-05-04,2023-05-27,85,CERT-W8aFU2Il
+SCOTT.ANDERSON@BOATENGHQ.EXAMPLE,Scott Anderson,RPT-210,Reporting and Insights,2023-07-15,,,
+astrid.raghunathan@chencorp.example,Astrid Raghunathan,OCA-101,Ops Cloud Admin Essentials,2023-05-04,2023-05-26,81,CERT-6cB2T3qX
+gloria.rahman@ruiz.example,Gloria Rahman,OCA-101,Ops Cloud Admin Essentials,2023-05-05,2023-05-23,99,CERT-LrCPfvAT
+leila.johnson@ruiz.example,Leila Johnson,MOB-130,Mobile App for Technicians,2023-10-23,,,
+stephanie.cote@oakmerehq.example,Stephanie Cote,DSP-110,Dispatch Board Basics,2023-10-16,2023-11-15,82,
+ethan.ramos@oakmerehq.example,Ethan Ramos,MOB-130,Mobile App for Technicians,2023-10-11,2023-10-15,59,
+emma.ortiz@huron-inc-ca.example,Emma Ortiz,OCA-101,Ops Cloud Admin Essentials,2023-06-03,2023-06-05,81,CERT-cHk82gsY
+kimberly.lavoie@huron-inc-ca.example,Kimberly Lavoie,RPT-210,Reporting and Insights,2023-12-14,2024-01-19,62,
+carl.choi@adeyemihq.example,Carl Choi,OCA-101,Ops Cloud Admin Essentials,2023-06-05,,,
+james.taylor@adeyemihq.example,James Taylor,MOB-130,Mobile App for Technicians,2023-08-01,2023-08-10,59,
+leila.brooks@fitzgerald.example,Leila Brooks,INV-120,Invoicing in Ops Cloud,2023-12-29,2024-01-02,88,
+leila.rogers@magnolia.example,Leila Rogers,OCA-101,Ops Cloud Admin Essentials,2023-06-07,,,
+douglas.ingleby@magnolia.example,Douglas Ingleby,MOB-130,Mobile App for Technicians,2023-09-18,2023-09-20,75,
+femi.okafor@magnolia.example,Femi Okafor,DSP-110,Dispatch Board Basics,2023-12-20,2024-01-28,98,
+joshua.raghunathan@magnolia.example,Joshua Raghunathan,INV-120,Invoicing in Ops Cloud,2023-10-05,,,
+diana.moore@calloway-inc.example,Diana Moore,OCA-101,Ops Cloud Admin Essentials,2023-06-03,2023-06-25,86,CERT-35TQTexi
+daniel.abernathy@calloway-inc.example,Daniel Abernathy,INV-120,Invoicing in Ops Cloud,2024-03-17,,,
+victoria.garcia@calloway-inc.example,Victoria Garcia,MOB-130,Mobile App for Technicians,2023-11-12,2023-11-29,71,
+brian.esposito@calloway-inc.example,Brian Esposito,DSP-110,Dispatch Board Basics,2024-03-29,2024-04-26,63,
+alan.alvarez@meadowlarkhq.example,Alan Alvarez,OCA-101,Ops Cloud Admin Essentials,2023-06-07,2023-06-12,100,CERT-5ulg30qG
+heather.romano@meadowlarkhq.example,Heather Romano,MOB-130,Mobile App for Technicians,2023-07-19,,,
+janet.clark@meadowlarkhq.example,Janet Clark,RPT-210,Reporting and Insights,2023-11-29,2024-01-01,94,
+declan.fontaine@meadowlarkhq.example,Declan Fontaine,RPT-210,Reporting and Insights,2024-03-09,2024-03-21,73,
+ruth.scott@pinecresthq.example,Ruth Scott,OCA-101,Ops Cloud Admin Essentials,2023-06-03,,,
+jose.takahashi@pinecresthq.example,Jose Takahashi,RPT-210,Reporting and Insights,2024-02-14,2024-02-18,64,
+charles.le@saginaw-inc.example,Charles Le,OCA-101,Ops Cloud Admin Essentials,2023-06-06,2023-06-28,97,CERT-eiQVbtTi
+omar.brooks@saginaw-inc.example,Omar Brooks,DSP-110,Dispatch Board Basics,2023-09-20,,,
+david.robinson@saginaw-inc.example,David Robinson,DSP-110,Dispatch Board Basics,2023-11-20,,,
+ROBERT.MARCHETTI@KOWALSKI.EXAMPLE,Robert Marchetti,MOB-130,Mobile App for Technicians,2024-03-19,2024-04-27,64,
+bjorn.yamamoto@magnoliacorp.example,Bjorn Yamamoto,OCA-101,Ops Cloud Admin Essentials,2023-07-02,2023-07-11,89,CERT-UyuTIquQ
+isabella.campbell-rhys@magnoliacorp.example,Isabella Campbell-Rhys,MOB-130,Mobile App for Technicians,2023-12-25,2024-02-01,100,
+diane.tremblay@magnoliacorp.example,Diane Tremblay,INV-120,Invoicing in Ops Cloud,2023-10-18,2023-10-24,91,
+russell.kowalski@zhang-inc-ca.example,Russell Kowalski,OCA-101,Ops Cloud Admin Essentials,2023-07-07,2024-01-15,83,CERT-CVQRs6Ew
+samantha.robinson@zhang-inc-ca.example,Samantha Robinson,MOB-130,Mobile App for Technicians,2023-09-23,2023-10-30,72,
+steven.cruz@valley.example,Steven Cruz,MOB-130,Mobile App for Technicians,2024-04-18,2024-04-23,85,
+oluwaseun.hill@valley.example,Oluwaseun Hill,RPT-210,Reporting and Insights,2023-10-20,2023-11-16,68,
+sarah.whitlock@rosshq.example,Sarah Whitlock,RPT-210,Reporting and Insights,2023-10-02,2023-10-08,64,
+benjamin.fontaine@marrowcorp-ca.example,Benjamin Fontaine,OCA-101,Ops Cloud Admin Essentials,2023-07-06,,,
+karen.kelly@marrowcorp-ca.example,Karen Kelly,INV-120,Invoicing in Ops Cloud,2023-12-03,2023-12-17,79,
+femi.gutierrez@evans.example,Femi Gutierrez,OCA-101,Ops Cloud Admin Essentials,2023-07-05,2023-07-26,90,CERT-L0DMUQCb
+tariq.fenwick@evans.example,Tariq Fenwick,RPT-210,Reporting and Insights,2023-11-21,,,
+jeffrey.jimenez@evans.example,Jeffrey Jimenez,MOB-130,Mobile App for Technicians,2023-10-09,,,
+joyce.thomas@morales.example,Joyce Thomas,RPT-210,Reporting and Insights,2024-01-13,2024-02-11,69,
+grace.james@morales.example,Grace James,DSP-110,Dispatch Board Basics,2023-09-14,2023-09-20,84,
+madison.miller@tricounty.example,Madison Miller,OCA-101,Ops Cloud Admin Essentials,2023-08-03,2023-08-29,74,CERT-TJb3cWlM
+brandon.bouchard@tricounty.example,Brandon Bouchard,INV-120,Invoicing in Ops Cloud,2024-01-29,2024-02-08,75,
+kathleen.macleod@ostrander-inc.example,Kathleen MacLeod,OCA-101,Ops Cloud Admin Essentials,2023-08-05,2023-08-17,75,CERT-RhAjn1K8
+oluwaseun.tran@ostrander-inc.example,Oluwaseun Tran,DSP-110,Dispatch Board Basics,2024-05-15,2024-05-18,58,
+anthony.fitzgerald@ostrander-inc.example,Anthony Fitzgerald,MOB-130,Mobile App for Technicians,2023-09-15,2023-09-21,60,
+jennifer.hall@ostrander-inc.example,Jennifer Hall,RPT-210,Reporting and Insights,2024-01-01,,,
+eric.miller@marrow-inc.example,Eric Miller,OCA-101,Ops Cloud Admin Essentials,2023-08-05,2023-08-30,88,CERT-9pK2Yqky
+sofia.price@marrow-inc.example,Sofia Price,RPT-210,Reporting and Insights,2023-08-21,2023-08-22,94,
+rebecca.morgan@keystone-inc.example,Rebecca Morgan,OCA-101,Ops Cloud Admin Essentials,2023-08-03,2023-08-07,99,CERT-otjeGgw1
+lauren.calloway@keystone-inc.example,Lauren Calloway,DSP-110,Dispatch Board Basics,2023-10-13,2023-11-02,73,
+jerry.roberts@keystone-inc.example,Jerry Roberts,DSP-110,Dispatch Board Basics,2023-10-15,2023-11-10,70,
+theodora.perez@willowhq.example,Theodora Perez,OCA-101,Ops Cloud Admin Essentials,2023-08-07,2023-08-28,81,CERT-HmYrWwXV
+natalie.lindqvist@willowhq.example,Natalie Lindqvist,RPT-210,Reporting and Insights,2023-12-14,,,
+charlotte.ramirez@willowhq.example,Charlotte Ramirez,RPT-210,Reporting and Insights,2024-01-05,,,
+nikolai.park@tricounty.example,Nikolai Park,OCA-101,Ops Cloud Admin Essentials,2023-08-06,2023-08-25,75,CERT-KE52kp4e
+nancy.choi@tricounty.example,Nancy Choi,DSP-110,Dispatch Board Basics,2024-03-07,,,
+tomasz.young@tricounty.example,Tomasz Young,DSP-110,Dispatch Board Basics,2023-08-27,,,
+willie.morris@elmhursthq.example,Willie Morris,OCA-101,Ops Cloud Admin Essentials,2023-08-05,2023-08-21,86,CERT-JDvEnuOD
+gregory.collins@elmhursthq.example,Gregory Collins,DSP-110,Dispatch Board Basics,2024-03-24,,,
+NGOZI.THOMAS@ELMHURSTHQ.EXAMPLE,Ngozi Thomas,RPT-210,Reporting and Insights,2023-11-17,,,
+gloria.byrne@hawthorne-inc.example,Gloria Byrne,INV-120,Invoicing in Ops Cloud,2024-01-27,2024-03-05,59,
+judy.jackson@wabashcorp.example,Judy Jackson,OCA-101,Ops Cloud Admin Essentials,2023-08-05,2023-08-18,89,CERT-jibt8Xef
+emre.brown@wabashcorp.example,Emre Brown,MOB-130,Mobile App for Technicians,2024-05-05,2024-05-29,70,
+daniel.fontaine@superior-inc.example,Daniel Fontaine,OCA-101,Ops Cloud Admin Essentials,2023-08-03,2023-08-10,79,CERT-bQwmmH8s
+arjun.halvorsen@bluewater.example,Arjun Halvorsen,OCA-101,Ops Cloud Admin Essentials,2023-08-03,2023-08-23,93,CERT-9TXS5Q5g
+kenneth.romano@quarryhq-ca.example,Kenneth Romano,OCA-101,Ops Cloud Admin Essentials,2023-09-02,2023-09-09,80,CERT-ZazllIYm
+laura.le@quarryhq-ca.example,Laura Le,RPT-210,Reporting and Insights,2024-06-25,2024-07-14,64,
+donna.abernathy@quarryhq-ca.example,Donna Abernathy,DSP-110,Dispatch Board Basics,2023-11-18,2023-12-21,97,
+ravi.yamamoto@quarryhq-ca.example,Ravi Yamamoto,RPT-210,Reporting and Insights,2024-02-07,2024-03-18,84,
+nicholas.chaudhry@quarryhq-ca.example,Nicholas Chaudhry,INV-120,Invoicing in Ops Cloud,2024-04-07,2024-05-08,58,
+pierre.fitzgerald@mensah.example,Pierre Fitzgerald,OCA-101,Ops Cloud Admin Essentials,2023-09-05,2023-09-13,76,CERT-I8re5NqL
+NATHAN.CLARK@MENSAH.EXAMPLE,Nathan Clark,MOB-130,Mobile App for Technicians,2024-03-28,2024-04-12,56,
+stephen.scott@mensah.example,Stephen Scott,RPT-210,Reporting and Insights,2024-01-25,2024-02-27,72,
+jae-won.fairweather@eastlakehq.example,Jae-won Fairweather,OCA-101,Ops Cloud Admin Essentials,2023-09-04,2023-09-18,78,CERT-sM3FSnso
+ines.price@clearwater.example,Ines Price,OCA-101,Ops Cloud Admin Essentials,2023-09-06,2023-09-15,82,CERT-rhCXb4Z6
+tariq.baker@clearwater.example,Tariq Baker,DSP-110,Dispatch Board Basics,2024-03-19,2024-04-26,72,
+patricia.reyes@clearwater.example,Patricia Reyes,RPT-210,Reporting and Insights,2023-12-16,,,
+amanda.bailey@pioneerhq.example,Amanda Bailey,OCA-101,Ops Cloud Admin Essentials,2023-09-07,2023-09-10,90,CERT-qNlTw9BY
+javier.takahashi@pioneerhq.example,Javier Takahashi,DSP-110,Dispatch Board Basics,2023-10-01,2023-10-15,68,
+kyle.ruiz@ospreyhq.example,Kyle Ruiz,OCA-101,Ops Cloud Admin Essentials,2023-09-06,2023-09-19,89,CERT-BSwsZCsL
+frances.cruz@ospreyhq.example,Frances Cruz,DSP-110,Dispatch Board Basics,2023-09-13,2023-09-27,99,
+alan.vance@blackwood-inc.example,Alan Vance,OCA-101,Ops Cloud Admin Essentials,2023-09-06,2023-09-13,87,CERT-IqHTWu8q
+melissa.llewellyn@sierra-inc.example,Melissa Llewellyn,OCA-101,Ops Cloud Admin Essentials,2023-09-01,2023-09-18,83,CERT-nXSvihZT
+jae-won.kittredge@scioto-inc.example,Jae-won Kittredge,OCA-101,Ops Cloud Admin Essentials,2023-10-06,2024-01-07,66,CERT-slLiQb3y
+sharon.wang@alvarezhq.example,Sharon Wang,OCA-101,Ops Cloud Admin Essentials,2023-10-05,2023-10-24,74,CERT-Aey26meO
+emily.reed@alvarezhq.example,Emily Reed,DSP-110,Dispatch Board Basics,2023-10-24,2023-11-14,68,
+sara.marchetti@southport-inc.example,Sara Marchetti,RPT-210,Reporting and Insights,2023-12-21,,,
+judith.macleod@ravenwoodcorp.example,Judith MacLeod,INV-120,Invoicing in Ops Cloud,2024-07-25,,,
+anastasia.thompson@lakeshorehq-ca.example,Anastasia Thompson,OCA-101,Ops Cloud Admin Essentials,2023-10-05,2023-10-21,89,CERT-A5O8xnDb
+albert.phillips@lakeshorehq-ca.example,Albert Phillips,RPT-210,Reporting and Insights,2024-03-31,,,
+robert.iyer@willow.example,Robert Iyer,OCA-101,Ops Cloud Admin Essentials,2023-10-05,2023-10-21,77,CERT-FKTJx2L7
+gloria.yamamoto@willow.example,Gloria Yamamoto,INV-120,Invoicing in Ops Cloud,2024-05-03,2024-05-20,92,
+astrid.oconnor@millbrookcorp.example,Astrid O'Connor,OCA-101,Ops Cloud Admin Essentials,2023-10-06,2023-12-12,90,CERT-SXjYpvzQ
+STEPHEN.GAGNON@MILLBROOKCORP.EXAMPLE,Stephen Gagnon,RPT-210,Reporting and Insights,2023-12-15,2023-12-25,56,
+ines.bennett@mesacorp.example,Ines Bennett,OCA-101,Ops Cloud Admin Essentials,2023-10-03,2023-10-05,81,CERT-01ETGHtO
+andrea.bennett@mesacorp.example,Andrea Bennett,DSP-110,Dispatch Board Basics,2024-01-15,2024-02-06,65,
+lisa.carter@mesacorp.example,Lisa Carter,RPT-210,Reporting and Insights,2023-12-19,,,
+karen.ross@mesacorp.example,Karen Ross,DSP-110,Dispatch Board Basics,2024-02-11,2024-03-07,85,
+amanda.goodenough@morgan-inc.example,Amanda Goodenough,OCA-101,Ops Cloud Admin Essentials,2023-10-03,2023-10-13,90,CERT-0hr8qsNb
+brian.ingleby@morgan-inc.example,Brian Ingleby,RPT-210,Reporting and Insights,2024-05-19,2024-05-25,60,
+kathryn.nelson@hughes-inc.example,Kathryn Nelson,OCA-101,Ops Cloud Admin Essentials,2023-10-05,2023-10-16,98,CERT-PgG2Ulxn
+christina.mccarthy@hughes-inc.example,Christina McCarthy,INV-120,Invoicing in Ops Cloud,2024-02-01,2024-02-18,99,
+keith.zhang@mitchell-inc.example,Keith Zhang,OCA-101,Ops Cloud Admin Essentials,2023-10-06,2023-10-12,94,CERT-FLq0sKCn
+randy.kelly@mitchell-inc.example,Randy Kelly,INV-120,Invoicing in Ops Cloud,2024-04-11,,,
+douglas.moreau@beacon.example,Douglas Moreau,OCA-101,Ops Cloud Admin Essentials,2023-11-05,2023-11-22,82,CERT-f5lhhdk3
+amara.ramirez@beacon.example,Amara Ramirez,RPT-210,Reporting and Insights,2024-01-22,2024-02-15,64,
+julia.torres@cornerstonehq.example,Julia Torres,OCA-101,Ops Cloud Admin Essentials,2023-11-06,2023-11-20,89,CERT-oSK6IlWa
+ronald.ostrander@cornerstonehq.example,Ronald Ostrander,RPT-210,Reporting and Insights,2024-04-12,2024-05-16,56,
+henry.haddad@eriehq.example,Henry Haddad,OCA-101,Ops Cloud Admin Essentials,2023-11-02,2023-11-25,96,CERT-MGvThKkS
+mark.lee@eriehq.example,Mark Lee,MOB-130,Mobile App for Technicians,2024-02-22,2024-03-03,98,
+jacob.reyes@gatehouse-inc-ca.example,Jacob Reyes,OCA-101,Ops Cloud Admin Essentials,2023-11-04,2023-11-30,72,CERT-4d6HEcSr
+BRYCE.KIM@GATEHOUSE-INC-CA.EXAMPLE,Bryce Kim,INV-120,Invoicing in Ops Cloud,2024-04-30,2024-06-09,61,
+javier.jackson@rivers.example,Javier Jackson,OCA-101,Ops Cloud Admin Essentials,2023-11-01,,,
+frank.edwards@rivers.example,Frank Edwards,DSP-110,Dispatch Board Basics,2024-02-02,,,
+rosa.lewis@redstone-inc.example,Rosa Lewis,INV-120,Invoicing in Ops Cloud,2024-01-14,2024-01-24,95,
+victoria.gagnon@redstone-inc.example,Victoria Gagnon,DSP-110,Dispatch Board Basics,2024-07-28,2024-07-31,89,
+andrea.kim@plainscorp.example,Andrea Kim,DSP-110,Dispatch Board Basics,2023-11-10,2023-11-15,83,
+ruth.gagnon@osprey.example,Ruth Gagnon,OCA-101,Ops Cloud Admin Essentials,2023-11-02,2023-11-07,88,CERT-8WmoDYIc
+george.flores@osprey.example,George Flores,DSP-110,Dispatch Board Basics,2024-03-10,2024-04-14,65,
+MIREILLE.LONG@OSPREY.EXAMPLE,Mireille Long,INV-120,Invoicing in Ops Cloud,2024-01-11,2024-01-21,78,
+brenda.robinson@lanternhq.example,Brenda Robinson,OCA-101,Ops Cloud Admin Essentials,2023-12-05,,,
+madison.goodenough@lanternhq.example,Madison Goodenough,DSP-110,Dispatch Board Basics,2023-12-06,2023-12-23,93,
+robert.kittredge@osprey.example,Robert Kittredge,OCA-101,Ops Cloud Admin Essentials,2023-12-07,2023-12-23,96,CERT-Q51fWFoM
+sanjay.delacroix@osprey.example,Sanjay Delacroix,MOB-130,Mobile App for Technicians,2024-04-12,,,
+mei.mensah@reed.example,Mei Mensah,INV-120,Invoicing in Ops Cloud,2024-03-04,2024-03-07,89,
+douglas.lefebvre@reed.example,Douglas Lefebvre,MOB-130,Mobile App for Technicians,2023-12-21,,,
+anthony.johnson@adamshq-ca.example,Anthony Johnson,OCA-101,Ops Cloud Admin Essentials,2023-12-07,2023-12-12,98,CERT-MvUbGoln
+stephen.gomez@adamshq-ca.example,Stephen Gomez,RPT-210,Reporting and Insights,2024-08-16,2024-09-11,66,
+kwame.obrien@wabashhq.example,Kwame O'Brien,OCA-101,Ops Cloud Admin Essentials,2023-12-02,2023-12-05,83,CERT-VLRsJ1ax
+joe.price-jones@wabashhq.example,Joe Price-Jones,DSP-110,Dispatch Board Basics,2024-06-08,2024-07-03,60,
+yusuf.okafor@wabashhq.example,Yusuf Okafor,MOB-130,Mobile App for Technicians,2024-05-29,2024-06-05,57,
+gary.adams@marrow-inc.example,Gary Adams,INV-120,Invoicing in Ops Cloud,2024-08-19,,,
+teresa.phillips@marrow-inc.example,Teresa Phillips,MOB-130,Mobile App for Technicians,2024-02-10,,,
+diane.brown@sciotohq.example,Diane Brown,OCA-101,Ops Cloud Admin Essentials,2023-12-04,2023-12-25,94,CERT-nc3FXLh4
+gary.dubois@sciotohq.example,Gary Dubois,MOB-130,Mobile App for Technicians,2023-12-30,2024-02-08,56,
+ADAM.RAHMAN@GRANITE-INC.EXAMPLE,Adam Rahman,INV-120,Invoicing in Ops Cloud,2024-03-17,2024-03-31,88,
+susan.yamamoto@granite-inc.example,Susan Yamamoto,MOB-130,Mobile App for Technicians,2024-03-09,2024-04-01,69,
+timothy.brooks@granite-inc.example,Timothy Brooks,DSP-110,Dispatch Board Basics,2024-05-22,2024-06-01,57,
+megan.campbell@tamarack.example,Megan Campbell,INV-120,Invoicing in Ops Cloud,2024-07-28,2024-09-04,91,
+LOGAN.CALLOWAY@TAMARACK.EXAMPLE,Logan Calloway,INV-120,Invoicing in Ops Cloud,2024-03-08,2024-04-06,67,
+soo-ah.cooper@mesacorp.example,Soo-ah Cooper,OCA-101,Ops Cloud Admin Essentials,2023-12-04,2023-12-25,79,CERT-o4inkzYV
+MARTHA.LEFEBVRE@BLUEWATER-INC.EXAMPLE,Martha Lefebvre,DSP-110,Dispatch Board Basics,2024-10-24,2024-11-14,90,
+ingrid.okonkwo-hale@granitecorp.example,Ingrid Okonkwo-Hale,OCA-101,Ops Cloud Admin Essentials,2024-01-04,2024-01-19,90,CERT-6hrDFZS3
+sarah.mensah@granitecorp.example,Sarah Mensah,MOB-130,Mobile App for Technicians,2024-07-14,,,
+christina.clark@lefebvre-inc-ca.example,Christina Clark,OCA-101,Ops Cloud Admin Essentials,2024-01-02,2024-01-27,75,CERT-2bq8KImB
+donna.cook@lefebvre-inc-ca.example,Donna Cook,RPT-210,Reporting and Insights,2024-10-03,2024-10-22,77,
+julia.ashdown@ironwoodhq.example,Julia Ashdown,OCA-101,Ops Cloud Admin Essentials,2024-01-06,2024-01-11,85,CERT-rQKc79t4
+alice.baker@ironwoodhq.example,Alice Baker,RPT-210,Reporting and Insights,2024-04-13,2024-05-01,74,
+john.pham@eastlake-inc.example,John Pham,OCA-101,Ops Cloud Admin Essentials,2024-01-01,2024-01-20,78,CERT-rg7TL4GS
+joyce.zhang@eastlakehq.example,Joyce Zhang,OCA-101,Ops Cloud Admin Essentials,2024-01-07,2024-01-24,86,CERT-qqOuGSJZ
+kathryn.walker@whitlock-inc.example,Kathryn Walker,OCA-101,Ops Cloud Admin Essentials,2024-01-06,2024-01-26,98,CERT-n1IOKoaz
+arjun.davis@whitlock-inc.example,Arjun Davis,RPT-210,Reporting and Insights,2024-01-16,2024-01-19,67,
+amanda.campbell-rhys@tran.example,Amanda Campbell-Rhys,OCA-101,Ops Cloud Admin Essentials,2024-01-04,2024-01-28,85,CERT-b0QeSERB
+thiago.anderson@tran.example,Thiago Anderson,INV-120,Invoicing in Ops Cloud,2024-10-01,2024-10-18,73,
+jessica.cook@tran.example,Jessica Cook,MOB-130,Mobile App for Technicians,2024-02-16,,,
+siobhan.nasser@tran.example,Siobhan Nasser,MOB-130,Mobile App for Technicians,2024-01-19,,,
+hamid.ingleby@fosterhq-ca.example,Hamid Ingleby,OCA-101,Ops Cloud Admin Essentials,2024-01-02,2024-01-07,91,CERT-ShODe0lr
+nicholas.miller@fosterhq-ca.example,Nicholas Miller,RPT-210,Reporting and Insights,2024-09-24,2024-10-31,77,
+carol.gomez@union-inc.example,Carol Gomez,OCA-101,Ops Cloud Admin Essentials,2024-01-03,2024-01-20,74,CERT-WNjx493X
+alice.lee@abernathy-inc.example,Alice Lee,DSP-110,Dispatch Board Basics,2024-08-12,2024-08-18,71,
+siobhan.lindqvist@prairiecorp.example,Siobhan Lindqvist,INV-120,Invoicing in Ops Cloud,2024-02-15,,,
+keith.ingleby@liberty-inc-ca.example,Keith Ingleby,DSP-110,Dispatch Board Basics,2024-11-10,2024-12-11,74,
+gregory.tanaka@ironwood.example,Gregory Tanaka,OCA-101,Ops Cloud Admin Essentials,2024-02-06,,,
+joan.okafor@ironwood.example,Joan Okafor,RPT-210,Reporting and Insights,2024-09-19,2024-09-24,62,
+olivia.smith@quarryhq.example,Olivia Smith,OCA-101,Ops Cloud Admin Essentials,2024-02-02,2024-02-27,94,CERT-mzZiIoXL
+jean.price@quarryhq.example,Jean Price,RPT-210,Reporting and Insights,2024-03-24,2024-04-18,97,
+sandra.williams@gatehouse.example,Sandra Williams,OCA-101,Ops Cloud Admin Essentials,2024-02-04,2024-05-09,75,CERT-KAr1gepu
+brenda.hall@gatehouse.example,Brenda Hall,INV-120,Invoicing in Ops Cloud,2024-06-22,,,
+anthony.garcia@ostranderhq.example,Anthony Garcia,OCA-101,Ops Cloud Admin Essentials,2024-02-07,,,
+russell.foster@hernandez-inc.example,Russell Foster,OCA-101,Ops Cloud Admin Essentials,2024-02-04,2024-02-11,89,CERT-LEC5FxY6
+andrew.raghunathan@hernandez-inc.example,Andrew Raghunathan,INV-120,Invoicing in Ops Cloud,2024-05-16,2024-06-13,90,
+jacqueline.nowak@hernandez-inc.example,Jacqueline Nowak,INV-120,Invoicing in Ops Cloud,2024-10-06,2024-11-11,83,
+samuel.sorensen@beaconcorp.example,Samuel Sorensen,OCA-101,Ops Cloud Admin Essentials,2024-02-05,2024-02-12,83,CERT-WOQB8Rwv
+valentina.hernandez@ravenwoodhq.example,Valentina Hernandez,OCA-101,Ops Cloud Admin Essentials,2024-02-04,2024-02-18,94,CERT-KfeOHLzG
+ryan.long@ravenwoodhq.example,Ryan Long,RPT-210,Reporting and Insights,2024-10-15,2024-10-30,96,
+aoife.thompson@ravenwoodhq.example,Aoife Thompson,MOB-130,Mobile App for Technicians,2024-05-16,,,
+john.taylor@perezcorp.example,John Taylor,OCA-101,Ops Cloud Admin Essentials,2024-02-01,,,
+lars.pham@perezcorp.example,Lars Pham,RPT-210,Reporting and Insights,2024-07-21,2024-08-20,64,
+jacob.wright@perezcorp.example,Jacob Wright,INV-120,Invoicing in Ops Cloud,2024-02-23,2024-03-05,89,
+anastasia.rodriguez@fairhaven.example,Anastasia Rodriguez,OCA-101,Ops Cloud Admin Essentials,2024-02-05,2024-02-18,90,CERT-401wAje6
+alice.watson@fairhaven.example,Alice Watson,DSP-110,Dispatch Board Basics,2024-11-19,2024-12-09,71,
+andrew.campbell@fairhaven.example,Andrew Campbell,RPT-210,Reporting and Insights,2024-02-08,,,
+joan.esposito@fairhaven.example,Joan Esposito,INV-120,Invoicing in Ops Cloud,2024-05-29,,,
+isla.goodenough@cedarhq.example,Isla Goodenough,OCA-101,Ops Cloud Admin Essentials,2024-03-04,2024-03-26,91,CERT-643cR8Eq
+richard.parker@cedarhq.example,Richard Parker,RPT-210,Reporting and Insights,2024-07-10,2024-08-02,68,
+jason.chaudhry@cedarhq.example,Jason Chaudhry,MOB-130,Mobile App for Technicians,2024-10-10,,,
+anika.chavez@sycamorecorp.example,Anika Chavez,OCA-101,Ops Cloud Admin Essentials,2024-03-04,,,
+KATHLEEN.PETERSON@SYCAMORECORP.EXAMPLE,Kathleen Peterson,DSP-110,Dispatch Board Basics,2024-07-21,2024-08-27,69,
+virginia.taylor@ozark-inc.example,Virginia Taylor,OCA-101,Ops Cloud Admin Essentials,2024-03-02,2024-03-20,84,CERT-kpboUnYE
+ines.young@ozark-inc.example,Ines Young,MOB-130,Mobile App for Technicians,2024-09-07,2024-09-19,60,
+joao.mendoza@ozark-inc.example,Joao Mendoza,RPT-210,Reporting and Insights,2024-03-08,2024-04-09,90,
+thiago.wilson@pioneer.example,Thiago Wilson,OCA-101,Ops Cloud Admin Essentials,2024-03-02,2024-03-10,96,CERT-5JJkGSbw
+sanjay.hernandez@allenhq.example,Sanjay Hernandez,OCA-101,Ops Cloud Admin Essentials,2024-03-06,2024-03-24,76,CERT-JrDdeNmw
+richard.cox@allenhq.example,Richard Cox,MOB-130,Mobile App for Technicians,2024-07-05,2024-08-11,85,
+sofia.adams@allenhq.example,Sofia Adams,INV-120,Invoicing in Ops Cloud,2024-05-24,2024-05-30,86,
+sophia.tanaka@allenhq.example,Sophia Tanaka,MOB-130,Mobile App for Technicians,2024-05-13,,,
+kwame.fairweather@erie-inc.example,Kwame Fairweather,OCA-101,Ops Cloud Admin Essentials,2024-03-03,2024-07-31,71,CERT-uEFEZxvT
+thiago.lindqvist@erie-inc.example,Thiago Lindqvist,DSP-110,Dispatch Board Basics,2024-11-14,2024-11-17,62,
+madison.williams@erie-inc.example,Madison Williams,DSP-110,Dispatch Board Basics,2024-09-21,,,
+lisa.wang@beacon-inc.example,Lisa Wang,OCA-101,Ops Cloud Admin Essentials,2024-04-02,2024-04-27,83,CERT-oDc2rcQl
+sarah.yamamoto@tillamookcorp.example,Sarah Yamamoto,OCA-101,Ops Cloud Admin Essentials,2024-04-05,2024-05-01,81,CERT-LutPnBEx
+ines.cartwright@tillamookcorp.example,Ines Cartwright,MOB-130,Mobile App for Technicians,2024-09-23,,,
+gerald.liu@tillamookcorp.example,Gerald Liu,DSP-110,Dispatch Board Basics,2024-05-20,,,
+DYLAN.WRIGHT@TILLAMOOKCORP.EXAMPLE,Dylan Wright,INV-120,Invoicing in Ops Cloud,2025-01-07,2025-01-10,86,
+nicholas.martin@keystone-inc.example,Nicholas Martin,OCA-101,Ops Cloud Admin Essentials,2024-04-03,2024-04-14,86,CERT-qLiWMg1o
+bronwen.campbell-rhys@keystone-inc.example,Bronwen Campbell-Rhys,INV-120,Invoicing in Ops Cloud,2024-12-26,2025-01-22,93,
+kimberly.pham@keystone-inc.example,Kimberly Pham,RPT-210,Reporting and Insights,2024-07-11,2024-08-18,64,
+william.perez@wexfordhq.example,William Perez,OCA-101,Ops Cloud Admin Essentials,2024-04-04,2024-04-17,95,CERT-366y9WmH
+larry.choi@wexfordhq.example,Larry Choi,MOB-130,Mobile App for Technicians,2024-05-16,,,
+mateo.byrne@wexfordhq.example,Mateo Byrne,DSP-110,Dispatch Board Basics,2024-04-29,2024-05-02,77,
+scott.marchetti@saguarohq.example,Scott Marchetti,OCA-101,Ops Cloud Admin Essentials,2024-04-01,2024-06-03,67,CERT-O7U78ZZA
+joe.kittredge@saguarohq.example,Joe Kittredge,DSP-110,Dispatch Board Basics,2024-06-01,2024-06-02,66,
+melissa.morales@saguarohq.example,Melissa Morales,MOB-130,Mobile App for Technicians,2024-12-19,2025-01-11,64,
+JEREMY.NASSER@SAGUAROHQ.EXAMPLE,Jeremy Nasser,INV-120,Invoicing in Ops Cloud,2024-09-25,,,
+nathan.james@willowcorp-ca.example,Nathan James,DSP-110,Dispatch Board Basics,2024-06-17,,,
+amelie.pham@saginawhq-ca.example,Amelie Pham,OCA-101,Ops Cloud Admin Essentials,2024-04-02,2024-04-24,72,CERT-dubm15nN
+lucia.jones@saginawhq-ca.example,Lucia Jones,INV-120,Invoicing in Ops Cloud,2024-09-26,,,
+RAYMOND.HALL@MILLBROOKCORP.EXAMPLE,Raymond Hall,DSP-110,Dispatch Board Basics,2025-01-08,2025-01-20,100,
+bronwen.torres@riverbendhq.example,Bronwen Torres,OCA-101,Ops Cloud Admin Essentials,2024-04-04,2024-04-16,79,CERT-olhW5bBa
+renata.perez@sandpiperhq.example,Renata Perez,OCA-101,Ops Cloud Admin Essentials,2024-04-07,2024-05-01,79,CERT-XzaGs4F0
+elif.cruz@huron.example,Elif Cruz,OCA-101,Ops Cloud Admin Essentials,2024-04-03,2024-05-30,79,CERT-OLfOoT3u
+theodora.zhang@huron.example,Theodora Zhang,RPT-210,Reporting and Insights,2024-06-15,2024-07-11,64,
+valentina.morgan@northgate-inc.example,Valentina Morgan,OCA-101,Ops Cloud Admin Essentials,2024-04-02,2024-04-16,85,CERT-Pa2yNuWh
+samuel.venkatesan@northgate-inc.example,Samuel Venkatesan,DSP-110,Dispatch Board Basics,2024-12-29,2025-01-15,88,
+shirley.fenwick@twin-inc.example,Shirley Fenwick,MOB-130,Mobile App for Technicians,2024-09-12,2024-10-10,95,
+diana.davis@ostranderhq.example,Diana Davis,OCA-101,Ops Cloud Admin Essentials,2024-04-03,2024-04-25,90,CERT-2ixYUA0H
+elif.king@ostranderhq.example,Elif King,RPT-210,Reporting and Insights,2024-07-31,2024-08-15,94,
+larry.foster@saginaw.example,Larry Foster,OCA-101,Ops Cloud Admin Essentials,2024-04-04,2024-04-22,93,CERT-dbCf8k3j
+cynthia.calloway@saginaw-inc.example,Cynthia Calloway,DSP-110,Dispatch Board Basics,2024-10-20,2024-11-29,81,
+emily.chen@taylorhq.example,Emily Chen,OCA-101,Ops Cloud Admin Essentials,2024-04-04,2024-04-22,97,CERT-yvHS0Ef6
+julie.mendoza@wardcorp.example,Julie Mendoza,OCA-101,Ops Cloud Admin Essentials,2024-05-02,2024-05-23,100,CERT-ROotQNq4
+mei.haddad@wardcorp.example,Mei Haddad,DSP-110,Dispatch Board Basics,2024-07-23,2024-08-14,60,
+GERALD.ASHDOWN@WARDCORP.EXAMPLE,Gerald Ashdown,MOB-130,Mobile App for Technicians,2024-05-10,,,
+roger.kowalski@clearwater.example,Roger Kowalski,OCA-101,Ops Cloud Admin Essentials,2024-05-07,,,
+anna.esposito@harbortownhq.example,Anna Esposito,OCA-101,Ops Cloud Admin Essentials,2024-05-04,2024-09-06,69,CERT-9W5TGp3T
+chidi.cooper@harbortownhq.example,Chidi Cooper,INV-120,Invoicing in Ops Cloud,2025-02-26,,,
+marilyn.perez@cooper-inc.example,Marilyn Perez,OCA-101,Ops Cloud Admin Essentials,2024-05-07,2024-05-28,94,CERT-WGqXQxNU
+RYAN.WHITE@COOPER-INC.EXAMPLE,Ryan White,INV-120,Invoicing in Ops Cloud,2025-01-02,,,
+ann.cook@bayoucorp.example,Ann Cook,OCA-101,Ops Cloud Admin Essentials,2024-05-04,2024-05-17,95,CERT-ilCmhSVj
+kathleen.quillfeather@bayoucorp.example,Kathleen Quillfeather,MOB-130,Mobile App for Technicians,2024-12-29,2025-01-25,89,
+daniel.iyer@bayoucorp.example,Daniel Iyer,MOB-130,Mobile App for Technicians,2024-07-23,2024-08-28,73,
+patrick.johnson@bayoucorp.example,Patrick Johnson,MOB-130,Mobile App for Technicians,2024-09-13,2024-09-22,96,
+JASON.ORTIZ@MUSKINGUM.EXAMPLE,Jason Ortiz,DSP-110,Dispatch Board Basics,2024-06-19,2024-06-25,99,
+theodora.davis@muskingum.example,Theodora Davis,DSP-110,Dispatch Board Basics,2025-02-10,2025-02-24,97,
+ngozi.allen@tremblaycorp.example,Ngozi Allen,OCA-101,Ops Cloud Admin Essentials,2024-05-03,2024-05-23,85,CERT-aMS4sIPw
+alice.cruz@tremblaycorp.example,Alice Cruz,RPT-210,Reporting and Insights,2024-11-17,,,
+jennifer.fitzgerald@tremblaycorp.example,Jennifer Fitzgerald,RPT-210,Reporting and Insights,2025-02-06,2025-02-23,90,
+siobhan.zhang@huroncorp.example,Siobhan Zhang,OCA-101,Ops Cloud Admin Essentials,2024-05-06,2024-05-08,89,CERT-lvP20YSD
+nicholas.ward@huroncorp.example,Nicholas Ward,INV-120,Invoicing in Ops Cloud,2024-11-04,2024-11-14,55,
+jacob.peterson@huroncorp.example,Jacob Peterson,RPT-210,Reporting and Insights,2024-10-24,2024-11-13,92,
+jean.lavoie@liberty-inc-ca.example,Jean Lavoie,OCA-101,Ops Cloud Admin Essentials,2024-05-02,2024-05-21,95,CERT-5HIcNO80
+cynthia.price@liberty-inc-ca.example,Cynthia Price,MOB-130,Mobile App for Technicians,2024-05-31,2024-06-01,76,
+linda.kowalski@liberty-inc-ca.example,Linda Kowalski,RPT-210,Reporting and Insights,2024-11-08,,,
+KEVIN.GREEN@LIBERTY-INC-CA.EXAMPLE,Kevin Green,INV-120,Invoicing in Ops Cloud,2024-06-19,2024-07-05,95,
+lars.jimenez@patriothq.example,Lars Jimenez,OCA-101,Ops Cloud Admin Essentials,2024-06-02,2024-07-28,73,CERT-qnfu9x6y
+terry.diaz@patriothq.example,Terry Diaz,RPT-210,Reporting and Insights,2024-09-10,2024-09-23,72,
+debra.long@millbrook-inc.example,Debra Long,OCA-101,Ops Cloud Admin Essentials,2024-06-06,2024-06-19,90,CERT-VYgEgG4S
+lawrence.jones@millbrook-inc.example,Lawrence Jones,INV-120,Invoicing in Ops Cloud,2024-09-19,2024-10-23,92,
+carol.robinson@smithhq.example,Carol Robinson,OCA-101,Ops Cloud Admin Essentials,2024-06-04,2024-06-13,86,CERT-il51AkUx
+stephanie.chavez@granitehq.example,Stephanie Chavez,OCA-101,Ops Cloud Admin Essentials,2024-06-05,2024-06-21,90,CERT-OT9EfahM
+andrew.diaz@granitehq.example,Andrew Diaz,RPT-210,Reporting and Insights,2025-03-07,2025-03-11,56,
+renata.hughes@pioneercorp.example,Renata Hughes,INV-120,Invoicing in Ops Cloud,2024-08-11,2024-08-14,99,
+donna.iyer@gomezhq.example,Donna Iyer,RPT-210,Reporting and Insights,2024-10-14,2024-11-22,67,
+natalie.harris@gomezhq.example,Natalie Harris,MOB-130,Mobile App for Technicians,2024-09-09,2024-09-20,62,
+katherine.cartwright@bayviewhq.example,Katherine Cartwright,DSP-110,Dispatch Board Basics,2025-03-07,2025-03-30,86,
+terry.kittredge@twinhq.example,Terry Kittredge,RPT-210,Reporting and Insights,2024-07-12,2024-08-03,91,
+margaret.adams@twinhq.example,Margaret Adams,RPT-210,Reporting and Insights,2024-12-09,2024-12-30,77,
+diana.collins@wexfordhq.example,Diana Collins,OCA-101,Ops Cloud Admin Essentials,2024-06-01,,,

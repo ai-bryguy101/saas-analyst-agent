@@ -1,0 +1,31 @@
+{
+  "committee": "Pricing Committee",
+  "year": 2024,
+  "decisions": [
+    {
+      "date": "2024-09-17",
+      "item": "2025 list prices",
+      "document": "Price_Book_2025_FINAL.xlsx",
+      "revision": "R6",
+      "outcome": "Rejected",
+      "note": "Hold Pro and Enterprise flat for 2025; churn risk"
+    },
+    {
+      "date": "2024-10-08",
+      "item": "2025 list prices",
+      "document": "Price_Book_2025_FINAL.xlsx",
+      "revision": "R7",
+      "outcome": "Approved",
+      "approver": "L. Whitlock (CFO)",
+      "note": "All plans unchanged from 2023 book"
+    },
+    {
+      "date": "2024-11-19",
+      "item": "2026 pricing scenario",
+      "document": "Price_Book_2025_FINAL_v2.xlsx",
+      "revision": "R8",
+      "outcome": "Not reviewed",
+      "note": "Working draft for 2026; file name not changed"
+    }
+  ]
+}

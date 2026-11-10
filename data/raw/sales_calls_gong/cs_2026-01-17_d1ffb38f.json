@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "d1ffb38f-0963-5413-55fc-37844db7463a",
+  "url": "https://app.gong.example/call?id=d1ffb38f-0963-5413-55fc-37844db7463a",
+  "title": "Fairhaven Realty Management | Quarterly check-in",
+  "scheduled": "2026-01-17T21:00:00Z",
+  "started": "2026-01-17T21:04:57Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Christian Lefebvre",
+   "affiliation": "External",
+   "emailAddress": "christian.lefebvre@fairhavencorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5161,
+     "end": 9521,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10858,
+     "end": 14448,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14868,
+     "end": 18898,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

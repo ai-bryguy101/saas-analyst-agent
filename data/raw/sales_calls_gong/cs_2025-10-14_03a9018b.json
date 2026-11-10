@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "03a9018b-aace-c9da-a921-d8a083c77500",
+  "url": "https://app.gong.example/call?id=03a9018b-aace-c9da-a921-d8a083c77500",
+  "title": "Blackhawk Academy Ltd. | Quarterly check-in",
+  "scheduled": "2025-10-14T16:00:00Z",
+  "started": "2025-10-14T16:05:23Z",
+  "duration": 21,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Tomasz Blackwood",
+   "affiliation": "External",
+   "emailAddress": "tomasz.blackwood@blackhawkcorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4292,
+     "end": 8652,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10314,
+     "end": 13464,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 15562,
+     "end": 19922,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  }
+ ]
+}

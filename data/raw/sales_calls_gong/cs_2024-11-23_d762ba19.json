@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "d762ba19-2ac6-f6d6-5aae-545040ca60cd",
+  "url": "https://app.gong.example/call?id=d762ba19-2ac6-f6d6-5aae-545040ca60cd",
+  "title": "Highland Retail Group Inc. | Quarterly check-in",
+  "scheduled": "2024-11-23T16:00:00Z",
+  "started": "2024-11-23T16:01:52Z",
+  "duration": 45,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Jesse Diaz",
+   "affiliation": "External",
+   "emailAddress": "jesse.diaz@highlandhq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4956,
+     "end": 8986,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10850,
+     "end": 16035,
+     "text": "Honestly the QuickBooks sync has been a nightmare since the summer."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16840,
+     "end": 19715,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 21716,
+     "end": 26626,
+     "text": "If this isn't fixed by renewal I can't defend it to our owner."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 28868,
+     "end": 32898,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 34110,
+     "end": 38085,
+     "text": "Our bookkeeper is re-keying invoices by hand."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 39378,
+     "end": 43738,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  }
+ ]
+}

@@ -17,7 +17,8 @@ from pathlib import Path
 from .world import build_world
 
 MODULES = ["brix", "crm", "billing", "support", "telemetry", "email", "wiki", "documents", "meetings", "integrations",
-           "chat", "voice", "imaging", "pim", "legacy_office", "datalake", "ops", "marketing", "finance_extra"]
+           "chat", "voice", "imaging", "pim", "legacy_office", "datalake", "ops", "marketing", "finance_extra",
+           "patterns", "traps"]
 
 
 def main(argv=None):

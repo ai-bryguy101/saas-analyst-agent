@@ -261,3 +261,10 @@ def add_fact(world, fact: dict):
     if not hasattr(world, "extra_facts"):
         world.extra_facts = []
     world.extra_facts = [f for f in world.extra_facts if f["id"] != fact["id"]] + [fact]
+
+
+def add_pattern(world, pattern: dict):
+    """Round-3 modules record planted cross-source patterns (trends, drivers, hidden joins) here."""
+    if not hasattr(world, "patterns"):
+        world.patterns = []
+    world.patterns = [p for p in world.patterns if p["id"] != pattern["id"]] + [pattern]

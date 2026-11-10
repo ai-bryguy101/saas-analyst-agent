@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "950df13e-569e-ecb8-96d6-b5edd8de3a40",
+  "url": "https://app.gong.example/call?id=950df13e-569e-ecb8-96d6-b5edd8de3a40",
+  "title": "Harbortown Stores | Quarterly check-in",
+  "scheduled": "2024-10-08T16:00:00Z",
+  "started": "2024-10-08T16:01:03Z",
+  "duration": 41,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Mei Hall",
+   "affiliation": "External",
+   "emailAddress": "mei.hall@harbortowncorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4369,
+     "end": 8399,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10128,
+     "end": 13828,
+     "text": "Every time it disconnects we lose a day."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16319,
+     "end": 19194,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 20786,
+     "end": 24761,
+     "text": "Our bookkeeper is re-keying invoices by hand."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 25729,
+     "end": 28604,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 30382,
+     "end": 35567,
+     "text": "Honestly the QuickBooks sync has been a nightmare since the summer."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 36493,
+     "end": 40578,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

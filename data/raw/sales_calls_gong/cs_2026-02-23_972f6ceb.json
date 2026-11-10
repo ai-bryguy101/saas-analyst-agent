@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "972f6ceb-d29c-ea90-1173-bd7d2bdc4305",
+  "url": "https://app.gong.example/call?id=972f6ceb-d29c-ea90-1173-bd7d2bdc4305",
+  "title": "Williams University Facilities Corp. | Quarterly check-in",
+  "scheduled": "2026-02-23T15:00:00Z",
+  "started": "2026-02-23T15:04:50Z",
+  "duration": 22,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "John Gonzalez",
+   "affiliation": "External",
+   "emailAddress": "john.gonzalez@williamshq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5456,
+     "end": 9486,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11269,
+     "end": 14419,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16701,
+     "end": 20786,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

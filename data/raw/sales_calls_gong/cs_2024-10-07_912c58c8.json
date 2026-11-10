@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "912c58c8-fd4c-0f36-0440-276a30687a3b",
+  "url": "https://app.gong.example/call?id=912c58c8-fd4c-0f36-0440-276a30687a3b",
+  "title": "Gonzalez Facilities Management Group | Quarterly check-in",
+  "scheduled": "2024-10-07T20:00:00Z",
+  "started": "2024-10-07T20:06:14Z",
+  "duration": 19,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Declan Evans",
+   "affiliation": "External",
+   "emailAddress": "declan.evans@gonzalez.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 3590,
+     "end": 7950,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9427,
+     "end": 13017,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14928,
+     "end": 18958,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

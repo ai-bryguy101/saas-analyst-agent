@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "ac9eaf30-a579-e465-a2c8-476597525d28",
+  "url": "https://app.gong.example/call?id=ac9eaf30-a579-e465-a2c8-476597525d28",
+  "title": "Sycamore Supply Co Ltd. | Quarterly check-in",
+  "scheduled": "2024-11-05T14:00:00Z",
+  "started": "2024-11-05T14:04:32Z",
+  "duration": 19,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Joao Hargreaves",
+   "affiliation": "External",
+   "emailAddress": "joao.hargreaves@sycamorehq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3370,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4558,
+     "end": 8588,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9272,
+     "end": 12862,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13324,
+     "end": 17354,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

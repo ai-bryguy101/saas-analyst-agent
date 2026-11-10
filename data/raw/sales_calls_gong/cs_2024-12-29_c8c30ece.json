@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "c8c30ece-5890-0549-3247-5dbe0a1becc2",
+  "url": "https://app.gong.example/call?id=c8c30ece-5890-0549-3247-5dbe0a1becc2",
+  "title": "Calloway Property Group Co. | Quarterly check-in",
+  "scheduled": "2024-12-29T14:00:00Z",
+  "started": "2024-12-29T14:01:35Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Diana Moore",
+   "affiliation": "External",
+   "emailAddress": "diana.moore@calloway-inc.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5497,
+     "end": 9527,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10600,
+     "end": 13750,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 15803,
+     "end": 18678,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  }
+ ]
+}

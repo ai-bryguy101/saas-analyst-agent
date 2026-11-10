@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "55467c94-19c7-284e-843e-244b78bb0ef0",
+  "url": "https://app.gong.example/call?id=55467c94-19c7-284e-843e-244b78bb0ef0",
+  "title": "Lakes College | Quarterly check-in",
+  "scheduled": "2024-07-07T19:00:00Z",
+  "started": "2024-07-07T19:05:39Z",
+  "duration": 41,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Nathan Allen",
+   "affiliation": "External",
+   "emailAddress": "nathan.allen@lakeshq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5371,
+     "end": 9456,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11047,
+     "end": 14747,
+     "text": "Every time it disconnects we lose a day."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16760,
+     "end": 20845,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 21903,
+     "end": 25878,
+     "text": "Our bookkeeper is re-keying invoices by hand."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 27452,
+     "end": 30327,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 31141,
+     "end": 35721,
+     "text": "We're looking at options that just work with QuickBooks."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 36465,
+     "end": 39340,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  }
+ ]
+}

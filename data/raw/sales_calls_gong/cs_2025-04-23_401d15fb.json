@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "401d15fb-248b-d98d-1903-61e99a74961c",
+  "url": "https://app.gong.example/call?id=401d15fb-248b-d98d-1903-61e99a74961c",
+  "title": "Bluewater Unified Schools | Quarterly check-in",
+  "scheduled": "2025-04-23T17:00:00Z",
+  "started": "2025-04-23T17:00:31Z",
+  "duration": 18,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Oluwaseun Fenwick",
+   "affiliation": "External",
+   "emailAddress": "oluwaseun.fenwick@bluewatercorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5363,
+     "end": 8238,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9030,
+     "end": 12180,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14049,
+     "end": 18134,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

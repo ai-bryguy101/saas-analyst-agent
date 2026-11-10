@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "cfc9d97f-4046-228b-63a7-fecd07c4dcf1",
+  "url": "https://app.gong.example/call?id=cfc9d97f-4046-228b-63a7-fecd07c4dcf1",
+  "title": "Walker Hotels Group | Quarterly check-in",
+  "scheduled": "2024-11-29T19:00:00Z",
+  "started": "2024-11-29T19:05:11Z",
+  "duration": 42,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Genevieve Fenwick",
+   "affiliation": "External",
+   "emailAddress": "genevieve.fenwick@walker-inc.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3370,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5034,
+     "end": 9064,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9801,
+     "end": 13776,
+     "text": "Our bookkeeper is re-keying invoices by hand."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14779,
+     "end": 17654,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 18095,
+     "end": 23280,
+     "text": "Honestly the QuickBooks sync has been a nightmare since the summer."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 25701,
+     "end": 29731,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 31599,
+     "end": 35299,
+     "text": "Every time it disconnects we lose a day."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 35927,
+     "end": 39957,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "aecd2b10-e292-8191-cf62-72a155b38bd6",
+  "url": "https://app.gong.example/call?id=aecd2b10-e292-8191-cf62-72a155b38bd6",
+  "title": "Lefebvre Fabrication | Quarterly check-in",
+  "scheduled": "2024-11-02T20:00:00Z",
+  "started": "2024-11-02T20:01:53Z",
+  "duration": 18,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Layla Gutierrez",
+   "affiliation": "External",
+   "emailAddress": "layla.gutierrez@lefebvrehq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4295,
+     "end": 8325,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9383,
+     "end": 12753,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13293,
+     "end": 17653,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  }
+ ]
+}

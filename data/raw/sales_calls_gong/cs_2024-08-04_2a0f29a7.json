@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "2a0f29a7-fa4d-5850-e892-a0fe1c7954ed",
+  "url": "https://app.gong.example/call?id=2a0f29a7-fa4d-5850-e892-a0fe1c7954ed",
+  "title": "Quarry Unified Schools Holdings | Quarterly check-in",
+  "scheduled": "2024-08-04T21:00:00Z",
+  "started": "2024-08-04T21:06:10Z",
+  "duration": 47,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Desmond Gonzalez",
+   "affiliation": "External",
+   "emailAddress": "desmond.gonzalez@quarrycorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5023,
+     "end": 7898,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10101,
+     "end": 15286,
+     "text": "Honestly the QuickBooks sync has been a nightmare since the summer."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 17538,
+     "end": 21568,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 23242,
+     "end": 27822,
+     "text": "We're looking at options that just work with QuickBooks."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 29318,
+     "end": 33678,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 35025,
+     "end": 39935,
+     "text": "If this isn't fixed by renewal I can't defend it to our owner."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 42270,
+     "end": 46300,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

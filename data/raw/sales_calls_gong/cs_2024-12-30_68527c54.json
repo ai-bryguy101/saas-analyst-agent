@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "68527c54-4e42-9dab-7c24-0fb011669090",
+  "url": "https://app.gong.example/call?id=68527c54-4e42-9dab-7c24-0fb011669090",
+  "title": "Prairie Works | Quarterly check-in",
+  "scheduled": "2024-12-30T17:00:00Z",
+  "started": "2024-12-30T17:06:20Z",
+  "duration": 22,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Joan Rogers",
+   "affiliation": "External",
+   "emailAddress": "joan.rogers@prairiecorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4956,
+     "end": 9316,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11479,
+     "end": 15069,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16420,
+     "end": 20450,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

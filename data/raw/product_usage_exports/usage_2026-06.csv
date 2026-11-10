@@ -1,0 +1,1355 @@
+period;tenant;mau;seat_count;work_orders_created;api_calls;storage_gb;account_name
+2026-06-01;calloway-facilities-manageme;245;382;1878;456059;249.097;Calloway Facilities Management, Inc.
+2026-06-01;riverbend-unified-schools;38;60;256;112458;32.423;Riverbend Unified Schools
+2026-06-01;tri-county-public-works;22;40;169;52631;22.083;Tri-County Public Works
+2026-06-01;marrow-mills-corp;98;147;973;248615;69.040;Marrow Mills Corp.
+2026-06-01;riverbend-stores-ltd;44;75;385;43049;45.081;Riverbend Stores Ltd.
+2026-06-01;summit-outfitters-holdings;19;23;136;56349;12.971;Summit Outfitters Holdings
+2026-06-01;clearwater-properties-inc;21;36;239;34354;26.815;Clearwater Properties Inc.
+2026-06-01;wexford-retail-group-ltd;53;60;527;95417;66.901;Wexford Retail Group Ltd.
+2026-06-01;morales-supply-co-corp;16;17;184;35456;18.516;Morales Supply Co Corp.
+2026-06-01;ashford-building-services-in;19;22;432;49288;33.445;Ashford Building Services Inc.
+2026-06-01;hawthorne-township-llc;6;7;55;10028;11.000;Hawthorne Township LLC
+2026-06-01;ridgeline-municipal-services;98;151;1038;262642;73.194;Ridgeline Municipal Services Corp.
+2026-06-01;oakmere-building-services;29;30;316;57391;36.979;Oakmere Building Services
+2026-06-01;ridgeline-works;701;801;8459;1302576;465.039;Ridgeline Works
+2026-06-01;plains-works-inc;3;6;29;6818;5.263;PLAINS WORKS INC.
+2026-06-01;bayview-unified-schools;1;1;15;918;1.555;Bayview Unified Schools
+2026-06-01;granite-warehousing;210;233;1803;288280;150.481;Granite Warehousing
+2026-06-01;abernathy-retail-group-holdi;26;41;211;53552;28.476;Abernathy Retail Group Holdings
+2026-06-01;whitlock-realty-management-c;10;11;60;19650;9.105;Whitlock Realty Management Corp.
+2026-06-01;miami-facilities-management-;58;64;1348;146003;70.487;MIAMI FACILITIES MANAGEMENT CORP.
+2026-06-01;meadowlark-building-services;45;50;708;55913;70.431;Meadowlark Building Services Group
+2026-06-01;campbell-rhys-markets;31;41;215;28757;33.671;Campbell-Rhys Markets
+2026-06-01;great-public-works-inc;5;8;35;6782;4.111;Great Public Works Inc.
+2026-06-01;anderson-building-services-i;737;1107;4878;1471267;322.604;Anderson Building Svcs
+2026-06-01;sierra-janitorial-holdings;15;23;179;12413;20.817;Sierra Janitorial Holdings
+2026-06-01;cumberland-clinics-co;4;7;34;4917;4.756;Cumberland Clinics Co.
+2026-06-01;meadowlark-manufacturing-ltd;2;4;14;3879;2.424;MEADOWLARK MANUFACTURING LTD.
+2026-06-01;kestrel-transit-authority;733;1113;11272;1930725;638.162;Kestrel Transit Authority
+2026-06-01;brookside-inns-ltd;8;13;89;16536;7.952;Brookside Inns Ltd.
+2026-06-01;edwards-inns;5;9;50;6584;7.284;Edwards Inns
+2026-06-01;cascade-construction;128;143;1091;300152;94.386;Cascade Construction
+2026-06-01;gatehouse-public-works-holdi;17;24;218;26321;21.404;Gatehouse Public Works Holdings
+2026-06-01;marrow-mechanical;676;1163;7411;813311;622.203;Marrow Mechanical
+2026-06-01;wang-mills-co;5;8;60;4108;6.870;Wang Mills Co.
+2026-06-01;wabash-properties-ltd;351;417;2847;1030478;229.862;Wabash Properties Ltd.
+2026-06-01;lee-fabrication;18;25;133;53134;16.792;Lee Fabrication
+2026-06-01;jessop-college-co;3;4;20;7056;2.794;Jessop College Co.
+2026-06-01;baker-contracting-corp;44;77;362;100808;21.885;Baker Contracting Corp.
+2026-06-01;alvarez-suites-ltd;657;738;4590;1370271;330.177;Alvarez Suites Ltd.
+2026-06-01;chavez-municipal-services-co;48;84;416;122507;42.013;Chavez Municipal Services Corp.
+2026-06-01;liberty-contracting-holdings;32;53;301;85004;34.625;Liberty Contracting Holdings
+2026-06-01;plains-homes;25;28;182;65379;22.980;PLAINS HOMES
+2026-06-01;cascade-school-district-ltd;2;3;16;2835;4.079;CASCADE SCHOOL DISTRICT
+2026-06-01;larkspur-township-corp;29;37;239;47198;41.083;Larkspur Township Corp.
+2026-06-01;sycamore-township-co;4;8;54;9260;5.675;Sycamore Township Co.
+2026-06-01;sycamore-residential;8;14;155;8572;18.089;Sycamore Residential
+2026-06-01;calloway-freight-group;40;67;547;49716;58.797;Calloway Freight Group
+2026-06-01;prairie-builders-inc;201;244;2756;528262;236.043;Prairie Builders Inc.
+2026-06-01;bayou-medical-center;6;6;49;14661;7.235;Bayou Medical Center
+2026-06-01;oakmere-township;48;58;289;127732;36.207;Oakmere Township
+2026-06-01;twin-retail-group;5;6;28;5516;5.683;Twin Retail Group
+2026-06-01;stonebridge-university-facil;1;2;7;2038;1.355;Stonebridge University Facilities Co.
+2026-06-01;pioneer-college;27;35;399;39897;46.471;Pioneer College
+2026-06-01;cornerstone-property-service;15;18;151;43462;17.130;Cornerstone Property Services Ltd.
+2026-06-01;liberty-unified-schools-corp;11;13;133;16243;13.051;Liberty Unified Schools Corp.
+2026-06-01;stonebridge-fabrication;33;48;334;75141;36.342;Stonebridge Fabrication
+2026-06-01;larkspur-resorts-llc;27;39;176;47089;32.555;Larkspur Resorts LLC
+2026-06-01;elmhurst-realty-management;11;14;126;26400;21.032;Elmhurst Realty Management
+2026-06-01;pioneer-builders;280;493;2403;428691;177.880;Pioneer Builders
+2026-06-01;jackson-warehousing-inc;111;202;1246;104847;148.182;Jackson Warehousing
+2026-06-01;harbortown-resorts-holdings;27;28;345;47821;33.741;Harbortown Resorts Holdings
+2026-06-01;erie-mechanical;174;243;2331;184946;223.739;Erie Mechanical
+2026-06-01;bayview-distribution-corp;62;86;389;116732;25.203;Bayview Distribution
+2026-06-01;moore-college-llc;14;17;124;24721;15.605;Moore College LLC
+2026-06-01;baker-municipal-services;1;2;7;1751;1.656;Baker Municipal
+2026-06-01;allegheny-hotels-co;41;73;516;68025;58.370;ALLEGHENY HOTELS CO.
+2026-06-01;ravenwood-properties-ltd;1521;1713;22785;1512284;1198.874;Ravenwood Properties Ltd.
+2026-06-01;huron-academy-group;2;4;18;4518;2.889;Huron Academy Group
+2026-06-01;johnson-works;71;80;943;140414;112.706;Johnson Works
+2026-06-01;zhang-health-system-co;15;24;108;29592;8.579;Zhang Health System Co.
+2026-06-01;scioto-restoration;90;144;1034;169147;105.542;Scioto Restoration, Inc
+2026-06-01;rogers-construction-co;3403;5022;27520;7584117;2019.427;Rogers Construction Co.
+2026-06-01;scioto-unified-schools-holdi;30;39;182;39261;26.510;Scioto Unified Schools Holdings
+2026-06-01;silverleaf-works-inc;2;2;22;4238;4.389;Silverleaf Works Inc.
+2026-06-01;cascade-health-partners-hold;85;107;979;206688;77.995;Cascade Health Partners Holdings
+2026-06-01;lavoie-mills;194;428;1384;558664;194.837;Lavoie Mills
+2026-06-01;ironwood-school-district-co;4;6;39;8171;6.744;Ironwood School District Co.
+2026-06-01;kowalski-residential;3;4;55;8227;7.465;Kowalski Residential
+2026-06-01;phillips-resorts;17;30;125;38222;13.200;Phillips Resorts
+2026-06-01;northgate-inns;444;725;5426;1073228;348.723;Northgate Inns
+2026-06-01;penhallow-janitorial-co;20;35;296;19309;18.883;Penhallow Janitorial Co.
+2026-06-01;wexford-distribution-co;119;199;684;110842;50.282;Wexford Distribution Co.
+2026-06-01;summit-property-services-inc;291;298;3270;293357;175.453;Summit Property Services Inc.
+2026-06-01;eastlake-university-faciliti;102;163;1597;141376;87.697;Eastlake University
+2026-06-01;lantern-restoration;89;98;1086;172594;100.049;Lantern Restoration
+2026-06-01;wabash-property-group-ltd;6;8;79;13895;12.157;Wabash Property Group Ltd.
+2026-06-01;cumberland-builders-group;5;9;38;6619;5.093;Cumberland Builders Group
+2026-06-01;quarry-warehousing-inc;60;84;508;113803;43.172;Quarry Warehousing Inc.
+2026-06-01;ravenwood-markets-inc;2885;4879;22953;4731850;1714.495;Ravenwood Markets, Inc
+2026-06-01;willow-university-facilities;17;20;194;19075;21.780;Willow University Facilities Ltd.
+2026-06-01;wexford-health-partners-grou;76;145;905;221283;77.636;Wexford Health Partners Group
+2026-06-01;bluewater-retail-group-group;3;4;32;8806;5.833;Bluewater Retail Group Group
+2026-06-01;quillfeather-residential-co;40;53;318;116121;45.040;Quillfeather Residential
+2026-06-01;westbrook-suites-co;11;14;62;16488;9.697;Westbrook Suites Co.
+2026-06-01;perez-school-district-holdin;15;21;152;33473;10.058;Perez School District Holdings
+2026-06-01;blackhawk-construction-llc;24;32;156;58329;11.980;Blackhawk Construction LLC
+2026-06-01;huron-hotels-group;8;9;88;20299;10.756;Huron Hotels Group
+2026-06-01;three-health-system;1;1;9;1229;1.643;Three Health System
+2026-06-01;silverleaf-mechanical-llc;81;134;1533;100207;94.901;Silverleaf Mechanical LLC
+2026-06-01;superior-health-partners-ltd;28;34;267;41089;30.173;Superior Health Partners Ltd.
+2026-06-01;wabash-industries-llc;25;37;197;27732;27.738;Wabash Industries LLC
+2026-06-01;frontier-clinics;199;221;1566;561296;153.061;Frontier Clinics
+2026-06-01;hawthorne-hospitality-group-;23;25;236;20457;23.007;Hawthorne Hospitality, Inc
+2026-06-01;millbrook-property-group;51;80;599;58584;57.216;Millbrook Property Group
+2026-06-01;crescent-fabrication-ltd;57;98;674;138734;60.098;Crescent Fabrication Ltd.
+2026-06-01;foxglove-clinics-co;2;3;22;3251;2.937;Foxglove Clinics Co.
+2026-06-01;sycamore-stores;87;143;653;156594;54.817;Sycamore Stores
+2026-06-01;sycamore-mechanical-holdings;32;40;369;62283;33.399;Sycamore Mechanical Holdings
+2026-06-01;patriot-hospital-co;1753;2468;15854;2030418;960.264;Patriot Hospital Co.
+2026-06-01;commonwealth-markets-co;217;307;2430;481831;180.747;Commonwealth Markets Co.
+2026-06-01;tamarack-outfitters-holdings;298;363;2053;713632;150.496;Tamarack Outfitters Holdings
+2026-06-01;ridgeline-suites-group;1843;2434;22772;2074466;2023.899;Ridgeline Suites Group
+2026-06-01;beacon-builders-llc;77;96;913;189438;81.867;Beacon Builders LLC
+2026-06-01;cartwright-facilities-manage;2;3;33;2651;5.095;Cartwright Facilities Management Corp.
+2026-06-01;rivera-maintenance-co;49;78;423;57053;45.364;Rivera Maintenance Co
+2026-06-01;northgate-couriers-corp;28;39;180;77771;22.794;Northgate Couriers Corp.
+2026-06-01;elmhurst-school-district;1337;1917;13155;2770850;853.490;Elmhurst School
+2026-06-01;scioto-inns-ltd;35;60;266;70448;30.582;Scioto Inns Ltd.
+2026-06-01;silverleaf-township-group;135;199;1357;272540;172.602;Silverleaf Township Group
+2026-06-01;ashdown-resorts-llc;788;1825;5556;1740247;494.613;Ashdown Resorts LLC
+2026-06-01;riverbend-academy-llc;258;349;1893;484912;206.651;Riverbend Academy LLC
+2026-06-01;quillfeather-property-group-;31;52;188;59310;26.900;Quillfeather Property Group LLC
+2026-06-01;blackhawk-maintenance-co-inc;4;4;69;4980;8.072;Blackhawk Maintenance Co Inc.
+2026-06-01;ross-construction-group;75;101;859;74037;81.286;ROSS CONSTRUCTION
+2026-06-01;highland-homes;253;466;1916;213612;158.113;Highland Homes
+2026-06-01;ironwood-supply-co-corp;22;36;211;53166;24.359;Ironwood Supply Co Corp.
+2026-06-01;superior-builders-corp;7;9;95;16252;15.821;Superior Builders Corp.
+2026-06-01;ross-medical-center-group;1016;1587;7549;2929270;524.010;Ross Medical Center Group
+2026-06-01;evans-properties-holdings;3;5;30;4497;3.419;Evans Properties Holdings
+2026-06-01;dubois-school-district-llc;6;9;53;10401;7.801;Dubois School District LLC
+2026-06-01;campbell-stores-ltd;7;9;103;15702;12.571;CAMPBELL STORES LTD.
+2026-06-01;meadowlark-builders-co;225;305;1845;214360;113.494;Meadowlark Builders Co.
+2026-06-01;ashdown-janitorial-group;5;6;57;9220;8.125;Ashdown Janitorial Group
+2026-06-01;howard-works-corp;2;3;19;1869;2.736;Howard Works Corp.
+2026-06-01;cascade-manufacturing-holdin;153;248;1754;432781;137.134;Cascade Manufacturing, Inc
+2026-06-01;patriot-industries-llc;98;109;897;87092;91.132;Patriot Industries LLC
+2026-06-01;allen-properties-co;1;1;13;1185;2.011;Allen Properties Co.
+2026-06-01;yarrow-manufacturing-corp;22;30;124;43045;14.063;Yarrow Manufacturing Corp.
+2026-06-01;kestrel-markets-co;6;10;73;6123;11.932;Kestrel Markets Co.
+2026-06-01;heron-construction-llc;1473;1723;14123;3288377;1018.440;Heron Construction LLC
+2026-06-01;okafor-janitorial-llc;783;809;8874;1833463;534.794;Okafor Janitorial LLC
+2026-06-01;beacon-property-group-llc;1509;1955;14378;2837648;1083.667;Beacon Property Group LLC
+2026-06-01;magnolia-logistics-llc;2;4;13;5981;1.769;Magnolia Logistics LLC
+2026-06-01;cornerstone-homes;349;361;4689;596978;391.137;Cornerstone Homes
+2026-06-01;clearwater-health-system-co;47;62;555;39412;52.625;Clearwater Health System Co.
+2026-06-01;foxglove-building-services-h;1506;1739;20591;3670117;1347.859;Foxglove Building Services Holdings
+2026-06-01;mitchell-supply-co-llc;9;11;69;24861;8.598;Mitchell Supply Co LLC
+2026-06-01;stonebridge-mechanical-co;8;13;48;19737;6.541;Stonebridge Mechanical Co.
+2026-06-01;scott-works;14;17;90;19813;11.619;Scott Works
+2026-06-01;rivers-manufacturing;8;11;46;20282;5.979;Rivers Manufacturing
+2026-06-01;twin-unified-schools-group;22;29;254;19789;22.492;TWIN UNIFIED SCHOOLS
+2026-06-01;huang-building-services-corp;2;3;15;2860;2.488;Huang Building Services Corp.
+2026-06-01;prairie-logistics-inc;12;15;85;30589;10.177;Prairie Logistics Inc.
+2026-06-01;great-hospitality-group-inc;43;55;481;51150;55.289;Great Hospitality Group Inc.
+2026-06-01;superior-school-district-cor;4;5;28;7543;4.798;Superior School District Corp.
+2026-06-01;campbell-manufacturing;143;165;1912;342526;189.403;CAMPBELL MANUFACTURING
+2026-06-01;maplewood-unified-schools-in;1;1;11;2074;2.111;Maplewood Unified Schools Inc.
+2026-06-01;ostrander-janitorial-co;31;33;615;31530;51.492;Ostrander Janitorial Co.
+2026-06-01;osprey-stores-inc;3;5;38;3553;4.258;Osprey Stores Inc.
+2026-06-01;cascade-property-group-inc;21;34;508;21967;39.959;Cascade Property Group Inc.
+2026-06-01;fairweather-restoration-grou;20;26;238;36053;37.253;Fairweather Restoration Group
+2026-06-01;brookside-medical-center;57;62;444;151021;43.794;Brookside Medical Center
+2026-06-01;hawthorne-medical-center-cor;37;49;324;82343;48.156;Hawthorne Medical Center Corp.
+2026-06-01;o-connor-municipal-services-;278;364;2852;580331;203.947;O'Connor Municipal Services Inc.
+2026-06-01;silverleaf-freight-llc;29;54;286;65820;34.328;Silverleaf Freight LLC
+2026-06-01;saint-brigid-health-system-w;45;58;547;56186;60.104;Saint Brigid Health System (Windsor Campus)
+2026-06-01;pinecrest-retail-group;126;182;1311;102104;88.511;Pinecrest Retail Group
+2026-06-01;tamarack-manufacturing-corp;14;19;152;13376;13.996;Tamarack Manufacturing
+2026-06-01;patriot-freight-ltd;69;106;491;206234;46.837;Patriot Freight Ltd.
+2026-06-01;plains-couriers-corp;48;66;418;54945;49.890;Plains Couriers Corp.
+2026-06-01;dubois-inns-holdings;152;164;1086;129482;116.522;Dubois Inns Holdings
+2026-06-01;bayou-builders;25;29;307;48935;33.535;Bayou Builders
+2026-06-01;young-hospitality-group-corp;12;16;106;29308;11.611;Young Hospitality Group Corp.
+2026-06-01;gutierrez-janitorial-holding;8;9;82;12018;9.387;Gutierrez Janitorial Holdings
+2026-06-01;granite-hotels-group;18;29;117;36518;12.716;Granite Hotels Group
+2026-06-01;twin-construction-holdings;32;49;444;70390;56.781;Twin Construction Holdings
+2026-06-01;allen-mills-ltd;7;11;73;20467;9.975;Allen Mills Ltd.
+2026-06-01;pham-realty-management-ltd;12;13;89;25173;11.248;Pham Realty Management Ltd.
+2026-06-01;tidewater-hospitality-group;44;55;412;129203;50.473;Tidewater Hospitality Group
+2026-06-01;fairhaven-county-facilities-;33;37;234;98382;27.719;Fairhaven County Facilities Holdings
+2026-06-01;granite-medical-center-ltd;20;31;190;40506;21.708;Granite Medical Center Ltd.
+2026-06-01;oakmere-health-partners-ltd;2;4;29;2469;5.102;Oakmere Health Partners Ltd.
+2026-06-01;pueblo-janitorial;43;53;514;108036;68.415;Pueblo Janitorial
+2026-06-01;union-construction-ltd;70;100;849;139219;103.015;Union Construction Ltd.
+2026-06-01;superior-maintenance-co-hold;26;38;187;58318;20.595;Superior Maintenance
+2026-06-01;southport-university-facilit;108;138;994;117400;60.496;Southport University Facilities Ltd.
+2026-06-01;thompson-builders-inc;11;13;80;15298;10.829;Thompson Builders Inc.
+2026-06-01;moreau-builders;12;13;98;24363;12.317;Moreau Builders
+2026-06-01;kestrel-suites-ltd;20;29;250;24473;20.019;Kestrel Suites Ltd.
+2026-06-01;copperfield-health-system-in;39;70;403;74468;29.462;Copperfield Health System Inc.
+2026-06-01;saginaw-manufacturing;20;29;204;50000;17.506;Saginaw Manufacturing
+2026-06-01;lantern-maintenance-co-corp;14;19;130;28488;16.967;Lantern Maintenance Co Corp.
+2026-06-01;saguaro-supply-co-co;18;23;210;19611;21.970;Saguaro Supply Co Co.
+2026-06-01;ashdown-distribution-inc;190;329;2344;505935;198.079;Ashdown Distribution Inc.
+2026-06-01;keystone-hospital-llc;115;126;947;191045;73.362;Keystone Hospital LLC
+2026-06-01;elmhurst-public-works-group;26;40;182;30054;24.583;ELMHURST PUBLIC WORKS GROUP
+2026-06-01;martinez-resorts-llc;600;888;4737;1152339;299.342;Martinez Resorts LLC
+2026-06-01;harris-township-inc;183;218;2238;427212;179.279;Harris Township, Inc
+2026-06-01;elmhurst-clinics-llc;12;15;97;24940;10.652;ELMHURST CLINICS LLC
+2026-06-01;allen-outfitters;31;48;239;46877;26.073;Allen Outfitters
+2026-06-01;yarrow-academy;5;5;50;12710;6.781;Yarrow Academy
+2026-06-01;kingsley-builders-ltd;13;19;98;27510;11.291;Kingsley Builders Ltd.
+2026-06-01;bailey-restoration-llc;12;18;158;14850;25.512;Bailey Restoration LLC
+2026-06-01;yarrow-maintenance-co;46;64;368;111751;45.438;Yarrow Maintenance Co
+2026-06-01;yarrow-college-llc;118;133;920;163708;72.010;Yarrow College LLC
+2026-06-01;thornbury-contracting-inc;80;107;771;72615;73.400;Thornbury Contracting Inc.
+2026-06-01;wabash-inns-inc;626;1051;8941;1725985;550.547;Wabash Inns Inc.
+2026-06-01;valley-maintenance-co-llc;220;255;1615;656757;159.838;Valley Maintenance Co LLC
+2026-06-01;magnolia-restoration-corp;47;53;603;73164;69.886;Magnolia Restoration Corp.
+2026-06-01;tidewater-warehousing-holdin;251;271;2971;580056;170.516;Tidewater Warehousing Holdings
+2026-06-01;northgate-mills-holdings;39;48;315;41113;33.975;Northgate Mills Holdings
+2026-06-01;quillfeather-warehousing;12;14;162;15859;15.817;Quillfeather Warehousing
+2026-06-01;juniper-restoration;219;274;1276;545146;109.706;Juniper Restoration
+2026-06-01;bayou-hotels-llc;16;17;130;37961;12.939;Bayou Hotels LLC
+2026-06-01;wexford-academy-corp;31;33;345;66670;35.778;Wexford Academy, Inc
+2026-06-01;plains-public-works-co;6;10;54;14947;7.189;Plains Public Works Co.
+2026-06-01;ramos-logistics;11;15;167;18071;13.181;Ramos Logistics
+2026-06-01;bayou-mechanical-group;21;23;277;55941;24.917;Bayou Mechanical Group
+2026-06-01;quarry-industries-ltd;79;106;819;227612;61.028;Quarry Industries Ltd.
+2026-06-01;valley-building-services-co;5;8;46;11895;9.465;Valley Building Services Co.
+2026-06-01;macleod-university-facilitie;22;25;161;22093;16.797;MacLeod University Facilities Co.
+2026-06-01;rivers-industries-co;15;22;165;13466;17.897;Rivers Industries Co.
+2026-06-01;huron-properties-co;73;84;684;96561;76.407;HURON PROPERTIES CO.
+2026-06-01;union-supply-co-inc;18;26;204;25128;21.113;Union Supply Co, Inc
+2026-06-01;heritage-unified-schools;166;238;1101;424757;95.534;HERITAGE UNIFIED SCHOOLS
+2026-06-01;sierra-manufacturing-co;24;33;270;57840;29.643;Sierra Manufacturing Co.
+2026-06-01;plains-health-system-co;276;338;2682;406418;152.949;Plains Health System Co.
+2026-06-01;huron-public-works-inc;5;8;38;8990;5.732;Huron Public Works Inc.
+2026-06-01;muskingum-homes-ltd;2;4;14;4491;3.217;Muskingum Homes Ltd.
+2026-06-01;juniper-county-facilities;82;93;593;94474;72.485;Juniper County Facilities
+2026-06-01;jones-residential;33;47;396;30494;44.322;Jones Residential
+2026-06-01;prairie-realty-management;28;32;207;75049;25.178;Prairie Realty Management
+2026-06-01;erie-hospitality-group-ltd;17;18;141;35073;15.585;Erie Hospitality Group Ltd.
+2026-06-01;tri-county-fabrication;13;14;189;10895;23.054;Tri-County Fabrication
+2026-06-01;erie-supply-co-llc;49;65;495;68500;58.371;Erie Supply Co LLC
+2026-06-01;westbrook-restoration-holdin;3601;4651;44325;8821209;2598.155;Westbrook Restoration Holdings
+2026-06-01;muskingum-couriers-corp;4;6;42;5565;4.501;Muskingum Couriers Corp.
+2026-06-01;lockwood-building-services-l;386;551;5456;889011;320.328;Lockwood Building Services Ltd.
+2026-06-01;roberts-stores;5;6;55;13532;9.669;Roberts Stores
+2026-06-01;union-mills;25;33;279;68160;34.791;Union Mills
+2026-06-01;evans-unified-schools;495;583;4159;814971;231.443;Evans Unified Schools
+2026-06-01;highland-hospital-ltd;20;26;231;37709;26.290;Highland Hospital Ltd.
+2026-06-01;tamarack-hotels;44;59;358;54700;35.329;Tamarack Hotels
+2026-06-01;summit-logistics-co;17;18;89;48691;9.188;Summit Logistics Co.
+2026-06-01;kestrel-public-works-corp;218;268;2636;227118;219.160;Kestrel Public Works Corp.
+2026-06-01;northgate-construction;22;35;157;58007;18.817;Northgate Construction
+2026-06-01;cedar-stores;1270;1326;14454;1443247;846.102;Cedar Stores
+2026-06-01;gatehouse-outfitters-llc;15;26;151;28898;19.615;Gatehouse Outfitters
+2026-06-01;white-facilities-management;9;10;47;18365;9.275;WHITE FACILITIES MANAGEMENT
+2026-06-01;riverbend-university-facilit;6;7;40;7526;6.437;Riverbend University Facilities Holdings
+2026-06-01;liberty-transit-authority-gr;19;31;245;29166;25.042;Liberty Transit Authority Group
+2026-06-01;romano-logistics-co;296;467;3082;606584;199.199;Romano Logistics Co.
+2026-06-01;tillamook-manufacturing;38;43;335;107382;35.974;Tillamook Manufacturing
+2026-06-01;kestrel-college-group;3;4;32;2537;6.634;Kestrel College Group
+2026-06-01;gonzalez-retail-group-group;72;105;433;65381;56.728;Gonzalez Retail Group Group
+2026-06-01;edwards-property-group-co;268;334;1513;435511;146.625;Edwards Property Group Co.
+2026-06-01;lantern-transit-authority;68;124;686;143927;56.212;Lantern Transit Authority
+2026-06-01;quarry-construction-co;1;2;12;1693;1.404;Quarry Construction Co.
+2026-06-01;cruz-hospitality-group-corp;96;134;1184;262054;70.476;Cruz Hospitality Group Corp.
+2026-06-01;patel-industries-corp;8;10;71;14797;13.353;Patel Industries Corp.
+2026-06-01;elmhurst-industries-llc;59;100;449;145983;41.965;Elmhurst Industries LLC
+2026-06-01;highland-health-system;13;15;80;17395;9.813;Highland Health System
+2026-06-01;cumberland-county-facilities;200;297;1975;307377;164.223;Cumberland County Facilities Group
+2026-06-01;harbortown-health-partners-c;216;349;1725;401402;111.833;Harbortown Health Partners Co.
+2026-06-01;okafor-retail-group;253;330;2254;368010;140.918;Okafor Retail
+2026-06-01;superior-freight-llc;1;1;12;2007;1.902;Superior Freight LLC
+2026-06-01;summit-clinics-inc;108;134;572;143638;43.829;Summit Clinics Inc.
+2026-06-01;morales-properties;112;150;796;210648;53.588;Morales Properties
+2026-06-01;pinecrest-builders;1;2;7;2543;1.504;Pinecrest Builders
+2026-06-01;eastlake-janitorial-llc;2;2;18;3969;3.134;Eastlake Janitorial LLC
+2026-06-01;halvorsen-public-works;64;71;426;61616;78.151;Halvorsen Public Works
+2026-06-01;rodriguez-residential;5;10;50;13256;6.327;Rodriguez Residential
+2026-06-01;beacon-unified-schools-group;48;68;552;122389;60.666;Beacon Unified Schools Group
+2026-06-01;millbrook-township-ltd;12;20;108;28947;20.803;Millbrook Township
+2026-06-01;brown-inns;369;461;4619;750874;273.722;Brown Inns
+2026-06-01;ozark-residential-ltd;4;5;33;6501;6.106;Ozark Residential Ltd.
+2026-06-01;beacon-manufacturing;43;70;317;58989;27.157;Beacon Manufacturing
+2026-06-01;wilson-works-llc;7;11;86;6091;10.781;Wilson Works LLC
+2026-06-01;southport-facilities-managem;15;18;162;35435;12.402;Southport Facilities Management Group
+2026-06-01;bayou-outfitters-inc;51;64;291;122714;29.372;Bayou Outfitters Inc.
+2026-06-01;willow-medical-center;16;22;217;40010;25.700;Willow Medical Center
+2026-06-01;carter-outfitters;6;10;72;9983;9.675;Carter Outfitters, Inc
+2026-06-01;sierra-properties-corp;23;33;175;39036;21.182;Sierra Properties Corp.
+2026-06-01;watanabe-property-group-grou;34;44;216;53009;26.591;Watanabe Property Group Group
+2026-06-01;zhang-township-corp;44;46;619;108182;71.960;Zhang Township Corp.
+2026-06-01;o-brien-industries-ltd;131;141;1508;384802;161.803;O'BRIEN INDUSTRIES
+2026-06-01;superior-distribution;31;35;241;75973;33.501;Superior Distribution
+2026-06-01;wexford-couriers-ltd;2;3;20;4185;5.285;Wexford Couriers Ltd.
+2026-06-01;osprey-school-district-group;8;10;81;18879;15.836;Osprey School District Group
+2026-06-01;ravenwood-university-facilit;21;31;276;24674;27.548;Ravenwood University Facilities LLC
+2026-06-01;meadowlark-public-works-co;18;25;145;52093;21.108;Meadowlark Public Works Co.
+2026-06-01;marrow-freight;23;27;213;38436;21.162;Marrow Freight
+2026-06-01;wright-supply-co-inc;49;52;380;99703;55.534;Wright Supply Co Inc.
+2026-06-01;ingleby-medical-center-co;28;38;265;52638;33.320;Ingleby Medical Center
+2026-06-01;cumberland-health-partners;2;3;14;3902;2.177;Cumberland Health Partners
+2026-06-01;halvorsen-homes;149;251;1336;311488;104.733;Halvorsen Homes
+2026-06-01;clearwater-health-partners;4;4;29;4554;5.411;Clearwater Health Partners
+2026-06-01;pioneer-works;89;113;1116;209960;64.454;Pioneer Works
+2026-06-01;tamarack-stores-ltd;73;87;528;74298;58.791;Tamarack Stores Ltd.
+2026-06-01;foster-residential-group;9;14;93;24455;10.111;Foster Residential Group
+2026-06-01;penhallow-college;15;20;198;35204;18.194;Penhallow College
+2026-06-01;highland-industries-holdings;23;27;275;26587;27.935;Highland Industries Holdings
+2026-06-01;saguaro-maintenance-co-llc;2;3;22;5350;2.342;Saguaro Maintenance Co LLC
+2026-06-01;jessop-school-district-group;39;61;255;98695;38.240;Jessop School District Group
+2026-06-01;foxglove-property-group;137;148;751;347886;76.952;Foxglove Property Group
+2026-06-01;pinecrest-clinics-group;16;17;157;36340;23.182;Pinecrest Clinics Group
+2026-06-01;sandpiper-contracting;85;105;852;141511;80.605;Sandpiper Contracting
+2026-06-01;harbortown-markets-corp;275;327;1714;236466;114.623;Harbortown Markets Corp.
+2026-06-01;riverbend-supply-co;24;36;306;34880;35.797;Riverbend Supply
+2026-06-01;adams-hospital-group;2;3;24;5786;3.284;Adams Hospital Group
+2026-06-01;twin-fabrication;63;103;462;94308;45.282;Twin Fabrication
+2026-06-01;clark-health-partners;20;23;214;35941;20.338;Clark Health Partners
+2026-06-01;cornerstone-properties;103;118;1552;258424;80.617;Cornerstone Properties
+2026-06-01;delacroix-municipal-services;25;38;159;41943;16.517;Delacroix Municipal Services Group
+2026-06-01;reyes-distribution;12;14;104;11719;7.350;Reyes Distribution
+2026-06-01;cruz-works;10;17;83;21393;10.657;Cruz Works
+2026-06-01;redstone-distribution;124;131;1007;186844;85.753;Redstone Distribution
+2026-06-01;ozark-restoration-inc;17;28;234;49320;30.629;Ozark Restoration Inc.
+2026-06-01;cedar-outfitters-co;78;157;569;66084;123.509;Cedar Outfitters Co.
+2026-06-01;wilson-maintenance-co;25;38;376;61259;41.436;Wilson Maintenance Co
+2026-06-01;tillamook-academy;44;66;484;123726;38.264;Tillamook Academy
+2026-06-01;allegheny-markets-co;10;16;112;28187;14.788;Allegheny Markets Co.
+2026-06-01;bayou-clinics;32;47;375;55582;42.039;Bayou Clinics
+2026-06-01;delacroix-manufacturing-llc;6;8;65;7994;9.746;Delacroix Manufacturing LLC
+2026-06-01;crescent-college-llc;18;27;191;41266;22.945;Crescent College LLC
+2026-06-01;o-brien-clinics;16;24;141;20719;14.970;O'Brien Clinics
+2026-06-01;maplewood-inns;24;31;190;39732;21.640;Maplewood Inns
+2026-06-01;sanders-medical-center;17;26;236;17462;25.823;SANDERS MEDICAL CENTER
+2026-06-01;mccarthy-resorts;64;65;437;79543;63.470;McCarthy Resorts
+2026-06-01;millbrook-property-services-;675;1067;5869;1303657;441.547;Millbrook Property Services Co.
+2026-06-01;kestrel-academy-corp;20;27;310;22987;32.645;Kestrel Academy Corp.
+2026-06-01;muskingum-health-partners-ll;23;26;314;25002;35.720;Muskingum Health Partners LLC
+2026-06-01;cruz-academy-holdings;25;35;268;36825;28.146;Cruz Academy Holdings
+2026-06-01;ravenwood-township;77;95;1057;213421;100.124;Ravenwood Township, Inc
+2026-06-01;green-maintenance-co-co;2;2;14;4856;2.092;Green Maintenance Co Co.
+2026-06-01;sanchez-county-facilities-ll;48;75;480;131254;60.420;Sanchez County Facilities LLC
+2026-06-01;kingsley-hotels-group;86;155;780;98184;46.999;Kingsley Hotels Group
+2026-06-01;kestrel-resorts-inc;15;26;176;25309;21.719;Kestrel Resorts Inc.
+2026-06-01;valley-property-group-inc;25;41;217;46730;30.085;Valley Property Group Inc.
+2026-06-01;ridgeline-residential-group;124;149;1077;279727;102.470;Ridgeline Residential Group
+2026-06-01;lewis-transit-authority;34;41;335;77513;27.758;Lewis Transit Authority
+2026-06-01;copperfield-clinics-corp;25;30;364;53638;40.981;COPPERFIELD CLINICS
+2026-06-01;martin-university-facilities;8;14;55;7294;6.298;Martin University Facilities
+2026-06-01;pioneer-mechanical-holdings;11;12;205;23589;12.945;Pioneer Mechanical Holdings
+2026-06-01;copperfield-maintenance-co-h;86;102;923;165137;42.806;Copperfield Maintenance Co Holdings
+2026-06-01;cumberland-medical-center;136;157;860;213496;93.393;Cumberland Medical Center
+2026-06-01;maplewood-markets-ltd;6;7;72;13188;5.923;Maplewood Markets Ltd.
+2026-06-01;three-building-services;9;11;77;19343;8.431;Three Building Services
+2026-06-01;gatehouse-retail-group-holdi;215;327;2179;334221;184.585;Gatehouse Retail Group Holdings
+2026-06-01;harris-works-co;32;50;418;80337;45.720;Harris Works Co.
+2026-06-01;cascade-stores;19;30;146;15385;13.675;Cascade Stores
+2026-06-01;st-brigids-health-system;616;759;4550;1347474;500.932;ST. BRIGID’S HEALTH SYSTEM
+2026-06-01;nguyen-municipal-services-ll;519;588;4699;934613;420.336;NGUYEN MUNICIPAL SERVICES
+2026-06-01;bayou-supply-co-co;5;8;34;4495;2.818;Bayou Supply Co Co.
+2026-06-01;blackhawk-medical-center-cor;3;4;36;7785;6.557;Blackhawk Medical Center Corp.
+2026-06-01;jimenez-health-partners-llc;19;21;218;32403;11.692;Jimenez Health Partners LLC
+2026-06-01;ridgeline-public-works;8;11;96;11502;9.512;Ridgeline Public Works
+2026-06-01;huron-homes-holdings;8;14;45;23726;6.404;Huron Homes Holdings
+2026-06-01;juniper-contracting;7;9;99;18288;10.156;Juniper Contracting
+2026-06-01;ironwood-properties-group;55;100;780;103150;71.027;Ironwood Properties Group
+2026-06-01;wexford-realty-management;15;20;133;22820;2.652;Wexford Realty Management
+2026-06-01;southport-hotels-ltd;14;17;305;12367;2.310;Southport Hotels Ltd.
+2026-06-01;gonzalez-maintenance-co-grou;6;9;87;16031;9.288;Gonzalez Maintenance
+2026-06-01;price-jones-unified-schools-;2734;3518;30590;6531696;1813.333;Price-Jones Unified Schools Corp.
+2026-06-01;shenandoah-distribution-inc;11;16;96;15365;12.007;Shenandoah Distribution
+2026-06-01;ironwood-homes;18;21;194;42049;24.318;Ironwood Homes
+2026-06-01;scioto-school-district;15;16;159;16448;10.936;Scioto School District
+2026-06-01;lindenwood-resorts-corp;116;131;978;268939;106.392;LINDENWOOD RESORTS CORP.
+2026-06-01;frontier-college;33;37;366;85628;39.522;Frontier College
+2026-06-01;plains-contracting-holdings;11;17;60;29571;4.304;Plains Contracting Holdings
+2026-06-01;lindenwood-municipal-service;8;14;80;6886;11.064;Lindenwood Municipal Services
+2026-06-01;fairhaven-freight-inc;41;46;379;41563;41.034;Fairhaven Freight Inc.
+2026-06-01;ozark-college;4;6;52;9669;1.382;Ozark College
+2026-06-01;venkatesan-freight-co;14;24;106;41174;10.670;Venkatesan Freight Co.
+2026-06-01;alvarez-logistics-holdings;12;13;81;17982;6.133;Alvarez Logistics Holdings
+2026-06-01;huron-couriers-corp;4;5;46;11516;5.824;Huron Couriers Corp.
+2026-06-01;prairie-works;15;18;136;35526;12.491;Prairie Works
+2026-06-01;adeyemi-janitorial-inc;12;16;87;22895;7.528;Adeyemi Janitorial Inc.
+2026-06-01;marrow-construction-holdings;33;53;391;71265;34.778;Marrow Construction Holdings
+2026-06-01;murphy-health-partners-co;30;31;354;60395;45.517;Murphy Health
+2026-06-01;hughes-maintenance-co;9;16;134;25056;14.006;Hughes Maintenance Co
+2026-06-01;sycamore-suites-co;19;25;232;38714;12.795;Sycamore Suites Co.
+2026-06-01;wilson-suites;46;79;510;83018;59.377;Wilson Suites
+2026-06-01;kingsley-supply-co-inc;113;150;1122;233296;93.274;Kingsley Supply Co Inc.
+2026-06-01;morgan-logistics-ltd;65;68;517;153683;41.194;Morgan Logistics Ltd.
+2026-06-01;crescent-hospitality-group-l;11;15;74;10791;8.755;Crescent Hospitality Group LLC
+2026-06-01;granite-university-facilitie;24;27;286;59480;7.865;Granite University Facilities
+2026-06-01;jackson-restoration-inc;14;17;147;15517;4.846;Jackson Restoration Inc.
+2026-06-01;tri-county-logistics-corp;5;8;41;9520;2.388;Tri-County Logistics Corp.
+2026-06-01;ward-supply-co-co;2;3;18;3661;0.523;Ward Supply Co Co.
+2026-06-01;saginaw-hotels-ltd;21;28;337;34613;24.201;Saginaw Hotels Ltd.
+2026-06-01;allegheny-municipal-services;18;27;133;36893;4.582;Allegheny Municipal Services Inc.
+2026-06-01;frontier-transit-authority-h;40;55;536;65411;45.917;Frontier Transit Authority Holdings
+2026-06-01;taylor-property-services-hol;791;1146;11568;866007;647.304;Taylor Property Services Holdings
+2026-06-01;gatehouse-hospitality-group;112;177;1506;280272;173.692;Gatehouse Hospitality Group
+2026-06-01;goodenough-academy;2;3;19;2728;1.169;Goodenough Academy, Inc
+2026-06-01;ridgeline-transit-authority;81;96;570;217212;75.041;Ridgeline Transit Authority
+2026-06-01;tremblay-construction-ltd;6;10;68;15310;7.397;Tremblay Construction Ltd.
+2026-06-01;tillamook-markets-corp;29;51;262;55427;15.467;Tillamook Markets Corp.
+2026-06-01;pueblo-academy-holdings;17;24;123;23262;13.582;Pueblo Academy Holdings
+2026-06-01;johansson-contracting;11;15;114;32678;15.459;JOHANSSON CONTRACTING
+2026-06-01;marrow-university-facilities;19;37;163;38690;20.748;Marrow University Facilities Co.
+2026-06-01;clearwater-industries;4;7;27;9109;6.126;Clearwater Industries
+2026-06-01;miller-distribution-ltd;3;4;45;6421;7.256;Miller Distribution
+2026-06-01;scioto-construction-group;79;96;490;148972;50.710;Scioto Construction Group
+2026-06-01;bluewater-realty-management-;35;48;405;51565;22.346;Bluewater Realty Management Corp.
+2026-06-01;frontier-properties-inc;27;41;492;57121;42.481;FRONTIER PROPERTIES INC.
+2026-06-01;ostrander-academy;444;742;5171;811919;334.802;Ostrander Academy
+2026-06-01;highland-public-works-llc;20;33;224;20423;20.205;Highland Public Works LLC
+2026-06-01;fairhaven-realty-management;26;36;290;43656;41.789;Fairhaven Realty Management
+2026-06-01;twin-residential;27;28;228;32444;23.534;Twin Residential
+2026-06-01;ostrander-supply-co;19;20;247;24813;12.533;Ostrander Supply Co
+2026-06-01;cartwright-university-facili;275;295;3346;268394;276.074;Cartwright University Facilities Group
+2026-06-01;harbortown-construction-hold;21;23;139;31753;5.836;HARBORTOWN CONSTRUCTION HOLDINGS
+2026-06-01;wright-school-district-co;8;15;90;14631;3.978;Wright School District Co.
+2026-06-01;blackwood-building-services;81;132;521;210785;64.225;Blackwood Building Services
+2026-06-01;meadowlark-retail-group-hold;73;123;648;151621;34.617;Meadowlark Retail Group Holdings
+2026-06-01;magnolia-building-services;4;6;34;10699;3.498;Magnolia Building Services
+2026-06-01;clearwater-manufacturing;16;17;191;43299;12.549;Clearwater Manufacturing
+2026-06-01;blackhawk-fabrication;17;22;222;28458;15.327;Blackhawk Fabrication
+2026-06-01;beacon-works-group;10;12;107;25327;5.858;Beacon Works Group
+2026-06-01;jones-retail-group-holdings;4;6;39;3221;2.049;Jones Retail Group Holdings
+2026-06-01;liberty-homes-co;80;100;528;180317;43.134;Liberty Homes Co.
+2026-06-01;gatehouse-realty-management-;25;36;446;57884;8.585;Gatehouse Realty Management Corp.
+2026-06-01;wabash-hospital-co;19;24;158;43731;17.255;Wabash Hospital Co.
+2026-06-01;chen-hotels-co;3;3;23;8423;3.798;Chen Hotels Co.
+2026-06-01;keystone-transit-authority-c;33;57;276;93075;16.234;Keystone Transit Authority Co.
+2026-06-01;mendoza-mills-holdings;209;237;1752;239727;121.479;MENDOZA MILLS
+2026-06-01;fitzgerald-township;97;179;994;80683;84.156;Fitzgerald Township
+2026-06-01;nasser-freight-llc;77;109;799;71000;43.865;Nasser Freight LLC
+2026-06-01;osprey-janitorial-holdings;7;11;64;12938;5.643;Osprey Janitorial Holdings
+2026-06-01;union-school-district-corp;32;46;317;76597;24.644;Union School District Corp.
+2026-06-01;maplewood-health-system-corp;7;13;44;9006;1.571;Maplewood Health System
+2026-06-01;bluewater-supply-co-inc;16;20;156;19668;16.406;Bluewater Supply Co Inc.
+2026-06-01;millbrook-resorts-group;2;3;31;2461;1.418;Millbrook Resorts Group
+2026-06-01;ozark-freight-co;29;41;283;43129;15.505;Ozark Freight Co.
+2026-06-01;liu-clinics-corp;600;897;7404;1116610;528.882;Liu Clinics Corp.
+2026-06-01;saguaro-academy;412;686;4479;1196844;419.454;Saguaro Academy
+2026-06-01;oakmere-hospitality-group;98;121;948;225957;55.597;Oakmere Hospitality Group
+2026-06-01;riverbend-construction;1243;1545;11022;2688052;924.679;Riverbend Construction
+2026-06-01;clearwater-couriers-ltd;7;8;108;17391;1.172;Clearwater Couriers Ltd.
+2026-06-01;southport-school-district;152;154;815;190502;58.007;Southport School District
+2026-06-01;wexford-unified-schools;6;8;67;9979;6.835;Wexford Unified Schools
+2026-06-01;tillamook-inns-group;10;16;225;22115;19.622;Tillamook Inns Group
+2026-06-01;cote-school-district;15;19;130;35449;14.326;Cote School District
+2026-06-01;bayou-distribution;5;7;27;8434;3.641;Bayou Distribution, Inc
+2026-06-01;liberty-industries;14;16;170;22172;8.142;Liberty Industries
+2026-06-01;alvarez-distribution;15;21;179;43507;3.474;Alvarez Distribution
+2026-06-01;three-facilities-management;10;19;95;27276;4.583;Three Facilities Management
+2026-06-01;smith-hospital-llc;28;29;184;73874;11.192;Smith Hospital LLC
+2026-06-01;granite-health-partners;21;29;260;27845;18.741;Granite Health Partners
+2026-06-01;williams-university-faciliti;17;27;215;19027;17.909;Williams University Facilities Corp.
+2026-06-01;le-mechanical-co;28;30;363;81191;28.052;LE MECHANICAL CO.
+2026-06-01;southport-transit-authority-;38;46;536;112545;35.827;Southport Transit Authority Co.
+2026-06-01;quarry-county-facilities-cor;69;87;666;76721;38.509;Quarry County Facilities Corp.
+2026-06-01;tillamook-facilities-managem;10;11;85;19429;9.691;Tillamook Facilities Management Inc.
+2026-06-01;yarrow-properties-llc;21;30;286;59483;5.027;Yarrow Properties LLC
+2026-06-01;tillamook-hospital-ltd;7;8;88;14903;10.416;Tillamook Hospital Ltd.
+2026-06-01;garcia-medical-center-llc;41;48;355;64078;25.268;Garcia Medical Center LLC
+2026-06-01;hernandez-couriers-co;25;44;217;69471;26.171;Hernandez Couriers Co.
+2026-06-01;southport-hospitality-group-;48;60;573;83470;14.384;Southport Hospitality Group Ltd.
+2026-06-01;tillamook-college-holdings;33;37;403;47035;49.831;Tillamook College Holdings
+2026-06-01;pioneer-stores-inc;80;99;1045;139912;77.298;Pioneer Stores Inc.
+2026-06-01;ingleby-properties-group;20;33;179;38674;3.717;Ingleby Properties Group
+2026-06-01;cedar-restoration-co;4;5;30;4297;0.904;Cedar Restoration Co.
+2026-06-01;redstone-retail-group-co;15;17;196;29026;19.961;Redstone Retail Group Co.
+2026-06-01;jimenez-hospitality-group-ll;88;101;719;262289;45.285;Jimenez Hospitality Group LLC
+2026-06-01;quillfeather-builders-group;23;24;167;19736;6.789;Quillfeather Builders Group
+2026-06-01;mensah-hospitality-group;3;4;25;2735;1.920;Mensah Hospitality Group
+2026-06-01;o-brien-school-district-grou;43;62;303;73119;50.506;O'Brien School District Group
+2026-06-01;plains-distribution-llc;16;32;151;32271;23.220;Plains Distribution LLC
+2026-06-01;lefebvre-fabrication;1;2;12;2365;3.380;Lefebvre Fabrication
+2026-06-01;summit-warehousing-llc;15;24;177;32202;17.612;Summit Warehousing LLC
+2026-06-01;lantern-county-facilities-ll;58;68;432;46951;43.012;Lantern County Facilities LLC
+2026-06-01;mesa-janitorial-co;26;37;185;60829;39.858;Mesa Janitorial Co.
+2026-06-01;jimenez-public-works;9;12;123;14107;2.042;Jimenez Public Works, Inc
+2026-06-01;three-resorts;116;217;1438;212408;75.088;Three Resorts
+2026-06-01;foxglove-restoration-inc;19;29;129;41564;14.213;Foxglove Restoration Inc.
+2026-06-01;ward-construction-corp;31;37;459;28533;22.894;Ward Construction Corp.
+2026-06-01;reed-school-district-inc;31;35;307;69747;22.820;Reed School District Inc.
+2026-06-01;silverleaf-retail-group;26;33;291;65460;34.833;Silverleaf Retail Group
+2026-06-01;maplewood-hospital;4;6;45;5022;6.107;Maplewood Hospital
+2026-06-01;beacon-county-facilities;17;21;225;35725;3.434;Beacon County Facilities
+2026-06-01;marchetti-mechanical-llc;5;9;67;5379;9.339;Marchetti Mechanical LLC
+2026-06-01;choi-contracting-holdings;11;14;126;15597;11.977;Choi Contracting Holdings
+2026-06-01;stonebridge-industries-ltd;22;33;263;37795;6.762;Stonebridge Industries Ltd.
+2026-06-01;chen-builders-llc;28;48;312;59696;32.696;Chen Builders LLC
+2026-06-01;osprey-warehousing-llc;24;36;160;37960;20.289;OSPREY WAREHOUSING
+2026-06-01;clearwater-realty-management;5;7;61;13460;6.620;Clearwater Realty Management
+2026-06-01;great-hospital;24;32;284;55345;23.226;GREAT HOSPITAL
+2026-06-01;highland-distribution-holdin;8;10;72;16193;11.238;Highland Distribution Holdings
+2026-06-01;heritage-property-services-h;13;17;101;16979;4.446;HERITAGE PROPERTY SERVICES HOLDINGS
+2026-06-01;great-mechanical-co;8;9;47;22711;0.727;Great Mechanical Co.
+2026-06-01;brookside-contracting-corp;116;204;1570;123732;148.890;Brookside Contracting Corp.
+2026-06-01;chen-suites-inc;338;587;3229;729769;209.827;Chen Suites Inc.
+2026-06-01;pioneer-janitorial-group;9;11;128;7514;10.874;Pioneer Janitorial Group
+2026-06-01;turner-realty-management-gro;15;18;179;32654;5.373;Turner Realty Management Group
+2026-06-01;tidewater-residential-co;37;40;272;37778;3.872;Tidewater Residential Co.
+2026-06-01;tamarack-transit-authority;21;34;308;21686;8.602;Tamarack Transit Authority
+2026-06-01;highland-fabrication;22;29;253;30340;29.122;Highland Fabrication
+2026-06-01;cedar-residential-inc;31;36;386;48272;39.463;Cedar Residential Inc.
+2026-06-01;howard-facilities-management;8;11;101;17330;9.549;Howard Facilities Management Co.
+2026-06-01;redstone-freight-corp;14;24;167;26074;7.773;Redstone Freight Corp.
+2026-06-01;osprey-mechanical-corp;21;31;181;21862;22.723;Osprey Mechanical Corp.
+2026-06-01;lefebvre-stores-ltd;20;31;153;53792;7.075;Lefebvre Stores Ltd.
+2026-06-01;abernathy-property-group-hol;17;27;131;43743;15.013;Abernathy Property Group Holdings
+2026-06-01;tri-county-county-facilities;4;5;41;6990;4.845;Tri-County County Facilities Inc.
+2026-06-01;ostrander-public-works-inc;12;17;149;31729;4.339;Ostrander Public Works Inc.
+2026-06-01;fairhaven-mechanical;46;53;281;121159;6.380;FAIRHAVEN MECHANICAL
+2026-06-01;campbell-rhys-residential-in;144;247;3648;324970;224.793;Campbell-Rhys Residential Inc.
+2026-06-01;bayview-logistics-llc;19;29;166;31801;4.258;Bayview Logistics LLC
+2026-06-01;marrow-janitorial-co;23;30;552;67985;25.042;Marrow Janitorial Co.
+2026-06-01;miami-janitorial-holdings;69;111;550;128414;64.104;MIAMI JANITORIAL HOLDINGS
+2026-06-01;clearwater-university-facili;102;146;1223;140203;54.314;Clearwater University Facilities Holdings
+2026-06-01;quarry-distribution-inc;11;16;142;26240;5.480;Quarry Distribution Inc.
+2026-06-01;ashford-inns;11;12;78;23634;8.933;Ashford Inns
+2026-06-01;millbrook-logistics;11;21;74;16310;11.427;Millbrook Logistics
+2026-06-01;anchor-transit-authority;20;21;110;58163;6.002;Anchor Transit Authority
+2026-06-01;morales-clinics-llc;23;25;175;36087;5.226;Morales Clinics LLC
+2026-06-01;keystone-unified-schools-ltd;40;45;579;96463;48.356;Keystone Unified Schools Ltd.
+2026-06-01;ironwood-maintenance-co;10;15;79;26344;6.291;Ironwood Maintenance Co, Inc
+2026-06-01;eastlake-health-system-holdi;2;3;29;4149;2.334;Eastlake Health System Holdings
+2026-06-01;cedar-suites-holdings;94;116;749;169570;31.932;CEDAR SUITES
+2026-06-01;bouchard-properties-inc;20;33;343;36165;26.921;Bouchard Properties Inc.
+2026-06-01;millbrook-suites-holdings;14;25;181;32999;26.524;Millbrook Suites Holdings
+2026-06-01;yarrow-mills;40;65;275;94945;29.789;Yarrow Mills
+2026-06-01;anchor-university-facilities;62;70;606;135309;63.688;ANCHOR UNIVERSITY FACILITIES
+2026-06-01;harris-building-services-hol;3;5;42;8949;5.659;Harris Building Services Holdings
+2026-06-01;saguaro-logistics;1180;2174;14449;1493717;1071.306;Saguaro Logistics
+2026-06-01;ostrander-clinics-inc;624;728;4133;1555963;282.725;Ostrander Clinics
+2026-06-01;ostrander-realty-management-;4;6;43;8775;8.589;Ostrander Realty Management Ltd.
+2026-06-01;anchor-township-group;25;30;237;31093;28.719;Anchor Township Group
+2026-06-01;southport-township-co;2;3;27;3849;3.093;Southport Township Co.
+2026-06-01;thompson-health-system;52;69;306;145097;21.324;Thompson Health Sys
+2026-06-01;sycamore-health-system-llc;12;15;119;13994;15.264;Sycamore Health System LLC
+2026-06-01;rivers-hospital-llc;19;23;181;39678;17.631;Rivers Hospital LLC
+2026-06-01;phillips-health-partners;11;20;115;29457;5.027;Phillips Health Partners
+2026-06-01;hawthorne-fabrication-inc;59;110;685;175674;67.892;Hawthorne Fabrication Inc.
+2026-06-01;magnolia-college;8;9;59;11444;4.871;Magnolia College
+2026-06-01;hawthorne-health-system;19;32;227;28471;6.019;Hawthorne Health
+2026-06-01;brookside-school-district-co;42;48;555;105718;54.478;Brookside School District Co.
+2026-06-01;wabash-restoration-corp;29;33;279;45770;30.291;Wabash Restoration Corp.
+2026-06-01;nguyen-health-partners-llc;369;487;3180;825789;302.723;Nguyen Health Partners LLC
+2026-06-01;davis-markets-corp;32;45;421;44570;40.062;Davis Markets Corp.
+2026-06-01;tillamook-distribution-corp;5;7;35;5687;2.447;Tillamook Distribution Corp.
+2026-06-01;prairie-medical-center;3;4;43;4576;0.711;Prairie Medical Center
+2026-06-01;crescent-unified-schools-cor;5;10;63;6180;0.849;Crescent Unified Schools
+2026-06-01;myers-couriers;79;97;686;142586;36.349;Myers Couriers
+2026-06-01;tamarack-maintenance-co-co;4;5;24;4151;4.080;Tamarack Maintenance Co Co.
+2026-06-01;wabash-fabrication-ltd;696;805;8389;1715385;480.413;Wabash Fabrication Ltd.
+2026-06-01;magnolia-property-services-h;49;59;752;102279;52.027;Magnolia Property Services Holdings
+2026-06-01;oakmere-janitorial-inc;13;16;189;24582;15.390;Oakmere Janitorial Inc.
+2026-06-01;ostrander-hospital-inc;20;34;265;33914;26.889;Ostrander Hospital Inc.
+2026-06-01;cumberland-building-services;176;184;1511;146753;94.139;CUMBERLAND BUILDING SERVICES
+2026-06-01;kestrel-health-partners;9;13;129;10869;7.758;Kestrel Health Partners
+2026-06-01;redstone-facilities-manageme;12;21;104;33549;2.425;Redstone Facilities Management Co.
+2026-06-01;ravenwood-school-district;545;803;6677;506887;580.424;Ravenwood School District
+2026-06-01;pinecrest-property-services-;24;40;251;51415;19.579;Pinecrest Property Services Inc.
+2026-06-01;crescent-public-works;4;5;56;5724;6.073;Crescent Public Works
+2026-06-01;lantern-municipal-services-c;1024;1397;11643;2346907;749.952;Lantern Municipal Services Corp.
+2026-06-01;hargreaves-school-district;29;48;283;66447;11.120;Hargreaves School District
+2026-06-01;crescent-contracting-inc;30;49;343;86146;37.161;Crescent Contracting Inc.
+2026-06-01;summit-residential-co;7;10;78;7056;8.849;Summit Residential Co.
+2026-06-01;silverleaf-transit-authority;5;7;64;14143;12.446;Silverleaf Transit Authority Group
+2026-06-01;kittredge-suites-holdings;27;33;218;75715;23.526;Kittredge Suites Holdings
+2026-06-01;southport-property-group;5;9;47;5778;7.513;Southport Property Group
+2026-06-01;union-logistics-inc;22;26;261;53196;29.343;Union Logistics Inc.
+2026-06-01;sierra-resorts-group;22;24;231;20230;12.733;Sierra Resorts Group
+2026-06-01;watanabe-facilities-manageme;18;28;166;53232;6.506;Watanabe Facilities Management Ltd.
+2026-06-01;plains-university-facilities;41;42;450;71179;22.394;Plains University Facilities Inc.
+2026-06-01;harbortown-residential;27;50;216;75506;6.416;Harbortown Residential
+2026-06-01;ramos-health-partners;4;5;35;6447;6.743;Ramos Health Partners
+2026-06-01;young-homes;204;359;1510;288778;102.247;Young Homes
+2026-06-01;saguaro-mills-holdings;153;225;1735;344972;171.281;Saguaro Mills Holdings
+2026-06-01;davis-supply-co-corp;437;539;4441;749088;263.202;Davis Supply Co Corp.
+2026-06-01;bluewater-manufacturing-ltd;2;2;18;3005;2.026;Bluewater Manufacturing Ltd.
+2026-06-01;raghunathan-residential-co;12;16;191;10583;2.523;Raghunathan Residential Co.
+2026-06-01;foxglove-construction-ltd;14;20;145;15881;15.983;Foxglove Construction Ltd.
+2026-06-01;willow-properties-corp;4;5;34;8456;1.746;Willow Properties Corp.
+2026-06-01;lopez-mechanical-group;85;106;685;190292;51.675;Lopez Mechanical Group
+2026-06-01;quarry-inns-group;3;4;30;3236;2.045;Quarry Inns Group
+2026-06-01;union-works-inc;98;114;1014;225414;83.531;Union Works Inc.
+2026-06-01;maplewood-hospitality-group-;26;36;266;46124;36.978;Maplewood Hospitality Group LLC
+2026-06-01;heritage-maintenance-co;444;493;2752;398900;237.196;Heritage Maintenance Co
+2026-06-01;kestrel-distribution-holding;5;9;36;6676;4.867;KESTREL DISTRIBUTION HOLDINGS
+2026-06-01;murphy-school-district-inc;23;26;199;31135;11.122;Murphy School District Inc.
+2026-06-01;miami-industries-holdings;24;26;281;29698;26.155;Miami Industries Holdings
+2026-06-01;union-property-services;61;83;815;141479;92.329;Union Property Services
+2026-06-01;copperfield-retail-group-hol;30;35;258;75964;7.793;Copperfield Retail Group Holdings
+2026-06-01;patel-health-partners-co;229;322;2682;348237;312.877;Patel Health Partners Co.
+2026-06-01;fitzgerald-mechanical-corp;35;57;661;80141;50.319;Fitzgerald Mechanical Corp.
+2026-06-01;erie-realty-management-holdi;5;6;65;10833;3.727;Erie Realty Management Holdings
+2026-06-01;rivers-properties-ltd;24;39;265;63096;15.517;Rivers Properties Ltd.
+2026-06-01;bluewater-facilities-managem;10;13;128;8962;10.407;Bluewater Facilities Management Inc.
+2026-06-01;magnolia-properties-ltd;41;76;553;88597;59.436;Magnolia Properties Ltd.
+2026-06-01;commonwealth-manufacturing-l;34;48;416;51997;30.470;Commonwealth Manufacturing LLC
+2026-06-01;cedar-logistics-co;17;26;148;31678;22.980;Cedar Logistics Co.
+2026-06-01;southport-construction-co;29;42;213;65839;23.645;Southport Construction Co.
+2026-06-01;le-retail-group;23;29;244;21384;2.985;Le Retail Group
+2026-06-01;westbrook-health-system;54;88;441;130183;41.681;Westbrook Health System
+2026-06-01;cox-industries-inc;29;32;172;23585;8.204;Cox Industries
+2026-06-01;campbell-rhys-hospitality-gr;6;9;138;7800;11.019;Campbell-Rhys Hospitality Group Group
+2026-06-01;twin-academy-holdings;194;350;1235;408612;110.424;Twin Academy Holdings
+2026-06-01;ostrander-construction-llc;8;9;47;13641;7.075;Ostrander Construction, Inc
+2026-06-01;fairhaven-facilities-managem;66;77;434;139184;15.307;Fairhaven Facilities Management Ltd.
+2026-06-01;heron-restoration-inc;23;36;231;19453;21.351;Heron Restoration Inc.
+2026-06-01;miami-couriers-ltd;26;36;293;21230;6.338;Miami Couriers Ltd.
+2026-06-01;lewis-property-services-grou;60;96;481;115586;39.607;Lewis Property
+2026-06-01;quarry-logistics-corp;42;62;403;62311;46.069;Quarry Logistics Corp.
+2026-06-01;redstone-clinics-group;237;278;2755;306480;224.600;Redstone Clinics Group
+2026-06-01;superior-janitorial-llc;6;11;120;10875;10.633;Superior Janitorial LLC
+2026-06-01;campbell-retail-group;28;30;304;54474;32.300;Campbell Retail Group
+2026-06-01;crescent-county-facilities-g;29;39;156;79723;22.402;CRESCENT COUNTY FACILITIES GROUP
+2026-06-01;pueblo-hospitality-group;4;5;47;11057;6.197;Pueblo Hospitality Group
+2026-06-01;brown-fabrication-llc;23;30;248;48556;23.075;Brown Fabrication LLC
+2026-06-01;tillamook-clinics-group;13;21;90;16419;2.592;Tillamook Clinics Group
+2026-06-01;union-mechanical-corp;61;71;613;158905;63.206;Union Mechanical
+2026-06-01;ozark-realty-management-hold;5;7;100;7100;6.678;Ozark Realty Management Holdings
+2026-06-01;highland-manufacturing;34;39;521;37640;27.630;Highland Manufacturing
+2026-06-01;tamarack-properties-corp;96;116;670;258299;31.498;Tamarack Properties Corp.
+2026-06-01;rivera-transit-authority-gro;13;20;155;32260;14.394;Rivera Transit Authority Group
+2026-06-01;granite-homes-inc;8;10;73;14764;4.263;Granite Homes Inc.
+2026-06-01;gomez-warehousing;18;28;164;38058;20.216;Gomez Warehousing
+2026-06-01;bayview-maintenance-co;13;15;160;26490;18.579;Bayview Maintenance Co
+2026-06-01;southport-mills-holdings;3;7;28;6928;7.974;Southport Mills Holdings
+2026-06-01;saguaro-college;15;21;195;27217;22.310;Saguaro College
+2026-06-01;erie-logistics-co;9;16;69;9463;7.897;ERIE LOGISTICS CO.
+2026-06-01;pioneer-clinics;14;18;177;40871;13.169;Pioneer Clinics
+2026-06-01;westbrook-academy;68;73;431;137339;43.113;Westbrook Academy
+2026-06-01;anchor-unified-schools-corp;40;52;336;68616;29.771;Anchor Unified Schools Corp.
+2026-06-01;westbrook-contracting-ltd;45;59;487;99706;52.710;Westbrook Contracting Ltd.
+2026-06-01;huron-mills-co;3;4;42;6117;2.438;Huron Mills Co.
+2026-06-01;magnolia-university-faciliti;262;349;2320;282423;194.360;Magnolia University Facilities Corp.
+2026-06-01;king-industries-ltd;13;19;156;14991;18.614;King Industries Ltd.
+2026-06-01;muskingum-hotels-holdings;31;37;334;80068;20.135;Muskingum Hotels Holdings
+2026-06-01;abernathy-works-llc;13;16;139;16745;11.628;ABERNATHY WORKS
+2026-06-01;hawthorne-building-services-;28;31;306;69801;15.757;Hawthorne Building Services Co.
+2026-06-01;fontaine-homes-inc;5;6;42;13331;0.545;Fontaine Homes Inc.
+2026-06-01;southport-property-services;5;6;34;13066;7.119;Southport Property Services
+2026-06-01;mesa-mills-llc;2;2;24;2565;2.230;Mesa Mills LLC
+2026-06-01;okonkwo-hale-residential-cor;3;4;33;6159;2.971;Okonkwo-Hale Residential Corp.
+2026-06-01;venkatesan-building-services;17;19;174;44089;2.398;Venkatesan Building Services
+2026-06-01;fenwick-mechanical-llc;31;34;352;44357;38.583;Fenwick Mechanical LLC
+2026-06-01;bayview-property-group-group;19;25;141;26668;14.327;Bayview Property Group Group
+2026-06-01;riverbend-county-facilities-;6;11;79;7691;11.368;Riverbend County Facilities Holdings
+2026-06-01;clearwater-transit-authority;9;12;75;18935;10.188;Clearwater Transit Authority Corp.
+2026-06-01;scioto-supply-co-holdings;10;17;95;28768;10.402;Scioto Supply Co Holdings
+2026-06-01;hawthorne-hotels;4;6;54;4732;3.878;Hawthorne Hotels
+2026-06-01;allen-maintenance-co;8;12;52;10979;7.622;ALLEN MAINTENANCE CO
+2026-06-01;wabash-suites-ltd;16;24;108;35495;3.735;Wabash Suites, Inc
+2026-06-01;redstone-school-district;92;101;581;112123;66.878;Redstone School District
+2026-06-01;lantern-supply-co-corp;45;54;306;114607;26.158;Lantern Supply Co Corp.
+2026-06-01;highland-mills-co;49;63;716;104845;73.875;Highland Mills
+2026-06-01;marrow-manufacturing-inc;1;2;13;1296;3.045;Marrow Manufacturing
+2026-06-01;boateng-markets;89;107;742;241704;53.623;Boateng Markets
+2026-06-01;cumberland-fabrication-corp;11;15;83;11497;11.814;Cumberland Fabrication Corp.
+2026-06-01;ravenwood-outfitters-corp;13;16;87;11762;6.964;Ravenwood Outfitters Corp.
+2026-06-01;heritage-municipal-services-;57;93;719;51397;49.003;HERITAGE MUNICIPAL SERVICES LTD.
+2026-06-01;riverbend-medical-center-llc;1;1;13;1084;2.264;Riverbend Medical Center LLC
+2026-06-01;torres-college;18;26;197;29215;23.200;Torres College
+2026-06-01;saguaro-property-group-group;3;4;28;7020;4.698;Saguaro Property Group Group
+2026-06-01;williams-supply-co-co;27;30;171;37507;18.176;Williams Supply Co Co.
+2026-06-01;valley-public-works-group;29;31;338;46109;7.586;Valley Public Works
+2026-06-01;lindenwood-public-works-grou;9;11;120;23961;12.096;Lindenwood Public Works Group
+2026-06-01;keystone-clinics-co;44;64;588;37012;67.251;Keystone Clinics Co.
+2026-06-01;erie-stores-corp;16;18;180;35294;25.322;Erie Stores Corp.
+2026-06-01;saginaw-janitorial-inc;92;101;853;255113;65.261;Saginaw Janitorial Inc.
+2026-06-01;lindenwood-logistics-holding;11;18;92;31494;12.458;Lindenwood Logistics Holdings
+2026-06-01;sanchez-resorts-corp;7;13;48;7539;6.371;SANCHEZ RESORTS CORP.
+2026-06-01;ozark-works-holdings;7;10;106;9462;5.869;Ozark Works Holdings
+2026-06-01;bouchard-property-group-grou;20;29;273;50923;34.941;Bouchard Property Group Group
+2026-06-01;westbrook-markets-ltd;5;6;38;12132;8.075;Westbrook Markets Ltd.
+2026-06-01;kestrel-restoration;11;12;124;9352;13.911;Kestrel Restoration
+2026-06-01;muskingum-works-holdings;45;48;444;37454;44.874;Muskingum Works Holdings
+2026-06-01;pinecrest-logistics;15;23;127;32003;2.210;Pinecrest Logistics
+2026-06-01;westbrook-property-services-;2;3;23;3036;0.550;Westbrook Property Services Co.
+2026-06-01;elmhurst-janitorial;4;6;24;9640;3.505;Elmhurst Janitorial
+2026-06-01;anchor-distribution-ltd;35;40;274;88607;19.604;Anchor Distribution Ltd.
+2026-06-01;redstone-college-ltd;11;14;115;9655;4.515;Redstone College Ltd.
+2026-06-01;frontier-health-partners;6;11;66;16172;5.096;Frontier Health Partners
+2026-06-01;gatehouse-medical-center-ltd;10;11;93;19969;14.788;Gatehouse Medical Center Ltd.
+2026-06-01;lakeshore-stores-inc;138;158;1274;152933;80.838;Lakeshore Stores Inc.
+2026-06-01;highland-college-corp;67;70;504;178443;50.734;HIGHLAND COLLEGE
+2026-06-01;maplewood-realty-management-;20;24;248;53025;47.948;Maplewood Realty Management Holdings
+2026-06-01;northgate-municipal-services;7;7;58;10290;5.604;Northgate Municipal Services Inc.
+2026-06-01;lindenwood-contracting-ltd;120;143;1000;331073;123.079;Lindenwood Contracting Ltd.
+2026-06-01;frontier-janitorial-group;221;254;1905;449065;127.130;Frontier Janitorial Group
+2026-06-01;ozark-supply-co-llc;380;441;4934;735930;391.078;Ozark Supply
+2026-06-01;ramirez-restoration;566;652;7408;1079960;441.499;Ramirez Restoration, Inc
+2026-06-01;osprey-supply-co;43;49;544;73443;48.724;Osprey Supply Co
+2026-06-01;martin-builders-group;323;483;3626;360949;283.152;Martin Builders Group
+2026-06-01;stonebridge-maintenance-co-l;62;87;547;86993;39.073;Stonebridge Maintenance Co LLC
+2026-06-01;blackhawk-works-inc;17;25;176;25201;11.538;Blackhawk Works Inc.
+2026-06-01;parker-distribution;73;119;967;187061;105.459;Parker Distribution
+2026-06-01;gatehouse-facilities-managem;28;33;306;22493;13.294;Gatehouse Facilities Management Co.
+2026-06-01;adams-municipal-services-inc;7;12;49;10753;3.980;Adams Municipal Services Inc.
+2026-06-01;riverbend-transit-authority-;19;21;149;56222;28.729;Riverbend Transit Authority Co.
+2026-06-01;park-markets;15;16;176;18348;13.750;Park Markets, Inc
+2026-06-01;westbrook-mechanical-group;170;224;2162;472791;108.543;Westbrook Mechanical Group
+2026-06-01;rivers-supply-co-llc;3;4;30;8948;1.955;Rivers Supply Co LLC
+2026-06-01;keystone-logistics-group;40;52;470;57638;10.322;Keystone Logistics Group
+2026-06-01;ramirez-clinics-holdings;90;155;1152;173226;77.605;Ramirez Clinics Holdings
+2026-06-01;green-manufacturing-inc;445;513;4602;635334;385.857;Green Manufacturing Inc.
+2026-06-01;maplewood-residential-ltd;199;222;1742;397421;109.481;Maplewood Residential Ltd.
+2026-06-01;prairie-freight-corp;869;1617;6041;711592;483.686;Prairie Freight Corp.
+2026-06-01;northgate-resorts-inc;123;185;955;354608;67.451;Northgate Resorts Inc.
+2026-06-01;scioto-medical-center;38;68;287;106488;33.662;Scioto Medical Center
+2026-06-01;northgate-restoration-llc;79;100;652;64334;40.272;NORTHGATE RESTORATION LLC
+2026-06-01;tri-county-warehousing;10;17;94;28392;13.175;Tri-County Warehousing
+2026-06-01;rogers-facilities-management;21;36;251;25801;33.761;Rogers Facilities Management LLC
+2026-06-01;quarry-works;46;65;524;49807;39.510;Quarry Works
+2026-06-01;maplewood-properties;16;25;350;25961;27.210;Maplewood Properties, Inc
+2026-06-01;copperfield-janitorial-inc;34;37;421;43955;37.993;Copperfield Janitorial Inc.
+2026-06-01;ramirez-realty-management;49;59;617;57873;56.035;Ramirez Realty Management
+2026-06-01;blackwood-supply-co;28;41;348;71093;26.727;Blackwood Supply Co
+2026-06-01;patel-retail-group-corp;19;25;139;22682;17.354;Patel Retail Group Corp.
+2026-06-01;saguaro-suites-co;7;13;70;18390;16.226;Saguaro Suites Co.
+2026-06-01;marchetti-clinics-corp;8;9;52;9130;2.175;Marchetti Clinics Corp.
+2026-06-01;sycamore-manufacturing-corp;8;12;92;10038;9.958;Sycamore Manufacturing Corp.
+2026-06-01;sandpiper-college;12;18;73;9672;10.478;Sandpiper College
+2026-06-01;lakeshore-distribution-co;5;6;40;13725;3.846;Lakeshore Distribution Co.
+2026-06-01;fairhaven-retail-group-holdi;38;44;438;101279;30.063;FAIRHAVEN RETAIL GROUP
+2026-06-01;wabash-homes-ltd;8;12;99;21264;6.818;Wabash Homes Ltd.
+2026-06-01;hernandez-health-partners;3;5;33;4189;4.604;Hernandez Health Partners
+2026-06-01;keystone-restoration;53;61;588;118636;23.444;Keystone Restoration, Inc
+2026-06-01;mendoza-works-holdings;16;22;125;29104;22.522;Mendoza Works Holdings
+2026-06-01;williams-mechanical-holdings;15;19;145;32083;8.370;Williams Mechanical Holdings
+2026-06-01;shenandoah-fabrication;86;123;584;243788;74.228;SHENANDOAH FABRICATION
+2026-06-01;thornbury-builders-group;2774;3658;22210;7946347;1457.215;Thornbury Builders Group
+2026-06-01;beacon-retail-group-inc;23;34;236;39302;24.837;Beacon Retail Group Inc.
+2026-06-01;clark-homes-holdings;44;52;228;99271;12.314;Clark Homes Holdings
+2026-06-01;clearwater-logistics;66;76;344;105747;8.084;Clearwater Logistics
+2026-06-01;castillo-hospitality-group-i;3;3;28;6399;0.703;Castillo Hospitality Group Inc.
+2026-06-01;sycamore-logistics;27;36;335;37425;37.586;Sycamore Logistics
+2026-06-01;beacon-maintenance-co-co;27;34;320;80566;33.576;Beacon Maintenance Co Co.
+2026-06-01;ridgeline-manufacturing;11;20;103;12007;4.308;Ridgeline Manufacturing
+2026-06-01;cumberland-works-llc;21;30;219;57325;24.536;CUMBERLAND WORKS
+2026-06-01;miami-retail-group-inc;25;40;279;73003;34.380;Miami Retail Group Inc.
+2026-06-01;gatehouse-inns-group;52;84;536;119191;49.306;Gatehouse Inns Group
+2026-06-01;muskingum-college-corp;7;11;100;12076;10.117;MUSKINGUM COLLEGE
+2026-06-01;willow-works-ltd;170;209;2035;293880;130.242;Willow Works Ltd.
+2026-06-01;quarry-supply-co-inc;5;6;33;14268;4.659;Quarry Supply Co Inc.
+2026-06-01;ashford-school-district-corp;40;45;298;92502;12.736;Ashford School District
+2026-06-01;blackwood-hospital;7;12;71;11109;12.723;Blackwood Hospital
+2026-06-01;bennett-warehousing;80;115;1008;100258;78.310;Bennett Warehousing
+2026-06-01;frontier-school-district;135;234;1827;295906;188.221;Frontier School
+2026-06-01;heron-inns;30;31;368;87285;24.667;Heron Inns
+2026-06-01;great-supply-co-inc;17;19;207;50537;20.517;Great Supply Co Inc.
+2026-06-01;ravenwood-stores;39;47;253;104983;28.329;Ravenwood Stores
+2026-06-01;osprey-realty-management-gro;114;178;1361;150728;118.649;Osprey Realty Management Group
+2026-06-01;stewart-properties-ltd;129;180;1590;219722;41.748;Stewart Properties Ltd.
+2026-06-01;beacon-homes-inc;1049;1272;10935;1262529;709.227;Beacon Homes Inc.
+2026-06-01;fairhaven-stores;191;332;2169;261072;209.247;Fairhaven Stores
+2026-06-01;pioneer-county-facilities-ho;6;11;52;12440;6.618;Pioneer County Facilities Holdings
+2026-06-01;harbortown-college;24;44;146;69718;17.132;Harbortown College
+2026-06-01;stonebridge-clinics;108;163;1192;232750;72.278;Stonebridge Clinics
+2026-06-01;pioneer-unified-schools;81;105;613;178424;34.886;Pioneer Unified Schools
+2026-06-01;takahashi-supply-co-ltd;11;13;126;26757;9.516;Takahashi Supply Co Ltd.
+2026-06-01;gatehouse-warehousing;12;16;152;34286;8.169;Gatehouse Warehousing
+2026-06-01;redstone-property-services-c;12;22;119;28007;14.606;Redstone Property Services Co.
+2026-06-01;ironwood-building-services;27;44;393;61330;24.356;Ironwood Building Services
+2026-06-01;eastlake-school-district-llc;10;19;80;26056;7.198;Eastlake School District LLC
+2026-06-01;goodenough-resorts;35;41;315;70944;30.213;Goodenough Resorts
+2026-06-01;bayview-college;37;43;285;33178;37.807;Bayview College
+2026-06-01;three-fabrication-co;20;24;203;34247;8.791;Three Fabrication Co.
+2026-06-01;blackhawk-building-services-;13;18;142;11290;6.228;Blackhawk Building Services Holdings
+2026-06-01;blackhawk-academy-ltd;14;15;100;17785;11.237;Blackhawk Academy Ltd.
+2026-06-01;kingsley-municipal-services-;9;11;90;18695;15.413;Kingsley Municipal Services Group
+2026-06-01;erie-county-facilities-inc;1080;1504;10976;1338237;815.853;Erie County Facilities Inc.
+2026-06-01;liberty-mills-inc;368;439;4202;969052;263.780;Liberty Mills Inc.
+2026-06-01;fairhaven-municipal-services;4;7;41;5906;6.298;Fairhaven Municipal Services LLC
+2026-06-01;fenwick-residential;15;19;302;31407;3.316;Fenwick Residential
+2026-06-01;lindqvist-retail-group-corp;15;23;134;38722;12.205;Lindqvist Retail Group Corp.
+2026-06-01;hernandez-resorts;13;15;142;36727;16.783;Hernandez Resorts
+2026-06-01;clark-property-group;259;478;1714;571241;152.257;Clark Property Group
+2026-06-01;eastlake-building-services;36;41;436;104076;34.934;Eastlake Building Services
+2026-06-01;osprey-medical-center-llc;38;45;289;53895;33.963;Osprey Medical Center LLC
+2026-06-01;riverbend-facilities-managem;36;63;210;30876;31.825;Riverbend Facilities Management Group
+2026-06-01;ashford-property-services-ho;9;11;104;18248;13.010;Ashford Property
+2026-06-01;westbrook-construction;28;34;265;50689;25.920;Westbrook Construction
+2026-06-01;sierra-clinics-corp;16;20;153;32492;16.333;Sierra Clinics Corp.
+2026-06-01;sierra-mechanical;10;11;139;9352;4.962;Sierra Mechanical
+2026-06-01;erie-outfitters-holdings;27;46;283;63595;35.734;Erie Outfitters Holdings
+2026-06-01;boateng-suites-llc;465;538;4605;1366422;263.774;BOATENG SUITES LLC
+2026-06-01;kestrel-warehousing-group;35;49;439;86434;8.246;Kestrel Warehousing Group
+2026-06-01;marrow-township-co;10;11;137;10543;14.995;Marrow Township Co.
+2026-06-01;hawthorne-homes-inc;10;11;105;24597;11.527;Hawthorne Homes Inc.
+2026-06-01;raghunathan-facilities-manag;13;19;227;36933;27.010;Raghunathan Facilities Management Corp.
+2026-06-01;larkspur-unified-schools-llc;10;15;71;9084;2.064;Larkspur Unified Schools LLC
+2026-06-01;stonebridge-school-district;17;19;202;20571;8.100;Stonebridge School
+2026-06-01;keystone-maintenance-co;47;70;496;98053;62.151;Keystone Maintenance Co
+2026-06-01;foxglove-municipal-services-;26;32;226;73726;7.050;Foxglove Municipal Services Inc.
+2026-06-01;osprey-hospital;56;75;710;61185;55.593;Osprey Hospital, Inc
+2026-06-01;lantern-contracting;11;17;90;16739;1.904;Lantern Contracting
+2026-06-01;willow-logistics-group;2;4;13;3128;1.655;Willow Logistics Group
+2026-06-01;pioneer-school-district;12;15;105;24285;8.353;Pioneer School District
+2026-06-01;ortiz-realty-management-grou;16;25;183;46265;27.526;Ortiz Realty Management Group
+2026-06-01;tamarack-logistics-co;14;21;89;30320;13.311;Tamarack Logistics Co.
+2026-06-01;tamarack-property-group-ltd;10;15;181;21333;18.702;Tamarack Property Group Ltd.
+2026-06-01;kestrel-fabrication-co;18;22;160;45171;18.238;Kestrel Fabrication Co.
+2026-06-01;magnolia-markets;7;9;71;17262;1.701;Magnolia Markets
+2026-06-01;lindenwood-properties-co;15;22;204;43867;22.659;Lindenwood Properties Co.
+2026-06-01;copperfield-fabrication-inc;9;16;110;12621;14.032;COPPERFIELD FABRICATION INC.
+2026-06-01;lantern-suites-llc;11;14;119;17756;6.362;Lantern Suites LLC
+2026-06-01;foxglove-college-holdings;82;89;1023;194253;80.853;Foxglove College Holdings
+2026-06-01;wexford-suites-inc;25;30;183;43712;11.360;Wexford Suites Inc.
+2026-06-01;saguaro-hotels;41;69;363;36087;26.127;Saguaro Hotels
+2026-06-01;bennett-retail-group-co;2;3;23;3797;2.599;Bennett Retail Group Co.
+2026-06-01;foxglove-stores-holdings;49;86;640;114822;65.950;FOXGLOVE STORES HOLDINGS
+2026-06-01;sycamore-public-works;73;110;857;137228;78.006;Sycamore Public Works
+2026-06-01;redstone-residential-co;15;18;159;29166;4.104;Redstone Residential Co.
+2026-06-01;saginaw-facilities-managemen;10;15;95;11874;18.050;Saginaw Facilities Management
+2026-06-01;gonzalez-unified-schools-llc;9;14;106;12471;12.652;Gonzalez Unified Schools LLC
+2026-06-01;calloway-municipal-services-;6;9;49;14064;6.227;Calloway Municipal Services Co.
+2026-06-01;commonwealth-hospitality-gro;2;4;23;2667;2.430;Commonwealth Hospitality Group
+2026-06-01;beacon-medical-center-ltd;9;15;118;25554;15.781;Beacon Medical Center Ltd.
+2026-06-01;haddad-medical-center;23;29;130;41849;12.351;Haddad Medical Center
+2026-06-01;shenandoah-industries-llc;19;31;238;19150;27.735;Shenandoah Industries LLC
+2026-06-01;prairie-janitorial-inc;123;177;1232;319627;92.703;Prairie Janitorial Inc.
+2026-06-01;millbrook-college-llc;26;47;322;60936;36.260;Millbrook College LLC
+2026-06-01;willow-township-holdings;11;14;127;10774;21.373;Willow Township Holdings
+2026-06-01;gagnon-property-services-gro;73;127;902;133830;66.537;Gagnon Property Services Group
+2026-06-01;redstone-couriers-inc;76;86;633;138672;36.085;Redstone Couriers Inc.
+2026-06-01;sandpiper-builders-corp;10;13;87;22085;10.759;Sandpiper Builders Corp.
+2026-06-01;calloway-property-group-co;93;138;1100;129974;62.483;Calloway Property Group Co.
+2026-06-01;reyes-construction-ltd;31;44;188;69388;6.704;Reyes Construction Ltd.
+2026-06-01;lindenwood-property-group-in;3;5;36;6932;4.398;Lindenwood Property Group Inc.
+2026-06-01;quarry-property-group-ltd;17;23;178;38888;20.607;Quarry Property Group Ltd.
+2026-06-01;walker-markets-ltd;603;664;4397;609654;325.609;Walker Markets Ltd.
+2026-06-01;jackson-property-group-inc;15;24;231;29260;22.046;Jackson Property Group Inc.
+2026-06-01;oakmere-college-llc;55;76;648;110336;67.716;Oakmere College LLC
+2026-06-01;cascade-medical-center-inc;1099;1950;12186;1345803;788.428;Cascade Medical Center Inc.
+2026-06-01;llewellyn-clinics;24;31;249;19796;20.151;Llewellyn Clinics
+2026-06-01;saginaw-contracting;12;15;126;34005;5.077;Saginaw Contracting
+2026-06-01;moore-hotels-llc;77;104;561;222090;63.696;Moore Hotels LLC
+2026-06-01;bayou-property-services-grou;8;12;60;8894;7.665;Bayou Property Services Group
+2026-06-01;stonebridge-health-system-ll;22;29;223;56096;27.379;Stonebridge Health System LLC
+2026-06-01;valley-mills-corp;65;83;465;126535;42.434;Valley Mills Corp.
+2026-06-01;crescent-janitorial;36;51;821;79264;70.643;Crescent Janitorial
+2026-06-01;liu-warehousing-llc;19;26;270;21620;31.940;Liu Warehousing LLC
+2026-06-01;bluewater-building-services-;12;15;117;35623;2.532;Bluewater Building Services Ltd.
+2026-06-01;copperfield-warehousing;37;45;397;72292;15.018;Copperfield Warehousing
+2026-06-01;lantern-janitorial-co;3;5;36;8183;8.181;Lantern Janitorial Co.
+2026-06-01;rivers-medical-center-ltd;27;30;296;29715;9.957;Rivers Medical Center Ltd.
+2026-06-01;kowalski-industries-group;10;14;124;22517;5.508;Kowalski Industries Group
+2026-06-01;lakes-manufacturing;541;887;6382;1024682;475.663;Lakes Manufacturing
+2026-06-01;keystone-contracting;10;16;116;21886;7.406;Keystone Contracting
+2026-06-01;erie-retail-group-ltd;1459;1588;15090;2959360;1033.076;Erie Retail Group Ltd.
+2026-06-01;foster-couriers-ltd;2;2;14;3557;2.577;Foster Couriers Ltd.
+2026-06-01;thomas-building-services-ltd;14;15;149;30908;15.936;Thomas Building Services Ltd.
+2026-06-01;lakeshore-warehousing-group;2;3;17;4320;1.486;Lakeshore Warehousing Group
+2026-06-01;lavoie-hospitality-group-co;3;3;35;3820;1.396;Lavoie Hospitality Group Co.
+2026-06-01;sandpiper-distribution-inc;10;18;125;11541;10.298;Sandpiper Distribution Inc.
+2026-06-01;roberts-hotels-llc;19;29;195;47541;25.440;Roberts Hotels LLC
+2026-06-01;erie-health-system-corp;3;6;26;8850;3.781;Erie Health System Corp.
+2026-06-01;pinecrest-suites-group;17;28;97;19259;6.067;Pinecrest Suites Group
+2026-06-01;goodenough-properties;29;48;317;65054;28.662;Goodenough Properties
+2026-06-01;tri-county-industries-holdin;38;67;293;98544;20.645;Tri-County Industries Holdings
+2026-06-01;taylor-works-ltd;13;14;130;16087;15.685;Taylor Works Ltd.
+2026-06-01;hawthorne-property-services-;10;13;74;16255;9.040;Hawthorne Property Services Group
+2026-06-01;price-jones-hotels;13;18;168;35173;2.755;Price-Jones Hotels
+2026-06-01;pioneer-warehousing-co;143;184;1620;130218;147.435;Pioneer Warehousing Co.
+2026-06-01;valley-hotels-inc;8;14;77;17905;8.054;Valley Hotels Inc.
+2026-06-01;kestrel-builders-corp;135;175;1563;263163;133.440;Kestrel Builders Corp.
+2026-06-01;huron-school-district;15;19;132;29540;15.455;Huron School District
+2026-06-01;sierra-public-works-ltd;2314;3607;18554;5111307;1351.119;Sierra Public Works Ltd.
+2026-06-01;lantern-facilities-managemen;11;15;164;12487;3.698;Lantern Facilities
+2026-06-01;yarrow-clinics-holdings;4;5;45;3995;5.406;Yarrow Clinics Holdings
+2026-06-01;bailey-logistics;22;29;154;38405;18.858;Bailey Logistics
+2026-06-01;tillamook-homes-ltd;2;2;22;1847;3.107;Tillamook Homes Ltd.
+2026-06-01;eastlake-warehousing-co;12;20;71;20670;9.124;Eastlake Warehousing
+2026-06-01;tidewater-building-services;10;15;92;13678;11.533;Tidewater Building Services
+2026-06-01;miami-mills-co;63;108;791;105679;54.312;Miami Mills Co.
+2026-06-01;magnolia-construction-group;10;10;86;9573;8.380;Magnolia Construction Group
+2026-06-01;thompson-properties-llc;28;34;260;35354;22.738;Thompson Properties LLC
+2026-06-01;castillo-academy;42;59;289;73124;24.385;Castillo Academy
+2026-06-01;pueblo-freight-corp;659;1207;5099;1880737;428.648;Pueblo Freight Corp.
+2026-06-01;gonzalez-hospital;14;15;105;30982;4.568;Gonzalez Hospital
+2026-06-01;pioneer-retail-group-group;76;90;581;110299;54.618;PIONEER RETAIL GROUP
+2026-06-01;bayview-manufacturing;42;71;302;88926;34.372;Bayview Manufacturing
+2026-06-01;kestrel-township-corp;10;15;108;16647;12.308;Kestrel Township Corp.
+2026-06-01;three-county-facilities;118;186;1261;347804;77.762;Three County Facilities
+2026-06-01;millbrook-supply-co-group;6;10;60;7998;2.553;Millbrook Supply Co Group
+2026-06-01;riverbend-outfitters-holding;9;12;89;21251;6.690;Riverbend Outfitters Holdings
+2026-06-01;valley-municipal-services;11;17;152;14862;13.889;Valley Municipal
+2026-06-01;meadowlark-distribution-ltd;21;23;279;30633;30.185;Meadowlark Distribution Ltd.
+2026-06-01;stonebridge-retail-group-co;2;3;27;2778;0.495;Stonebridge Retail Group Co.
+2026-06-01;copperfield-suites-group;9;12;63;11599;2.993;Copperfield Suites Group
+2026-06-01;elmhurst-university-faciliti;31;43;294;62028;28.722;Elmhurst University Facilities Group
+2026-06-01;osprey-township-corp;118;158;1398;177086;70.775;Osprey Township Corp.
+2026-06-01;cornerstone-resorts-inc;23;30;254;40542;16.021;CORNERSTONE RESORTS
+2026-06-01;clearwater-markets-holdings;573;734;5488;1569981;404.377;Clearwater Markets Holdings
+2026-06-01;nguyen-resorts-holdings;38;55;355;56858;7.459;Nguyen Resorts Holdings
+2026-06-01;lakeshore-mechanical-llc;223;329;2904;299071;168.527;Lakeshore Mechanical LLC
+2026-06-01;ironwood-manufacturing-corp;10;16;132;20547;5.028;Ironwood Manufacturing Corp.
+2026-06-01;frontier-property-services-l;5;12;56;11657;11.536;Frontier Property Services Ltd.
+2026-06-01;rogers-manufacturing-corp;1232;2271;8408;1097482;631.549;Rogers Manufacturing Corp.
+2026-06-01;clearwater-inns-llc;118;121;1332;233691;91.193;Clearwater Inns LLC
+2026-06-01;bayview-inns;50;87;493;134784;48.898;Bayview Inns
+2026-06-01;prairie-contracting;97;173;1147;175203;92.805;Prairie Contracting
+2026-06-01;twin-health-partners-holding;10;12;101;14880;3.386;TWIN HEALTH PARTNERS HOLDINGS
+2026-06-01;beacon-health-system;17;30;118;25537;15.313;Beacon Health System
+2026-06-01;pueblo-college-inc;9;12;59;23400;3.028;Pueblo College Inc.
+2026-06-01;thornbury-manufacturing;18;21;140;17302;12.528;Thornbury Manufacturing
+2026-06-01;sandpiper-inns-co;8;14;89;8601;12.616;Sandpiper Inns Co.
+2026-06-01;stonebridge-municipal-servic;259;409;1588;520025;191.712;Stonebridge Municipal Services Group
+2026-06-01;clearwater-suites-inc;100;122;1845;170524;143.146;Clearwater Suites Inc.
+2026-06-01;abernathy-janitorial-llc;2;3;13;5479;2.663;Abernathy Janitorial
+2026-06-01;harbortown-retail-group-grou;8;11;59;22861;4.110;Harbortown Retail Group Group
+2026-06-01;marrow-hospital-corp;44;51;385;118905;45.766;Marrow Hospital Corp.
+2026-06-01;price-jones-properties-llc;8;16;110;23211;13.255;Price-Jones Properties LLC
+2026-06-01;fairhaven-distribution;1;2;13;935;3.367;Fairhaven Distribution
+2026-06-01;maplewood-maintenance-co;10;15;77;19923;1.840;Maplewood Maintenance Co
+2026-06-01;miami-medical-center-llc;28;37;373;76365;44.089;Miami Medical Center LLC
+2026-06-01;cascade-mills-group;44;59;480;40234;55.466;Cascade Mills Group
+2026-06-01;cascade-restoration;2396;3064;26741;3684158;2039.941;Cascade Restoration, Inc
+2026-06-01;gomez-county-facilities;5;7;68;6452;3.615;Gomez County Facilities
+2026-06-01;highland-facilities-manageme;2971;4628;31298;7409859;1944.333;Highland Facilities Management Inc.
+2026-06-01;commonwealth-works-llc;14;19;136;19461;2.752;Commonwealth Works LLC
+2026-06-01;lee-residential;26;33;190;67175;20.615;Lee Residential
+2026-06-01;granite-logistics-group;20;23;184;40972;22.727;Granite Logistics Group
+2026-06-01;tidewater-health-system-co;8;9;74;21742;5.865;Tidewater Health System Co.
+2026-06-01;fitzgerald-janitorial-ltd;39;45;524;107815;58.523;Fitzgerald Janitorial Ltd.
+2026-06-01;sierra-building-services-gro;4;5;36;11421;4.152;Sierra Building Services
+2026-06-01;keystone-couriers-ltd;7;7;63;16169;10.406;Keystone Couriers Ltd.
+2026-06-01;northgate-university-facilit;195;213;2553;368171;244.379;Northgate University Facilities LLC
+2026-06-01;tillamook-logistics-inc;44;49;472;35307;47.479;Tillamook Logistics Inc.
+2026-06-01;stonebridge-supply-co;22;25;219;33504;14.275;Stonebridge Supply Co
+2026-06-01;okafor-hospital-holdings;6;9;58;11402;1.524;Okafor Hospital Holdings
+2026-06-01;muskingum-property-group;118;162;955;185991;75.543;Muskingum Property
+2026-06-01;willow-academy-group;182;198;2029;308397;110.325;Willow Academy Group
+2026-06-01;twin-inns-holdings;26;44;196;60496;20.076;Twin Inns Holdings
+2026-06-01;union-building-services;13;15;157;16896;18.807;Union Building Services
+2026-06-01;kittredge-mechanical-llc;204;324;4270;186687;187.173;Kittredge Mechanical LLC
+2026-06-01;alvarez-properties;19;21;124;15738;18.370;Alvarez Properties
+2026-06-01;calloway-transit-authority-l;17;28;164;37666;15.574;Calloway Transit Authority Ltd.
+2026-06-01;ironwood-freight-inc;33;51;430;80927;30.977;IRONWOOD FREIGHT INC.
+2026-06-01;stonebridge-properties-llc;136;164;1455;192684;87.316;Stonebridge Properties LLC
+2026-06-01;bayou-municipal-services-gro;8;13;55;23043;8.057;Bayou Municipal Services Group
+2026-06-01;bayview-public-works-ltd;37;52;520;81210;31.673;Bayview Public Works, Inc
+2026-06-01;ashdown-restoration-co;10;11;70;23143;1.601;Ashdown Restoration Co.
+2026-06-01;fairhaven-warehousing-co;187;264;1359;227178;102.910;Fairhaven Warehousing Co.
+2026-06-01;clark-contracting-corp;21;22;241;27212;28.101;Clark Contracting Corp.
+2026-06-01;valley-homes-inc;4;4;42;7160;5.725;Valley Homes Inc.
+2026-06-01;vance-township-group;62;90;720;109199;64.212;Vance Township Group
+2026-06-01;heron-facilities-management;10;16;153;11764;4.472;Heron Facilities Management
+2026-06-01;abernathy-realty-management-;21;38;185;47726;16.543;Abernathy Realty Management Ltd.
+2026-06-01;miami-hotels-inc;3;4;31;2902;0.878;Miami Hotels Inc.
+2026-06-01;granite-suites-holdings;14;22;189;41496;6.829;Granite Suites Holdings
+2026-06-01;commonwealth-freight-llc;17;26;108;32669;24.188;Commonwealth Freight LLC
+2026-06-01;twin-couriers;17;22;243;13817;12.244;Twin Couriers
+2026-06-01;martin-realty-management-ltd;27;40;348;47203;36.363;Martin Realty Management Ltd.
+2026-06-01;boateng-logistics-ltd;27;29;232;62439;28.727;Boateng Logistics Ltd.
+2026-06-01;ironwood-unified-schools;78;98;982;201329;35.820;Ironwood Unified Schools
+2026-06-01;lakeshore-hospital-inc;45;49;404;98882;26.187;Lakeshore Hospital Inc.
+2026-06-01;cox-transit-authority-corp;24;28;141;62425;16.141;Cox Transit
+2026-06-01;foxglove-industries;9;14;107;13708;7.593;Foxglove Industries
+2026-06-01;miller-properties-group;14;16;306;11423;18.741;Miller Properties Group
+2026-06-01;pueblo-properties-ltd;20;25;216;36397;6.465;Pueblo Properties Ltd.
+2026-06-01;zhang-supply-co-inc;459;465;6050;1078949;431.012;Zhang Supply Co Inc.
+2026-06-01;mendoza-county-facilities-co;12;18;126;16025;24.983;Mendoza County Facilities Co.
+2026-06-01;marrow-public-works;13;13;128;25970;6.543;Marrow Public Works
+2026-06-01;sandpiper-freight-holdings;224;319;1894;559009;164.840;Sandpiper Freight Holdings
+2026-06-01;lakes-school-district-co;7;11;56;13556;7.685;Lakes School District Co.
+2026-06-01;saguaro-resorts-group;14;17;176;39728;14.605;Saguaro Resorts Group
+2026-06-01;mccarthy-university-faciliti;12;15;166;35715;4.739;McCarthy University Facilities
+2026-06-01;granite-industries-holdings;7;10;96;8579;8.886;Granite Industries Holdings
+2026-06-01;smith-builders-llc;8;9;74;8790;6.323;Smith Builders LLC
+2026-06-01;tamarack-industries-llc;14;16;154;12602;14.916;Tamarack Industries LLC
+2026-06-01;young-supply-co-co;7;10;81;7366;9.428;Young Supply Co, Inc
+2026-06-01;pinecrest-manufacturing-llc;13;20;89;12477;12.819;Pinecrest Manufacturing LLC
+2026-06-01;boateng-retail-group-llc;30;40;263;36977;15.735;Boateng Retail Group LLC
+2026-06-01;beacon-clinics-co;17;19;192;26194;20.204;Beacon Clinics Co.
+2026-06-01;taylor-construction-inc;21;39;222;61613;6.580;Taylor Construction Inc.
+2026-06-01;silverleaf-stores;1;2;11;2303;1.910;Silverleaf Stores
+2026-06-01;maplewood-transit-authority-;70;114;472;180932;31.394;Maplewood Transit Authority Corp.
+2026-06-01;kingsley-suites-inc;6;10;94;13252;1.296;Kingsley Suites Inc.
+2026-06-01;blackwood-manufacturing-ltd;29;33;356;73608;44.031;Blackwood Manufacturing Ltd.
+2026-06-01;hawthorne-clinics-group;35;46;422;69554;34.165;Hawthorne Clinics Group
+2026-06-01;riverbend-unified-schools-gr;56;103;496;157881;67.241;Riverbend Unified Schools Group
+2026-06-01;saginaw-properties;11;14;260;21401;23.893;Saginaw Properties
+2026-06-01;chaudhry-health-system;23;31;209;47385;25.739;Chaudhry Health System
+2026-06-01;brookside-health-partners;251;429;2807;310511;262.592;BROOKSIDE HEALTH PARTNERS
+2026-06-01;pioneer-property-services-co;42;60;278;50232;33.497;Pioneer Property Services Co.
+2026-06-01;summit-township-group;12;17;151;30487;16.347;Summit Township Group
+2026-06-01;oakmere-logistics-inc;13;13;101;11526;17.445;Oakmere Logistics Inc.
+2026-06-01;huron-maintenance-co-inc;73;100;913;179827;62.050;Huron Maintenance Co Inc.
+2026-06-01;saginaw-distribution-group;421;704;4565;735937;313.043;Saginaw Distribution Group
+2026-06-01;white-health-system;46;65;569;62097;13.957;White Health Sys
+2026-06-01;wexford-facilities-managemen;12;15;103;34850;1.681;Wexford Facilities Management Inc.
+2026-06-01;lopez-university-facilities-;5;9;69;6519;4.091;Lopez University Facilities
+2026-06-01;cooper-contracting-holdings;43;64;544;108763;48.616;Cooper Contracting Holdings
+2026-06-01;zhang-clinics-llc;62;102;346;95911;18.811;Zhang Clinics LLC
+2026-06-01;allen-hotels-holdings;5;5;65;9578;4.402;Allen Hotels Holdings
+2026-06-01;bayou-college;24;36;219;48070;25.124;Bayou College
+2026-06-01;pelletier-contracting-group;15;21;195;29361;6.942;Pelletier Contracting Group
+2026-06-01;fairhaven-fabrication-llc;17;25;152;26210;15.370;FAIRHAVEN FABRICATION LLC
+2026-06-01;robinson-medical-center-ltd;7;11;79;15815;10.671;Robinson Medical Center Ltd.
+2026-06-01;oakmere-hotels-holdings;4;5;54;6080;1.650;Oakmere Hotels Holdings
+2026-06-01;chen-stores-corp;29;34;426;31868;48.134;Chen Stores Corp.
+2026-06-01;ozark-transit-authority-grou;49;78;469;137476;9.055;Ozark Transit Authority Group
+2026-06-01;scioto-realty-management-ltd;18;30;121;46551;10.820;SCIOTO REALTY MANAGEMENT
+2026-06-01;mesa-contracting-corp;38;42;587;89366;26.120;Mesa Contracting, Inc
+2026-06-01;muskingum-township-inc;14;14;145;16232;16.127;Muskingum Township Inc.
+2026-06-01;carter-properties-corp;44;71;515;114003;47.663;Carter Properties Corp.
+2026-06-01;lakeshore-realty-management-;7;10;69;9462;4.133;Lakeshore Realty Management, Inc
+2026-06-01;tanaka-property-group-corp;17;24;153;30793;4.725;Tanaka Property
+2026-06-01;parker-property-services-hol;50;74;371;64110;11.449;Parker Property Services Holdings
+2026-06-01;wabash-county-facilities-co;6;8;71;14691;5.027;Wabash County Facilities Co.
+2026-06-01;jones-warehousing;14;19;81;11355;7.256;Jones Warehousing
+2026-06-01;sycamore-supply-co-ltd;28;46;215;26734;25.236;SYCAMORE SUPPLY CO
+2026-06-01;huron-health-partners;3;5;32;5706;6.476;Huron Health Partners
+2026-06-01;heron-building-services-corp;2;3;21;4682;3.338;Heron Building Services Corp.
+2026-06-01;blackhawk-industries-group;65;70;461;62415;63.029;Blackhawk Industries Group
+2026-06-01;granite-restoration;17;20;135;50191;7.645;Granite Restoration, Inc
+2026-06-01;cascade-mechanical-llc;15;26;150;22504;18.715;Cascade Mechanical LLC
+2026-06-01;king-logistics-co;15;17;93;23176;3.537;King Logistics Co.
+2026-06-01;esposito-facilities-manageme;16;22;227;15469;14.505;Esposito Facilities Management Holdings
+2026-06-01;gatehouse-residential-ltd;3;5;27;4098;5.468;Gatehouse Residential Ltd.
+2026-06-01;liberty-township-holdings;64;71;446;173174;34.380;Liberty Township Holdings
+2026-06-01;tri-county-township;1;1;7;1671;1.655;Tri-County Township
+2026-06-01;halvorsen-properties;3;4;27;5556;2.597;Halvorsen Properties
+2026-06-01;perez-mills;2;2;20;2204;3.720;Perez Mills
+2026-06-01;sorensen-freight-corp;16;23;98;34991;13.728;Sorensen Freight Corp.
+2026-06-01;lantern-fabrication-ltd;61;74;754;95769;42.221;Lantern Fabrication Ltd.
+2026-06-01;plains-academy;11;22;77;16388;8.893;Plains Academy
+2026-06-01;oakmere-academy;5;7;74;7455;12.699;Oakmere Academy
+2026-06-01;tillamook-builders-ltd;8;9;79;23049;1.272;Tillamook Builders Ltd.
+2026-06-01;ravenwood-distribution-ltd;15;17;129;26169;8.043;Ravenwood Distribution Ltd.
+2026-06-01;heritage-township-co;6;7;58;8274;6.929;Heritage Township Co.
+2026-06-01;oakmere-manufacturing;10;15;71;10360;7.898;Oakmere Manufacturing
+2026-06-01;heron-medical-center;3;5;25;5787;0.541;HERON MEDICAL CENTER
+2026-06-01;morgan-inns-inc;15;25;315;41413;17.573;Morgan Inns Inc.
+2026-06-01;wabash-health-partners-inc;10;15;117;9915;13.194;Wabash Health Partners Inc.
+2026-06-01;kowalski-building-services;41;55;485;83508;24.419;Kowalski Building Services
+2026-06-01;cox-hotels;4;7;51;4231;6.548;Cox Hotels, Inc
+2026-06-01;tri-county-hospital-ltd;2;4;23;3735;2.797;Tri-County Hospital Ltd.
+2026-06-01;tidewater-works-llc;52;57;474;69123;39.022;Tidewater Works LLC
+2026-06-01;superior-outfitters;9;16;93;14220;4.860;Superior Outfitters
+2026-06-01;miami-outfitters-holdings;11;26;127;22962;22.224;Miami Outfitters Holdings
+2026-06-01;miami-markets-inc;16;20;175;37186;16.219;Miami Markets Inc.
+2026-06-01;sanders-realty-management-lt;4;4;51;3434;5.349;Sanders Realty Management Ltd.
+2026-06-01;great-health-system-holdings;65;82;680;89395;38.769;Great Health System Holdings
+2026-06-01;ashford-property-group;48;83;294;105425;19.013;Ashford Property Group
+2026-06-01;white-university-facilities-;92;116;1145;175648;102.605;White University Facilities Holdings
+2026-06-01;kittredge-transit-authority;2;3;19;3275;2.612;Kittredge Transit Authority
+2026-06-01;nowak-construction;2;4;23;3507;3.335;Nowak Construction
+2026-06-01;sycamore-works-corp;10;14;125;21374;17.910;Sycamore Works
+2026-06-01;baker-fabrication;26;32;256;45737;7.082;Baker Fabrication
+2026-06-01;yarrow-homes-ltd;14;16;122;21224;1.843;YARROW HOMES LTD.
+2026-06-01;blackwood-municipal-services;12;18;139;32910;11.506;Blackwood Municipal Services Ltd.
+2026-06-01;nasser-public-works-llc;3;6;36;6011;4.280;NASSER PUBLIC WORKS
+2026-06-01;cornerstone-works-llc;5;8;34;11477;3.980;Cornerstone Works LLC
+2026-06-01;collins-building-services-co;5;7;46;14349;1.465;Collins Building Services Corp.
+2026-06-01;heritage-builders;6;6;65;9792;7.127;Heritage Builders
+2026-06-01;pioneer-hospitality-group-ll;5;8;104;9291;10.101;Pioneer Hospitality Group LLC
+2026-06-01;muskingum-transit-authority-;18;21;224;40606;6.421;Muskingum Transit Authority Holdings
+2026-06-01;bayou-facilities-management;89;96;1064;165145;53.217;Bayou Facilities
+2026-06-01;zhang-stores-group;41;56;323;71095;11.297;Zhang Stores Group
+2026-06-01;juniper-medical-center-holdi;9;11;125;7802;2.481;Juniper Medical Center Holdings
+2026-06-01;superior-mills-llc;13;16;177;32120;8.568;Superior Mills LLC
+2026-06-01;miami-logistics;48;66;507;136495;48.031;MIAMI LOGISTICS
+2026-06-01;liberty-building-services-gr;7;9;146;16754;3.166;Liberty Building Services Group
+2026-06-01;cumberland-hospital-corp;13;16;160;14569;3.868;Cumberland Hospital Corp.
+2026-06-01;yarrow-mechanical;53;68;1059;140915;64.674;Yarrow Mechanical
+2026-06-01;huron-mechanical-group;44;51;440;72014;22.184;Huron Mechanical Group
+2026-06-01;anchor-janitorial;2;4;22;2352;4.067;Anchor Janitorial
+2026-06-01;bayview-county-facilities;5;7;59;6587;7.720;Bayview County Facilities
+2026-06-01;mesa-industries;22;25;178;44436;5.042;Mesa Industries
+2026-06-01;cascade-public-works-group;21;35;230;46369;30.856;Cascade Public Works Group
+2026-06-01;millbrook-hotels-holdings;19;26;155;55279;16.513;Millbrook Hotels Holdings
+2026-06-01;yamamoto-homes-corp;23;39;189;47235;22.755;Yamamoto Homes Corp.
+2026-06-01;lavoie-unified-schools;134;209;1216;334374;122.315;Lavoie Unified Schools
+2026-06-01;king-clinics;34;38;386;50881;64.329;King Clinics
+2026-06-01;copperfield-distribution-llc;6;10;71;6018;9.551;Copperfield Distribution LLC
+2026-06-01;marrow-academy;30;44;305;80947;15.851;Marrow Academy
+2026-06-01;patriot-college-inc;3;4;16;4949;2.446;Patriot College Inc.
+2026-06-01;allen-hospital-corp;3;6;26;3549;0.942;Allen Hospital Corp.
+2026-06-01;perez-outfitters-corp;27;38;284;62831;24.435;Perez Outfitters Corp.
+2026-06-01;lavoie-property-services-hol;332;468;4490;476772;303.523;Lavoie Property Services Holdings
+2026-06-01;frontier-fabrication;13;18;116;36106;17.603;Frontier Fabrication
+2026-06-01;thornbury-works-group;47;56;418;87284;43.675;Thornbury Works Group
+2026-06-01;esposito-transit-authority-h;30;34;333;50778;37.910;Esposito Transit Authority Holdings
+2026-06-01;allegheny-building-services-;14;20;224;33575;10.266;Allegheny Building Services Holdings
+2026-06-01;blackhawk-property-group-inc;7;11;41;20809;3.351;Blackhawk Property Group Inc.
+2026-06-01;lantern-hospitality-group;23;35;159;22801;19.373;Lantern Hospitality Group
+2026-06-01;hughes-property-services-cor;89;114;488;203075;29.143;Hughes Property Services Corp.
+2026-06-01;calloway-fabrication-co;19;21;194;31540;5.447;Calloway Fabrication Co.
+2026-06-01;marrow-health-system-co;68;80;445;128166;54.553;Marrow Health System Co.
+2026-06-01;blackwood-stores-inc;6;8;51;11755;2.332;Blackwood Stores Inc.
+2026-06-01;dubois-construction;24;30;215;68356;27.570;Dubois Construction
+2026-06-01;pinecrest-stores;46;65;365;105620;25.885;Pinecrest Stores
+2026-06-01;calloway-builders;17;23;142;24125;9.589;Calloway Builders
+2026-06-01;chen-medical-center-ltd;4;5;53;4382;4.178;Chen Medical Center Ltd.
+2026-06-01;pioneer-transit-authority-co;35;42;341;101494;10.831;Pioneer Transit Authority Co.
+2026-06-01;keystone-property-group-corp;3;6;39;2647;5.665;Keystone Property Group Corp.
+2026-06-01;morgan-public-works-co;16;27;113;35215;6.865;Morgan Public Works Co.
+2026-06-01;tremblay-janitorial;3;4;31;4092;1.304;Tremblay Janitorial
+2026-06-01;ashford-stores-ltd;17;32;188;26486;21.760;Ashford Stores Ltd.
+2026-06-01;sycamore-maintenance-co;12;22;120;18351;15.060;Sycamore Maintenance Co
+2026-06-01;great-distribution-group;25;33;224;69742;47.703;Great Distribution Group
+2026-06-01;bayview-stores-inc;5;7;49;9805;1.659;Bayview Stores Inc.
+2026-06-01;frontier-health-system-ltd;93;127;788;207956;75.238;Frontier Health System Ltd.
+2026-06-01;tamarack-supply-co;18;28;155;48855;2.959;Tamarack Supply Co
+2026-06-01;brooks-mills;6;7;49;10599;6.205;Brooks Mills
+2026-06-01;brookside-logistics-co;148;245;2122;419841;123.582;BROOKSIDE LOGISTICS
+2026-06-01;ramos-hotels-inc;92;138;886;213128;56.774;Ramos Hotels Inc.
+2026-06-01;elmhurst-retail-group-ltd;24;42;306;27649;12.333;Elmhurst Retail Group Ltd.
+2026-06-01;morris-public-works;3;4;36;6608;4.142;Morris Public Works
+2026-06-01;pinecrest-transit-authority-;50;69;398;136090;22.582;Pinecrest Transit Authority Group
+2026-06-01;abernathy-medical-center;8;13;100;13124;12.083;Abernathy Medical Center
+2026-06-01;kingsley-college-llc;44;60;563;90179;63.714;Kingsley College LLC
+2026-06-01;cascade-hospitality-group;51;58;562;79083;72.062;Cascade Hospitality Group
+2026-06-01;hawthorne-realty-management-;29;45;296;24986;24.171;Hawthorne Realty Management
+2026-06-01;tillamook-warehousing-group;24;38;163;32520;23.857;Tillamook Warehousing Group
+2026-06-01;juniper-properties;8;12;88;16952;2.990;Juniper Properties
+2026-06-01;delacroix-transit-authority;4;7;39;9007;5.493;Delacroix Transit Authority
+2026-06-01;haddad-mills-co;15;17;113;34362;14.967;Haddad Mills Co.
+2026-06-01;northgate-unified-schools;4;6;41;5329;1.695;Northgate Unified Schools
+2026-06-01;patriot-public-works-co;19;21;238;40580;26.929;Patriot Public Works
+2026-06-01;lindqvist-municipal-services;4;8;43;7615;6.215;Lindqvist Municipal Services
+2026-06-01;ashford-industries;6;9;58;5807;6.685;Ashford Industries
+2026-06-01;hargreaves-health-system;8;9;94;21292;3.057;Hargreaves Health System
+2026-06-01;union-university-facilities-;36;43;304;42247;32.209;Union University Facilities Ltd.
+2026-06-01;nguyen-public-works-corp;7;8;55;10814;7.433;Nguyen Public Works Corp.
+2026-06-01;twin-municipal-services-co;11;14;63;22808;4.139;Twin Municipal Services Co.
+2026-06-01;anderson-hotels;564;668;5976;466368;388.090;Anderson Hotels
+2026-06-01;redstone-fabrication-group;35;56;303;92909;23.131;Redstone Fabrication Group
+2026-06-01;ironwood-property-services-h;102;153;1430;106015;133.624;Ironwood Property Services Holdings
+2026-06-01;nowak-outfitters;44;68;577;84334;71.377;Nowak Outfitters
+2026-06-01;quillfeather-maintenance-co-;11;17;167;20341;18.928;QUILLFEATHER MAINTENANCE CO
+2026-06-01;harbortown-builders-inc;40;75;485;57114;63.609;Harbortown Builders Inc.
+2026-06-01;plains-industries-co;11;21;87;31492;8.007;Plains Industries Co.
+2026-06-01;tillamook-suites-co;107;134;1245;238342;171.248;Tillamook Suites Co.
+2026-06-01;hall-university-facilities;56;60;558;153487;55.070;Hall University Facilities
+2026-06-01;saginaw-inns-llc;8;14;90;7046;2.523;Saginaw Inns LLC
+2026-06-01;keystone-stores-llc;17;17;125;47716;14.155;KEYSTONE STORES LLC
+2026-06-01;walker-supply-co-llc;4;5;48;4360;5.150;Walker Supply Co LLC
+2026-06-01;gonzalez-facilities-manageme;59;84;610;130152;65.802;Gonzalez Facilities Management Group
+2026-06-01;westbrook-freight-ltd;5;6;47;7982;4.764;Westbrook Freight Ltd.
+2026-06-01;wabash-outfitters;64;86;993;101917;90.738;Wabash Outfitters
+2026-06-01;marrow-markets-corp;41;64;396;108463;55.055;Marrow Markets Corp.
+2026-06-01;lindenwood-facilities-manage;1899;3682;22648;1821788;1651.401;Lindenwood Facilities Management Inc.
+2026-06-01;wexford-supply-co;13;22;93;27799;4.889;Wexford Supply Co
+2026-06-01;meadowlark-county-facilities;2;3;15;5666;2.712;Meadowlark County Facilities Group
+2026-06-01;wood-building-services;206;214;1321;167138;89.237;Wood Building Services
+2026-06-01;pioneer-hospital;8;10;63;19597;0.948;Pioneer Hospital
+2026-06-01;thornbury-retail-group;13;17;130;24553;9.718;Thornbury Retail Group
+2026-06-01;cornerstone-construction;57;84;439;135357;43.253;Cornerstone Construction
+2026-06-01;ostrander-industries-corp;12;17;94;33165;5.779;Ostrander Industries Corp.
+2026-06-01;delacroix-health-partners;50;58;302;77119;20.608;Delacroix Health Partners
+2026-06-01;northgate-stores;24;38;227;23670;21.727;Northgate Stores
+2026-06-01;raghunathan-industries;9;12;125;18614;4.855;Raghunathan Industries
+2026-06-01;liu-works-llc;131;200;820;251539;76.971;Liu Works LLC
+2026-06-01;lindenwood-realty-management;26;38;588;55340;46.775;Lindenwood Realty Management Inc.
+2026-06-01;choi-resorts-corp;77;82;977;210437;74.927;Choi Resorts Corp.
+2026-06-01;shenandoah-inns-co;23;34;225;28488;10.476;Shenandoah Inns Co.
+2026-06-01;lakeshore-hotels;17;28;195;23310;20.566;Lakeshore Hotels
+2026-06-01;copperfield-logistics-inc;13;16;128;38936;18.311;Copperfield Logistics Inc.
+2026-06-01;ravenwood-hospitality-group;97;138;1342;239185;119.713;Ravenwood Hospitality Group
+2026-06-01;roberts-realty-management;20;21;149;35057;23.687;Roberts Realty
+2026-06-01;thompson-clinics;35;61;263;72422;19.649;Thompson Clinics
+2026-06-01;lindenwood-industries-inc;8;10;74;23600;8.083;Lindenwood Industries Inc.
+2026-06-01;chavez-manufacturing-co;85;110;845;156554;96.577;CHAVEZ MANUFACTURING CO.
+2026-06-01;erie-freight-llc;12;14;69;22617;2.217;Erie Freight LLC
+2026-06-01;pinecrest-mechanical-group;27;30;396;68838;27.970;PINECREST MECHANICAL
+2026-06-01;calloway-university-faciliti;96;120;861;97944;67.024;Calloway University Facilities Holdings
+2026-06-01;bayou-properties-llc;36;43;487;71336;57.124;Bayou Properties LLC
+2026-06-01;union-college;21;35;224;25394;14.607;Union College
+2026-06-01;cook-facilities-management-c;2;3;47;4260;5.815;Cook Facilities Management Co.
+2026-06-01;halvorsen-warehousing;8;9;47;10333;1.484;Halvorsen Warehousing
+2026-06-01;whitlock-municipal-services-;75;123;431;177334;40.387;Whitlock Municipal Services Inc.
+2026-06-01;smith-restoration;24;34;191;26952;18.633;Smith Restoration
+2026-06-01;tamarack-building-services-h;147;266;905;175884;64.246;Tamarack Building Services, Inc
+2026-06-01;saginaw-freight;6;11;43;12571;3.584;Saginaw Freight
+2026-06-01;scioto-academy-co;26;42;296;25432;30.272;Scioto Academy Co.
+2026-06-01;cedar-mills-llc;21;30;206;41303;25.559;Cedar Mills LLC
+2026-06-01;rivera-property-group;19;29;289;21129;35.080;Rivera Property Group
+2026-06-01;peterson-resorts;834;1069;9665;1616501;544.371;Peterson Resorts
+2026-06-01;muskingum-residential-llc;15;16;142;33157;8.347;Muskingum Residential
+2026-06-01;pioneer-building-services-lt;21;26;376;41044;15.292;Pioneer Building Services Ltd.
+2026-06-01;lakes-township;16;23;138;13132;17.057;Lakes Township
+2026-06-01;evans-inns-co;21;37;119;32092;27.924;Evans Inns Co.
+2026-06-01;tremblay-property-services-i;50;86;889;101746;38.248;Tremblay Property Services Inc.
+2026-06-01;byrne-works-group;3;6;23;3128;3.493;Byrne Works Group
+2026-06-01;saguaro-manufacturing-holdin;4;8;29;11486;1.749;Saguaro Manufacturing Holdings
+2026-06-01;erie-transit-authority-llc;41;48;305;36886;22.315;Erie Transit Authority LLC
+2026-06-01;three-builders;26;31;364;33984;17.383;Three Builders
+2026-06-01;perez-construction-inc;20;32;283;45095;17.464;PEREZ CONSTRUCTION
+2026-06-01;wabash-couriers-holdings;154;181;1207;188297;112.750;Wabash Couriers Holdings
+2026-06-01;venkatesan-builders-group;48;60;497;75034;23.133;Venkatesan Builders Group
+2026-06-01;raghunathan-properties-holdi;94;137;870;202417;125.012;Raghunathan Properties Holdings
+2026-06-01;fairhaven-homes-co;23;24;351;30118;15.612;Fairhaven Homes Co.
+2026-06-01;bluewater-industries-group;22;24;224;44119;3.438;Bluewater Industries Group
+2026-06-01;wexford-hotels-llc;308;543;3268;781951;283.873;Wexford Hotels LLC
+2026-06-01;allegheny-supply-co-ltd;12;17;190;30498;18.282;Allegheny Supply Co Ltd.
+2026-06-01;garcia-contracting-llc;49;67;517;68853;37.935;Garcia Contracting LLC
+2026-06-01;miami-academy;12;18;122;11200;16.153;Miami Academy
+2026-06-01;king-suites-holdings;196;226;2437;201869;255.250;King Suites Holdings
+2026-06-01;great-medical-center-group;2;3;25;3383;3.802;Great Medical Center Group
+2026-06-01;juniper-mechanical-group;18;20;206;51956;7.787;Juniper Mechanical Group
+2026-06-01;torres-markets;13;20;87;19421;10.304;Torres Markets
+2026-06-01;bennett-township-inc;6;10;59;10920;6.830;Bennett Township Inc.
+2026-06-01;ruiz-mechanical;23;30;236;68242;8.325;Ruiz Mechanical
+2026-06-01;bluewater-residential-group;2;3;50;1754;3.410;Bluewater Residential Group
+2026-06-01;patriot-resorts;20;31;211;43585;26.501;Patriot Resorts
+2026-06-01;wexford-works;220;333;1568;599030;122.942;Wexford Works
+2026-06-01;cornerstone-unified-schools-;32;52;262;74824;10.879;Cornerstone Unified Schools Corp.
+2026-06-01;northgate-clinics;2;3;14;4453;2.990;Northgate Clinics
+2026-06-01;bayou-school-district;17;18;215;21149;41.929;Bayou School District
+2026-06-01;patriot-facilities-managemen;98;143;1124;114763;68.603;Patriot Facilities Management
+2026-06-01;bayview-residential-ltd;21;35;219;28303;22.671;Bayview Residential Ltd.
+2026-06-01;marrow-college-ltd;366;557;2558;792637;154.362;Marrow College Ltd.
+2026-06-01;lakeshore-industries-holding;35;62;206;91067;5.359;Lakeshore Industries Holdings
+2026-06-01;pelletier-maintenance-co-gro;104;131;1203;284664;177.898;Pelletier Maintenance Co Group
+2026-06-01;evans-facilities-management;50;83;419;135968;31.870;Evans Facilities Management
+2026-06-01;copperfield-building-service;13;20;287;26066;18.792;Copperfield Building Services Group
+2026-06-01;turner-properties-corp;8;9;58;9523;10.552;Turner Properties Corp.
+2026-06-01;heron-builders;38;53;299;59218;7.332;Heron Builders
+2026-06-01;fairhaven-property-group-llc;5;6;71;7962;7.581;Fairhaven Property Group LLC
+2026-06-01;martin-hotels-group;20;22;366;38122;23.170;Martin Hotels Group
+2026-06-01;calloway-retail-group-corp;95;109;649;105609;58.942;Calloway Retail Group Corp.
+2026-06-01;saginaw-county-facilities-lt;30;43;411;63126;26.450;Saginaw County Facilities Ltd.
+2026-06-01;lindenwood-warehousing-llc;15;23;166;28923;15.131;Lindenwood Warehousing LLC
+2026-06-01;tremblay-university-faciliti;45;67;403;102726;60.841;Tremblay University Facilities
+2026-06-01;cedar-retail-group-llc;71;89;706;140707;62.927;Cedar Retail Group LLC
+2026-06-01;garcia-unified-schools;83;106;823;156323;82.383;Garcia Unified Schools
+2026-06-01;rivers-realty-management-hol;4;4;30;3600;4.039;Rivers Realty Management Holdings
+2026-06-01;southport-county-facilities-;4;5;33;11753;4.585;Southport County Facilities Inc.
+2026-06-01;bennett-transit-authority-in;19;31;150;46760;6.436;Bennett Transit
+2026-06-01;tamarack-resorts;26;47;460;69731;18.142;Tamarack Resorts
+2026-06-01;ruiz-fabrication;3;4;42;2891;1.415;Ruiz Fabrication
+2026-06-01;mitchell-unified-schools;82;142;1211;157614;61.740;Mitchell Unified Schools
+2026-06-01;southport-works-corp;16;17;247;40213;22.282;Southport Works Corp.
+2026-06-01;frontier-academy-corp;71;103;936;186071;85.221;FRONTIER ACADEMY
+2026-06-01;superior-public-works-corp;3;5;28;7261;2.887;Superior Public Works Corp.
+2026-06-01;mitchell-mills-llc;21;26;283;48074;2.192;Mitchell Mills LLC
+2026-06-01;sierra-county-facilities;4;6;56;11441;4.303;Sierra County Facilities
+2026-06-01;ironwood-inns-corp;6;12;34;8598;6.441;Ironwood Inns Corp.
+2026-06-01;mccarthy-fabrication;58;76;805;83113;45.911;MCCARTHY FABRICATION
+2026-06-01;valley-college;21;26;293;40189;25.868;Valley College
+2026-06-01;pinecrest-freight-corp;81;111;687;161201;57.262;PINECREST FREIGHT CORP.
+2026-06-01;beacon-health-partners;17;23;245;44887;28.130;Beacon Health Partners
+2026-06-01;westbrook-facilities-managem;460;681;11308;975901;452.450;Westbrook Facilities Management Inc.
+2026-06-01;lakeshore-homes-corp;4;5;30;6865;1.606;Lakeshore Homes Corp.
+2026-06-01;anchor-municipal-services-ho;27;28;362;24692;31.468;Anchor Municipal Services Holdings
+2026-06-01;heron-distribution;123;155;1568;234824;119.973;Heron Distribution
+2026-06-01;calloway-couriers;18;27;217;30252;17.884;Calloway Couriers
+2026-06-01;clearwater-school-district-l;18;27;163;37981;24.738;Clearwater School District Ltd.
+2026-06-01;gutierrez-residential-co;12;14;125;16495;3.902;Gutierrez Residential Co.
+2026-06-01;byrne-stores-ltd;1;1;9;2767;1.124;Byrne Stores Ltd.
+2026-06-01;saginaw-logistics-inc;4;5;38;9933;2.533;Saginaw Logistics Inc.
+2026-06-01;lakes-resorts-corp;18;22;194;28604;3.817;Lakes Resorts Corp.
+2026-06-01;sycamore-hotels-inc;15;26;120;29907;17.515;Sycamore Hotels Inc.
+2026-06-01;granite-building-services-ll;70;97;1406;201549;59.196;Granite Building Services LLC
+2026-06-01;ironwood-realty-management-h;1;1;6;1224;0.936;Ironwood Realty Management
+2026-06-01;willow-realty-management;22;32;272;51800;3.142;Willow Realty Management
+2026-06-01;ashford-facilities-managemen;2;4;16;2067;0.722;Ashford Facilities Management Holdings
+2026-06-01;superior-restoration-co;68;103;514;80470;42.933;Superior Restoration Co.
+2026-06-01;brookside-mills-ltd;19;20;165;53650;5.150;BROOKSIDE MILLS
+2026-06-01;kingsley-health-partners-llc;17;19;106;28858;12.795;Kingsley Health Partners LLC
+2026-06-01;sierra-retail-group;318;423;3517;452768;228.326;Sierra Retail Group
+2026-06-01;ozark-suites-ltd;30;51;243;68046;37.955;Ozark Suites Ltd.
+2026-06-01;muskingum-mills-inc;159;253;1785;198812;101.453;Muskingum Mills Inc.
+2026-06-01;cook-realty-management-group;7;10;67;19795;7.707;Cook Realty Management Group
+2026-06-01;magnolia-works-corp;3;5;39;4669;0.926;Magnolia Works, Inc
+2026-06-01;watson-school-district-inc;82;93;974;154193;72.277;Watson School District Inc.
+2026-06-01;gatehouse-markets-corp;46;48;329;134718;42.287;Gatehouse Markets, Inc
+2026-06-01;huron-resorts-inc;55;73;562;65170;42.813;Huron Resorts Inc.
+2026-06-01;davis-stores-co;6;10;38;11336;8.891;Davis Stores, Inc
+2026-06-01;granite-manufacturing;115;127;886;292134;79.157;Granite Manufacturing
+2026-06-01;saginaw-mechanical;21;24;294;28939;11.131;Saginaw Mechanical
+2026-06-01;scott-restoration;12;18;112;12337;14.236;Scott Restoration
+2026-06-01;summit-hospital-holdings;42;79;355;124562;42.664;SUMMIT HOSPITAL
+2026-06-01;mesa-municipal-services-hold;15;19;174;22423;18.091;Mesa Municipal Services Holdings
+2026-06-01;williams-industries-inc;19;28;278;56068;22.887;Williams Industries Inc.
+2026-06-01;peterson-suites-inc;437;597;3877;520667;335.126;Peterson Suites Inc.
+2026-06-01;esposito-county-facilities-l;93;134;518;133918;52.751;Esposito County Facilities LLC
+2026-06-01;pioneer-construction-group;5;9;59;5424;1.203;Pioneer Construction Group
+2026-06-01;frontier-resorts-holdings;11;16;246;28192;20.600;Frontier Resorts Holdings
+2026-06-01;calloway-inns-corp;214;290;3227;241130;160.737;Calloway Inns Corp.
+2026-06-01;kowalski-college;98;144;708;288860;63.825;Kowalski College
+2026-06-01;pioneer-resorts-corp;15;22;90;39293;9.803;Pioneer Resorts Corp.
+2026-06-01;collins-mechanical-ltd;79;103;1092;200599;77.914;Collins Mechanical Ltd.
+2026-06-01;heron-resorts-ltd;30;47;222;80149;7.748;Heron Resorts
+2026-06-01;james-manufacturing-co;37;46;406;48408;50.110;James Manufacturing Co.
+2026-06-01;ravenwood-logistics-holdings;53;63;590;69204;58.738;RAVENWOOD LOGISTICS HOLDINGS
+2026-06-01;adeyemi-homes-group;16;19;143;37699;15.689;Adeyemi Homes Group
+2026-06-01;twin-township;3;4;44;6023;1.482;Twin Township
+2026-06-01;penhallow-outfitters-ltd;5;9;58;12255;2.001;Penhallow Outfitters Ltd.
+2026-06-01;erie-academy-co;9;19;85;26130;8.817;Erie Academy Co.
+2026-06-01;juniper-hospital-llc;45;70;476;46493;41.789;Juniper Hospital LLC
+2026-06-01;bluewater-unified-schools;33;49;424;36505;40.365;Bluewater Unified Schools
+2026-06-01;quillfeather-municipal-servi;17;29;131;27135;19.507;Quillfeather Municipal Services
+2026-06-01;bluewater-college-llc;37;45;335;38667;34.901;Bluewater College LLC
+2026-06-01;juniper-homes-llc;117;161;1627;319078;20.019;Juniper Homes LLC
+2026-06-01;bailey-municipal-services-co;12;22;83;24357;4.020;Bailey Municipal Services Corp.
+2026-06-01;gomez-health-partners-group;4;7;29;4500;5.221;Gomez Health Partners Group
+2026-06-01;yarrow-university-facilities;45;57;369;62398;31.067;Yarrow University Facilities Ltd.
+2026-06-01;wexford-stores-group;17;19;102;19422;14.228;Wexford Stores Group
+2026-06-01;patriot-properties-holdings;175;195;2081;241307;136.780;Patriot Properties
+2026-06-01;lindenwood-academy;8;11;63;9085;3.072;Lindenwood Academy
+2026-06-01;magnolia-mechanical-holdings;30;48;420;85427;35.640;Magnolia Mechanical Holdings
+2026-06-01;martinez-mechanical-corp;14;15;178;28797;20.014;Martinez Mechanical Corp.
+2026-06-01;ramirez-college;12;21;105;22262;4.515;Ramirez College
+2026-06-01;patriot-distribution-llc;24;38;210;26060;24.435;Patriot Distribution LLC
+2026-06-01;halvorsen-works;25;35;228;33848;24.823;Halvorsen Works
+2026-06-01;mccarthy-township-llc;1284;1542;17943;3155056;1268.298;McCarthy Township LLC
+2026-06-01;osprey-industries-llc;34;50;323;93218;16.001;Osprey Industries LLC
+2026-06-01;harbortown-county-facilities;56;67;767;109484;64.445;Harbortown County Facilities
+2026-06-01;scioto-public-works;86;132;787;106689;61.233;Scioto Public Works
+2026-06-01;gagnon-restoration-corp;38;65;432;75325;33.269;Gagnon Restoration Corp.
+2026-06-01;cartwright-stores-group;20;34;259;20079;15.737;CARTWRIGHT STORES
+2026-06-01;hernandez-manufacturing-corp;10;16;89;28560;10.945;Hernandez Manufacturing Corp.
+2026-06-01;taylor-properties;14;16;113;29969;7.370;Taylor Properties
+2026-06-01;redstone-mechanical;14;16;144;24099;12.944;Redstone Mechanical
+2026-06-01;ingleby-health-system-ltd;5;6;31;14801;1.522;Ingleby Health System Ltd.
+2026-06-01;torres-contracting;53;75;816;62212;94.804;Torres Contracting
+2026-06-01;meadowlark-works-inc;36;65;261;93657;8.482;Meadowlark Works Inc.
+2026-06-01;blackhawk-suites;14;15;182;28951;16.879;Blackhawk Suites
+2026-06-01;young-properties-inc;8;8;94;7041;11.598;Young Properties Inc.
+2026-06-01;copperfield-hospitality-grou;28;32;357;30313;39.851;Copperfield Hospitality Group
+2026-06-01;wabash-health-system-group;34;38;452;47613;47.549;Wabash Health System
+2026-06-01;mccarthy-contracting-ltd;28;29;372;72159;20.497;McCarthy Contracting Ltd.
+2026-06-01;bluewater-health-partners;228;367;1964;632318;147.128;Bluewater Health Partners
+2026-06-01;quillfeather-public-works-in;6;11;46;14574;1.682;Quillfeather Public
+2026-06-01;watson-logistics;111;136;1429;306842;114.572;Watson Logistics
+2026-06-01;anderson-municipal-services;49;77;645;73060;40.793;Anderson Municipal Services
+2026-06-01;king-supply-co;251;435;2379;289522;199.315;King Supply Co
+2026-06-01;dubois-clinics-corp;27;41;236;37351;8.995;Dubois Clinics Corp.
+2026-06-01;chavez-mechanical-llc;26;29;332;20969;7.839;Chavez Mechanical LLC
+2026-06-01;cumberland-mechanical-ltd;15;19;254;31777;17.008;Cumberland Mechanical Ltd.
+2026-06-01;ruiz-janitorial-ltd;123;154;798;289112;46.623;Ruiz Janitorial Ltd.
+2026-06-01;johnson-mills;30;53;332;57423;34.749;Johnson Mills
+2026-06-01;valley-residential;27;42;589;60062;15.257;Valley Residential
+2026-06-01;mesa-university-facilities-g;26;34;222;77688;15.310;Mesa University Facilities Group
+2026-06-01;superior-municipal-services-;8;14;63;18760;6.913;Superior Municipal Services Group
+2026-06-01;scioto-suites-corp;256;297;1477;435279;136.412;Scioto Suites Corp.
+2026-06-01;bluewater-clinics-inc;30;37;384;34293;32.971;Bluewater Clinics
+2026-06-01;liberty-hotels-corp;24;25;234;38730;15.083;Liberty Hotels Corp.
+2026-06-01;lakes-realty-management;8;11;90;8474;1.496;Lakes Realty Management
+2026-06-01;mesa-markets;8;14;57;10731;6.513;Mesa Markets
+2026-06-01;pueblo-industries-ltd;4;6;25;4071;0.737;Pueblo Industries Ltd.
+2026-06-01;pioneer-distribution-group;7;12;80;8977;12.270;Pioneer Distribution Group
+2026-06-01;oakmere-health-system-inc;19;26;112;40503;14.547;Oakmere Health System Inc.
+2026-06-01;cornerstone-medical-center-l;16;20;134;44139;19.042;CORNERSTONE MEDICAL CENTER LTD.
+2026-06-01;valley-couriers-inc;769;1107;9024;1036534;681.437;Valley Couriers Inc.
+2026-06-01;prairie-hospitality-group-gr;61;87;1282;161067;45.915;Prairie Hospitality Group Group
+2026-06-01;redstone-medical-center-ltd;44;67;436;88224;56.677;Redstone Medical Center Ltd.
+2026-06-01;westbrook-janitorial-llc;5;6;32;9693;1.542;Westbrook Janitorial, Inc
+2026-06-01;yamamoto-warehousing-llc;32;40;359;94343;14.913;Yamamoto Warehousing LLC
+2026-06-01;johansson-homes;52;146;689;117405;95.851;Johansson Homes
+2026-06-01;scott-clinics-ltd;47;57;489;86119;42.938;Scott Clinics Ltd.
+2026-06-01;okafor-markets-corp;15;19;100;30994;14.787;Okafor Markets Corp.

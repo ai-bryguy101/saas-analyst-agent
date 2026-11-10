@@ -1,0 +1,120 @@
+{
+ "metaData": {
+  "id": "a7b33d44-ab0b-be54-20c3-0265ead9995a",
+  "url": "https://app.gong.example/call?id=a7b33d44-ab0b-be54-20c3-0265ead9995a",
+  "title": "Anchor Retail Group Group | Quarterly check-in",
+  "scheduled": "2024-10-30T20:00:00Z",
+  "started": "2024-10-30T20:04:44Z",
+  "duration": 45,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Nikolai Baker",
+   "affiliation": "External",
+   "emailAddress": "nikolai.baker@anchor.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4611,
+     "end": 8696,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9869,
+     "end": 14449,
+     "text": "We're looking at options that just work with QuickBooks."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16750,
+     "end": 20835,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 21611,
+     "end": 26796,
+     "text": "Honestly the QuickBooks sync has been a nightmare since the summer."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 28239,
+     "end": 31114,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 32686,
+     "end": 37596,
+     "text": "If this isn't fixed by renewal I can't defend it to our owner."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 38659,
+     "end": 42744,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

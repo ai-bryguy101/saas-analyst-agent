@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "995573f1-eb27-af12-e8bf-20e55e725a9b",
+  "url": "https://app.gong.example/call?id=995573f1-eb27-af12-e8bf-20e55e725a9b",
+  "title": "Miami Markets Inc. | Quarterly check-in",
+  "scheduled": "2025-04-17T17:00:00Z",
+  "started": "2025-04-17T17:03:56Z",
+  "duration": 19,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Jacob Cartwright",
+   "affiliation": "External",
+   "emailAddress": "jacob.cartwright@miamicorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 3551,
+     "end": 7911,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10010,
+     "end": 13600,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14176,
+     "end": 18206,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

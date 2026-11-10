@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "3206d810-8a66-e397-0a23-ba4d369abaa7",
+  "url": "https://app.gong.example/call?id=3206d810-8a66-e397-0a23-ba4d369abaa7",
+  "title": "Union College | Quarterly check-in",
+  "scheduled": "2026-03-08T16:00:00Z",
+  "started": "2026-03-08T16:04:35Z",
+  "duration": 19,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Carol Gomez",
+   "affiliation": "External",
+   "emailAddress": "carol.gomez@union-inc.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4348,
+     "end": 7223,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 8865,
+     "end": 12455,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13891,
+     "end": 17921,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

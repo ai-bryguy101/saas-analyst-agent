@@ -174,7 +174,8 @@ def write_golden(world, out_root: Path, path: Path):
                       "notes": "Event files include duplicated deliveries; the count above is raw. De-duplicated counts may differ slightly."})
     facts += sorted(getattr(world, "extra_facts", []), key=lambda x: int(x["id"][2:]))
     doc = {"description": "Answer key for agent evaluation. Every value is computed by generator/golden.py from the same seeded world that produced data/raw.",
-           "seed": world.seed, "facts": facts}
+           "seed": world.seed, "facts": facts,
+           "patterns": sorted(getattr(world, "patterns", []), key=lambda x: x["id"])}
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("# ALL DATA IS SYNTHETIC. Brindlecove Software and everything in it is invented.\n" +
                     yaml.safe_dump(doc, sort_keys=False, allow_unicode=True, width=120))

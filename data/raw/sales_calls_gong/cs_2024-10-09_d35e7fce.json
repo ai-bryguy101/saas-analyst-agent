@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "d35e7fce-76c8-92f4-f90e-bf0516c2cb07",
+  "url": "https://app.gong.example/call?id=d35e7fce-76c8-92f4-f90e-bf0516c2cb07",
+  "title": "Quarry Property Group Ltd. | Quarterly check-in",
+  "scheduled": "2024-10-09T17:00:00Z",
+  "started": "2024-10-09T17:04:07Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Edward Jessop",
+   "affiliation": "External",
+   "emailAddress": "edward.jessop@quarryhq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4090,
+     "end": 8450,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10910,
+     "end": 14500,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 15055,
+     "end": 19085,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  }
+ ]
+}

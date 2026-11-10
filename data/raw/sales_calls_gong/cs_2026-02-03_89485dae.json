@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "89485dae-1dd3-e606-5306-5bb0ab79855b",
+  "url": "https://app.gong.example/call?id=89485dae-1dd3-e606-5306-5bb0ab79855b",
+  "title": "Jackson Warehousing Inc. | Quarterly check-in",
+  "scheduled": "2026-02-03T14:00:00Z",
+  "started": "2026-02-03T14:00:57Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Olivia Goodenough",
+   "affiliation": "External",
+   "emailAddress": "olivia.goodenough@jackson-inc.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5716,
+     "end": 8591,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9252,
+     "end": 12622,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14144,
+     "end": 18229,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

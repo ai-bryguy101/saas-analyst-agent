@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "b72be266-4ece-30ae-caf2-61107508b48b",
+  "url": "https://app.gong.example/call?id=b72be266-4ece-30ae-caf2-61107508b48b",
+  "title": "Scioto Realty Management Ltd. | Quarterly check-in",
+  "scheduled": "2025-07-24T18:00:00Z",
+  "started": "2025-07-24T18:05:04Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Diane Brown",
+   "affiliation": "External",
+   "emailAddress": "diane.brown@sciotohq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5507,
+     "end": 9537,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11919,
+     "end": 15509,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16032,
+     "end": 18907,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  }
+ ]
+}

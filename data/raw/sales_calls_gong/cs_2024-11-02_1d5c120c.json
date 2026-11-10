@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "1d5c120c-8225-1d1f-36da-b46b9cea0c81",
+  "url": "https://app.gong.example/call?id=1d5c120c-8225-1d1f-36da-b46b9cea0c81",
+  "title": "Alvarez Properties | Quarterly check-in",
+  "scheduled": "2024-11-02T21:00:00Z",
+  "started": "2024-11-02T21:03:59Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Charles Esposito",
+   "affiliation": "External",
+   "emailAddress": "charles.esposito@alvarezcorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4537,
+     "end": 8567,
+     "text": "I hear you. Engineering has a fix in progress."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11005,
+     "end": 14155,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14589,
+     "end": 18949,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "a51f43b2-3d89-04ea-2227-4a00ca8daa51",
+  "url": "https://app.gong.example/call?id=a51f43b2-3d89-04ea-2227-4a00ca8daa51",
+  "title": "Castillo Academy | Quarterly check-in",
+  "scheduled": "2026-02-08T13:00:00Z",
+  "started": "2026-02-08T13:06:39Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "William Wright",
+   "affiliation": "External",
+   "emailAddress": "william.wright@castillohq.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5415,
+     "end": 9500,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10368,
+     "end": 13518,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14553,
+     "end": 18638,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

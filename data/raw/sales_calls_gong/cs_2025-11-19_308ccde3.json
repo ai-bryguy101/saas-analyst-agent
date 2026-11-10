@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "308ccde3-2422-7969-6eae-b2c980952b8f",
+  "url": "https://app.gong.example/call?id=308ccde3-2422-7969-6eae-b2c980952b8f",
+  "title": "Rivers Realty Management Holdings | Quarterly check-in",
+  "scheduled": "2025-11-19T15:00:00Z",
+  "started": "2025-11-19T15:00:24Z",
+  "duration": 22,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Benjamin Takahashi",
+   "affiliation": "External",
+   "emailAddress": "benjamin.takahashi@rivers-inc.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3150,
+     "text": "Things are going well overall."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5324,
+     "end": 9684,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 11919,
+     "end": 15509,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 17558,
+     "end": 21643,
+     "text": "Thanks, that's helpful context for the renewal."
+    }
+   ]
+  }
+ ]
+}

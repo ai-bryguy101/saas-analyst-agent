@@ -17,16 +17,16 @@ citing the exact file it pulled each fact from.
 |---|---|
 | `docs/COMPANY_BIBLE.md` | The fake company: history, products, prices, people, systems by era, ID schemes |
 | `generator/` | Seeded Python program that builds the whole data estate |
-| `data/raw/` | The generated "proprietary" files, ~204 MB, ~8,150 files, 49 source folders |
+| `data/raw/` | The generated "proprietary" files, ~221 MB, ~8,300 files, 66 source folders |
 | `data/CATALOG.md` | Map of every source: format, era, encoding, quirks. Starts with what to review |
-| `data/GOLDEN_FACTS.yaml` | 38 answer-key questions, each with a trail of files and the traps along the way |
+| `data/GOLDEN_FACTS.yaml` | 52 answer-key questions and 4 planted cross-source patterns, each with a trail of files and the traps along the way |
 
 ## Regenerate and verify
 
 ```bash
 pip install -r requirements.txt
 python -m generator            # seed 42 -> data/raw/ and data/GOLDEN_FACTS.yaml (~80 s)
-python -m generator.verify     # re-derives 18 golden answers by parsing the raw files
+python -m generator.verify     # re-derives 31 golden answers and 2 patterns by parsing the raw files
 ```
 
 The same seed gives byte-identical files on every run. Options:

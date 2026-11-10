@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "d062b4e9-defa-13cb-4a61-98f551668a4c",
+  "url": "https://app.gong.example/call?id=d062b4e9-defa-13cb-4a61-98f551668a4c",
+  "title": "Twin Residential | Quarterly check-in",
+  "scheduled": "2025-02-05T20:00:00Z",
+  "started": "2025-02-05T20:06:03Z",
+  "duration": 20,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Kelly Scott",
+   "affiliation": "External",
+   "emailAddress": "kelly.scott@twin-inc.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3370,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 3910,
+     "end": 6785,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 7670,
+     "end": 11260,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13709,
+     "end": 18069,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  }
+ ]
+}

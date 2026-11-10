@@ -1,0 +1,76 @@
+{
+ "metaData": {
+  "id": "aa864fe4-e8b9-20ba-14c8-0d9b7158bb75",
+  "url": "https://app.gong.example/call?id=aa864fe4-e8b9-20ba-14c8-0d9b7158bb75",
+  "title": "Great Hospitality Group Inc. | Quarterly check-in",
+  "scheduled": "2025-11-15T14:00:00Z",
+  "started": "2025-11-15T14:03:39Z",
+  "duration": 17,
+  "primaryUserId": "E059",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Brandon Price",
+   "affiliation": "Internal",
+   "emailAddress": "bprice@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": "Kyle Phillips",
+   "affiliation": "External",
+   "emailAddress": "kyle.phillips@greatcorp.example"
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3590,
+     "text": "We might add a few seats next quarter."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4081,
+     "end": 6956,
+     "text": "Can I share a workaround?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 7616,
+     "end": 10986,
+     "text": "The team likes the dispatch board."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 12058,
+     "end": 16418,
+     "text": "Let me get you on a call with our integrations team."
+    }
+   ]
+  }
+ ]
+}

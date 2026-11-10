@@ -362,6 +362,222 @@ CHECKS += [check_gf22, check_gf24, check_gf25, check_gf28, check_gf29, check_gf3
            check_gf34, check_gf35, check_gf38]
 
 
+# ----------------------------------------------------------------------------- round 3
+def _rows_after_title(path, skip, encoding="utf-8"):
+    text = Path(path).read_text(encoding=encoding)
+    return list(csv.reader(io.StringIO(text)))[skip:]
+
+
+def check_gf39(f):
+    rows = _rows_after_title(RAW / "hris/Workday_Worker_Roster_asof_2024-12-31.csv", 3)
+    hdr, body = rows[0], rows[1:]
+    i = {h: n for n, h in enumerate(hdr)}
+    emp = [x for x in body if x[i["Worker_Type"]] == "Employee" and x[i["Worker_Status"]] in ("Active", "On Leave")
+           and x[i["Hire_Date"]] <= "2024-12-31"]
+    return len(emp) == f["GF39"]["values"]["employees"], f"{len(emp)} employees (Active or On Leave, not contingent, hired by year end)"
+
+
+def check_gf40(f):
+    from datetime import datetime
+    rows = list(csv.DictReader(io.StringIO((RAW / "kestrel_uk_ops/Renewals_Register_FY23.csv").read_text(encoding="cp1252"))))
+    m = [x for x in rows if datetime.strptime(x["Renewal date"], "%d/%m/%Y").strftime("%Y-%m") == "2023-03"]
+    tot = round(sum(float(x["Annual value (GBP)"].replace(",", "")) for x in m), 2)
+    v = f["GF40"]["values"]
+    return len(m) == v["count"] and abs(tot - v["annual_value_gbp"]) < 0.01, f"{len(m)} March 2023 renewals, GBP {tot:,.2f} (day-first)"
+
+
+def check_gf41(f):
+    import zipfile
+    from datetime import date, timedelta
+    v = f["GF41"]["values"]
+    with zipfile.ZipFile(RAW / "implementations/Onboarding_Tracker_2015 (Mac).xlsx") as z:
+        mac = 'date1904="1"' in z.read("xl/workbook.xml").decode()
+    rows = list(csv.DictReader(open(RAW / "implementations/Onboarding_Tracker_2015_export.csv", newline="")))
+    row = next(x for x in rows if x["Customer"] == v["customer"])
+    d = date(1904, 1, 1) + timedelta(days=int(row["Go-live"]))
+    return mac and str(d) == v["go_live"], f"serial {row['Go-live']} + 1904-01-01 = {d}, workbook date1904={mac}"
+
+
+def check_gf42(f):
+    import unicodedata
+    tot = 0.0
+    for raw in (RAW / "ar_lockbox/lockbox_remittance_2022-2023.txt").read_bytes().split(b"\r\n")[1:]:
+        if not raw:
+            continue
+        try:
+            s = raw.decode("utf-8")
+        except UnicodeDecodeError:
+            s = raw.decode("cp1252")
+        if "Ã" in s:
+            s = s.encode("cp1252").decode("utf-8")
+        p = unicodedata.normalize("NFC", s).split("|")
+        if p[2].casefold() == "fromagerie bélanger-côté inc." and p[0][:4] == "2023":
+            tot += float(p[4])
+    return abs(tot - f["GF42"]["values"]["total_cad_2023"]) < 0.01, f"CAD {tot:,.2f} after per-line decoding, mojibake repair and NFC"
+
+
+def check_gf43(f):
+    rows = list(csv.reader(open(RAW / "ap_payments/AP_Payment_Register_2024.csv", newline="")))[1:]
+
+    def vend(n):
+        n = re.sub(r"[^A-Z ]", "", n.upper())
+        return re.sub(r"\b(CO|COMPANY|INC|LLC|LTD|LLP)\b", "", n).split()
+
+    groups = {}
+    for x in rows:
+        key = (" ".join(vend(x[3])), re.sub(r"[^A-Z0-9]", "", x[4].upper()))
+        g = groups.setdefault(key, [float(x[6].replace(",", "")), 0.0, []])
+        g[1] += float(x[7].replace(",", ""))
+        g[2].append(x[0])
+    over = {k: round(g[1] - g[0], 2) for k, g in groups.items() if g[1] - g[0] > 0.005}
+    v = f["GF43"]["values"]
+    ok = len(over) == 1 and list(over.values())[0] == v["overpaid"] and list(over)[0][1] == v["invoice"].replace("-", "")
+    return ok, f"overpaid groups: {over}"
+
+
+def check_gf44(f):
+    best = {}
+    for name in ("tickets_2024_part1.jsonl", "tickets_2024_part2.jsonl", "tickets_2024_part2_retry.jsonl"):
+        for ln in (RAW / "support_zendesk_2020-2026" / name).read_text().splitlines():
+            try:
+                t = json.loads(ln)
+            except json.JSONDecodeError:
+                continue
+            if t["id"] not in best or t["updated_at"] > best[t["id"]]["updated_at"]:
+                best[t["id"]] = t
+    esc = [t for t in best.values() if t["created_at"] < "2024-04-01"
+           and next(c["value"] for c in t["custom_fields"] if c["id"] == 360004417231)]
+    return len(esc) == f["GF44"]["values"]["escalated_q1_2024"], f"{len(esc)} escalated in Q1 from {len(best)} unique 2024 tickets"
+
+
+def check_gf46(f):
+    def total(path, delim=","):
+        rows = list(csv.DictReader(open(path, newline=""), delimiter=delim))
+        if "storage_mb" in rows[0]:
+            return sum(float(x["storage_mb"]) for x in rows) / 1024 / 1024
+        return sum(float(x["storage_gb"]) for x in rows) / 1024
+    a, b = total(RAW / "product_usage_exports/usage_2022-12.csv"), total(RAW / "product_usage_exports/usage_2023-12.csv")
+    v = f["GF46"]["values"]
+    return abs(a - v["tb_2022_12"]) < 0.02 and abs(b - v["tb_2023_12"]) < 0.02, f"{a:.2f} TB -> {b:.2f} TB (unit read from the header)"
+
+
+def check_gf47(f):
+    from datetime import datetime, timezone
+    fails = Counter()
+    with gzip.open(RAW / "webhooks/delivery_log_2024.jsonl.gz", "rt") as fh:
+        for ln in fh:
+            e = json.loads(ln)
+            t = float(e["ts"])
+            t = t / 1e6 if t > 1e14 else (t / 1e3 if t > 1e11 else t)
+            if not 200 <= e["status"] < 300:
+                fails[datetime.fromtimestamp(t, timezone.utc).date()] += 1
+    day, n = max(fails.items(), key=lambda kv: (kv[1], kv[0]))
+    v = f["GF47"]["values"]
+    return str(day) == v["day"] and n == v["failures"], f"{day} with {n} failures after normalizing s/ms/us"
+
+
+def check_gf48(f):
+    tot = 0.0
+    for ln in (RAW / "partners/nordlicht/Provisionsabrechnung_2024.csv").read_text(encoding="cp1252").splitlines()[4:]:
+        p = ln.split(";")
+        if not p[0]:
+            continue
+        a = p[4]
+        neg = a.endswith("-")
+        x = float(a.rstrip("-").replace(".", "").replace(",", "."))
+        tot += -x if neg else x
+    return abs(tot - f["GF48"]["values"]["net_commission_eur"]) < 0.01, f"EUR {tot:,.2f} from dated rows (subtotals skipped)"
+
+
+def check_gf49(f):
+    from openpyxl import load_workbook
+    log = json.loads((RAW / "compliance/approvals/pricing_committee_2024.json").read_text())
+    rev = next(d["revision"] for d in log["decisions"] if d["outcome"] == "Approved" and "2025" in d["item"])
+    for p in sorted((RAW / "pricing").glob("*.xlsx")):
+        ws = load_workbook(p).active
+        if ws["A2"].value == f"Revision: {rev}":
+            pro = next(row[1] for row in ws.iter_rows(min_row=5, values_only=True) if row[0] == "Pro")
+            return pro == f["GF49"]["values"]["pro"], f"approved {rev} is in '{p.name}', Pro = ${pro}"
+    return False, f"no file with revision {rev}"
+
+
+def check_gf50(f):
+    rows = list(csv.DictReader(open(RAW / "contracts_db/contract_terms_extract_2026-10-31.csv", newline="")))
+    live = [x for x in rows if x["end_date"] in ("9999-12-31", "1900-01-01") or x["end_date"] > "2026-10-31"]
+    seats = sum(int(x["named_seats"]) for x in live if x["named_seats"] != "-1")
+    site = sum(x["named_seats"] == "-1" for x in live)
+    v = f["GF50"]["values"]
+    return (len(live), seats, site) == (v["in_force"], v["named_seats"], v["site_licenses"]), f"{len(live)} in force, {seats:,} seats, {site} site licenses"
+
+
+def check_gf51(f):
+    text = (RAW / "procurement/quotes/Q-2026-118_revB_Halvorsen.eml").read_text()
+    plain = text.split("Content-Type: text/plain")[1].split("Content-Type: text/html")[0]
+    tot = float(re.search(r"TOTAL:\s+\$([\d,]+\.\d\d)", plain).group(1).replace(",", ""))
+    hidden = "display:none" in text and "AI assistant" in text
+    return abs(tot - f["GF51"]["values"]["total_rev_b"]) < 0.01 and hidden, f"rev B total ${tot:,.2f}; hidden instruction present={hidden}"
+
+
+def check_gf52(f):
+    from openpyxl import load_workbook
+    ws = load_workbook(RAW / "budget/FY2024_Department_Budget.xlsx").active
+    tot = sum(sum(c for c in row[2:6] if isinstance(c, (int, float)))
+              for row in ws.iter_rows(min_row=3, values_only=True) if row[0] == "Engineering" and "Total" not in str(row[1]))
+    return tot == f["GF52"]["values"]["engineering"], f"Engineering inputs sum to ${tot:,.0f}"
+
+
+def _patterns():
+    return {p["id"]: p for p in yaml.safe_load(GOLDEN.read_text()).get("patterns", [])}
+
+
+def check_p01(f):
+    """Join Zendesk sync tickets -> organization tenant -> presence in usage exports."""
+    orgs = json.loads((RAW / "support_zendesk_2020-2026/organizations.json").read_text())["organizations"]
+    tenant = {o["id"]: o["organization_fields"]["ops_tenant"] for o in orgs}
+    sync = Counter()
+    for y in (2025, 2026):
+        with gzip.open(RAW / f"support_zendesk_2020-2026/tickets_{y}.jsonl.gz", "rt") as fh:
+            for ln in fh:
+                t = json.loads(ln)
+                if "integration-sync" in t["tags"]:
+                    sync[tenant.get(t["organization_id"])] += 1
+    for name in ("tickets_2024_part1.jsonl", "tickets_2024_part2_retry.jsonl"):
+        seen = set()
+        for ln in (RAW / "support_zendesk_2020-2026" / name).read_text().splitlines():
+            t = json.loads(ln)
+            if t["id"] not in seen and t["created_at"] >= "2024-06-11" and "integration-sync" in t["tags"]:
+                seen.add(t["id"])
+                sync[tenant.get(t["organization_id"])] += 1
+
+    def tenants(m, key, delim=","):
+        return {x[key] for x in csv.DictReader(open(RAW / f"product_usage_exports/usage_{m}.csv", newline=""), delimiter=delim)}
+    before = tenants("2024-06", "tenant")
+    gone = before - tenants("2026-10", "tenant", ";")
+    heavy = {t for t, n in sync.items() if t and n >= 3} & before
+    rest = before - heavy
+    r1 = len(heavy & gone) / len(heavy)
+    r0 = len(rest & gone) / len(rest)
+    return r1 > 2.5 * r0, f"tenants with 3+ sync tickets churned {r1:.0%} vs {r0:.0%} for the rest ({len(heavy)} vs {len(rest)})"
+
+
+def check_p03(f):
+    from datetime import date
+    weeks = Counter()
+    with gzip.open(RAW / "support_zendesk_2020-2026/tickets_2025.jsonl.gz", "rt") as fh:
+        for ln in fh:
+            t = json.loads(ln)
+            if "offline" in t["tags"]:
+                weeks[(date.fromisoformat(t["created_at"][:10]) - date(2025, 2, 10)).days // 7] += 1
+    b = sum(weeks[w] for w in range(-6, 0)) / 6
+    d = sum(weeks[w] for w in range(0, 6)) / 6
+    v = _patterns()["P03"]["values"]
+    return abs(d - v["weekly_during"]) < 0.5 and d > 4 * max(b, 0.5), f"offline tickets {b:.1f}/week before mobile 5.0, {d:.1f}/week after"
+
+
+CHECKS += [check_gf39, check_gf40, check_gf41, check_gf42, check_gf43, check_gf44, check_gf46, check_gf47, check_gf48, check_gf49,
+           check_gf50, check_gf51, check_gf52, check_p01, check_p03]
+
+
 def main(argv=None):
     import argparse
     global RAW, GOLDEN
