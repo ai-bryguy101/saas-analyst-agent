@@ -1,0 +1,9 @@
+{
+  "type": "invoice.paid",
+  "data": {
+    "account_ref": "TF-0048",
+    "amount_cents": 135109,
+    "currency": "usd"
+  },
+  "created_at": "2016-01-15T18:00:00-06:00"
+}

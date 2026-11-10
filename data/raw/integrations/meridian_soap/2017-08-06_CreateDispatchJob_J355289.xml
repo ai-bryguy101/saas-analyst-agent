@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00127</md:CustomerCode>
+  <md:CustomerName>Bayou Mechanical Group</md:CustomerName>
+  <md:JobId>J355289</md:JobId>
+  <md:Partner id="PLC-001">Prairie Line Couriers</md:Partner>
+  <md:Requested>2017-08-06T20:40:00</md:Requested>
+  <md:Address><md:City>Winnipeg</md:City><md:Province>MB</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

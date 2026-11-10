@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00151</md:CustomerCode>
+  <md:CustomerName>Plains Health System Co.</md:CustomerName>
+  <md:JobId>J242448</md:JobId>
+  <md:Partner id="PLC-001">Prairie Line Couriers</md:Partner>
+  <md:Requested>2019-02-21T06:47:00</md:Requested>
+  <md:Address><md:City>Toronto</md:City><md:Province>ON</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

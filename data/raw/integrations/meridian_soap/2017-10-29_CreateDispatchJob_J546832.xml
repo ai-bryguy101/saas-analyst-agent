@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00142</md:CustomerCode>
+  <md:CustomerName>Lakes Industries</md:CustomerName>
+  <md:JobId>J546832</md:JobId>
+  <md:Partner id="RRX-022">Red River Express</md:Partner>
+  <md:Requested>2017-10-29T07:02:00</md:Requested>
+  <md:Address><md:City>Halifax</md:City><md:Province>NS</md:Province></md:Address>
+  <md:Notes><![CDATA[Livraison avant 10h SVP]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

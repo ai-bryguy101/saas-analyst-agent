@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00125</md:CustomerCode>
+  <md:CustomerName>Plains Public Works Co.</md:CustomerName>
+  <md:JobId>J807678</md:JobId>
+  <md:Partner id="NWH-014">Northwoods Haulage</md:Partner>
+  <md:Requested>2016-09-19T13:12:00</md:Requested>
+  <md:Address><md:City>Québec</md:City><md:Province>QC</md:Province></md:Address>
+  <md:Notes><![CDATA[Fragile - <glass> panels]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

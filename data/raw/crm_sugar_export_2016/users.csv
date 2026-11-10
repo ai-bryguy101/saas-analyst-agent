@@ -1,0 +1,165 @@
+id;user_name;first_name;last_name;status;department
+2a79a699-e56d-f564-824b-fdc1bb3f2206;mokonkwo-hale;Margaret;Okonkwo-Hale;Active;Executive
+43a74fed-cc7f-07fd-6f92-0ca061c6732a;dfairweather;Desmond;Fairweather;Inactive;Executive
+9948762a-fa62-bfa0-fd1f-49b882664647;lwhitlock;Lorraine;Whitlock;Active;Executive
+c01da88a-3fce-8c50-ae67-112fb00f9d01;gashdown;Gideon;Ashdown;Active;Executive
+d5d8b713-fb5e-2d0c-751d-c17712f70770;praghunathan;Priya;Raghunathan;Active;Executive
+3e296279-7357-6d8c-69f5-158b1cffb565;tkowalski;Tomasz;Kowalski;Active;Executive
+41806bcb-93bc-c14e-6692-1921c8997410;resposito;Renata;Esposito;Active;Executive
+476892a3-507b-e773-7469-de380ff15d4d;hpenhallow;Harold;Penhallow;Inactive;Operations
+ab10eed9-d305-865a-0895-fa8af8b92131;ytanaka;Yuki;Tanaka;Active;Engineering
+5d666b7b-6343-2c96-ce94-4dd7c1357962;cmacleod;Callum;MacLeod;Active;Engineering
+d344e0ee-1510-0d4a-ea52-d8cd4a988131;fadeyemi;Femi;Adeyemi;Active;Operations
+7ac809d7-b8ae-04b6-d67d-b1268569e404;idelacroix;Ines;Delacroix;Active;Finance
+12ca66a6-730e-e8b9-3a11-9846449da99a;bkittredge;Bryce;Kittredge;Active;Sales
+84ce44f2-32d5-50b9-fb2b-36a0b55b5cd1;smarchetti;Sofia;Marchetti;Active;Customer Success
+8e412077-00d1-5a86-715b-09ebd75933c1;jpark;Jae-won;Park;Active;Support
+a512a31d-a35f-a87e-ba74-42f09d00d129;afenwick;Abigail;Fenwick;Active;Executive
+beff0abe-ed85-8ad0-ce47-7474e6cc23e1;riyer;Ravi;Iyer;Active;Executive
+6ba57a67-eed6-a0ba-35fd-eae8ca8fe555;egagnon;Etienne;Gagnon;Active;Executive
+bfe3b2c2-8993-37cf-2c93-bfc3221eb520;bllewellyn;Bronwen;Llewellyn;Active;Executive
+bf5f21b1-7da0-c984-a1b2-3500a7751d1a;nhaddad;Noor;Haddad;Active;Operations
+c602fae4-2bd8-ddd1-271e-3762cea7b830;jreed;Joseph;Reed;Active;Sales
+69684629-9079-a9ac-7db9-e62aaaf07280;cedwards;Carl;Edwards;Active;Sales
+16496d98-6910-ef44-45cf-3cb726f5617e;apeterson;Arjun;Peterson;Active;Sales
+bfaf77e6-03c1-4da1-e3e4-3c4a4b6a7853;sbaker;Samantha;Baker;Active;Sales
+c31b23f6-96da-a40b-0526-8c88350c2efa;lroberts;Lars;Roberts;Active;Sales
+1273505e-6ff4-bcf3-ca78-714040b5cbef;nlefebvre;Ngozi;Lefebvre;Active;Sales
+d599954f-a31d-3743-0be5-786b477c1c5e;hashdown;Helen;Ashdown;Inactive;Sales
+7a08c31f-714b-fc7c-8536-8c30eee0b6a4;jcook;Joao;Cook;Active;Sales
+66cc7d26-96f7-e9a9-fbba-80b3fd73c992;hroberts;Hamid;Roberts;Active;Sales
+fa0a3fec-ed46-7c42-d790-a10572414d52;ppham;Peter;Pham;Active;Sales
+b43f75e7-62d9-77ff-eef9-8d06b8087873;fortiz;Frank;Ortiz;Active;Sales
+025049ac-e601-9a50-1fe2-f0355cdcc502;frobinson;Frances;Robinson;Active;Sales
+ffdaed6b-53bb-8164-0617-0fe2020b0626;azhang;Alexander;Zhang;Active;Sales
+9f3bc74c-eaed-3958-d18a-a0631ad151cb;gjessop;Gloria;Jessop;Inactive;Sales
+6782e32d-9677-527d-cfbe-9108518a0b24;rtakahashi;Renata;Takahashi;Active;Sales
+312ec301-d7e1-2b25-8274-0b40264e1237;jyamamoto;Julie;Yamamoto;Active;Sales
+3c4d9a64-fd4d-1271-519d-99e54a5c1b68;klavoie;Kathryn;Lavoie;Active;Sales
+a58d94b7-7bf4-434c-4440-d6447238c39b;kmartinez;Kathleen;Martinez;Active;Sales
+8d57f9e6-50a2-2435-0cce-0e1010cc1d71;njohansson;Nicole;Johansson;Active;Sales
+e4865c31-1171-b70f-e319-b8bed3ee24bb;jmarchetti;Jean;Marchetti;Active;Sales
+6156db4c-7463-71e1-e172-e4a80445e1b3;ewatanabe;Ethan;Watanabe;Inactive;Sales
+f4c3a8a8-409a-46e3-095d-ec5c34b32d7d;lgutierrez;Lawrence;Gutierrez;Active;Sales
+c214d442-b985-8831-f320-a2b1e3895645;mramirez;Megan;Ramirez;Active;Sales
+e228d328-5705-6929-b8ca-3bec2098272c;bpatel;Betty;Patel;Inactive;Sales
+f5c4c2d8-7071-dc0b-5b07-7ddab4e49719;bmorris;Bruce;Morris;Active;Sales
+d4e9c50d-48aa-eaf3-51c7-96b05a92d275;eyoung;Emma;Young;Active;Sales
+9c6ccb7d-0386-095f-ab69-82537aec9f9a;ofoster;Olivia;Foster;Active;Sales
+eb8f5cf1-8af9-2916-22ae-3fc0c6687127;wlindqvist;Willie;Lindqvist;Active;Sales
+9aa3df0f-121e-108c-d93d-293988556a12;rlong;Randy;Long;Inactive;Sales
+24a239bd-be1e-7fec-aa9c-141b7edc5eda;jmendoza;Janice;Mendoza;Active;Sales
+6c026547-84d9-e728-f50f-6f5cb16dc6be;efontaine;Eugene;Fontaine;Active;Sales
+67d2c250-c759-ffa4-d839-0ba2865f3eaf;jokonkwo-hale;Joyce;Okonkwo-Hale;Active;Sales
+61f800c4-33ac-547f-3dd5-f06d70a2197f;acarter;Alan;Carter;Active;Sales
+c40ab18e-5d29-434a-26de-83729c198c0e;jperez;Justin;Perez;Active;Sales
+32f3743e-077f-42a9-40e4-d16696926bf4;bwright;Bjorn;Wright;Active;Customer Success
+ef6a715e-13f4-c30d-a2ab-d7e5d3e1a11e;sfenwick;Sharon;Fenwick;Inactive;Customer Success
+a5d4e4be-b9de-6d8f-a60a-eecc1de67582;dfoster;Deepa;Foster;Active;Customer Success
+d8114da6-ab6b-a784-fe2f-b8eb51ae318b;gsanders;Genevieve;Sanders;Active;Customer Success
+c9222e07-55fd-fa18-27ea-6e2a22c66650;bprice;Brandon;Price;Active;Customer Success
+8fed8514-663d-2f87-1501-482e35f3b97f;lrivera;Logan;Rivera;Inactive;Customer Success
+c2d0d6ab-db6a-901b-09c2-d95f4cffcc44;rgomez;Robert;Gomez;Active;Customer Success
+85d521b1-41da-c393-9e9f-4bbc4f46b81b;tbrown;Thomas;Brown;Active;Customer Success
+2b0a1ae4-79d0-e94d-8ca6-861c4d15ad6b;droberts;Deepa;Roberts;Inactive;Customer Success
+3e2653f6-d1b6-9f3f-b752-91c2b5798d81;ffitzgerald;Frances;Fitzgerald;Active;Customer Success
+89c17aa8-43da-45d9-ff06-e86c644feb96;ztanaka;Zachary;Tanaka;Active;Customer Success
+44dbb0fa-0b96-7446-dc6b-653ef4147f4a;ntanaka;Nicholas;Tanaka;Active;Customer Success
+7e297475-eacb-f30e-3293-06e95185dee1;aedwards;Aaron;Edwards;Active;Customer Success
+267d9419-b314-2657-e377-5c17d9fcb689;kcartwright;Katherine;Cartwright;Active;Customer Success
+5be84f44-8b2f-a9af-af7a-cf7889ec18b4;mthomas;Mei;Thomas;Active;Customer Success
+30a7e19e-ae72-bc9d-0a56-44ef6787df80;rmoore;Ryan;Moore;Active;Customer Success
+2ef8c20b-fff0-add2-4ae8-bfbb04550764;jbouchard;Jennifer;Bouchard;Active;Customer Success
+69795d76-b950-500d-9650-9abc928d5e13;fquillfeather;Frank;Quillfeather;Active;Customer Success
+134054cc-492c-ce96-6511-5082f6de36ea;lfitzgerald;Lawrence;Fitzgerald;Active;Customer Success
+fa2c5018-5330-8754-6f3b-dd6cdb6ec8c3;aperez;Alexander;Perez;Inactive;Customer Success
+17130034-9343-3330-6485-f57805e8bc11;kjackson;Kathleen;Jackson;Active;Customer Success
+1c2efe2d-102d-401e-a510-a4a92fbea8c8;gmorgan;Gabriel;Morgan;Active;Customer Success
+cd2b59a3-20ac-b426-8392-55e95392bb3e;loconnor;Lisa;O'Connor;Inactive;Support
+6e7c1cfa-17be-3b4b-ae93-aa84ec98f6e4;sbrown;Steven;Brown;Inactive;Support
+2fd04895-92d9-b722-311a-53d9bd8d1e97;bcalloway;Brian;Calloway;Active;Support
+ff90b8da-2f6f-2a8f-90bf-c0275201d45a;fbrown;Femi;Brown;Inactive;Support
+9845a568-4295-d289-59fd-eed97563a477;clockwood;Carl;Lockwood;Active;Support
+9e90c9c7-de1b-aea8-f76b-f5e449df91c8;jgarcia;Jason;Garcia;Active;Support
+7f1c605d-056b-7dbb-21b8-62862104bab7;cpark;Charlotte;Park;Active;Support
+cbea299d-93dd-8d59-778c-aad1379575b0;tpeterson;Tyler;Peterson;Active;Support
+68caa8d5-1b80-b0f4-5f77-d306c9761d42;preed;Patricia;Reed;Active;Support
+7e7d4708-92f3-9c98-9190-e2b0c6b61cd2;rbrooks;Rhys;Brooks;Active;Support
+210f6395-6d98-5cf7-acb5-16e287e25da9;rlewis;Robert;Lewis;Inactive;Support
+dfec0974-07d9-a6d8-0901-4fbeea912c8e;crahman;Charlotte;Rahman;Inactive;Support
+afe5cb95-5896-300e-e1e8-4dd179e9cd9a;phuang;Pamela;Huang;Active;Support
+e278c209-a220-62f5-a9c3-e95cf2ec0094;rlopez;Russell;Lopez;Active;Support
+0d06f5bd-88ad-ea4c-4d88-2694862602ea;pllewellyn;Philip;Llewellyn;Active;Support
+43466699-918a-3fcd-c429-158aab0f4b7d;jsmith;Jeffrey;Smith;Inactive;Support
+d7baef2f-f0d2-e25d-5c25-43bc664eca7b;jturner;Jordan;Turner;Active;Support
+edc895ad-c837-c7f8-41e1-01a26686a5be;chaddad;Christina;Haddad;Active;Support
+fad3aa94-eb6c-f0b4-fabb-d5402b37638c;cgutierrez;Chidi;Gutierrez;Active;Support
+40399a3e-07a4-bd92-b985-09ff05bff7c8;acarter;Anthony;Carter;Inactive;Support
+50f16937-8eb5-d174-9607-1dde08303700;bcook;Bronwen;Cook;Active;Support
+f6db127f-fce6-cadf-5286-1a41af04a7b0;dmartin;David;Martin;Active;Support
+618c4a7c-f2f7-69a7-8ae3-5bcf8a6fa08d;pfenwick;Philip;Fenwick;Active;Support
+52c0f618-391f-bdd3-91c1-f6b99aec5dca;jcampbell-rhys;Jean;Campbell-Rhys;Inactive;Support
+625b0820-398a-59b4-b080-cf4dec53b247;ncruz;Noor;Cruz;Active;Support
+7197832b-2cab-b5f5-2c9c-63d264f18493;jlavoie;John;Lavoie;Active;Support
+9955461b-e9b0-6d64-e5c1-e48d4b7c4d4b;dmacleod;Donald;MacLeod;Active;Engineering
+d59aaaf4-a297-f9e3-742c-20ed51fdc73c;phargreaves;Pamela;Hargreaves;Inactive;Engineering
+ea411736-75d4-2af2-c077-2e88dbd29f9d;bnowak;Betty;Nowak;Active;Engineering
+25389167-adc9-7043-9b13-ea579e062877;ithompson;Isabella;Thompson;Active;Engineering
+abf975a7-3e26-5bbe-1734-82d9ba71fd09;tscott;Tyler;Scott;Active;Engineering
+20225925-adad-22cd-3642-4f6bbd9e72df;bbaker;Bronwen;Baker;Inactive;Engineering
+211aefda-e1a0-75ad-84fa-7c4c3dfa4ffe;cross;Callum;Ross;Active;Engineering
+55029719-5ab5-94e8-fb5c-bba8ff17ff85;jcook;Janice;Cook;Active;Engineering
+cfcffcd9-fb13-7bd1-e86f-78cfd32ad5a3;lmendoza;Lawrence;Mendoza;Inactive;Engineering
+78608567-7ecd-fd26-f420-d140c0fcf9e0;jpeterson;Jack;Peterson;Active;Engineering
+400583b2-10ed-ca5c-b0e5-c1b48689fd66;blong;Brian;Long;Inactive;Engineering
+ebbae480-76ac-1b4f-b449-aa40379fcaae;rvance;Renata;Vance;Active;Engineering
+6328ceb3-2729-9ebc-f567-39efc295ba12;pbennett;Peter;Bennett;Active;Engineering
+3028bfca-4d60-73e2-96fc-acdc48b42f52;awalker;Ashley;Walker;Active;Engineering
+8e97c749-af00-931e-2843-f042fa2a0e7b;njones;Ngozi;Jones;Active;Engineering
+37b53c09-9d7a-0901-b068-0dc93a5759b5;apenhallow;Andrea;Penhallow;Active;Engineering
+e2a8a584-9e0b-0438-0fe9-dfe701a55f44;anelson;Ann;Nelson;Inactive;Engineering
+dd731ba0-840d-cb8d-7d13-c3ed596ba602;mkim;Matthew;Kim;Inactive;Engineering
+e9de6152-8e7f-9a0d-e155-1070e78c3139;ikelly;Ines;Kelly;Inactive;Engineering
+e4b8b9ca-5d29-8565-8f1d-9000394ee4d3;lpark;Lauren;Park;Active;Engineering
+ab6b69a6-8deb-712b-ea12-293ae9011dc2;jcote;Jesse;Cote;Active;Engineering
+8f86df89-2fa8-bf4b-5092-afdcb59a1791;abrown;Amara;Brown;Active;Engineering
+65f9df9a-af07-58c0-3d8a-ca73539ad3a3;mroberts;Margaret;Roberts;Active;Engineering
+98481f99-7a2d-89f7-64b8-438b651480ba;wadams;Wei;Adams;Active;Engineering
+8550d317-73df-0c1a-947c-26d9092efd79;zromano;Zachary;Romano;Active;Engineering
+4c3e4337-210e-6390-a36f-8efbe7f5f882;vdubois;Vincent;Dubois;Active;Engineering
+3febbedb-8b01-70c8-b753-204e151ef5ad;wbennett;Wei;Bennett;Inactive;Engineering
+a134be9a-3ef6-1f5c-ab13-43f7fd8b6b36;jingleby;Jordan;Ingleby;Active;Engineering
+a8894d1a-2bd7-304a-6a34-7e009a157a79;jchoi;John;Choi;Active;Engineering
+110dc8f3-3f69-6a84-3036-9956487de3ec;tphillips;Thuy;Phillips;Active;Engineering
+823e5f3a-6b28-2a4c-4280-37ac3eeecddf;palvarez;Patricia;Alvarez;Inactive;Engineering
+d63ff81b-f903-73dd-d73e-893f7ad74089;elopez;Elizabeth;Lopez;Active;Engineering
+1127d587-247b-98b4-cede-f6a22224ddc9;fwhite;Femi;White;Inactive;Engineering
+64aeccd0-ff50-0f0c-ffd1-7585f9ddeb84;vmarchetti;Virginia;Marchetti;Active;Engineering
+1891ea75-fa50-e0f5-3d8d-aec14b8eb9ac;jhalvorsen;Joe;Halvorsen;Active;Engineering
+bf3a0806-885e-1285-fe1e-fd44bab30928;dchen;Denise;Chen;Active;Engineering
+c1be72c2-563a-5e20-35e5-d544af032b2a;dhughes;Dylan;Hughes;Active;Engineering
+5bcf4b8a-b26c-720e-7098-8f5d62ead4b3;aokafor;Angela;Okafor;Active;Engineering
+3eceadf3-1cfe-f155-10ce-fbd610c0ae2f;riyer;Ryan;Iyer;Active;Engineering
+b2becc82-dd05-a56d-b29b-884f7125840b;rhargreaves;Robert;Hargreaves;Inactive;Engineering
+19f53997-5e49-32f4-04e0-f782e75541fb;okim;Omar;Kim;Active;Finance
+99bcfd05-9431-9180-db1c-5586bee9656b;jhughes;James;Hughes;Active;Finance
+0d6a7f2e-062e-b283-0a2b-a375494989da;ijohansson;Ines;Johansson;Active;Finance
+84d5d15b-24aa-7f63-38d8-3421f2162280;jesposito;Jonathan;Esposito;Inactive;Finance
+3296189e-51b6-fb8e-e6d6-16009cc8b69c;wortiz;Walter;Ortiz;Active;Finance
+bc4e0764-1ea7-c910-f8eb-e92dddfe6033;abailey;Andrew;Bailey;Active;Finance
+b5c04e49-aa2a-93b3-e590-37c8125315b5;mcarter;Marguerite;Carter;Active;Finance
+85c5ed45-d3a6-48ba-f807-d225ca23bf75;crichardson;Carolyn;Richardson;Inactive;Finance
+64d1d713-e80f-e97c-8d88-473f02912f60;brogers;Brenda;Rogers;Active;Finance
+3f7d0d67-1ddc-0f93-a3e7-44d85840945b;mruiz;Minh;Ruiz;Active;Finance
+27a3cca7-3601-1224-3a3a-9ff3ec7467fb;dboateng;Dennis;Boateng;Active;Finance
+b9662f8c-0bb4-8de8-49f4-b3bef2503e57;npelletier;Ngozi;Pelletier;Active;Finance
+03bc469a-ff59-3722-c436-e76bb9e6e00d;rashdown;Randy;Ashdown;Inactive;Operations
+1c3b209d-4b70-b5c2-cbe8-000958b699ba;jtaylor;Jonathan;Taylor;Active;Operations
+0566aab0-7ad2-e93f-61d4-e04e23d0986f;erichardson;Eric;Richardson;Inactive;Operations
+0a03eead-74c9-6c6a-8b7a-92cfe5dda5f2;dmccarthy;Desmond;McCarthy;Active;Operations
+994e4d38-01b5-9ee4-e748-b2e37c68311b;cfenwick;Christina;Fenwick;Active;Operations
+ba81c53a-7c80-9990-302c-60efea08dbbe;aflores;Aaron;Flores;Active;Operations
+3cf43bb8-abab-a690-20e9-67b3dfeb569d;pgray;Pamela;Gray;Active;Operations
+6b7c2f17-beb3-ea75-500b-4fd39bb58e09;sprice-jones;Shirley;Price-Jones;Active;Operations
+9c8d2823-cddf-e44a-9f43-e72f285b6660;djackson;Desmond;Jackson;Inactive;Operations
+110df6ab-fa3d-603f-fea6-93609a4c3de0;aellsworth;Anthony;Ellsworth;Active;Operations

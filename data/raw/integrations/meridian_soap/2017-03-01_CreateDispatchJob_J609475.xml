@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00145</md:CustomerCode>
+  <md:CustomerName>Bayview Municipal Services</md:CustomerName>
+  <md:JobId>J609475</md:JobId>
+  <md:Partner id="RRX-022">Red River Express</md:Partner>
+  <md:Requested>2017-03-01T11:29:00</md:Requested>
+  <md:Address><md:City>Edmonton</md:City><md:Province>AB</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

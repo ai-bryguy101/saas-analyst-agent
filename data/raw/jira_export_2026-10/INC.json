@@ -1,0 +1,6285 @@
+{
+ "total": 314,
+ "issues": [
+  {
+   "key": "INC-1",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 112,
+    "created": "2019-07-13T23:01:00.000+0000",
+    "description": "Impact: 112 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-2",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 27,
+    "created": "2019-07-21T06:07:00.000+0000",
+    "description": "Impact: 27 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-3",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 197,
+    "created": "2019-08-03T08:35:00.000+0000",
+    "description": "Impact: 197 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-4",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "network",
+    "customfield_10102": 81,
+    "created": "2019-08-09T13:31:00.000+0000",
+    "description": "Impact: 81 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-5",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 299,
+    "created": "2019-08-15T14:45:00.000+0000",
+    "description": "Impact: 299 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-6",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "DNS",
+    "customfield_10102": 213,
+    "created": "2019-08-24T04:45:00.000+0000",
+    "description": "Impact: 213 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-7",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Network",
+    "customfield_10102": 104,
+    "created": "2019-08-29T04:14:00.000+0000",
+    "description": "Impact: 104 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-8",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 49,
+    "created": "2019-09-03T11:00:00.000+0000",
+    "description": "Impact: 49 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-9",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "deploy",
+    "customfield_10102": 57,
+    "created": "2019-09-13T23:50:00.000+0000",
+    "description": "Impact: 57 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-10",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DNS",
+    "customfield_10102": 160,
+    "created": "2019-09-25T21:56:00.000+0000",
+    "description": "Impact: 160 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-11",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 30,
+    "created": "2019-10-03T20:11:00.000+0000",
+    "description": "Impact: 30 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-12",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 161,
+    "created": "2019-10-15T12:55:00.000+0000",
+    "description": "Impact: 161 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-13",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 58,
+    "created": "2019-10-24T03:35:00.000+0000",
+    "description": "Impact: 58 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-14",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 129,
+    "created": "2019-11-05T00:23:00.000+0000",
+    "description": "Impact: 129 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-15",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 49,
+    "created": "2019-11-17T21:43:00.000+0000",
+    "description": "Impact: 49 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-16",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "SEV2",
+    "customfield_10101": "Networking/LB",
+    "customfield_10102": 123,
+    "created": "2019-11-30T02:49:00.000+0000",
+    "description": "Impact: 123 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-17",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 10,
+    "created": "2019-12-08T05:23:00.000+0000",
+    "description": "Impact: 10 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-18",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 202,
+    "created": "2019-12-18T20:18:00.000+0000",
+    "description": "Impact: 202 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-19",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 153,
+    "created": "2019-12-31T04:57:00.000+0000",
+    "description": "Impact: 153 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-20",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 76,
+    "created": "2020-01-14T05:01:00.000+0000",
+    "description": "Impact: 76 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-21",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Network",
+    "customfield_10102": 92,
+    "created": "2020-01-27T15:55:00.000+0000",
+    "description": "Impact: 92 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-22",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "database",
+    "customfield_10102": 205,
+    "created": "2020-02-04T09:36:00.000+0000",
+    "description": "Impact: 205 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-23",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 221,
+    "created": "2020-02-09T20:05:00.000+0000",
+    "description": "Impact: 221 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-24",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 12,
+    "created": "2020-02-17T22:34:00.000+0000",
+    "description": "Impact: 12 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-25",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 200,
+    "created": "2020-02-25T15:49:00.000+0000",
+    "description": "Impact: 200 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-26",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 84,
+    "created": "2020-03-09T03:22:00.000+0000",
+    "description": "Impact: 84 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-27",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 220,
+    "created": "2020-03-13T11:30:00.000+0000",
+    "description": "Impact: 220 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-28",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 92,
+    "created": "2020-03-24T14:35:00.000+0000",
+    "description": "Impact: 92 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-29",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 144,
+    "created": "2020-03-27T17:09:00.000+0000",
+    "description": "Impact: 144 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-30",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Network",
+    "customfield_10102": 131,
+    "created": "2020-04-05T10:26:00.000+0000",
+    "description": "Impact: 131 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-31",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 227,
+    "created": "2020-04-15T11:07:00.000+0000",
+    "description": "Impact: 227 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-32",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 213,
+    "created": "2020-04-18T20:08:00.000+0000",
+    "description": "Impact: 213 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-33",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 197,
+    "created": "2020-04-30T00:17:00.000+0000",
+    "description": "Impact: 197 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-34",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 92,
+    "created": "2020-05-10T13:20:00.000+0000",
+    "description": "Impact: 92 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-35",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 240,
+    "created": "2020-05-24T06:40:00.000+0000",
+    "description": "Impact: 240 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-36",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Load spike",
+    "customfield_10102": 56,
+    "created": "2020-06-06T01:12:00.000+0000",
+    "description": "Impact: 56 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-37",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 98,
+    "created": "2020-06-14T11:50:00.000+0000",
+    "description": "Impact: 98 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-38",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 173,
+    "created": "2020-06-17T10:27:00.000+0000",
+    "description": "Impact: 173 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-39",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 137,
+    "created": "2020-06-28T04:21:00.000+0000",
+    "description": "Impact: 137 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-40",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 126,
+    "created": "2020-07-11T10:15:00.000+0000",
+    "description": "Impact: 126 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-41",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "DB",
+    "customfield_10102": 105,
+    "created": "2020-07-19T07:36:00.000+0000",
+    "description": "Impact: 105 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-42",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "network",
+    "customfield_10102": 167,
+    "created": "2020-07-22T12:31:00.000+0000",
+    "description": "Impact: 167 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-43",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 198,
+    "created": "2020-08-04T14:23:00.000+0000",
+    "description": "Impact: 198 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-44",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Network",
+    "customfield_10102": 66,
+    "created": "2020-08-08T01:07:00.000+0000",
+    "description": "Impact: 66 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-45",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 178,
+    "created": "2020-08-21T19:50:00.000+0000",
+    "description": "Impact: 178 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-46",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "deploy",
+    "customfield_10102": 9,
+    "created": "2020-08-27T02:16:00.000+0000",
+    "description": "Impact: 9 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-47",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Database",
+    "customfield_10102": 52,
+    "created": "2020-09-02T19:33:00.000+0000",
+    "description": "Impact: 52 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-48",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "TLS cert",
+    "customfield_10102": 10,
+    "created": "2020-09-16T07:01:00.000+0000",
+    "description": "Impact: 10 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-49",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 149,
+    "created": "2020-09-25T19:07:00.000+0000",
+    "description": "Impact: 149 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-50",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 159,
+    "created": "2020-10-04T02:03:00.000+0000",
+    "description": "Impact: 159 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-51",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 77,
+    "created": "2020-10-14T19:51:00.000+0000",
+    "description": "Impact: 77 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-52",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 187,
+    "created": "2020-10-25T03:21:00.000+0000",
+    "description": "Impact: 187 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-53",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 120,
+    "created": "2020-11-07T11:47:00.000+0000",
+    "description": "Impact: 120 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-54",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Certificate expiry",
+    "customfield_10102": 122,
+    "created": "2020-11-14T03:00:00.000+0000",
+    "description": "Impact: 122 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-55",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 58,
+    "created": "2020-11-23T15:38:00.000+0000",
+    "description": "Impact: 58 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-56",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Certificate expiry",
+    "customfield_10102": 81,
+    "created": "2020-11-30T10:06:00.000+0000",
+    "description": "Impact: 81 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-57",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Config change",
+    "customfield_10102": 227,
+    "created": "2020-12-05T12:18:00.000+0000",
+    "description": "Impact: 227 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-58",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 52,
+    "created": "2020-12-10T18:28:00.000+0000",
+    "description": "Impact: 52 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-59",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 29,
+    "created": "2020-12-23T01:34:00.000+0000",
+    "description": "Impact: 29 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-60",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 106,
+    "created": "2020-12-27T17:44:00.000+0000",
+    "description": "Impact: 106 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-61",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "deploy",
+    "customfield_10102": 176,
+    "created": "2021-01-09T13:05:00.000+0000",
+    "description": "Impact: 176 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-62",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 72,
+    "created": "2021-01-20T16:42:00.000+0000",
+    "description": "Impact: 72 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-63",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 129,
+    "created": "2021-01-31T21:58:00.000+0000",
+    "description": "Impact: 129 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-64",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "database",
+    "customfield_10102": 36,
+    "created": "2021-02-10T07:30:00.000+0000",
+    "description": "Impact: 36 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-65",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 236,
+    "created": "2021-02-23T07:06:00.000+0000",
+    "description": "Impact: 236 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-66",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 88,
+    "created": "2021-03-09T09:09:00.000+0000",
+    "description": "Impact: 88 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-67",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 183,
+    "created": "2021-03-22T00:47:00.000+0000",
+    "description": "Impact: 183 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-68",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "SEV1",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 154,
+    "created": "2021-04-04T18:09:00.000+0000",
+    "description": "Impact: 154 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-69",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "SEV3",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 179,
+    "created": "2021-04-07T17:14:00.000+0000",
+    "description": "Impact: 179 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-70",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "config",
+    "customfield_10102": 244,
+    "created": "2021-04-20T19:23:00.000+0000",
+    "description": "Impact: 244 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-71",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 77,
+    "created": "2021-04-24T18:42:00.000+0000",
+    "description": "Impact: 77 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-72",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 118,
+    "created": "2021-05-03T19:36:00.000+0000",
+    "description": "Impact: 118 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-73",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 25,
+    "created": "2021-05-11T15:42:00.000+0000",
+    "description": "Impact: 25 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-74",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 178,
+    "created": "2021-05-14T17:50:00.000+0000",
+    "description": "Impact: 178 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-75",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Networking/LB",
+    "customfield_10102": 27,
+    "created": "2021-05-28T05:04:00.000+0000",
+    "description": "Impact: 27 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-76",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 169,
+    "created": "2021-06-09T04:36:00.000+0000",
+    "description": "Impact: 169 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-77",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 208,
+    "created": "2021-06-12T17:47:00.000+0000",
+    "description": "Impact: 208 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-78",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Networking/LB",
+    "customfield_10102": 154,
+    "created": "2021-06-24T16:54:00.000+0000",
+    "description": "Impact: 154 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-79",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 114,
+    "created": "2021-07-04T06:12:00.000+0000",
+    "description": "Impact: 114 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-80",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DNS",
+    "customfield_10102": 221,
+    "created": "2021-07-18T06:29:00.000+0000",
+    "description": "Impact: 221 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-81",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 24,
+    "created": "2021-07-22T13:10:00.000+0000",
+    "description": "Impact: 24 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-82",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Network",
+    "customfield_10102": 154,
+    "created": "2021-08-01T12:27:00.000+0000",
+    "description": "Impact: 154 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-83",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "TLS cert",
+    "customfield_10102": 174,
+    "created": "2021-08-06T01:06:00.000+0000",
+    "description": "Impact: 174 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-84",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Code change",
+    "customfield_10102": 87,
+    "created": "2021-08-14T12:17:00.000+0000",
+    "description": "Impact: 87 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-85",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 92,
+    "created": "2021-08-21T05:17:00.000+0000",
+    "description": "Impact: 92 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-86",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Network",
+    "customfield_10102": 165,
+    "created": "2021-08-26T07:31:00.000+0000",
+    "description": "Impact: 165 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-87",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 12,
+    "created": "2021-08-30T23:50:00.000+0000",
+    "description": "Impact: 12 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-88",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 119,
+    "created": "2021-09-05T05:21:00.000+0000",
+    "description": "Impact: 119 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-89",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 31,
+    "created": "2021-09-18T14:14:00.000+0000",
+    "description": "Impact: 31 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-90",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 170,
+    "created": "2021-09-21T22:57:00.000+0000",
+    "description": "Impact: 170 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-91",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "AWS",
+    "customfield_10102": 79,
+    "created": "2021-10-04T21:25:00.000+0000",
+    "description": "Impact: 79 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-92",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "deploy",
+    "customfield_10102": 122,
+    "created": "2021-10-07T07:27:00.000+0000",
+    "description": "Impact: 122 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-93",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 229,
+    "created": "2021-10-16T19:56:00.000+0000",
+    "description": "Impact: 229 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-94",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "AWS",
+    "customfield_10102": 36,
+    "created": "2021-10-20T11:36:00.000+0000",
+    "description": "Impact: 36 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-95",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 88,
+    "created": "2021-11-03T14:34:00.000+0000",
+    "description": "Impact: 88 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-96",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "SEV3",
+    "customfield_10101": "AWS",
+    "customfield_10102": 80,
+    "created": "2021-11-14T22:21:00.000+0000",
+    "description": "Impact: 80 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-97",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 225,
+    "created": "2021-11-22T07:24:00.000+0000",
+    "description": "Impact: 225 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-98",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 223,
+    "created": "2021-11-28T08:58:00.000+0000",
+    "description": "Impact: 223 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-99",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 84,
+    "created": "2021-12-01T16:54:00.000+0000",
+    "description": "Impact: 84 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-100",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 85,
+    "created": "2021-12-10T00:43:00.000+0000",
+    "description": "Impact: 85 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-101",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 159,
+    "created": "2021-12-14T18:14:00.000+0000",
+    "description": "Impact: 159 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-102",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 49,
+    "created": "2021-12-22T04:11:00.000+0000",
+    "description": "Impact: 49 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-103",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 46,
+    "created": "2021-12-25T04:40:00.000+0000",
+    "description": "Impact: 46 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-104",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 115,
+    "created": "2021-12-30T23:04:00.000+0000",
+    "description": "Impact: 115 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-105",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "SEV3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 82,
+    "created": "2022-01-02T03:53:00.000+0000",
+    "description": "Impact: 82 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-106",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 221,
+    "created": "2022-01-13T14:12:00.000+0000",
+    "description": "Impact: 221 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-107",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 260,
+    "created": "2022-01-20T06:58:00.000+0000",
+    "description": "Impact: 260 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-108",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Networking/LB",
+    "customfield_10102": 114,
+    "created": "2022-01-30T08:31:00.000+0000",
+    "description": "Impact: 114 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-109",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 181,
+    "created": "2022-02-02T00:44:00.000+0000",
+    "description": "Impact: 181 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-110",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 143,
+    "created": "2022-02-13T00:09:00.000+0000",
+    "description": "Impact: 143 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-111",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 109,
+    "created": "2022-02-25T19:09:00.000+0000",
+    "description": "Impact: 109 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-112",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 74,
+    "created": "2022-03-08T06:07:00.000+0000",
+    "description": "Impact: 74 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-113",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Network",
+    "customfield_10102": 58,
+    "created": "2022-03-19T02:46:00.000+0000",
+    "description": "Impact: 58 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-114",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "AWS",
+    "customfield_10102": 192,
+    "created": "2022-03-23T09:40:00.000+0000",
+    "description": "Impact: 192 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-115",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "TLS cert",
+    "customfield_10102": 134,
+    "created": "2022-04-05T00:47:00.000+0000",
+    "description": "Impact: 134 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-116",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "deploy",
+    "customfield_10102": 134,
+    "created": "2022-04-19T00:04:00.000+0000",
+    "description": "Impact: 134 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-117",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "SEV2",
+    "customfield_10101": "config",
+    "customfield_10102": 235,
+    "created": "2022-04-22T06:02:00.000+0000",
+    "description": "Impact: 235 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-118",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 295,
+    "created": "2022-04-29T04:44:00.000+0000",
+    "description": "Impact: 295 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-119",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 38,
+    "created": "2022-05-08T09:12:00.000+0000",
+    "description": "Impact: 38 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-120",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Config change",
+    "customfield_10102": 57,
+    "created": "2022-05-12T20:52:00.000+0000",
+    "description": "Impact: 57 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-121",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 163,
+    "created": "2022-05-25T08:32:00.000+0000",
+    "description": "Impact: 163 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-122",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Network",
+    "customfield_10102": 175,
+    "created": "2022-06-04T02:06:00.000+0000",
+    "description": "Impact: 175 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-123",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Feature flag",
+    "customfield_10102": 173,
+    "created": "2022-06-15T08:07:00.000+0000",
+    "description": "Impact: 173 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-124",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 58,
+    "created": "2022-06-26T05:29:00.000+0000",
+    "description": "Impact: 58 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-125",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Code change",
+    "customfield_10102": 154,
+    "created": "2022-07-01T14:26:00.000+0000",
+    "description": "Impact: 154 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-126",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 188,
+    "created": "2022-07-04T17:10:00.000+0000",
+    "description": "Impact: 188 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-127",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 103,
+    "created": "2022-07-14T03:12:00.000+0000",
+    "description": "Impact: 103 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-128",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 56,
+    "created": "2022-07-24T03:26:00.000+0000",
+    "description": "Impact: 56 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-129",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Network",
+    "customfield_10102": 169,
+    "created": "2022-07-30T02:59:00.000+0000",
+    "description": "Impact: 169 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-130",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "network",
+    "customfield_10102": 123,
+    "created": "2022-08-07T22:23:00.000+0000",
+    "description": "Impact: 123 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-131",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 19,
+    "created": "2022-08-21T23:04:00.000+0000",
+    "description": "Impact: 19 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-132",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Misconfiguration",
+    "customfield_10102": 52,
+    "created": "2022-08-29T04:39:00.000+0000",
+    "description": "Impact: 52 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-133",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 200,
+    "created": "2022-09-09T14:49:00.000+0000",
+    "description": "Impact: 200 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-134",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 238,
+    "created": "2022-09-13T20:45:00.000+0000",
+    "description": "Impact: 238 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-135",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 134,
+    "created": "2022-09-24T16:34:00.000+0000",
+    "description": "Impact: 134 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-136",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 218,
+    "created": "2022-10-03T19:01:00.000+0000",
+    "description": "Impact: 218 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-137",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Network",
+    "customfield_10102": 58,
+    "created": "2022-10-09T23:02:00.000+0000",
+    "description": "Impact: 58 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-138",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "AWS",
+    "customfield_10102": 225,
+    "created": "2022-10-18T07:04:00.000+0000",
+    "description": "Impact: 225 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-139",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 122,
+    "created": "2022-10-22T08:08:00.000+0000",
+    "description": "Impact: 122 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-140",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 224,
+    "created": "2022-10-26T20:07:00.000+0000",
+    "description": "Impact: 224 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-141",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 186,
+    "created": "2022-11-09T03:58:00.000+0000",
+    "description": "Impact: 186 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-142",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DNS",
+    "customfield_10102": 70,
+    "created": "2022-11-13T03:53:00.000+0000",
+    "description": "Impact: 70 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-143",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "SEV2",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 27,
+    "created": "2022-11-24T05:15:00.000+0000",
+    "description": "Impact: 27 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-144",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 228,
+    "created": "2022-12-08T04:16:00.000+0000",
+    "description": "Impact: 228 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-145",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "deploy",
+    "customfield_10102": 84,
+    "created": "2022-12-22T01:20:00.000+0000",
+    "description": "Impact: 84 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-146",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Code change",
+    "customfield_10102": 105,
+    "created": "2022-12-29T23:53:00.000+0000",
+    "description": "Impact: 105 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-147",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 154,
+    "created": "2023-01-09T16:45:00.000+0000",
+    "description": "Impact: 154 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-148",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 46,
+    "created": "2023-01-22T16:35:00.000+0000",
+    "description": "Impact: 46 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-149",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 196,
+    "created": "2023-02-05T03:46:00.000+0000",
+    "description": "Impact: 196 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-150",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 202,
+    "created": "2023-02-13T11:04:00.000+0000",
+    "description": "Impact: 202 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-151",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 185,
+    "created": "2023-02-16T08:23:00.000+0000",
+    "description": "Impact: 185 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-152",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Config change",
+    "customfield_10102": 68,
+    "created": "2023-02-19T14:33:00.000+0000",
+    "description": "Impact: 68 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-153",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "deploy",
+    "customfield_10102": 75,
+    "created": "2023-03-05T02:35:00.000+0000",
+    "description": "Impact: 75 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-154",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 126,
+    "created": "2023-03-10T01:34:00.000+0000",
+    "description": "Impact: 126 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-155",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Certificate expiry",
+    "customfield_10102": 47,
+    "created": "2023-03-19T00:25:00.000+0000",
+    "description": "Impact: 47 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-156",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 240,
+    "created": "2023-03-23T04:29:00.000+0000",
+    "description": "Impact: 240 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-157",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 238,
+    "created": "2023-03-26T01:52:00.000+0000",
+    "description": "Impact: 238 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-158",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "AWS",
+    "customfield_10102": 167,
+    "created": "2023-03-29T05:51:00.000+0000",
+    "description": "Impact: 167 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-159",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 30,
+    "created": "2023-04-04T10:28:00.000+0000",
+    "description": "Impact: 30 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-160",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 160,
+    "created": "2023-04-12T21:15:00.000+0000",
+    "description": "Impact: 160 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-161",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 127,
+    "created": "2023-04-18T18:34:00.000+0000",
+    "description": "Impact: 127 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-162",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "capacity",
+    "customfield_10102": 215,
+    "created": "2023-05-02T07:38:00.000+0000",
+    "description": "Impact: 215 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-163",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 203,
+    "created": "2023-05-10T22:06:00.000+0000",
+    "description": "Impact: 203 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-164",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 78,
+    "created": "2023-05-17T09:19:00.000+0000",
+    "description": "Impact: 78 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-165",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 179,
+    "created": "2023-05-28T09:30:00.000+0000",
+    "description": "Impact: 179 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-166",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "AWS",
+    "customfield_10102": 197,
+    "created": "2023-06-04T13:17:00.000+0000",
+    "description": "Impact: 197 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-167",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 166,
+    "created": "2023-06-15T23:58:00.000+0000",
+    "description": "Impact: 166 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-168",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 56,
+    "created": "2023-06-29T18:34:00.000+0000",
+    "description": "Impact: 56 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-169",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 205,
+    "created": "2023-07-09T10:54:00.000+0000",
+    "description": "Impact: 205 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-170",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 112,
+    "created": "2023-07-20T22:57:00.000+0000",
+    "description": "Impact: 112 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-171",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "database",
+    "customfield_10102": 109,
+    "created": "2023-07-25T20:47:00.000+0000",
+    "description": "Impact: 109 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-172",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 206,
+    "created": "2023-08-07T16:54:00.000+0000",
+    "description": "Impact: 206 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-173",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 137,
+    "created": "2023-08-13T06:44:00.000+0000",
+    "description": "Impact: 137 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-174",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 46,
+    "created": "2023-08-23T04:54:00.000+0000",
+    "description": "Impact: 46 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-175",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 29,
+    "created": "2023-08-30T10:44:00.000+0000",
+    "description": "Impact: 29 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-176",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 95,
+    "created": "2023-09-03T23:09:00.000+0000",
+    "description": "Impact: 95 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-177",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "deploy",
+    "customfield_10102": 8,
+    "created": "2023-09-11T08:11:00.000+0000",
+    "description": "Impact: 8 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-178",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Config change",
+    "customfield_10102": 22,
+    "created": "2023-09-20T06:53:00.000+0000",
+    "description": "Impact: 22 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-179",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 34,
+    "created": "2023-09-24T08:10:00.000+0000",
+    "description": "Impact: 34 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-180",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Network",
+    "customfield_10102": 91,
+    "created": "2023-10-05T22:54:00.000+0000",
+    "description": "Impact: 91 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-181",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 117,
+    "created": "2023-10-19T13:28:00.000+0000",
+    "description": "Impact: 117 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-182",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 166,
+    "created": "2023-11-01T14:08:00.000+0000",
+    "description": "Impact: 166 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-183",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 211,
+    "created": "2023-11-14T00:12:00.000+0000",
+    "description": "Impact: 211 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-184",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "DNS",
+    "customfield_10102": 165,
+    "created": "2023-11-24T13:13:00.000+0000",
+    "description": "Impact: 165 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-185",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 108,
+    "created": "2023-12-05T06:15:00.000+0000",
+    "description": "Impact: 108 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-186",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "AWS",
+    "customfield_10102": 186,
+    "created": "2023-12-13T01:48:00.000+0000",
+    "description": "Impact: 186 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-187",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 88,
+    "created": "2023-12-20T23:23:00.000+0000",
+    "description": "Impact: 88 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-188",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 97,
+    "created": "2023-12-24T10:52:00.000+0000",
+    "description": "Impact: 97 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-189",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 49,
+    "created": "2024-01-01T10:56:00.000+0000",
+    "description": "Impact: 49 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-190",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 52,
+    "created": "2024-01-09T20:22:00.000+0000",
+    "description": "Impact: 52 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-191",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "capacity",
+    "customfield_10102": 129,
+    "created": "2024-01-17T20:43:00.000+0000",
+    "description": "Impact: 129 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-192",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Network",
+    "customfield_10102": 294,
+    "created": "2024-01-25T05:51:00.000+0000",
+    "description": "Impact: 294 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-193",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 145,
+    "created": "2024-02-03T09:56:00.000+0000",
+    "description": "Impact: 145 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-194",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "DB",
+    "customfield_10102": 147,
+    "created": "2024-02-13T06:23:00.000+0000",
+    "description": "Impact: 147 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-195",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Feature flag",
+    "customfield_10102": 103,
+    "created": "2024-02-19T03:19:00.000+0000",
+    "description": "Impact: 103 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-196",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 172,
+    "created": "2024-02-29T01:17:00.000+0000",
+    "description": "Impact: 172 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-197",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "AWS",
+    "customfield_10102": 135,
+    "created": "2024-03-08T00:51:00.000+0000",
+    "description": "Impact: 135 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-198",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 176,
+    "created": "2024-03-15T18:43:00.000+0000",
+    "description": "Impact: 176 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-199",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 200,
+    "created": "2024-03-22T21:10:00.000+0000",
+    "description": "Impact: 200 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-200",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 233,
+    "created": "2024-03-29T13:00:00.000+0000",
+    "description": "Impact: 233 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-201",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "TLS cert",
+    "customfield_10102": 110,
+    "created": "2024-04-10T14:17:00.000+0000",
+    "description": "Impact: 110 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-202",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Networking/LB",
+    "customfield_10102": 12,
+    "created": "2024-04-23T14:05:00.000+0000",
+    "description": "Impact: 12 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-203",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Network",
+    "customfield_10102": 132,
+    "created": "2024-05-07T19:25:00.000+0000",
+    "description": "Impact: 132 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-204",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 54,
+    "created": "2024-05-10T04:53:00.000+0000",
+    "description": "Impact: 54 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-205",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 131,
+    "created": "2024-05-17T05:01:00.000+0000",
+    "description": "Impact: 131 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-206",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "SEV2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 35,
+    "created": "2024-05-31T10:29:00.000+0000",
+    "description": "Impact: 35 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-207",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 57,
+    "created": "2024-06-03T05:24:00.000+0000",
+    "description": "Impact: 57 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-208",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 13,
+    "created": "2024-06-14T12:09:00.000+0000",
+    "description": "Impact: 13 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-209",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Database",
+    "customfield_10102": 65,
+    "created": "2024-06-18T06:25:00.000+0000",
+    "description": "Impact: 65 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-210",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "deploy",
+    "customfield_10102": 69,
+    "created": "2024-07-02T19:49:00.000+0000",
+    "description": "Impact: 69 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-211",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 103,
+    "created": "2024-07-06T07:43:00.000+0000",
+    "description": "Impact: 103 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-212",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 140,
+    "created": "2024-07-09T18:08:00.000+0000",
+    "description": "Impact: 140 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-213",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "deploy",
+    "customfield_10102": 239,
+    "created": "2024-07-21T13:46:00.000+0000",
+    "description": "Impact: 239 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-214",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 171,
+    "created": "2024-08-02T11:37:00.000+0000",
+    "description": "Impact: 171 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-215",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 215,
+    "created": "2024-08-16T01:20:00.000+0000",
+    "description": "Impact: 215 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-216",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DNS",
+    "customfield_10102": 93,
+    "created": "2024-08-23T20:30:00.000+0000",
+    "description": "Impact: 93 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-217",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 187,
+    "created": "2024-08-28T06:50:00.000+0000",
+    "description": "Impact: 187 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-218",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 229,
+    "created": "2024-09-04T20:05:00.000+0000",
+    "description": "Impact: 229 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-219",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 120,
+    "created": "2024-09-11T11:37:00.000+0000",
+    "description": "Impact: 120 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-220",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "AWS",
+    "customfield_10102": 121,
+    "created": "2024-09-23T09:10:00.000+0000",
+    "description": "Impact: 121 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-221",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 186,
+    "created": "2024-09-30T12:00:00.000+0000",
+    "description": "Impact: 186 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-222",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 184,
+    "created": "2024-10-04T08:34:00.000+0000",
+    "description": "Impact: 184 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-223",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "deploy",
+    "customfield_10102": 195,
+    "created": "2024-10-08T06:23:00.000+0000",
+    "description": "Impact: 195 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-224",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 80,
+    "created": "2024-10-16T12:47:00.000+0000",
+    "description": "Impact: 80 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-225",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "database",
+    "customfield_10102": 272,
+    "created": "2024-10-28T10:59:00.000+0000",
+    "description": "Impact: 272 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-226",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "network",
+    "customfield_10102": 60,
+    "created": "2024-11-05T02:18:00.000+0000",
+    "description": "Impact: 60 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-227",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "network",
+    "customfield_10102": 132,
+    "created": "2024-11-16T13:02:00.000+0000",
+    "description": "Impact: 132 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-228",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 148,
+    "created": "2024-11-25T06:35:00.000+0000",
+    "description": "Impact: 148 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-229",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "SEV3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 237,
+    "created": "2024-12-06T02:00:00.000+0000",
+    "description": "Impact: 237 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-230",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 221,
+    "created": "2024-12-19T13:24:00.000+0000",
+    "description": "Impact: 221 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-231",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Feature flag",
+    "customfield_10102": 177,
+    "created": "2024-12-31T02:03:00.000+0000",
+    "description": "Impact: 177 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-232",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Config change",
+    "customfield_10102": 19,
+    "created": "2025-01-10T22:49:00.000+0000",
+    "description": "Impact: 19 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-233",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 107,
+    "created": "2025-01-20T02:20:00.000+0000",
+    "description": "Impact: 107 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-234",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 87,
+    "created": "2025-02-03T04:40:00.000+0000",
+    "description": "Impact: 87 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-235",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 95,
+    "created": "2025-02-14T07:25:00.000+0000",
+    "description": "Impact: 95 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-236",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 60,
+    "created": "2025-02-23T17:57:00.000+0000",
+    "description": "Impact: 60 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-237",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Load spike",
+    "customfield_10102": 222,
+    "created": "2025-03-05T22:43:00.000+0000",
+    "description": "Impact: 222 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-238",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 87,
+    "created": "2025-03-18T15:30:00.000+0000",
+    "description": "Impact: 87 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-239",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 132,
+    "created": "2025-03-25T04:59:00.000+0000",
+    "description": "Impact: 132 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-240",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 208,
+    "created": "2025-03-28T15:49:00.000+0000",
+    "description": "Impact: 208 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-241",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "network",
+    "customfield_10102": 35,
+    "created": "2025-04-07T16:40:00.000+0000",
+    "description": "Impact: 35 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-242",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 19,
+    "created": "2025-04-15T18:14:00.000+0000",
+    "description": "Impact: 19 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-243",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 158,
+    "created": "2025-04-29T16:25:00.000+0000",
+    "description": "Impact: 158 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-244",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "3rd party",
+    "customfield_10102": 59,
+    "created": "2025-05-08T20:50:00.000+0000",
+    "description": "Impact: 59 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-245",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Cert expired",
+    "customfield_10102": 11,
+    "created": "2025-05-18T00:16:00.000+0000",
+    "description": "Impact: 11 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-246",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 168,
+    "created": "2025-05-27T02:13:00.000+0000",
+    "description": "Impact: 168 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-247",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "database",
+    "customfield_10102": 169,
+    "created": "2025-06-06T10:25:00.000+0000",
+    "description": "Impact: 169 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-248",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "capacity",
+    "customfield_10102": 137,
+    "created": "2025-06-15T14:16:00.000+0000",
+    "description": "Impact: 137 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-249",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 152,
+    "created": "2025-06-20T16:03:00.000+0000",
+    "description": "Impact: 152 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-250",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Code change",
+    "customfield_10102": 108,
+    "created": "2025-07-04T05:31:00.000+0000",
+    "description": "Impact: 108 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-251",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 87,
+    "created": "2025-07-09T03:16:00.000+0000",
+    "description": "Impact: 87 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-252",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "config",
+    "customfield_10102": 83,
+    "created": "2025-07-14T00:50:00.000+0000",
+    "description": "Impact: 83 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-253",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 50,
+    "created": "2025-07-19T20:44:00.000+0000",
+    "description": "Impact: 50 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-254",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 143,
+    "created": "2025-07-27T19:11:00.000+0000",
+    "description": "Impact: 143 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-255",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 74,
+    "created": "2025-08-09T20:17:00.000+0000",
+    "description": "Impact: 74 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-256",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "config",
+    "customfield_10102": 154,
+    "created": "2025-08-16T21:27:00.000+0000",
+    "description": "Impact: 154 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-257",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 103,
+    "created": "2025-08-22T07:35:00.000+0000",
+    "description": "Impact: 103 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-258",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 236,
+    "created": "2025-08-25T04:10:00.000+0000",
+    "description": "Impact: 236 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-259",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Misconfiguration",
+    "customfield_10102": 184,
+    "created": "2025-08-30T23:01:00.000+0000",
+    "description": "Impact: 184 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-260",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Network",
+    "customfield_10102": 257,
+    "created": "2025-09-11T11:41:00.000+0000",
+    "description": "Impact: 257 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-261",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 136,
+    "created": "2025-09-17T02:57:00.000+0000",
+    "description": "Impact: 136 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-262",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 122,
+    "created": "2025-09-28T02:11:00.000+0000",
+    "description": "Impact: 122 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-263",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 33,
+    "created": "2025-10-10T10:51:00.000+0000",
+    "description": "Impact: 33 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-264",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 167,
+    "created": "2025-10-15T09:57:00.000+0000",
+    "description": "Impact: 167 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-265",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "capacity",
+    "customfield_10102": 46,
+    "created": "2025-10-20T04:03:00.000+0000",
+    "description": "Impact: 46 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-266",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "deploy",
+    "customfield_10102": 205,
+    "created": "2025-10-27T01:27:00.000+0000",
+    "description": "Impact: 205 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-267",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Code change",
+    "customfield_10102": 202,
+    "created": "2025-11-09T04:41:00.000+0000",
+    "description": "Impact: 202 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-268",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 11,
+    "created": "2025-11-12T09:34:00.000+0000",
+    "description": "Impact: 11 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-269",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Vendor",
+    "customfield_10102": 12,
+    "created": "2025-11-17T12:27:00.000+0000",
+    "description": "Impact: 12 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-270",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 236,
+    "created": "2025-11-27T13:59:00.000+0000",
+    "description": "Impact: 236 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-271",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Code change",
+    "customfield_10102": 14,
+    "created": "2025-12-01T00:52:00.000+0000",
+    "description": "Impact: 14 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-272",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 98,
+    "created": "2025-12-07T04:51:00.000+0000",
+    "description": "Impact: 98 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-273",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 53,
+    "created": "2025-12-16T23:23:00.000+0000",
+    "description": "Impact: 53 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-274",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Networking/LB",
+    "customfield_10102": 230,
+    "created": "2025-12-28T01:49:00.000+0000",
+    "description": "Impact: 230 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-275",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Release regression",
+    "customfield_10102": 205,
+    "created": "2026-01-08T16:20:00.000+0000",
+    "description": "Impact: 205 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-276",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Database",
+    "customfield_10102": 209,
+    "created": "2026-01-11T21:52:00.000+0000",
+    "description": "Impact: 209 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-277",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 107,
+    "created": "2026-01-21T19:39:00.000+0000",
+    "description": "Impact: 107 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-278",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Config change",
+    "customfield_10102": 189,
+    "created": "2026-01-24T18:36:00.000+0000",
+    "description": "Impact: 189 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-279",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "network",
+    "customfield_10102": 51,
+    "created": "2026-01-28T04:00:00.000+0000",
+    "description": "Impact: 51 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-280",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 129,
+    "created": "2026-01-31T02:55:00.000+0000",
+    "description": "Impact: 129 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-281",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 270,
+    "created": "2026-02-12T21:29:00.000+0000",
+    "description": "Impact: 270 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-282",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 213,
+    "created": "2026-02-26T16:30:00.000+0000",
+    "description": "Impact: 213 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-283",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 42,
+    "created": "2026-03-12T20:32:00.000+0000",
+    "description": "Impact: 42 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-284",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 159,
+    "created": "2026-03-16T19:06:00.000+0000",
+    "description": "Impact: 159 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-285",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "DB",
+    "customfield_10102": 26,
+    "created": "2026-03-26T17:48:00.000+0000",
+    "description": "Impact: 26 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-286",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Resource exhaustion",
+    "customfield_10102": 78,
+    "created": "2026-04-03T23:39:00.000+0000",
+    "description": "Impact: 78 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-287",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DB",
+    "customfield_10102": 132,
+    "created": "2026-04-09T23:01:00.000+0000",
+    "description": "Impact: 132 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-288",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 140,
+    "created": "2026-04-20T07:50:00.000+0000",
+    "description": "Impact: 140 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-289",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Feature flag",
+    "customfield_10102": 54,
+    "created": "2026-04-29T11:35:00.000+0000",
+    "description": "Impact: 54 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-290",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 262,
+    "created": "2026-05-06T03:19:00.000+0000",
+    "description": "Impact: 262 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-291",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "capacity",
+    "customfield_10102": 129,
+    "created": "2026-05-12T20:40:00.000+0000",
+    "description": "Impact: 129 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-292",
+   "fields": {
+    "summary": "Dispatch feed stalled",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "DNS",
+    "customfield_10102": 206,
+    "created": "2026-05-22T09:33:00.000+0000",
+    "description": "Impact: 206 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-293",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Code change",
+    "customfield_10102": 194,
+    "created": "2026-05-30T17:03:00.000+0000",
+    "description": "Impact: 194 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-294",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "db (replica lag)",
+    "customfield_10102": 144,
+    "created": "2026-06-09T02:46:00.000+0000",
+    "description": "Impact: 144 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-295",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Load spike",
+    "customfield_10102": 96,
+    "created": "2026-06-13T15:22:00.000+0000",
+    "description": "Impact: 96 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-296",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 170,
+    "created": "2026-06-17T10:07:00.000+0000",
+    "description": "Impact: 170 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-297",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "database",
+    "customfield_10102": 123,
+    "created": "2026-06-22T01:22:00.000+0000",
+    "description": "Impact: 123 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-298",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Deploy / bad release",
+    "customfield_10102": 97,
+    "created": "2026-06-27T17:47:00.000+0000",
+    "description": "Impact: 97 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-299",
+   "fields": {
+    "summary": "Invoices not generating",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "DB",
+    "customfield_10102": 80,
+    "created": "2026-07-08T05:49:00.000+0000",
+    "description": "Impact: 80 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-300",
+   "fields": {
+    "summary": "Insights reports stale",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "Capacity",
+    "customfield_10102": 33,
+    "created": "2026-07-20T10:58:00.000+0000",
+    "description": "Impact: 33 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-301",
+   "fields": {
+    "summary": "Dashboard timeouts",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Bad deploy",
+    "customfield_10102": 121,
+    "created": "2026-07-27T05:51:00.000+0000",
+    "description": "Impact: 121 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-302",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 234,
+    "created": "2026-08-06T16:40:00.000+0000",
+    "description": "Impact: 234 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-303",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 60,
+    "created": "2026-08-19T00:04:00.000+0000",
+    "description": "Impact: 60 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-304",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "deploy",
+    "customfield_10102": 224,
+    "created": "2026-08-22T20:31:00.000+0000",
+    "description": "Impact: 224 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-305",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 47,
+    "created": "2026-08-25T07:09:00.000+0000",
+    "description": "Impact: 47 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-306",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Database - connection pool",
+    "customfield_10102": 28,
+    "created": "2026-08-29T16:08:00.000+0000",
+    "description": "Impact: 28 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-307",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "Sev1",
+    "customfield_10101": "Feature flag",
+    "customfield_10102": 136,
+    "created": "2026-09-06T18:28:00.000+0000",
+    "description": "Impact: 136 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-308",
+   "fields": {
+    "summary": "Login failures",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 46,
+    "created": "2026-09-10T07:34:00.000+0000",
+    "description": "Impact: 46 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-309",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Database",
+    "customfield_10102": 27,
+    "created": "2026-09-21T07:26:00.000+0000",
+    "description": "Impact: 27 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-310",
+   "fields": {
+    "summary": "Elevated 5xx on API",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Postgres",
+    "customfield_10102": 212,
+    "created": "2026-10-02T03:03:00.000+0000",
+    "description": "Impact: 212 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-311",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Highest"
+    },
+    "customfield_10100": "SEV1",
+    "customfield_10101": "Code change",
+    "customfield_10102": 131,
+    "created": "2026-10-05T16:43:00.000+0000",
+    "description": "Impact: 131 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-312",
+   "fields": {
+    "summary": "Mobile sync degraded",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third-party provider",
+    "customfield_10102": 192,
+    "created": "2026-10-14T19:57:00.000+0000",
+    "description": "Impact: 192 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-313",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "Medium"
+    },
+    "customfield_10100": "Sev3",
+    "customfield_10101": "Third party (SMS)",
+    "customfield_10102": 234,
+    "created": "2026-10-19T13:39:00.000+0000",
+    "description": "Impact: 234 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  },
+  {
+   "key": "INC-314",
+   "fields": {
+    "summary": "Email notifications delayed",
+    "issuetype": {
+     "name": "Incident"
+    },
+    "status": {
+     "name": "Resolved"
+    },
+    "priority": {
+     "name": "High"
+    },
+    "customfield_10100": "Sev2",
+    "customfield_10101": "capacity",
+    "customfield_10102": 50,
+    "created": "2026-10-26T10:56:00.000+0000",
+    "description": "Impact: 50 min. See postmortem in Confluence (ENG space) if Sev1."
+   }
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+# Raw data must be stored byte-for-byte: CRLF line endings, BOMs, cp1252 and
+# EBCDIC files are part of the test. Never let git normalize them.
+data/raw/** -text -diff
+*.py text eol=lf
+*.md text eol=lf

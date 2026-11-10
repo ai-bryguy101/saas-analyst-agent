@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00160</md:CustomerCode>
+  <md:CustomerName>Foxglove Resorts Group</md:CustomerName>
+  <md:JobId>J395157</md:JobId>
+  <md:Partner id="PLC-001">Prairie Line Couriers</md:Partner>
+  <md:Requested>2016-08-10T11:00:00</md:Requested>
+  <md:Address><md:City>Québec</md:City><md:Province>QC</md:Province></md:Address>
+  <md:Notes><![CDATA[Call on arrival]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

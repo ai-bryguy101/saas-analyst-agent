@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00212</md:CustomerCode>
+  <md:CustomerName>Liberty Transit Authority Group</md:CustomerName>
+  <md:JobId>J697810</md:JobId>
+  <md:Partner id="ASP-040">Assiniboine Parts Runners</md:Partner>
+  <md:Requested>2017-10-14T09:37:00</md:Requested>
+  <md:Address><md:City>Calgary</md:City><md:Province>AB</md:Province></md:Address>
+  <md:Notes><![CDATA[Call on arrival]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

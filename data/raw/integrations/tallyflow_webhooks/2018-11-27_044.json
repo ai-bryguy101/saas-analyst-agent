@@ -1,0 +1,13 @@
+{
+  "id": "evt_764adcad-d925",
+  "type": "tallyflow.invoice.paid",
+  "version": "2017-04",
+  "data": {
+    "object": {
+      "customer": "",
+      "legacy_ref": "TF-0012",
+      "total": 345735
+    }
+  },
+  "created": 1543276800
+}

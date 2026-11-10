@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00012</md:CustomerCode>
+  <md:CustomerName>Patriot Freight Ltd.</md:CustomerName>
+  <md:JobId>J649409</md:JobId>
+  <md:Partner id="NWH-014">Northwoods Haulage</md:Partner>
+  <md:Requested>2016-09-26T19:24:00</md:Requested>
+  <md:Address><md:City>Winnipeg</md:City><md:Province>MB</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

@@ -1,0 +1,17 @@
+{
+ "total": 1,
+ "issues": [
+  {
+   "key": "ENG-1180",
+   "fields": {
+    "summary": "Switch app server log timestamps to UTC",
+    "status": {
+     "name": "Done"
+    },
+    "created": "2018-02-20T18:00:00.000+0000",
+    "resolutiondate": "2018-03-12T14:30:00.000+0000",
+    "description": "Logs are currently written in server local time (America/Chicago, Dallas colo) without an offset. DST transitions produce duplicate/missing hours. Switching log4j pattern to ISO8601 UTC with 'Z'."
+   }
+  }
+ ]
+}

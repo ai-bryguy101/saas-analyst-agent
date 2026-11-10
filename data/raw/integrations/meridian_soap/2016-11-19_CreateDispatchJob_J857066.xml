@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00118</md:CustomerCode>
+  <md:CustomerName>Clark Inns Holdings</md:CustomerName>
+  <md:JobId>J857066</md:JobId>
+  <md:Partner id="ASP-040">Assiniboine Parts Runners</md:Partner>
+  <md:Requested>2016-11-19T07:56:00</md:Requested>
+  <md:Address><md:City>Halifax</md:City><md:Province>NS</md:Province></md:Address>
+  <md:Notes><![CDATA[Fragile - <glass> panels]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

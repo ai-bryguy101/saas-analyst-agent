@@ -1,0 +1,13 @@
+{
+  "id": "evt_4bc065bb-76c4",
+  "type": "tallyflow.invoice.paid",
+  "version": "2017-04",
+  "data": {
+    "object": {
+      "customer": "cus_ztuUJx0UKORl9o",
+      "legacy_ref": "TF-0097",
+      "total": 252876
+    }
+  },
+  "created": 1546473600
+}

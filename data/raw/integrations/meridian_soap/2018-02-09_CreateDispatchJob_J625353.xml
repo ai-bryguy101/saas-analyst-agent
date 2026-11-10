@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00034</md:CustomerCode>
+  <md:CustomerName>Granite Hotels Group</md:CustomerName>
+  <md:JobId>J625353</md:JobId>
+  <md:Partner id="KSV-031">Keewatin Service Vans</md:Partner>
+  <md:Requested>2018-02-09T13:40:00</md:Requested>
+  <md:Address><md:City>Québec</md:City><md:Province>QC</md:Province></md:Address>
+  <md:Notes><![CDATA[Livraison avant 10h SVP]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

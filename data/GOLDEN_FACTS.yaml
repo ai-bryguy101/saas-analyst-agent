@@ -1,0 +1,266 @@
+# ALL DATA IS SYNTHETIC. Brindlecove Software and everything in it is invented.
+description: Answer key for agent evaluation. Every value is computed by generator/golden.py from the same seeded world that
+  produced data/raw.
+seed: 42
+facts:
+- id: GF01
+  difficulty: hard
+  kind: buried-in-email
+  question: Why did Harbortown Property Group cancel in 2016?
+  answer: Two outages in March 2016 (Mar 8 and Mar 22) plus a competitor (Plinthwise) quoting ~30% under the renewal. The
+    CRM churn reason says 'Other' because the VP Sales asked for it to be logged that way.
+  trail:
+  - data/raw/email_archive/sales_bkittredge_2014-2017.mbox (thread 'Notice of non-renewal - Harbortown', Aug 1 2016)
+  - data/raw/crm_salesforce_export_2026-10/Account.csv (Churn_Reason__c = Other)
+  - data/raw/support_helpdesk_2011-2019/tickets_export.json.gz (urgent outage tickets, March 2016)
+  - data/raw/crm_salesforce_export_2026-10/Task.csv (June 2016 call note says 'all good' - misleading)
+  traps:
+  - CRM reason is 'Other'
+  - call notes say renewal looked routine
+- id: GF02
+  difficulty: hard
+  kind: scanned-document
+  question: Why does Calloway Facilities Management pay less per seat than list price?
+  answer: 'Their June 2013 MSA grants a 38% discount off list for as long as they keep 150+ seats: $27.90 per Enterprise seat
+    vs $45.00 list at the time. It is baked into the seat price, so Ledger shows discount_pct 0.00.'
+  trail:
+  - data/raw/legal_contracts/scanned/Calloway_MSA_2013_signed.pdf (image-only scan, page 2)
+  - data/raw/legal_contracts/scanned/Calloway_MSA_2013_signed.ocr.txt (OCR text with errors)
+  - data/raw/email_archive/finance_idelacroix_2013-2026.mbox ('Calloway - billing setup for cloud')
+  - data/raw/billing_ledger_mysql_2011-2017/ledger_dump_2017-03-31.sql (seat_price 27.9, discount_pct 0.00)
+  - data/raw/wiki_confluence_export/SALES/Pricing-and-Discount-Policy_2012.html (says max discount 20% - stale)
+  traps:
+  - policy page says discounts cap at 20%
+  - Ledger shows no discount
+- id: GF03
+  difficulty: medium
+  kind: migration-error
+  question: Which CRM account is legacy BRIX customer 004417?
+  answer: Riverbend Unified Schools (Salesforce 001sPfEO1nWYFKly4q). The 2016 crosswalk wrongly maps 004417 to Riverbend Unified
+    Services LLC (001RHTI1QWxMpfhqYM); the wiki errata page and the Salesforce BRIX_Cust_No__c field have it right. Note 004471
+    (transposed digits) is the other Riverbend.
+  trail:
+  - data/raw/crm_migration_2016/Sugar_to_SFDC_crosswalk_FINAL_v3.xlsx (yellow row, wrong)
+  - data/raw/wiki_confluence_export/DATA/CRM-Migration-Known-Issues.html
+  - data/raw/brix_mainframe/BRXCUST.TXT
+  - data/raw/crm_salesforce_export_2026-10/Account.csv
+- id: GF04
+  difficulty: hard
+  kind: conflicting-numbers
+  question: Why does the Q4 2019 board deck ARR differ from finance's year-end ARR?
+  answer: Board deck uses contracted ARR $30,363,585; finance live ARR is $29,553,859. The $809,726 gap is 38 contracts signed
+    on or before Dec 31 2019 whose subscriptions start in 2020.
+  trail:
+  - data/raw/board_and_finance/Board_Deck_Q4_2019_FINAL.pptx
+  - data/raw/board_and_finance/FY2019_ARR_close_finance.xlsx
+  - data/raw/wiki_confluence_export/FIN/ARR-Definitions.html
+  - data/raw/crm_salesforce_export_2026-10/Opportunity.csv (CloseDate <= 2019-12-31, Contract_Start__c in 2020)
+  values:
+    board: 30363585.31
+    finance: 29553859.06
+    gap: 809726.25
+    contracts: 38
+- id: GF05
+  difficulty: medium
+  kind: units-trap
+  question: What unit are billing v3 invoice amounts in?
+  answer: Cents (integers) for everything created in billing v3, but rows with metadata.source = ledger_import_2017 are in
+    dollars (11372 rows, Jan 2016 - Mar 2017). Those invoices also exist in the Ledger dump, so don't double count.
+  trail:
+  - data/raw/jira_export_2026-10/DATA.json (DATA-212 comments)
+  - data/raw/billing_v3_2017-now/invoices.csv
+  - data/raw/wiki_confluence_export/DATA/Data-Dictionary-Billing.html (says cents for all rows - wrong)
+- id: GF06
+  difficulty: hard
+  kind: timezone-dst
+  question: How long was the November 5, 2017 outage?
+  answer: About 100 minutes (06:20-08:00 UTC; 01:20 CDT to 02:00 CST). The logs are in local Dallas time with no offset and
+    the 1 AM hour repeats at the DST change, so a naive read (and the postmortem) says 40 minutes.
+  trail:
+  - data/raw/app_logs/app-2017-11-04_05.dal-app03.log (req= sequence numbers keep increasing through the repeated hour)
+  - data/raw/wiki_confluence_export/ENG/Postmortem-2017-11-05-DB-pool-exhaustion.html (says ~40 min)
+  - 'data/raw/jira_export_2026-10/ENG.json (ENG-1180: logs were local time until 2018-03-12)'
+- id: GF07
+  difficulty: easy
+  kind: codename
+  question: What is Project Lantern?
+  answer: The internal codename for Brindle Insights, the analytics add-on built from the Kestrel Analytics acquisition (2021).
+  trail:
+  - data/raw/board_and_finance/Kestrel_Integration_Plan_2021.pptx (slide 3)
+- id: GF08
+  difficulty: medium
+  kind: draft-vs-final
+  question: When did Brindle Classic reach end of life, and what migration incentive was offered?
+  answer: June 30, 2020. Classic customers who moved to Ops Cloud before then got a 25% credit on subscription fees for their
+    first 12 months. (A 2019 draft memo says 20%; the final announcement and the staff meeting transcript say 25%.)
+  trail:
+  - data/raw/meetings/2019-11-14_exec-staff.vtt
+  - data/raw/email_archive/exec_announcements_2012-2026.mbox ('Classic end of life - FINAL')
+  - data/raw/memos/Classic_EOL_memo_DRAFT_v2.rtf (20%, superseded)
+- id: GF09
+  difficulty: easy
+  kind: xml-payload
+  question: What per-job rate did Meridian Dispatch pay Prairie Line Couriers?
+  answer: CAD 4.75 per dispatched job (contract rate in the 2017 SOAP rate-card response).
+  trail:
+  - data/raw/integrations/meridian_soap/2017-10-02_GetPartnerRateCard_response.xml
+- id: GF10
+  difficulty: hard
+  kind: binary-legacy
+  question: How much did BRIX bill Ostrander Mills in 1999?
+  answer: $7,161.32 across 4 invoices (packed-decimal amounts in BRXINV.Y1999, customer 001207; no Ohio license tax that year).
+  trail:
+  - data/raw/brix_mainframe/BRXINV.Y1999
+  - data/raw/brix_mainframe/BRXINV.CPY
+  - data/raw/brix_mainframe/BRXCUST.TXT
+- id: GF11
+  difficulty: medium
+  kind: undocumented-code
+  question: What does status 'X' mean in the BRIX customer master?
+  answer: Migrated to Ledger (cloud billing). It is not in the copybook's 88-levels or the README; it is only explained in
+    the 2012 status-code spreadsheet.
+  trail:
+  - data/raw/brix_mainframe/BRXCUST.TXT
+  - data/raw/brix_mainframe/BRXCUST.CPY
+  - data/raw/spreadsheets/BRIX_status_codes_2012.xls
+- id: GF12
+  difficulty: hard
+  kind: entity-resolution
+  question: What did St. Brigid's Health System pay Brindlecove in 2022, across all its accounts?
+  answer: USD 297,891.00 (Detroit, Ops Cloud) plus CAD 32,472.00 (Windsor campus, came in via Meridian Dispatch). Same health
+    system under different names and two CRM accounts.
+  trail:
+  - data/raw/billing_v3_2017-now/invoices.csv
+  - data/raw/billing_v3_2017-now/customers.csv
+  - data/raw/crm_salesforce_export_2026-10/Account.csv (duplicate accounts)
+  - data/raw/billing_meridian_2015-2019/
+  values:
+    USD: 297891.0
+    CAD: 32472.0
+- id: GF13
+  difficulty: hard
+  kind: soft-delete
+  question: Which customers were deleted in the CRM but kept being invoiced afterward?
+  answer: '13 accounts. Most invoices after deletion: Nguyen Municipal Services LLC (88 invoices after 2019-06-05); Harris
+    Works Co. (82 invoices after 2019-10-16); Juniper Contracting (58 invoices after 2021-12-30)'
+  trail:
+  - data/raw/crm_salesforce_export_2026-10/Account.csv (IsDeleted = true)
+  - data/raw/billing_v3_2017-now/invoices.csv
+  - data/raw/billing_v3_2017-now/customers.csv (metadata.sfdc_id)
+  values:
+  - name: Nguyen Municipal Services LLC
+    crm_id: 001jPENs3Y1BytGQCM
+    billing_id: cus_rfQh9pIEUVWcNG
+    deleted_on: '2019-06-05'
+    invoices_after: 88
+    billed_after: 886733.0
+    currency: USD
+  - name: Harris Works Co.
+    crm_id: 001w1FQZ1nWBWq0Zsa
+    billing_id: cus_xouuN5eg4H8GqU
+    deleted_on: '2019-10-16'
+    invoices_after: 82
+    billed_after: 103762.0
+    currency: USD
+  - name: Juniper Contracting
+    crm_id: 001KzKA9JpNkBPK8NR
+    billing_id: cus_HPgJ7cWPOUBDgR
+    deleted_on: '2021-12-30'
+    invoices_after: 58
+    billed_after: 9918.0
+    currency: USD
+  - name: Cascade Stores
+    crm_id: 001CobylMJFYGEqo4x
+    billing_id: cus_BAyR6atZZDTrvs
+    deleted_on: '2022-08-12'
+    invoices_after: 49
+    billed_after: 58729.5
+    currency: USD
+  - name: Gatehouse Retail Group Holdings
+    crm_id: 001a3hQZj9YyHgBBV2
+    billing_id: cus_F2pc2laDZZ94IW
+    deleted_on: '2022-08-28'
+    invoices_after: 48
+    billed_after: 376704.0
+    currency: USD
+  - name: Bayou Supply Co Co.
+    crm_id: 0012wF2Rnp9bLDjdss
+    billing_id: cus_t7tgkPKjQ3fXbW
+    deleted_on: '2022-10-16'
+    invoices_after: 47
+    billed_after: 5700.0
+    currency: USD
+  - name: Ridgeline Public Works
+    crm_id: 0015ibs7ak42rhcAyV
+    billing_id: cus_A9N6IqobkCHa4b
+    deleted_on: '2023-02-18'
+    invoices_after: 44
+    billed_after: 29718.4
+    currency: USD
+  - name: Blackhawk Medical Center Corp.
+    crm_id: 001qQysEKXaePnysg7
+    billing_id: cus_p7sgVwMoVVL1up
+    deleted_on: '2023-03-08'
+    invoices_after: 43
+    billed_after: 7056.0
+    currency: USD
+  - name: Pinecrest Logistics LLC
+    crm_id: 001ALpVmtsLm0MMr2M
+    billing_id: cus_Q7Rgt0S1vWM4lr
+    deleted_on: '2021-02-09'
+    invoices_after: 31
+    billed_after: 28318.5
+    currency: USD
+  - name: Huron Homes Holdings
+    crm_id: 001qmSwecgOS8AkhDY
+    billing_id: cus_rXYGQPQopB4veU
+    deleted_on: '2024-06-30'
+    invoices_after: 28
+    billed_after: 15522.0
+    currency: USD
+  - name: Jimenez Health Partners LLC
+    crm_id: 001OEzd2n4gAfBqsEM
+    billing_id: cus_5nvIukYPekZPEu
+    deleted_on: '2025-05-26'
+    invoices_after: 16
+    billed_after: 12004.2
+    currency: USD
+  - name: Wexford Realty Management
+    crm_id: 001S32lH0OE9DqNB0F
+    billing_id: cus_t4UWLMHA1UFUyc
+    deleted_on: '2026-05-07'
+    invoices_after: 5
+    billed_after: 3705.0
+    currency: USD
+  - name: Southport Hotels Ltd.
+    crm_id: 001AZJUm5rU6M8xRB3
+    billing_id: cus_qq8bDeaSBrI0nX
+    deleted_on: '2026-08-16'
+    invoices_after: 2
+    billed_after: 1479.6
+    currency: USD
+- id: GF14
+  difficulty: medium
+  kind: dirty-categories
+  question: What was the most common root cause of Sev1 incidents in 2022?
+  answer: Deploy / bad release (3 of 7 Sev1s), after normalizing the free-text root cause field.
+  trail:
+  - data/raw/jira_export_2026-10/INC.json (customfield_10101 = Root Cause, customfield_10100 = Severity)
+  values:
+    count: 7
+    by_root:
+      Deploy / bad release: 3
+      Network: 2
+      Capacity: 1
+      Third-party provider: 1
+    top: Deploy / bad release
+- id: GF15
+  difficulty: medium
+  kind: event-logs
+  question: Which customer created the most work orders in 2024 (per product telemetry)?
+  answer: Rogers Construction Co. (tenant rogers-construction-co, 521 wo_created events in the sample, before de-duplicating
+    repeated deliveries).
+  trail:
+  - data/raw/product_events/events_2024-*.jsonl.gz
+  - data/raw/product_events/tenants.csv
+  notes: Event files include duplicated deliveries; the count above is raw. De-duplicated counts may differ slightly.

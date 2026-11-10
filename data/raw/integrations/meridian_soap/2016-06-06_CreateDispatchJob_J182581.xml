@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00024</md:CustomerCode>
+  <md:CustomerName>Sanders Inns Ltd.</md:CustomerName>
+  <md:JobId>J182581</md:JobId>
+  <md:Partner id="NWH-014">Northwoods Haulage</md:Partner>
+  <md:Requested>2016-06-06T14:39:00</md:Requested>
+  <md:Address><md:City>Calgary</md:City><md:Province>AB</md:Province></md:Address>
+  <md:Notes><![CDATA[Call on arrival]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00211</md:CustomerCode>
+  <md:CustomerName>Riverbend University Facilities Holdings</md:CustomerName>
+  <md:JobId>J809828</md:JobId>
+  <md:Partner id="NWH-014">Northwoods Haulage</md:Partner>
+  <md:Requested>2018-01-02T08:36:00</md:Requested>
+  <md:Address><md:City>Ottawa</md:City><md:Province>ON</md:Province></md:Address>
+  <md:Notes><![CDATA[Call on arrival]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

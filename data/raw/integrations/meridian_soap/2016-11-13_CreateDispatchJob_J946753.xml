@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00128</md:CustomerCode>
+  <md:CustomerName>Quarry Industries Ltd.</md:CustomerName>
+  <md:JobId>J946753</md:JobId>
+  <md:Partner id="KSV-031">Keewatin Service Vans</md:Partner>
+  <md:Requested>2016-11-13T17:27:00</md:Requested>
+  <md:Address><md:City>Saskatoon</md:City><md:Province>SK</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

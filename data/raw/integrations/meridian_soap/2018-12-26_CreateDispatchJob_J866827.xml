@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00192</md:CustomerCode>
+  <md:CustomerName>Silverleaf Mills LLC</md:CustomerName>
+  <md:JobId>J866827</md:JobId>
+  <md:Partner id="ASP-040">Assiniboine Parts Runners</md:Partner>
+  <md:Requested>2018-12-26T09:30:00</md:Requested>
+  <md:Address><md:City>Calgary</md:City><md:Province>AB</md:Province></md:Address>
+  <md:Notes><![CDATA[Fragile - <glass> panels]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

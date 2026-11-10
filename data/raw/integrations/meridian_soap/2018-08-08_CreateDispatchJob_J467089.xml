@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00232</md:CustomerCode>
+  <md:CustomerName>Valley Properties Group</md:CustomerName>
+  <md:JobId>J467089</md:JobId>
+  <md:Partner id="NWH-014">Northwoods Haulage</md:Partner>
+  <md:Requested>2018-08-08T18:10:00</md:Requested>
+  <md:Address><md:City>Regina</md:City><md:Province>SK</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

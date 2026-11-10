@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00230</md:CustomerCode>
+  <md:CustomerName>Redstone Hotels Inc.</md:CustomerName>
+  <md:JobId>J996123</md:JobId>
+  <md:Partner id="RRX-022">Red River Express</md:Partner>
+  <md:Requested>2017-11-01T09:15:00</md:Requested>
+  <md:Address><md:City>Montréal</md:City><md:Province>QC</md:Province></md:Address>
+  <md:Notes><![CDATA[]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

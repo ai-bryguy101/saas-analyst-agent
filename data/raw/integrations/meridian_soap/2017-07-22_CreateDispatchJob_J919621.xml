@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00167</md:CustomerCode>
+  <md:CustomerName>Jones Residential</md:CustomerName>
+  <md:JobId>J919621</md:JobId>
+  <md:Partner id="ASP-040">Assiniboine Parts Runners</md:Partner>
+  <md:Requested>2017-07-22T11:13:00</md:Requested>
+  <md:Address><md:City>Calgary</md:City><md:Province>AB</md:Province></md:Address>
+  <md:Notes><![CDATA[Call on arrival]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

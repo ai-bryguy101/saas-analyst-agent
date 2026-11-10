@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:GetPartnerRateCardResponse>
+  <md:EffectiveDate>2017-10-01</md:EffectiveDate>
+  <md:Currency>CAD</md:Currency>
+  <md:Partners>
+    <md:Partner id="PLC-001">
+      <md:Name>Prairie Line Couriers</md:Name>
+      <md:RatePerJob>4.75</md:RatePerJob>
+      <md:FuelSurchargePct>2.5</md:FuelSurchargePct>
+    </md:Partner>
+    <md:Partner id="NWH-014">
+      <md:Name>Northwoods Haulage</md:Name>
+      <md:RatePerJob>5.10</md:RatePerJob>
+      <md:FuelSurchargePct>0</md:FuelSurchargePct>
+    </md:Partner>
+    <md:Partner id="RRX-022">
+      <md:Name>Red River Express</md:Name>
+      <md:RatePerJob>4.40</md:RatePerJob>
+      <md:FuelSurchargePct>3</md:FuelSurchargePct>
+    </md:Partner>
+    <md:Partner id="KSV-031">
+      <md:Name>Keewatin Service Vans</md:Name>
+      <md:RatePerJob>6.25</md:RatePerJob>
+      <md:FuelSurchargePct>3</md:FuelSurchargePct>
+    </md:Partner>
+    <md:Partner id="ASP-040">
+      <md:Name>Assiniboine Parts Runners</md:Name>
+      <md:RatePerJob>3.95</md:RatePerJob>
+      <md:FuelSurchargePct>2.5</md:FuelSurchargePct>
+    </md:Partner>
+  </md:Partners>
+</md:GetPartnerRateCardResponse>
+</soap:Body>
+</soap:Envelope>

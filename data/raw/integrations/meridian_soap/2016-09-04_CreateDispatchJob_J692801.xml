@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00082</md:CustomerCode>
+  <md:CustomerName>Martinez Resorts LLC</md:CustomerName>
+  <md:JobId>J692801</md:JobId>
+  <md:Partner id="RRX-022">Red River Express</md:Partner>
+  <md:Requested>2016-09-04T19:51:00</md:Requested>
+  <md:Address><md:City>Ottawa</md:City><md:Province>ON</md:Province></md:Address>
+  <md:Notes><![CDATA[Fragile - <glass> panels]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

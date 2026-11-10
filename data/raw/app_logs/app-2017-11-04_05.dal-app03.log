@@ -1,0 +1,1314 @@
+# host=app03.dal.brindlecove.local  log4j 1.2  pattern=%d %-5p [%t] %c - %m%n
+2017-11-04 22:00:26,995 WARN  [http-nio-8443-exec-105] c.b.ops.mail.Sender - req=88100001 SMTP slow 811ms
+2017-11-04 22:00:56,448 INFO  [http-nio-8443-exec-194] c.b.ops.web.Access - req=88100002 GET /api/v2/workorders 200 673ms
+2017-11-04 22:01:24,475 INFO  [http-nio-8443-exec-40] c.b.ops.web.Access - req=88100003 GET /api/v2/workorders 200 654ms
+2017-11-04 22:01:40,997 DEBUG [http-nio-8443-exec-155] c.b.ops.sched.PmRunner - req=88100004 pm tick
+2017-11-04 22:01:49,252 INFO  [http-nio-8443-exec-128] c.b.ops.web.Access - req=88100005 GET /api/v2/workorders 200 298ms
+2017-11-04 22:02:02,552 WARN  [http-nio-8443-exec-185] c.b.ops.mail.Sender - req=88100006 SMTP slow 401ms
+2017-11-04 22:02:13,440 INFO  [http-nio-8443-exec-118] c.b.ops.web.Access - req=88100007 GET /api/v2/workorders 200 738ms
+2017-11-04 22:02:39,169 DEBUG [http-nio-8443-exec-73] c.b.ops.sched.PmRunner - req=88100008 pm tick
+2017-11-04 22:03:02,372 DEBUG [http-nio-8443-exec-41] c.b.ops.sched.PmRunner - req=88100009 pm tick
+2017-11-04 22:03:30,470 WARN  [http-nio-8443-exec-24] c.b.ops.mail.Sender - req=88100010 SMTP slow 268ms
+2017-11-04 22:03:42,258 INFO  [http-nio-8443-exec-99] c.b.ops.web.Access - req=88100011 GET /api/v2/workorders 200 267ms
+2017-11-04 22:04:04,146 INFO  [http-nio-8443-exec-193] c.b.ops.web.Access - req=88100012 GET /api/v2/workorders 200 798ms
+2017-11-04 22:04:32,475 INFO  [http-nio-8443-exec-101] c.b.ops.web.Access - req=88100013 GET /api/v2/workorders 200 294ms
+2017-11-04 22:05:08,573 INFO  [http-nio-8443-exec-127] c.b.ops.web.Access - req=88100014 GET /api/v2/workorders 200 162ms
+2017-11-04 22:05:25,121 INFO  [http-nio-8443-exec-6] c.b.ops.web.Access - req=88100015 GET /api/v2/workorders 200 111ms
+2017-11-04 22:05:32,989 INFO  [http-nio-8443-exec-156] c.b.ops.web.Access - req=88100016 GET /api/v2/workorders 200 766ms
+2017-11-04 22:06:12,176 WARN  [http-nio-8443-exec-57] c.b.ops.mail.Sender - req=88100017 SMTP slow 478ms
+2017-11-04 22:06:23,533 INFO  [http-nio-8443-exec-157] c.b.ops.sync.MobileSync - req=88100018 sync ok tenant=bayou-municipal-services-gro items=38
+2017-11-04 22:07:02,462 WARN  [http-nio-8443-exec-71] c.b.ops.mail.Sender - req=88100019 SMTP slow 760ms
+2017-11-04 22:07:10,992 WARN  [http-nio-8443-exec-114] c.b.ops.mail.Sender - req=88100020 SMTP slow 765ms
+2017-11-04 22:07:43,242 INFO  [http-nio-8443-exec-40] c.b.ops.sync.MobileSync - req=88100021 sync ok tenant=redstone-freight-corp items=52
+2017-11-04 22:07:59,514 WARN  [http-nio-8443-exec-136] c.b.ops.mail.Sender - req=88100022 SMTP slow 532ms
+2017-11-04 22:08:25,322 DEBUG [http-nio-8443-exec-78] c.b.ops.sched.PmRunner - req=88100023 pm tick
+2017-11-04 22:08:57,770 INFO  [http-nio-8443-exec-105] c.b.ops.sync.MobileSync - req=88100024 sync ok tenant=cedar-inns items=70
+2017-11-04 22:09:07,995 WARN  [http-nio-8443-exec-135] c.b.ops.mail.Sender - req=88100025 SMTP slow 289ms
+2017-11-04 22:09:40,076 INFO  [http-nio-8443-exec-141] c.b.ops.web.Access - req=88100026 GET /api/v2/workorders 200 273ms
+2017-11-04 22:10:02,141 DEBUG [http-nio-8443-exec-110] c.b.ops.sched.PmRunner - req=88100027 pm tick
+2017-11-04 22:10:36,414 DEBUG [http-nio-8443-exec-35] c.b.ops.sched.PmRunner - req=88100028 pm tick
+2017-11-04 22:11:04,346 DEBUG [http-nio-8443-exec-155] c.b.ops.sched.PmRunner - req=88100029 pm tick
+2017-11-04 22:11:35,009 DEBUG [http-nio-8443-exec-20] c.b.ops.sched.PmRunner - req=88100030 pm tick
+2017-11-04 22:11:52,587 WARN  [http-nio-8443-exec-98] c.b.ops.mail.Sender - req=88100031 SMTP slow 381ms
+2017-11-04 22:12:07,414 INFO  [http-nio-8443-exec-5] c.b.ops.web.Access - req=88100032 GET /api/v2/workorders 200 207ms
+2017-11-04 22:12:29,035 WARN  [http-nio-8443-exec-195] c.b.ops.mail.Sender - req=88100033 SMTP slow 601ms
+2017-11-04 22:12:56,703 WARN  [http-nio-8443-exec-130] c.b.ops.mail.Sender - req=88100034 SMTP slow 751ms
+2017-11-04 22:13:09,227 INFO  [http-nio-8443-exec-158] c.b.ops.web.Access - req=88100035 GET /api/v2/workorders 200 483ms
+2017-11-04 22:13:37,408 INFO  [http-nio-8443-exec-54] c.b.ops.web.Access - req=88100036 GET /api/v2/workorders 200 396ms
+2017-11-04 22:14:13,082 INFO  [http-nio-8443-exec-129] c.b.ops.sync.MobileSync - req=88100037 sync ok tenant=crescent-janitorial items=46
+2017-11-04 22:14:35,596 WARN  [http-nio-8443-exec-84] c.b.ops.mail.Sender - req=88100038 SMTP slow 208ms
+2017-11-04 22:15:03,648 INFO  [http-nio-8443-exec-114] c.b.ops.web.Access - req=88100039 GET /api/v2/workorders 200 394ms
+2017-11-04 22:15:17,511 INFO  [http-nio-8443-exec-101] c.b.ops.web.Access - req=88100040 GET /api/v2/workorders 200 639ms
+2017-11-04 22:15:37,418 INFO  [http-nio-8443-exec-46] c.b.ops.sync.MobileSync - req=88100041 sync ok tenant=twin-construction-holdings items=27
+2017-11-04 22:16:13,676 WARN  [http-nio-8443-exec-141] c.b.ops.mail.Sender - req=88100042 SMTP slow 272ms
+2017-11-04 22:16:43,306 DEBUG [http-nio-8443-exec-56] c.b.ops.sched.PmRunner - req=88100043 pm tick
+2017-11-04 22:17:04,016 WARN  [http-nio-8443-exec-195] c.b.ops.mail.Sender - req=88100044 SMTP slow 386ms
+2017-11-04 22:17:19,084 WARN  [http-nio-8443-exec-86] c.b.ops.mail.Sender - req=88100045 SMTP slow 845ms
+2017-11-04 22:17:53,238 DEBUG [http-nio-8443-exec-62] c.b.ops.sched.PmRunner - req=88100046 pm tick
+2017-11-04 22:18:02,958 WARN  [http-nio-8443-exec-22] c.b.ops.mail.Sender - req=88100047 SMTP slow 541ms
+2017-11-04 22:18:10,177 WARN  [http-nio-8443-exec-114] c.b.ops.mail.Sender - req=88100048 SMTP slow 615ms
+2017-11-04 22:18:43,761 WARN  [http-nio-8443-exec-90] c.b.ops.mail.Sender - req=88100049 SMTP slow 572ms
+2017-11-04 22:18:51,899 WARN  [http-nio-8443-exec-43] c.b.ops.mail.Sender - req=88100050 SMTP slow 67ms
+2017-11-04 22:19:30,027 DEBUG [http-nio-8443-exec-88] c.b.ops.sched.PmRunner - req=88100051 pm tick
+2017-11-04 22:20:05,863 DEBUG [http-nio-8443-exec-31] c.b.ops.sched.PmRunner - req=88100052 pm tick
+2017-11-04 22:20:24,346 INFO  [http-nio-8443-exec-22] c.b.ops.sync.MobileSync - req=88100053 sync ok tenant=king-industries-ltd items=65
+2017-11-04 22:20:36,372 WARN  [http-nio-8443-exec-30] c.b.ops.mail.Sender - req=88100054 SMTP slow 624ms
+2017-11-04 22:21:03,240 DEBUG [http-nio-8443-exec-91] c.b.ops.sched.PmRunner - req=88100055 pm tick
+2017-11-04 22:21:14,587 INFO  [http-nio-8443-exec-196] c.b.ops.sync.MobileSync - req=88100056 sync ok tenant=clark-inns-holdings items=37
+2017-11-04 22:21:43,746 INFO  [http-nio-8443-exec-80] c.b.ops.web.Access - req=88100057 GET /api/v2/workorders 200 540ms
+2017-11-04 22:22:02,203 INFO  [http-nio-8443-exec-193] c.b.ops.sync.MobileSync - req=88100058 sync ok tenant=quarry-logistics-corp items=70
+2017-11-04 22:22:20,082 INFO  [http-nio-8443-exec-166] c.b.ops.sync.MobileSync - req=88100059 sync ok tenant=rivers-unified-schools-holdi items=46
+2017-11-04 22:22:26,066 INFO  [http-nio-8443-exec-176] c.b.ops.web.Access - req=88100060 GET /api/v2/workorders 200 772ms
+2017-11-04 22:22:59,095 DEBUG [http-nio-8443-exec-6] c.b.ops.sched.PmRunner - req=88100061 pm tick
+2017-11-04 22:23:38,024 INFO  [http-nio-8443-exec-114] c.b.ops.sync.MobileSync - req=88100062 sync ok tenant=superior-restoration-co items=38
+2017-11-04 22:23:47,861 INFO  [http-nio-8443-exec-81] c.b.ops.sync.MobileSync - req=88100063 sync ok tenant=rivers-realty-management-hol items=35
+2017-11-04 22:24:11,372 DEBUG [http-nio-8443-exec-129] c.b.ops.sched.PmRunner - req=88100064 pm tick
+2017-11-04 22:24:28,697 WARN  [http-nio-8443-exec-77] c.b.ops.mail.Sender - req=88100065 SMTP slow 654ms
+2017-11-04 22:24:41,064 INFO  [http-nio-8443-exec-193] c.b.ops.web.Access - req=88100066 GET /api/v2/workorders 200 577ms
+2017-11-04 22:24:52,210 DEBUG [http-nio-8443-exec-169] c.b.ops.sched.PmRunner - req=88100067 pm tick
+2017-11-04 22:25:09,176 DEBUG [http-nio-8443-exec-87] c.b.ops.sched.PmRunner - req=88100068 pm tick
+2017-11-04 22:25:28,274 WARN  [http-nio-8443-exec-167] c.b.ops.mail.Sender - req=88100069 SMTP slow 838ms
+2017-11-04 22:25:48,395 DEBUG [http-nio-8443-exec-174] c.b.ops.sched.PmRunner - req=88100070 pm tick
+2017-11-04 22:26:05,255 DEBUG [http-nio-8443-exec-43] c.b.ops.sched.PmRunner - req=88100071 pm tick
+2017-11-04 22:26:33,791 WARN  [http-nio-8443-exec-192] c.b.ops.mail.Sender - req=88100072 SMTP slow 644ms
+2017-11-04 22:27:06,321 INFO  [http-nio-8443-exec-36] c.b.ops.web.Access - req=88100073 GET /api/v2/workorders 200 235ms
+2017-11-04 22:27:26,300 INFO  [http-nio-8443-exec-134] c.b.ops.sync.MobileSync - req=88100074 sync ok tenant=northgate-municipal-services items=72
+2017-11-04 22:27:32,983 DEBUG [http-nio-8443-exec-125] c.b.ops.sched.PmRunner - req=88100075 pm tick
+2017-11-04 22:27:55,581 DEBUG [http-nio-8443-exec-50] c.b.ops.sched.PmRunner - req=88100076 pm tick
+2017-11-04 22:28:33,244 INFO  [http-nio-8443-exec-191] c.b.ops.sync.MobileSync - req=88100077 sync ok tenant=larkspur-restoration-ltd items=3
+2017-11-04 22:29:02,623 WARN  [http-nio-8443-exec-157] c.b.ops.mail.Sender - req=88100078 SMTP slow 715ms
+2017-11-04 22:29:35,060 DEBUG [http-nio-8443-exec-25] c.b.ops.sched.PmRunner - req=88100079 pm tick
+2017-11-04 22:29:54,729 INFO  [http-nio-8443-exec-197] c.b.ops.web.Access - req=88100080 GET /api/v2/workorders 200 744ms
+2017-11-04 22:29:59,283 DEBUG [http-nio-8443-exec-11] c.b.ops.sched.PmRunner - req=88100081 pm tick
+2017-11-04 22:30:12,567 WARN  [http-nio-8443-exec-128] c.b.ops.mail.Sender - req=88100082 SMTP slow 232ms
+2017-11-04 22:30:38,125 WARN  [http-nio-8443-exec-23] c.b.ops.mail.Sender - req=88100083 SMTP slow 696ms
+2017-11-04 22:30:59,404 INFO  [http-nio-8443-exec-160] c.b.ops.sync.MobileSync - req=88100084 sync ok tenant=brown-inns items=60
+2017-11-04 22:31:23,512 INFO  [http-nio-8443-exec-75] c.b.ops.web.Access - req=88100085 GET /api/v2/workorders 200 103ms
+2017-11-04 22:31:53,884 INFO  [http-nio-8443-exec-67] c.b.ops.sync.MobileSync - req=88100086 sync ok tenant=harbortown-stores items=60
+2017-11-04 22:32:27,290 INFO  [http-nio-8443-exec-94] c.b.ops.sync.MobileSync - req=88100087 sync ok tenant=three-county-facilities items=54
+2017-11-04 22:33:06,265 DEBUG [http-nio-8443-exec-29] c.b.ops.sched.PmRunner - req=88100088 pm tick
+2017-11-04 22:33:18,912 INFO  [http-nio-8443-exec-86] c.b.ops.sync.MobileSync - req=88100089 sync ok tenant=gomez-building-services-co items=47
+2017-11-04 22:33:56,369 WARN  [http-nio-8443-exec-87] c.b.ops.mail.Sender - req=88100090 SMTP slow 416ms
+2017-11-04 22:34:15,686 DEBUG [http-nio-8443-exec-84] c.b.ops.sched.PmRunner - req=88100091 pm tick
+2017-11-04 22:34:39,052 WARN  [http-nio-8443-exec-93] c.b.ops.mail.Sender - req=88100092 SMTP slow 585ms
+2017-11-04 22:35:11,504 WARN  [http-nio-8443-exec-19] c.b.ops.mail.Sender - req=88100093 SMTP slow 334ms
+2017-11-04 22:35:27,680 INFO  [http-nio-8443-exec-79] c.b.ops.web.Access - req=88100094 GET /api/v2/workorders 200 212ms
+2017-11-04 22:35:53,796 INFO  [http-nio-8443-exec-181] c.b.ops.web.Access - req=88100095 GET /api/v2/workorders 200 208ms
+2017-11-04 22:36:02,966 INFO  [http-nio-8443-exec-172] c.b.ops.sync.MobileSync - req=88100096 sync ok tenant=harbortown-couriers-llc items=55
+2017-11-04 22:36:30,296 WARN  [http-nio-8443-exec-71] c.b.ops.mail.Sender - req=88100097 SMTP slow 93ms
+2017-11-04 22:36:34,962 INFO  [http-nio-8443-exec-57] c.b.ops.web.Access - req=88100098 GET /api/v2/workorders 200 494ms
+2017-11-04 22:37:12,905 INFO  [http-nio-8443-exec-17] c.b.ops.sync.MobileSync - req=88100099 sync ok tenant=superior-builders-corp items=45
+2017-11-04 22:37:33,720 WARN  [http-nio-8443-exec-186] c.b.ops.mail.Sender - req=88100100 SMTP slow 176ms
+2017-11-04 22:37:51,914 WARN  [http-nio-8443-exec-55] c.b.ops.mail.Sender - req=88100101 SMTP slow 126ms
+2017-11-04 22:38:15,780 WARN  [http-nio-8443-exec-106] c.b.ops.mail.Sender - req=88100102 SMTP slow 799ms
+2017-11-04 22:38:39,205 WARN  [http-nio-8443-exec-155] c.b.ops.mail.Sender - req=88100103 SMTP slow 315ms
+2017-11-04 22:39:00,636 INFO  [http-nio-8443-exec-120] c.b.ops.web.Access - req=88100104 GET /api/v2/workorders 200 515ms
+2017-11-04 22:39:36,754 DEBUG [http-nio-8443-exec-38] c.b.ops.sched.PmRunner - req=88100105 pm tick
+2017-11-04 22:39:40,900 INFO  [http-nio-8443-exec-110] c.b.ops.web.Access - req=88100106 GET /api/v2/workorders 200 821ms
+2017-11-04 22:39:57,983 INFO  [http-nio-8443-exec-36] c.b.ops.sync.MobileSync - req=88100107 sync ok tenant=muskingum-residential-llc items=4
+2017-11-04 22:40:07,497 WARN  [http-nio-8443-exec-184] c.b.ops.mail.Sender - req=88100108 SMTP slow 734ms
+2017-11-04 22:40:41,848 INFO  [http-nio-8443-exec-126] c.b.ops.sync.MobileSync - req=88100109 sync ok tenant=pinecrest-suites-group items=13
+2017-11-04 22:40:48,202 DEBUG [http-nio-8443-exec-30] c.b.ops.sched.PmRunner - req=88100110 pm tick
+2017-11-04 22:40:56,560 INFO  [http-nio-8443-exec-87] c.b.ops.web.Access - req=88100111 GET /api/v2/workorders 200 328ms
+2017-11-04 22:41:33,075 INFO  [http-nio-8443-exec-113] c.b.ops.sync.MobileSync - req=88100112 sync ok tenant=union-school-district-corp items=23
+2017-11-04 22:41:41,771 DEBUG [http-nio-8443-exec-182] c.b.ops.sched.PmRunner - req=88100113 pm tick
+2017-11-04 22:42:19,272 INFO  [http-nio-8443-exec-98] c.b.ops.web.Access - req=88100114 GET /api/v2/workorders 200 763ms
+2017-11-04 22:42:31,111 DEBUG [http-nio-8443-exec-161] c.b.ops.sched.PmRunner - req=88100115 pm tick
+2017-11-04 22:42:47,115 WARN  [http-nio-8443-exec-121] c.b.ops.mail.Sender - req=88100116 SMTP slow 386ms
+2017-11-04 22:43:10,865 DEBUG [http-nio-8443-exec-114] c.b.ops.sched.PmRunner - req=88100117 pm tick
+2017-11-04 22:43:20,375 WARN  [http-nio-8443-exec-176] c.b.ops.mail.Sender - req=88100118 SMTP slow 59ms
+2017-11-04 22:43:51,409 INFO  [http-nio-8443-exec-179] c.b.ops.web.Access - req=88100119 GET /api/v2/workorders 200 477ms
+2017-11-04 22:44:15,193 WARN  [http-nio-8443-exec-43] c.b.ops.mail.Sender - req=88100120 SMTP slow 143ms
+2017-11-04 22:44:34,580 WARN  [http-nio-8443-exec-24] c.b.ops.mail.Sender - req=88100121 SMTP slow 333ms
+2017-11-04 22:44:39,307 WARN  [http-nio-8443-exec-121] c.b.ops.mail.Sender - req=88100122 SMTP slow 585ms
+2017-11-04 22:45:09,590 INFO  [http-nio-8443-exec-157] c.b.ops.sync.MobileSync - req=88100123 sync ok tenant=cedar-janitorial-inc items=42
+2017-11-04 22:45:30,510 WARN  [http-nio-8443-exec-106] c.b.ops.mail.Sender - req=88100124 SMTP slow 527ms
+2017-11-04 22:46:03,010 WARN  [http-nio-8443-exec-61] c.b.ops.mail.Sender - req=88100125 SMTP slow 21ms
+2017-11-04 22:46:35,114 DEBUG [http-nio-8443-exec-147] c.b.ops.sched.PmRunner - req=88100126 pm tick
+2017-11-04 22:46:39,910 WARN  [http-nio-8443-exec-10] c.b.ops.mail.Sender - req=88100127 SMTP slow 507ms
+2017-11-04 22:46:46,969 DEBUG [http-nio-8443-exec-181] c.b.ops.sched.PmRunner - req=88100128 pm tick
+2017-11-04 22:47:17,097 INFO  [http-nio-8443-exec-164] c.b.ops.sync.MobileSync - req=88100129 sync ok tenant=goodenough-properties items=68
+2017-11-04 22:47:34,079 INFO  [http-nio-8443-exec-185] c.b.ops.sync.MobileSync - req=88100130 sync ok tenant=baker-municipal-services items=76
+2017-11-04 22:47:57,579 DEBUG [http-nio-8443-exec-112] c.b.ops.sched.PmRunner - req=88100131 pm tick
+2017-11-04 22:48:05,350 INFO  [http-nio-8443-exec-155] c.b.ops.sync.MobileSync - req=88100132 sync ok tenant=harbortown-retail-group-grou items=2
+2017-11-04 22:48:11,546 DEBUG [http-nio-8443-exec-44] c.b.ops.sched.PmRunner - req=88100133 pm tick
+2017-11-04 22:48:17,159 INFO  [http-nio-8443-exec-174] c.b.ops.sync.MobileSync - req=88100134 sync ok tenant=heritage-property-services-h items=9
+2017-11-04 22:48:54,093 DEBUG [http-nio-8443-exec-14] c.b.ops.sched.PmRunner - req=88100135 pm tick
+2017-11-04 22:49:13,906 WARN  [http-nio-8443-exec-63] c.b.ops.mail.Sender - req=88100136 SMTP slow 811ms
+2017-11-04 22:49:22,018 DEBUG [http-nio-8443-exec-178] c.b.ops.sched.PmRunner - req=88100137 pm tick
+2017-11-04 22:49:26,716 WARN  [http-nio-8443-exec-25] c.b.ops.mail.Sender - req=88100138 SMTP slow 876ms
+2017-11-04 22:49:36,706 INFO  [http-nio-8443-exec-91] c.b.ops.sync.MobileSync - req=88100139 sync ok tenant=martinez-mechanical-corp items=76
+2017-11-04 22:49:52,858 DEBUG [http-nio-8443-exec-142] c.b.ops.sched.PmRunner - req=88100140 pm tick
+2017-11-04 22:50:16,351 INFO  [http-nio-8443-exec-17] c.b.ops.web.Access - req=88100141 GET /api/v2/workorders 200 209ms
+2017-11-04 22:50:39,386 INFO  [http-nio-8443-exec-69] c.b.ops.web.Access - req=88100142 GET /api/v2/workorders 200 490ms
+2017-11-04 22:51:03,701 DEBUG [http-nio-8443-exec-96] c.b.ops.sched.PmRunner - req=88100143 pm tick
+2017-11-04 22:51:19,402 DEBUG [http-nio-8443-exec-9] c.b.ops.sched.PmRunner - req=88100144 pm tick
+2017-11-04 22:51:47,351 INFO  [http-nio-8443-exec-14] c.b.ops.web.Access - req=88100145 GET /api/v2/workorders 200 98ms
+2017-11-04 22:51:52,268 INFO  [http-nio-8443-exec-71] c.b.ops.sync.MobileSync - req=88100146 sync ok tenant=liberty-township-holdings items=2
+2017-11-04 22:52:01,473 WARN  [http-nio-8443-exec-51] c.b.ops.mail.Sender - req=88100147 SMTP slow 764ms
+2017-11-04 22:52:10,611 INFO  [http-nio-8443-exec-156] c.b.ops.web.Access - req=88100148 GET /api/v2/workorders 200 564ms
+2017-11-04 22:52:41,671 DEBUG [http-nio-8443-exec-43] c.b.ops.sched.PmRunner - req=88100149 pm tick
+2017-11-04 22:52:59,025 INFO  [http-nio-8443-exec-126] c.b.ops.web.Access - req=88100150 GET /api/v2/workorders 200 370ms
+2017-11-04 22:53:37,468 DEBUG [http-nio-8443-exec-50] c.b.ops.sched.PmRunner - req=88100151 pm tick
+2017-11-04 22:53:43,305 INFO  [http-nio-8443-exec-139] c.b.ops.web.Access - req=88100152 GET /api/v2/workorders 200 209ms
+2017-11-04 22:54:20,662 DEBUG [http-nio-8443-exec-19] c.b.ops.sched.PmRunner - req=88100153 pm tick
+2017-11-04 22:54:45,382 INFO  [http-nio-8443-exec-187] c.b.ops.web.Access - req=88100154 GET /api/v2/workorders 200 858ms
+2017-11-04 22:54:54,869 WARN  [http-nio-8443-exec-12] c.b.ops.mail.Sender - req=88100155 SMTP slow 342ms
+2017-11-04 22:55:21,143 WARN  [http-nio-8443-exec-124] c.b.ops.mail.Sender - req=88100156 SMTP slow 432ms
+2017-11-04 22:55:52,375 WARN  [http-nio-8443-exec-179] c.b.ops.mail.Sender - req=88100157 SMTP slow 705ms
+2017-11-04 22:56:27,086 WARN  [http-nio-8443-exec-63] c.b.ops.mail.Sender - req=88100158 SMTP slow 116ms
+2017-11-04 22:56:49,181 INFO  [http-nio-8443-exec-145] c.b.ops.web.Access - req=88100159 GET /api/v2/workorders 200 505ms
+2017-11-04 22:57:14,448 INFO  [http-nio-8443-exec-122] c.b.ops.web.Access - req=88100160 GET /api/v2/workorders 200 763ms
+2017-11-04 22:57:52,320 WARN  [http-nio-8443-exec-23] c.b.ops.mail.Sender - req=88100161 SMTP slow 403ms
+2017-11-04 22:58:09,498 INFO  [http-nio-8443-exec-106] c.b.ops.sync.MobileSync - req=88100162 sync ok tenant=huron-health-partners items=18
+2017-11-04 22:58:38,262 INFO  [http-nio-8443-exec-38] c.b.ops.web.Access - req=88100163 GET /api/v2/workorders 200 85ms
+2017-11-04 22:58:54,788 INFO  [http-nio-8443-exec-141] c.b.ops.sync.MobileSync - req=88100164 sync ok tenant=collins-mechanical-ltd items=40
+2017-11-04 22:59:00,378 WARN  [http-nio-8443-exec-94] c.b.ops.mail.Sender - req=88100165 SMTP slow 423ms
+2017-11-04 22:59:18,453 INFO  [http-nio-8443-exec-168] c.b.ops.sync.MobileSync - req=88100166 sync ok tenant=lavoie-unified-schools items=23
+2017-11-04 22:59:31,671 INFO  [http-nio-8443-exec-115] c.b.ops.web.Access - req=88100167 GET /api/v2/workorders 200 542ms
+2017-11-04 22:59:58,927 INFO  [http-nio-8443-exec-153] c.b.ops.web.Access - req=88100168 GET /api/v2/workorders 200 545ms
+2017-11-04 23:00:28,685 WARN  [http-nio-8443-exec-138] c.b.ops.mail.Sender - req=88100169 SMTP slow 823ms
+2017-11-04 23:00:38,136 INFO  [http-nio-8443-exec-45] c.b.ops.sync.MobileSync - req=88100170 sync ok tenant=iyer-freight items=9
+2017-11-04 23:00:42,282 INFO  [http-nio-8443-exec-179] c.b.ops.web.Access - req=88100171 GET /api/v2/workorders 200 186ms
+2017-11-04 23:00:59,210 INFO  [http-nio-8443-exec-40] c.b.ops.sync.MobileSync - req=88100172 sync ok tenant=lakeshore-hotels items=49
+2017-11-04 23:01:22,823 DEBUG [http-nio-8443-exec-25] c.b.ops.sched.PmRunner - req=88100173 pm tick
+2017-11-04 23:01:58,018 INFO  [http-nio-8443-exec-143] c.b.ops.web.Access - req=88100174 GET /api/v2/workorders 200 679ms
+2017-11-04 23:02:22,984 DEBUG [http-nio-8443-exec-54] c.b.ops.sched.PmRunner - req=88100175 pm tick
+2017-11-04 23:02:35,598 INFO  [http-nio-8443-exec-70] c.b.ops.web.Access - req=88100176 GET /api/v2/workorders 200 115ms
+2017-11-04 23:03:05,307 DEBUG [http-nio-8443-exec-130] c.b.ops.sched.PmRunner - req=88100177 pm tick
+2017-11-04 23:03:21,668 INFO  [http-nio-8443-exec-20] c.b.ops.web.Access - req=88100178 GET /api/v2/workorders 200 766ms
+2017-11-04 23:03:37,641 DEBUG [http-nio-8443-exec-178] c.b.ops.sched.PmRunner - req=88100179 pm tick
+2017-11-04 23:03:59,045 DEBUG [http-nio-8443-exec-30] c.b.ops.sched.PmRunner - req=88100180 pm tick
+2017-11-04 23:04:33,362 WARN  [http-nio-8443-exec-141] c.b.ops.mail.Sender - req=88100181 SMTP slow 738ms
+2017-11-04 23:04:43,506 DEBUG [http-nio-8443-exec-166] c.b.ops.sched.PmRunner - req=88100182 pm tick
+2017-11-04 23:04:59,739 WARN  [http-nio-8443-exec-179] c.b.ops.mail.Sender - req=88100183 SMTP slow 347ms
+2017-11-04 23:05:14,747 INFO  [http-nio-8443-exec-200] c.b.ops.web.Access - req=88100184 GET /api/v2/workorders 200 684ms
+2017-11-04 23:05:35,810 DEBUG [http-nio-8443-exec-111] c.b.ops.sched.PmRunner - req=88100185 pm tick
+2017-11-04 23:05:52,004 INFO  [http-nio-8443-exec-74] c.b.ops.web.Access - req=88100186 GET /api/v2/workorders 200 330ms
+2017-11-04 23:05:59,854 WARN  [http-nio-8443-exec-88] c.b.ops.mail.Sender - req=88100187 SMTP slow 205ms
+2017-11-04 23:06:35,328 INFO  [http-nio-8443-exec-129] c.b.ops.web.Access - req=88100188 GET /api/v2/workorders 200 356ms
+2017-11-04 23:06:46,484 INFO  [http-nio-8443-exec-11] c.b.ops.web.Access - req=88100189 GET /api/v2/workorders 200 758ms
+2017-11-04 23:07:19,371 INFO  [http-nio-8443-exec-23] c.b.ops.web.Access - req=88100190 GET /api/v2/workorders 200 41ms
+2017-11-04 23:07:59,566 DEBUG [http-nio-8443-exec-113] c.b.ops.sched.PmRunner - req=88100191 pm tick
+2017-11-04 23:08:10,048 DEBUG [http-nio-8443-exec-122] c.b.ops.sched.PmRunner - req=88100192 pm tick
+2017-11-04 23:08:18,722 INFO  [http-nio-8443-exec-103] c.b.ops.web.Access - req=88100193 GET /api/v2/workorders 200 562ms
+2017-11-04 23:08:51,398 INFO  [http-nio-8443-exec-90] c.b.ops.web.Access - req=88100194 GET /api/v2/workorders 200 454ms
+2017-11-04 23:09:02,692 DEBUG [http-nio-8443-exec-94] c.b.ops.sched.PmRunner - req=88100195 pm tick
+2017-11-04 23:09:34,591 INFO  [http-nio-8443-exec-189] c.b.ops.web.Access - req=88100196 GET /api/v2/workorders 200 634ms
+2017-11-04 23:09:43,301 INFO  [http-nio-8443-exec-53] c.b.ops.sync.MobileSync - req=88100197 sync ok tenant=lindenwood-builders-group items=1
+2017-11-04 23:10:08,190 INFO  [http-nio-8443-exec-53] c.b.ops.sync.MobileSync - req=88100198 sync ok tenant=tidewater-residential-co items=16
+2017-11-04 23:10:27,937 INFO  [http-nio-8443-exec-52] c.b.ops.sync.MobileSync - req=88100199 sync ok tenant=sierra-works-holdings items=28
+2017-11-04 23:11:01,402 WARN  [http-nio-8443-exec-120] c.b.ops.mail.Sender - req=88100200 SMTP slow 659ms
+2017-11-04 23:11:26,488 WARN  [http-nio-8443-exec-187] c.b.ops.mail.Sender - req=88100201 SMTP slow 180ms
+2017-11-04 23:12:02,060 WARN  [http-nio-8443-exec-124] c.b.ops.mail.Sender - req=88100202 SMTP slow 533ms
+2017-11-04 23:12:31,850 DEBUG [http-nio-8443-exec-61] c.b.ops.sched.PmRunner - req=88100203 pm tick
+2017-11-04 23:12:53,340 DEBUG [http-nio-8443-exec-95] c.b.ops.sched.PmRunner - req=88100204 pm tick
+2017-11-04 23:13:14,663 WARN  [http-nio-8443-exec-15] c.b.ops.mail.Sender - req=88100205 SMTP slow 824ms
+2017-11-04 23:13:39,568 DEBUG [http-nio-8443-exec-51] c.b.ops.sched.PmRunner - req=88100206 pm tick
+2017-11-04 23:14:03,554 DEBUG [http-nio-8443-exec-152] c.b.ops.sched.PmRunner - req=88100207 pm tick
+2017-11-04 23:14:42,694 INFO  [http-nio-8443-exec-150] c.b.ops.web.Access - req=88100208 GET /api/v2/workorders 200 847ms
+2017-11-04 23:15:08,107 WARN  [http-nio-8443-exec-101] c.b.ops.mail.Sender - req=88100209 SMTP slow 443ms
+2017-11-04 23:15:27,840 INFO  [http-nio-8443-exec-133] c.b.ops.sync.MobileSync - req=88100210 sync ok tenant=rivers-freight-llc items=18
+2017-11-04 23:16:00,973 INFO  [http-nio-8443-exec-48] c.b.ops.sync.MobileSync - req=88100211 sync ok tenant=ravenwood-construction-llc items=7
+2017-11-04 23:16:10,192 INFO  [http-nio-8443-exec-9] c.b.ops.sync.MobileSync - req=88100212 sync ok tenant=hargreaves-health-system items=54
+2017-11-04 23:16:25,866 WARN  [http-nio-8443-exec-61] c.b.ops.mail.Sender - req=88100213 SMTP slow 876ms
+2017-11-04 23:16:56,351 DEBUG [http-nio-8443-exec-191] c.b.ops.sched.PmRunner - req=88100214 pm tick
+2017-11-04 23:17:34,239 INFO  [http-nio-8443-exec-109] c.b.ops.sync.MobileSync - req=88100215 sync ok tenant=meadowlark-mills-corp items=12
+2017-11-04 23:18:02,297 WARN  [http-nio-8443-exec-45] c.b.ops.mail.Sender - req=88100216 SMTP slow 801ms
+2017-11-04 23:18:10,762 DEBUG [http-nio-8443-exec-159] c.b.ops.sched.PmRunner - req=88100217 pm tick
+2017-11-04 23:18:34,528 DEBUG [http-nio-8443-exec-180] c.b.ops.sched.PmRunner - req=88100218 pm tick
+2017-11-04 23:18:57,791 INFO  [http-nio-8443-exec-54] c.b.ops.sync.MobileSync - req=88100219 sync ok tenant=kingsley-college-llc items=21
+2017-11-04 23:19:32,410 INFO  [http-nio-8443-exec-30] c.b.ops.sync.MobileSync - req=88100220 sync ok tenant=juniper-couriers-llc items=78
+2017-11-04 23:20:09,936 INFO  [http-nio-8443-exec-33] c.b.ops.web.Access - req=88100221 GET /api/v2/workorders 200 787ms
+2017-11-04 23:20:42,880 WARN  [http-nio-8443-exec-36] c.b.ops.mail.Sender - req=88100222 SMTP slow 182ms
+2017-11-04 23:20:54,321 WARN  [http-nio-8443-exec-64] c.b.ops.mail.Sender - req=88100223 SMTP slow 712ms
+2017-11-04 23:21:30,417 INFO  [http-nio-8443-exec-85] c.b.ops.web.Access - req=88100224 GET /api/v2/workorders 200 894ms
+2017-11-04 23:21:47,411 INFO  [http-nio-8443-exec-31] c.b.ops.web.Access - req=88100225 GET /api/v2/workorders 200 537ms
+2017-11-04 23:22:16,466 INFO  [http-nio-8443-exec-112] c.b.ops.sync.MobileSync - req=88100226 sync ok tenant=morales-properties items=14
+2017-11-04 23:22:32,358 WARN  [http-nio-8443-exec-92] c.b.ops.mail.Sender - req=88100227 SMTP slow 802ms
+2017-11-04 23:22:44,823 DEBUG [http-nio-8443-exec-35] c.b.ops.sched.PmRunner - req=88100228 pm tick
+2017-11-04 23:23:00,931 DEBUG [http-nio-8443-exec-188] c.b.ops.sched.PmRunner - req=88100229 pm tick
+2017-11-04 23:23:14,845 WARN  [http-nio-8443-exec-57] c.b.ops.mail.Sender - req=88100230 SMTP slow 375ms
+2017-11-04 23:23:41,781 INFO  [http-nio-8443-exec-168] c.b.ops.sync.MobileSync - req=88100231 sync ok tenant=quarry-works items=20
+2017-11-04 23:24:08,982 INFO  [http-nio-8443-exec-51] c.b.ops.sync.MobileSync - req=88100232 sync ok tenant=clearwater-logistics items=65
+2017-11-04 23:24:12,316 INFO  [http-nio-8443-exec-188] c.b.ops.sync.MobileSync - req=88100233 sync ok tenant=whitlock-builders-corp items=19
+2017-11-04 23:24:16,303 WARN  [http-nio-8443-exec-182] c.b.ops.mail.Sender - req=88100234 SMTP slow 285ms
+2017-11-04 23:24:56,416 WARN  [http-nio-8443-exec-49] c.b.ops.mail.Sender - req=88100235 SMTP slow 520ms
+2017-11-04 23:25:04,275 INFO  [http-nio-8443-exec-190] c.b.ops.web.Access - req=88100236 GET /api/v2/workorders 200 67ms
+2017-11-04 23:25:12,474 INFO  [http-nio-8443-exec-71] c.b.ops.sync.MobileSync - req=88100237 sync ok tenant=frontier-resorts-holdings items=44
+2017-11-04 23:25:52,951 DEBUG [http-nio-8443-exec-76] c.b.ops.sched.PmRunner - req=88100238 pm tick
+2017-11-04 23:26:10,618 INFO  [http-nio-8443-exec-160] c.b.ops.web.Access - req=88100239 GET /api/v2/workorders 200 632ms
+2017-11-04 23:26:26,550 DEBUG [http-nio-8443-exec-17] c.b.ops.sched.PmRunner - req=88100240 pm tick
+2017-11-04 23:26:31,846 DEBUG [http-nio-8443-exec-179] c.b.ops.sched.PmRunner - req=88100241 pm tick
+2017-11-04 23:26:48,753 INFO  [http-nio-8443-exec-80] c.b.ops.web.Access - req=88100242 GET /api/v2/workorders 200 367ms
+2017-11-04 23:27:27,025 INFO  [http-nio-8443-exec-106] c.b.ops.web.Access - req=88100243 GET /api/v2/workorders 200 304ms
+2017-11-04 23:27:40,074 INFO  [http-nio-8443-exec-138] c.b.ops.web.Access - req=88100244 GET /api/v2/workorders 200 724ms
+2017-11-04 23:28:11,476 INFO  [http-nio-8443-exec-64] c.b.ops.web.Access - req=88100245 GET /api/v2/workorders 200 853ms
+2017-11-04 23:28:46,083 DEBUG [http-nio-8443-exec-1] c.b.ops.sched.PmRunner - req=88100246 pm tick
+2017-11-04 23:29:18,982 INFO  [http-nio-8443-exec-103] c.b.ops.sync.MobileSync - req=88100247 sync ok tenant=blackhawk-school-district-in items=24
+2017-11-04 23:29:32,169 WARN  [http-nio-8443-exec-135] c.b.ops.mail.Sender - req=88100248 SMTP slow 273ms
+2017-11-04 23:29:46,465 DEBUG [http-nio-8443-exec-101] c.b.ops.sched.PmRunner - req=88100249 pm tick
+2017-11-04 23:30:15,896 INFO  [http-nio-8443-exec-110] c.b.ops.sync.MobileSync - req=88100250 sync ok tenant=hawthorne-property-services- items=6
+2017-11-04 23:30:39,559 INFO  [http-nio-8443-exec-148] c.b.ops.web.Access - req=88100251 GET /api/v2/workorders 200 278ms
+2017-11-04 23:30:48,682 INFO  [http-nio-8443-exec-51] c.b.ops.sync.MobileSync - req=88100252 sync ok tenant=silverleaf-retail-group items=70
+2017-11-04 23:31:27,759 WARN  [http-nio-8443-exec-31] c.b.ops.mail.Sender - req=88100253 SMTP slow 516ms
+2017-11-04 23:31:49,757 DEBUG [http-nio-8443-exec-66] c.b.ops.sched.PmRunner - req=88100254 pm tick
+2017-11-04 23:32:10,182 INFO  [http-nio-8443-exec-21] c.b.ops.web.Access - req=88100255 GET /api/v2/workorders 200 580ms
+2017-11-04 23:32:15,897 DEBUG [http-nio-8443-exec-183] c.b.ops.sched.PmRunner - req=88100256 pm tick
+2017-11-04 23:32:50,572 INFO  [http-nio-8443-exec-53] c.b.ops.web.Access - req=88100257 GET /api/v2/workorders 200 604ms
+2017-11-04 23:33:02,487 DEBUG [http-nio-8443-exec-83] c.b.ops.sched.PmRunner - req=88100258 pm tick
+2017-11-04 23:33:42,839 INFO  [http-nio-8443-exec-178] c.b.ops.web.Access - req=88100259 GET /api/v2/workorders 200 54ms
+2017-11-04 23:33:47,966 DEBUG [http-nio-8443-exec-97] c.b.ops.sched.PmRunner - req=88100260 pm tick
+2017-11-04 23:33:52,950 INFO  [http-nio-8443-exec-197] c.b.ops.web.Access - req=88100261 GET /api/v2/workorders 200 386ms
+2017-11-04 23:34:05,750 INFO  [http-nio-8443-exec-151] c.b.ops.sync.MobileSync - req=88100262 sync ok tenant=foxglove-retail-group items=13
+2017-11-04 23:34:10,510 INFO  [http-nio-8443-exec-77] c.b.ops.web.Access - req=88100263 GET /api/v2/workorders 200 307ms
+2017-11-04 23:34:33,905 INFO  [http-nio-8443-exec-149] c.b.ops.sync.MobileSync - req=88100264 sync ok tenant=allen-outfitters items=69
+2017-11-04 23:35:00,846 INFO  [http-nio-8443-exec-50] c.b.ops.sync.MobileSync - req=88100265 sync ok tenant=ostrander-inns-co items=76
+2017-11-04 23:35:14,902 DEBUG [http-nio-8443-exec-111] c.b.ops.sched.PmRunner - req=88100266 pm tick
+2017-11-04 23:35:42,360 DEBUG [http-nio-8443-exec-191] c.b.ops.sched.PmRunner - req=88100267 pm tick
+2017-11-04 23:36:18,319 INFO  [http-nio-8443-exec-166] c.b.ops.web.Access - req=88100268 GET /api/v2/workorders 200 432ms
+2017-11-04 23:36:36,906 INFO  [http-nio-8443-exec-11] c.b.ops.sync.MobileSync - req=88100269 sync ok tenant=plains-academy items=64
+2017-11-04 23:37:10,562 DEBUG [http-nio-8443-exec-5] c.b.ops.sched.PmRunner - req=88100270 pm tick
+2017-11-04 23:37:30,826 DEBUG [http-nio-8443-exec-197] c.b.ops.sched.PmRunner - req=88100271 pm tick
+2017-11-04 23:37:50,705 DEBUG [http-nio-8443-exec-91] c.b.ops.sched.PmRunner - req=88100272 pm tick
+2017-11-04 23:38:21,788 INFO  [http-nio-8443-exec-115] c.b.ops.web.Access - req=88100273 GET /api/v2/workorders 200 387ms
+2017-11-04 23:38:42,557 WARN  [http-nio-8443-exec-113] c.b.ops.mail.Sender - req=88100274 SMTP slow 292ms
+2017-11-04 23:39:16,859 INFO  [http-nio-8443-exec-39] c.b.ops.sync.MobileSync - req=88100275 sync ok tenant=flores-hospital items=21
+2017-11-04 23:39:27,566 INFO  [http-nio-8443-exec-80] c.b.ops.sync.MobileSync - req=88100276 sync ok tenant=northgate-construction items=63
+2017-11-04 23:39:41,340 WARN  [http-nio-8443-exec-184] c.b.ops.mail.Sender - req=88100277 SMTP slow 704ms
+2017-11-04 23:40:00,591 INFO  [http-nio-8443-exec-177] c.b.ops.web.Access - req=88100278 GET /api/v2/workorders 200 457ms
+2017-11-04 23:40:40,341 INFO  [http-nio-8443-exec-200] c.b.ops.web.Access - req=88100279 GET /api/v2/workorders 200 324ms
+2017-11-04 23:41:06,592 DEBUG [http-nio-8443-exec-25] c.b.ops.sched.PmRunner - req=88100280 pm tick
+2017-11-04 23:41:17,446 DEBUG [http-nio-8443-exec-195] c.b.ops.sched.PmRunner - req=88100281 pm tick
+2017-11-04 23:41:40,078 INFO  [http-nio-8443-exec-86] c.b.ops.web.Access - req=88100282 GET /api/v2/workorders 200 62ms
+2017-11-04 23:42:04,955 DEBUG [http-nio-8443-exec-40] c.b.ops.sched.PmRunner - req=88100283 pm tick
+2017-11-04 23:42:42,747 WARN  [http-nio-8443-exec-83] c.b.ops.mail.Sender - req=88100284 SMTP slow 201ms
+2017-11-04 23:43:01,708 INFO  [http-nio-8443-exec-189] c.b.ops.web.Access - req=88100285 GET /api/v2/workorders 200 84ms
+2017-11-04 23:43:28,894 INFO  [http-nio-8443-exec-172] c.b.ops.web.Access - req=88100286 GET /api/v2/workorders 200 298ms
+2017-11-04 23:43:51,187 WARN  [http-nio-8443-exec-76] c.b.ops.mail.Sender - req=88100287 SMTP slow 755ms
+2017-11-04 23:44:23,051 WARN  [http-nio-8443-exec-45] c.b.ops.mail.Sender - req=88100288 SMTP slow 690ms
+2017-11-04 23:44:42,280 WARN  [http-nio-8443-exec-198] c.b.ops.mail.Sender - req=88100289 SMTP slow 606ms
+2017-11-04 23:44:50,448 INFO  [http-nio-8443-exec-122] c.b.ops.web.Access - req=88100290 GET /api/v2/workorders 200 148ms
+2017-11-04 23:44:57,767 INFO  [http-nio-8443-exec-69] c.b.ops.web.Access - req=88100291 GET /api/v2/workorders 200 612ms
+2017-11-04 23:45:19,947 INFO  [http-nio-8443-exec-128] c.b.ops.web.Access - req=88100292 GET /api/v2/workorders 200 898ms
+2017-11-04 23:45:24,615 INFO  [http-nio-8443-exec-59] c.b.ops.sync.MobileSync - req=88100293 sync ok tenant=lee-residential items=71
+2017-11-04 23:45:44,762 DEBUG [http-nio-8443-exec-12] c.b.ops.sched.PmRunner - req=88100294 pm tick
+2017-11-04 23:45:49,072 WARN  [http-nio-8443-exec-40] c.b.ops.mail.Sender - req=88100295 SMTP slow 358ms
+2017-11-04 23:45:56,925 WARN  [http-nio-8443-exec-35] c.b.ops.mail.Sender - req=88100296 SMTP slow 145ms
+2017-11-04 23:46:09,742 DEBUG [http-nio-8443-exec-8] c.b.ops.sched.PmRunner - req=88100297 pm tick
+2017-11-04 23:46:47,133 INFO  [http-nio-8443-exec-87] c.b.ops.web.Access - req=88100298 GET /api/v2/workorders 200 640ms
+2017-11-04 23:47:03,179 INFO  [http-nio-8443-exec-18] c.b.ops.web.Access - req=88100299 GET /api/v2/workorders 200 549ms
+2017-11-04 23:47:12,972 INFO  [http-nio-8443-exec-186] c.b.ops.sync.MobileSync - req=88100300 sync ok tenant=patriot-municipal-services items=34
+2017-11-04 23:47:46,644 INFO  [http-nio-8443-exec-69] c.b.ops.sync.MobileSync - req=88100301 sync ok tenant=huron-hotels-group items=28
+2017-11-04 23:48:06,614 INFO  [http-nio-8443-exec-41] c.b.ops.web.Access - req=88100302 GET /api/v2/workorders 200 599ms
+2017-11-04 23:48:44,282 WARN  [http-nio-8443-exec-156] c.b.ops.mail.Sender - req=88100303 SMTP slow 575ms
+2017-11-04 23:49:05,812 WARN  [http-nio-8443-exec-40] c.b.ops.mail.Sender - req=88100304 SMTP slow 500ms
+2017-11-04 23:49:16,788 WARN  [http-nio-8443-exec-194] c.b.ops.mail.Sender - req=88100305 SMTP slow 355ms
+2017-11-04 23:49:42,353 INFO  [http-nio-8443-exec-109] c.b.ops.sync.MobileSync - req=88100306 sync ok tenant=muskingum-college-corp items=17
+2017-11-04 23:50:07,418 INFO  [http-nio-8443-exec-41] c.b.ops.web.Access - req=88100307 GET /api/v2/workorders 200 261ms
+2017-11-04 23:50:16,014 INFO  [http-nio-8443-exec-138] c.b.ops.web.Access - req=88100308 GET /api/v2/workorders 200 182ms
+2017-11-04 23:50:25,469 INFO  [http-nio-8443-exec-85] c.b.ops.sync.MobileSync - req=88100309 sync ok tenant=muskingum-homes-ltd items=16
+2017-11-04 23:50:39,646 INFO  [http-nio-8443-exec-161] c.b.ops.sync.MobileSync - req=88100310 sync ok tenant=saguaro-medical-center items=70
+2017-11-04 23:50:51,549 INFO  [http-nio-8443-exec-192] c.b.ops.sync.MobileSync - req=88100311 sync ok tenant=quarry-construction-co items=71
+2017-11-04 23:50:55,290 WARN  [http-nio-8443-exec-79] c.b.ops.mail.Sender - req=88100312 SMTP slow 267ms
+2017-11-04 23:51:31,425 DEBUG [http-nio-8443-exec-146] c.b.ops.sched.PmRunner - req=88100313 pm tick
+2017-11-04 23:52:04,584 DEBUG [http-nio-8443-exec-186] c.b.ops.sched.PmRunner - req=88100314 pm tick
+2017-11-04 23:52:32,179 WARN  [http-nio-8443-exec-168] c.b.ops.mail.Sender - req=88100315 SMTP slow 818ms
+2017-11-04 23:53:11,268 INFO  [http-nio-8443-exec-138] c.b.ops.web.Access - req=88100316 GET /api/v2/workorders 200 487ms
+2017-11-04 23:53:50,452 INFO  [http-nio-8443-exec-25] c.b.ops.web.Access - req=88100317 GET /api/v2/workorders 200 341ms
+2017-11-04 23:54:18,056 DEBUG [http-nio-8443-exec-148] c.b.ops.sched.PmRunner - req=88100318 pm tick
+2017-11-04 23:54:24,699 WARN  [http-nio-8443-exec-29] c.b.ops.mail.Sender - req=88100319 SMTP slow 800ms
+2017-11-04 23:55:02,576 INFO  [http-nio-8443-exec-111] c.b.ops.sync.MobileSync - req=88100320 sync ok tenant=alvarez-distribution items=32
+2017-11-04 23:55:36,229 INFO  [http-nio-8443-exec-180] c.b.ops.sync.MobileSync - req=88100321 sync ok tenant=magnolia-property-services-h items=26
+2017-11-04 23:55:43,990 WARN  [http-nio-8443-exec-132] c.b.ops.mail.Sender - req=88100322 SMTP slow 443ms
+2017-11-04 23:56:12,609 INFO  [http-nio-8443-exec-137] c.b.ops.sync.MobileSync - req=88100323 sync ok tenant=lakeshore-warehousing-group items=63
+2017-11-04 23:56:23,358 WARN  [http-nio-8443-exec-79] c.b.ops.mail.Sender - req=88100324 SMTP slow 207ms
+2017-11-04 23:56:50,991 WARN  [http-nio-8443-exec-123] c.b.ops.mail.Sender - req=88100325 SMTP slow 182ms
+2017-11-04 23:57:28,698 WARN  [http-nio-8443-exec-4] c.b.ops.mail.Sender - req=88100326 SMTP slow 130ms
+2017-11-04 23:57:50,346 INFO  [http-nio-8443-exec-93] c.b.ops.sync.MobileSync - req=88100327 sync ok tenant=superior-mills-llc items=5
+2017-11-04 23:58:00,138 DEBUG [http-nio-8443-exec-114] c.b.ops.sched.PmRunner - req=88100328 pm tick
+2017-11-04 23:58:34,654 DEBUG [http-nio-8443-exec-45] c.b.ops.sched.PmRunner - req=88100329 pm tick
+2017-11-04 23:59:09,788 WARN  [http-nio-8443-exec-130] c.b.ops.mail.Sender - req=88100330 SMTP slow 524ms
+2017-11-04 23:59:16,440 DEBUG [http-nio-8443-exec-169] c.b.ops.sched.PmRunner - req=88100331 pm tick
+2017-11-04 23:59:50,451 WARN  [http-nio-8443-exec-116] c.b.ops.mail.Sender - req=88100332 SMTP slow 720ms
+2017-11-05 00:00:24,224 WARN  [http-nio-8443-exec-125] c.b.ops.mail.Sender - req=88100333 SMTP slow 583ms
+2017-11-05 00:00:55,999 DEBUG [http-nio-8443-exec-140] c.b.ops.sched.PmRunner - req=88100334 pm tick
+2017-11-05 00:01:20,122 INFO  [http-nio-8443-exec-41] c.b.ops.sync.MobileSync - req=88100335 sync ok tenant=morales-clinics-llc items=29
+2017-11-05 00:01:37,396 DEBUG [http-nio-8443-exec-151] c.b.ops.sched.PmRunner - req=88100336 pm tick
+2017-11-05 00:02:16,750 WARN  [http-nio-8443-exec-199] c.b.ops.mail.Sender - req=88100337 SMTP slow 687ms
+2017-11-05 00:02:32,569 WARN  [http-nio-8443-exec-70] c.b.ops.mail.Sender - req=88100338 SMTP slow 367ms
+2017-11-05 00:02:49,682 INFO  [http-nio-8443-exec-140] c.b.ops.sync.MobileSync - req=88100339 sync ok tenant=price-jones-hotels items=45
+2017-11-05 00:03:13,090 WARN  [http-nio-8443-exec-187] c.b.ops.mail.Sender - req=88100340 SMTP slow 698ms
+2017-11-05 00:03:23,125 INFO  [http-nio-8443-exec-178] c.b.ops.web.Access - req=88100341 GET /api/v2/workorders 200 186ms
+2017-11-05 00:03:36,598 DEBUG [http-nio-8443-exec-153] c.b.ops.sched.PmRunner - req=88100342 pm tick
+2017-11-05 00:03:54,880 INFO  [http-nio-8443-exec-102] c.b.ops.web.Access - req=88100343 GET /api/v2/workorders 200 814ms
+2017-11-05 00:04:07,064 DEBUG [http-nio-8443-exec-124] c.b.ops.sched.PmRunner - req=88100344 pm tick
+2017-11-05 00:04:23,977 WARN  [http-nio-8443-exec-126] c.b.ops.mail.Sender - req=88100345 SMTP slow 761ms
+2017-11-05 00:04:36,921 INFO  [http-nio-8443-exec-178] c.b.ops.web.Access - req=88100346 GET /api/v2/workorders 200 606ms
+2017-11-05 00:05:13,226 WARN  [http-nio-8443-exec-135] c.b.ops.mail.Sender - req=88100347 SMTP slow 899ms
+2017-11-05 00:05:51,961 DEBUG [http-nio-8443-exec-54] c.b.ops.sched.PmRunner - req=88100348 pm tick
+2017-11-05 00:05:59,964 INFO  [http-nio-8443-exec-67] c.b.ops.web.Access - req=88100349 GET /api/v2/workorders 200 674ms
+2017-11-05 00:06:36,395 INFO  [http-nio-8443-exec-137] c.b.ops.sync.MobileSync - req=88100350 sync ok tenant=riverbend-unified-services-l items=65
+2017-11-05 00:06:54,112 WARN  [http-nio-8443-exec-81] c.b.ops.mail.Sender - req=88100351 SMTP slow 181ms
+2017-11-05 00:07:12,666 INFO  [http-nio-8443-exec-111] c.b.ops.web.Access - req=88100352 GET /api/v2/workorders 200 137ms
+2017-11-05 00:07:47,560 DEBUG [http-nio-8443-exec-52] c.b.ops.sched.PmRunner - req=88100353 pm tick
+2017-11-05 00:07:52,247 WARN  [http-nio-8443-exec-153] c.b.ops.mail.Sender - req=88100354 SMTP slow 805ms
+2017-11-05 00:08:11,464 WARN  [http-nio-8443-exec-113] c.b.ops.mail.Sender - req=88100355 SMTP slow 154ms
+2017-11-05 00:08:23,837 INFO  [http-nio-8443-exec-173] c.b.ops.sync.MobileSync - req=88100356 sync ok tenant=lindenwood-builders-group items=68
+2017-11-05 00:08:44,805 INFO  [http-nio-8443-exec-191] c.b.ops.web.Access - req=88100357 GET /api/v2/workorders 200 642ms
+2017-11-05 00:09:03,786 INFO  [http-nio-8443-exec-180] c.b.ops.web.Access - req=88100358 GET /api/v2/workorders 200 849ms
+2017-11-05 00:09:09,315 WARN  [http-nio-8443-exec-155] c.b.ops.mail.Sender - req=88100359 SMTP slow 185ms
+2017-11-05 00:09:44,493 DEBUG [http-nio-8443-exec-74] c.b.ops.sched.PmRunner - req=88100360 pm tick
+2017-11-05 00:10:07,249 WARN  [http-nio-8443-exec-15] c.b.ops.mail.Sender - req=88100361 SMTP slow 282ms
+2017-11-05 00:10:47,551 WARN  [http-nio-8443-exec-31] c.b.ops.mail.Sender - req=88100362 SMTP slow 285ms
+2017-11-05 00:10:52,179 DEBUG [http-nio-8443-exec-175] c.b.ops.sched.PmRunner - req=88100363 pm tick
+2017-11-05 00:11:14,298 DEBUG [http-nio-8443-exec-7] c.b.ops.sched.PmRunner - req=88100364 pm tick
+2017-11-05 00:11:27,751 DEBUG [http-nio-8443-exec-198] c.b.ops.sched.PmRunner - req=88100365 pm tick
+2017-11-05 00:12:05,135 INFO  [http-nio-8443-exec-145] c.b.ops.web.Access - req=88100366 GET /api/v2/workorders 200 546ms
+2017-11-05 00:12:13,425 INFO  [http-nio-8443-exec-184] c.b.ops.sync.MobileSync - req=88100367 sync ok tenant=bluewater-industries-group items=28
+2017-11-05 00:12:41,861 DEBUG [http-nio-8443-exec-11] c.b.ops.sched.PmRunner - req=88100368 pm tick
+2017-11-05 00:12:58,279 INFO  [http-nio-8443-exec-192] c.b.ops.web.Access - req=88100369 GET /api/v2/workorders 200 378ms
+2017-11-05 00:13:07,425 INFO  [http-nio-8443-exec-97] c.b.ops.web.Access - req=88100370 GET /api/v2/workorders 200 337ms
+2017-11-05 00:13:28,101 WARN  [http-nio-8443-exec-198] c.b.ops.mail.Sender - req=88100371 SMTP slow 651ms
+2017-11-05 00:13:43,021 DEBUG [http-nio-8443-exec-52] c.b.ops.sched.PmRunner - req=88100372 pm tick
+2017-11-05 00:14:03,671 INFO  [http-nio-8443-exec-7] c.b.ops.sync.MobileSync - req=88100373 sync ok tenant=cooper-warehousing-holdings items=23
+2017-11-05 00:14:24,226 INFO  [http-nio-8443-exec-27] c.b.ops.web.Access - req=88100374 GET /api/v2/workorders 200 407ms
+2017-11-05 00:14:58,388 DEBUG [http-nio-8443-exec-80] c.b.ops.sched.PmRunner - req=88100375 pm tick
+2017-11-05 00:15:10,188 INFO  [http-nio-8443-exec-174] c.b.ops.web.Access - req=88100376 GET /api/v2/workorders 200 88ms
+2017-11-05 00:15:34,449 INFO  [http-nio-8443-exec-66] c.b.ops.web.Access - req=88100377 GET /api/v2/workorders 200 855ms
+2017-11-05 00:16:05,560 INFO  [http-nio-8443-exec-12] c.b.ops.sync.MobileSync - req=88100378 sync ok tenant=kestrel-warehousing-group items=70
+2017-11-05 00:16:13,399 INFO  [http-nio-8443-exec-197] c.b.ops.sync.MobileSync - req=88100379 sync ok tenant=bayou-municipal-services-gro items=77
+2017-11-05 00:16:52,778 WARN  [http-nio-8443-exec-136] c.b.ops.mail.Sender - req=88100380 SMTP slow 118ms
+2017-11-05 00:17:10,934 INFO  [http-nio-8443-exec-12] c.b.ops.web.Access - req=88100381 GET /api/v2/workorders 200 507ms
+2017-11-05 00:17:37,538 WARN  [http-nio-8443-exec-17] c.b.ops.mail.Sender - req=88100382 SMTP slow 535ms
+2017-11-05 00:17:41,488 WARN  [http-nio-8443-exec-171] c.b.ops.mail.Sender - req=88100383 SMTP slow 257ms
+2017-11-05 00:17:45,334 DEBUG [http-nio-8443-exec-96] c.b.ops.sched.PmRunner - req=88100384 pm tick
+2017-11-05 00:18:01,085 DEBUG [http-nio-8443-exec-181] c.b.ops.sched.PmRunner - req=88100385 pm tick
+2017-11-05 00:18:30,339 WARN  [http-nio-8443-exec-196] c.b.ops.mail.Sender - req=88100386 SMTP slow 207ms
+2017-11-05 00:19:07,902 WARN  [http-nio-8443-exec-176] c.b.ops.mail.Sender - req=88100387 SMTP slow 880ms
+2017-11-05 00:19:18,776 INFO  [http-nio-8443-exec-124] c.b.ops.web.Access - req=88100388 GET /api/v2/workorders 200 680ms
+2017-11-05 00:19:48,674 INFO  [http-nio-8443-exec-151] c.b.ops.sync.MobileSync - req=88100389 sync ok tenant=ramirez-realty-management items=31
+2017-11-05 00:20:28,877 DEBUG [http-nio-8443-exec-81] c.b.ops.sched.PmRunner - req=88100390 pm tick
+2017-11-05 00:20:40,963 INFO  [http-nio-8443-exec-120] c.b.ops.web.Access - req=88100391 GET /api/v2/workorders 200 197ms
+2017-11-05 00:21:04,647 INFO  [http-nio-8443-exec-103] c.b.ops.web.Access - req=88100392 GET /api/v2/workorders 200 788ms
+2017-11-05 00:21:34,265 DEBUG [http-nio-8443-exec-141] c.b.ops.sched.PmRunner - req=88100393 pm tick
+2017-11-05 00:22:05,526 WARN  [http-nio-8443-exec-112] c.b.ops.mail.Sender - req=88100394 SMTP slow 96ms
+2017-11-05 00:22:26,102 INFO  [http-nio-8443-exec-11] c.b.ops.sync.MobileSync - req=88100395 sync ok tenant=watson-property-group-corp items=72
+2017-11-05 00:22:41,758 INFO  [http-nio-8443-exec-75] c.b.ops.web.Access - req=88100396 GET /api/v2/workorders 200 99ms
+2017-11-05 00:23:10,241 WARN  [http-nio-8443-exec-37] c.b.ops.mail.Sender - req=88100397 SMTP slow 140ms
+2017-11-05 00:23:48,800 INFO  [http-nio-8443-exec-189] c.b.ops.web.Access - req=88100398 GET /api/v2/workorders 200 235ms
+2017-11-05 00:24:28,105 INFO  [http-nio-8443-exec-6] c.b.ops.web.Access - req=88100399 GET /api/v2/workorders 200 858ms
+2017-11-05 00:25:00,938 WARN  [http-nio-8443-exec-185] c.b.ops.mail.Sender - req=88100400 SMTP slow 118ms
+2017-11-05 00:25:32,485 WARN  [http-nio-8443-exec-57] c.b.ops.mail.Sender - req=88100401 SMTP slow 562ms
+2017-11-05 00:25:46,290 WARN  [http-nio-8443-exec-4] c.b.ops.mail.Sender - req=88100402 SMTP slow 621ms
+2017-11-05 00:25:56,171 DEBUG [http-nio-8443-exec-135] c.b.ops.sched.PmRunner - req=88100403 pm tick
+2017-11-05 00:26:30,999 INFO  [http-nio-8443-exec-11] c.b.ops.web.Access - req=88100404 GET /api/v2/workorders 200 565ms
+2017-11-05 00:26:54,070 INFO  [http-nio-8443-exec-155] c.b.ops.sync.MobileSync - req=88100405 sync ok tenant=lakes-manufacturing items=33
+2017-11-05 00:27:33,241 INFO  [http-nio-8443-exec-133] c.b.ops.sync.MobileSync - req=88100406 sync ok tenant=southport-construction-co items=33
+2017-11-05 00:28:12,909 INFO  [http-nio-8443-exec-37] c.b.ops.sync.MobileSync - req=88100407 sync ok tenant=allegheny-supply-co-ltd items=48
+2017-11-05 00:28:45,511 INFO  [http-nio-8443-exec-93] c.b.ops.web.Access - req=88100408 GET /api/v2/workorders 200 830ms
+2017-11-05 00:29:09,523 DEBUG [http-nio-8443-exec-95] c.b.ops.sched.PmRunner - req=88100409 pm tick
+2017-11-05 00:29:48,788 WARN  [http-nio-8443-exec-156] c.b.ops.mail.Sender - req=88100410 SMTP slow 34ms
+2017-11-05 00:30:05,126 DEBUG [http-nio-8443-exec-151] c.b.ops.sched.PmRunner - req=88100411 pm tick
+2017-11-05 00:30:32,114 WARN  [http-nio-8443-exec-76] c.b.ops.mail.Sender - req=88100412 SMTP slow 751ms
+2017-11-05 00:31:01,745 DEBUG [http-nio-8443-exec-38] c.b.ops.sched.PmRunner - req=88100413 pm tick
+2017-11-05 00:31:05,479 DEBUG [http-nio-8443-exec-182] c.b.ops.sched.PmRunner - req=88100414 pm tick
+2017-11-05 00:31:21,491 WARN  [http-nio-8443-exec-157] c.b.ops.mail.Sender - req=88100415 SMTP slow 397ms
+2017-11-05 00:31:26,503 WARN  [http-nio-8443-exec-122] c.b.ops.mail.Sender - req=88100416 SMTP slow 478ms
+2017-11-05 00:31:51,481 DEBUG [http-nio-8443-exec-141] c.b.ops.sched.PmRunner - req=88100417 pm tick
+2017-11-05 00:32:12,323 WARN  [http-nio-8443-exec-43] c.b.ops.mail.Sender - req=88100418 SMTP slow 780ms
+2017-11-05 00:32:32,158 WARN  [http-nio-8443-exec-162] c.b.ops.mail.Sender - req=88100419 SMTP slow 587ms
+2017-11-05 00:32:38,570 DEBUG [http-nio-8443-exec-5] c.b.ops.sched.PmRunner - req=88100420 pm tick
+2017-11-05 00:32:43,376 INFO  [http-nio-8443-exec-110] c.b.ops.sync.MobileSync - req=88100421 sync ok tenant=wexford-unified-schools items=1
+2017-11-05 00:32:58,056 INFO  [http-nio-8443-exec-65] c.b.ops.web.Access - req=88100422 GET /api/v2/workorders 200 494ms
+2017-11-05 00:33:36,884 INFO  [http-nio-8443-exec-50] c.b.ops.web.Access - req=88100423 GET /api/v2/workorders 200 521ms
+2017-11-05 00:33:41,062 INFO  [http-nio-8443-exec-139] c.b.ops.sync.MobileSync - req=88100424 sync ok tenant=cedar-transit-authority-hold items=42
+2017-11-05 00:34:02,617 INFO  [http-nio-8443-exec-40] c.b.ops.web.Access - req=88100425 GET /api/v2/workorders 200 727ms
+2017-11-05 00:34:41,702 WARN  [http-nio-8443-exec-26] c.b.ops.mail.Sender - req=88100426 SMTP slow 623ms
+2017-11-05 00:35:03,933 INFO  [http-nio-8443-exec-115] c.b.ops.sync.MobileSync - req=88100427 sync ok tenant=kestrel-health-partners items=44
+2017-11-05 00:35:30,212 INFO  [http-nio-8443-exec-187] c.b.ops.web.Access - req=88100428 GET /api/v2/workorders 200 276ms
+2017-11-05 00:36:10,174 WARN  [http-nio-8443-exec-169] c.b.ops.mail.Sender - req=88100429 SMTP slow 668ms
+2017-11-05 00:36:20,478 INFO  [http-nio-8443-exec-93] c.b.ops.web.Access - req=88100430 GET /api/v2/workorders 200 138ms
+2017-11-05 00:36:36,050 INFO  [http-nio-8443-exec-130] c.b.ops.sync.MobileSync - req=88100431 sync ok tenant=ravenwood-supply-co items=21
+2017-11-05 00:37:14,344 WARN  [http-nio-8443-exec-54] c.b.ops.mail.Sender - req=88100432 SMTP slow 456ms
+2017-11-05 00:37:49,850 WARN  [http-nio-8443-exec-66] c.b.ops.mail.Sender - req=88100433 SMTP slow 153ms
+2017-11-05 00:38:23,633 INFO  [http-nio-8443-exec-94] c.b.ops.sync.MobileSync - req=88100434 sync ok tenant=bayou-retail-group-ltd items=74
+2017-11-05 00:38:33,011 WARN  [http-nio-8443-exec-50] c.b.ops.mail.Sender - req=88100435 SMTP slow 591ms
+2017-11-05 00:38:49,699 INFO  [http-nio-8443-exec-90] c.b.ops.sync.MobileSync - req=88100436 sync ok tenant=blackhawk-properties-group items=35
+2017-11-05 00:39:23,379 DEBUG [http-nio-8443-exec-99] c.b.ops.sched.PmRunner - req=88100437 pm tick
+2017-11-05 00:40:01,300 WARN  [http-nio-8443-exec-129] c.b.ops.mail.Sender - req=88100438 SMTP slow 255ms
+2017-11-05 00:40:22,142 WARN  [http-nio-8443-exec-115] c.b.ops.mail.Sender - req=88100439 SMTP slow 465ms
+2017-11-05 00:40:29,933 INFO  [http-nio-8443-exec-23] c.b.ops.web.Access - req=88100440 GET /api/v2/workorders 200 533ms
+2017-11-05 00:40:50,511 DEBUG [http-nio-8443-exec-94] c.b.ops.sched.PmRunner - req=88100441 pm tick
+2017-11-05 00:40:54,180 DEBUG [http-nio-8443-exec-9] c.b.ops.sched.PmRunner - req=88100442 pm tick
+2017-11-05 00:41:14,817 INFO  [http-nio-8443-exec-160] c.b.ops.web.Access - req=88100443 GET /api/v2/workorders 200 351ms
+2017-11-05 00:41:26,643 WARN  [http-nio-8443-exec-100] c.b.ops.mail.Sender - req=88100444 SMTP slow 637ms
+2017-11-05 00:42:00,791 DEBUG [http-nio-8443-exec-115] c.b.ops.sched.PmRunner - req=88100445 pm tick
+2017-11-05 00:42:22,964 INFO  [http-nio-8443-exec-35] c.b.ops.sync.MobileSync - req=88100446 sync ok tenant=perez-mills items=25
+2017-11-05 00:42:30,008 DEBUG [http-nio-8443-exec-200] c.b.ops.sched.PmRunner - req=88100447 pm tick
+2017-11-05 00:42:55,750 INFO  [http-nio-8443-exec-156] c.b.ops.web.Access - req=88100448 GET /api/v2/workorders 200 572ms
+2017-11-05 00:43:27,524 WARN  [http-nio-8443-exec-117] c.b.ops.mail.Sender - req=88100449 SMTP slow 751ms
+2017-11-05 00:43:44,470 WARN  [http-nio-8443-exec-161] c.b.ops.mail.Sender - req=88100450 SMTP slow 254ms
+2017-11-05 00:44:02,696 INFO  [http-nio-8443-exec-112] c.b.ops.web.Access - req=88100451 GET /api/v2/workorders 200 131ms
+2017-11-05 00:44:23,744 INFO  [http-nio-8443-exec-87] c.b.ops.web.Access - req=88100452 GET /api/v2/workorders 200 495ms
+2017-11-05 00:44:35,300 INFO  [http-nio-8443-exec-121] c.b.ops.web.Access - req=88100453 GET /api/v2/workorders 200 532ms
+2017-11-05 00:44:59,019 INFO  [http-nio-8443-exec-67] c.b.ops.web.Access - req=88100454 GET /api/v2/workorders 200 254ms
+2017-11-05 00:45:12,647 WARN  [http-nio-8443-exec-68] c.b.ops.mail.Sender - req=88100455 SMTP slow 570ms
+2017-11-05 00:45:24,803 INFO  [http-nio-8443-exec-196] c.b.ops.web.Access - req=88100456 GET /api/v2/workorders 200 433ms
+2017-11-05 00:45:31,378 WARN  [http-nio-8443-exec-23] c.b.ops.mail.Sender - req=88100457 SMTP slow 493ms
+2017-11-05 00:46:00,504 INFO  [http-nio-8443-exec-195] c.b.ops.sync.MobileSync - req=88100458 sync ok tenant=cascade-mills-group items=40
+2017-11-05 00:46:11,019 WARN  [http-nio-8443-exec-94] c.b.ops.mail.Sender - req=88100459 SMTP slow 345ms
+2017-11-05 00:46:47,413 WARN  [http-nio-8443-exec-89] c.b.ops.mail.Sender - req=88100460 SMTP slow 170ms
+2017-11-05 00:47:25,597 INFO  [http-nio-8443-exec-29] c.b.ops.web.Access - req=88100461 GET /api/v2/workorders 200 314ms
+2017-11-05 00:47:29,417 DEBUG [http-nio-8443-exec-109] c.b.ops.sched.PmRunner - req=88100462 pm tick
+2017-11-05 00:47:41,095 DEBUG [http-nio-8443-exec-125] c.b.ops.sched.PmRunner - req=88100463 pm tick
+2017-11-05 00:48:03,397 DEBUG [http-nio-8443-exec-9] c.b.ops.sched.PmRunner - req=88100464 pm tick
+2017-11-05 00:48:30,416 INFO  [http-nio-8443-exec-56] c.b.ops.web.Access - req=88100465 GET /api/v2/workorders 200 192ms
+2017-11-05 00:48:53,925 INFO  [http-nio-8443-exec-41] c.b.ops.sync.MobileSync - req=88100466 sync ok tenant=chen-township items=12
+2017-11-05 00:49:19,360 WARN  [http-nio-8443-exec-8] c.b.ops.mail.Sender - req=88100467 SMTP slow 49ms
+2017-11-05 00:49:50,682 INFO  [http-nio-8443-exec-50] c.b.ops.web.Access - req=88100468 GET /api/v2/workorders 200 877ms
+2017-11-05 00:49:56,752 INFO  [http-nio-8443-exec-84] c.b.ops.sync.MobileSync - req=88100469 sync ok tenant=morgan-inns-inc items=4
+2017-11-05 00:50:23,238 WARN  [http-nio-8443-exec-57] c.b.ops.mail.Sender - req=88100470 SMTP slow 383ms
+2017-11-05 00:50:37,141 WARN  [http-nio-8443-exec-47] c.b.ops.mail.Sender - req=88100471 SMTP slow 506ms
+2017-11-05 00:51:00,221 INFO  [http-nio-8443-exec-146] c.b.ops.sync.MobileSync - req=88100472 sync ok tenant=hawthorne-manufacturing items=78
+2017-11-05 00:51:09,749 INFO  [http-nio-8443-exec-49] c.b.ops.sync.MobileSync - req=88100473 sync ok tenant=crescent-realty-management-h items=8
+2017-11-05 00:51:19,016 DEBUG [http-nio-8443-exec-167] c.b.ops.sched.PmRunner - req=88100474 pm tick
+2017-11-05 00:51:35,820 INFO  [http-nio-8443-exec-12] c.b.ops.sync.MobileSync - req=88100475 sync ok tenant=evans-inns-co items=59
+2017-11-05 00:52:10,510 WARN  [http-nio-8443-exec-164] c.b.ops.mail.Sender - req=88100476 SMTP slow 386ms
+2017-11-05 00:52:18,995 DEBUG [http-nio-8443-exec-31] c.b.ops.sched.PmRunner - req=88100477 pm tick
+2017-11-05 00:52:49,086 DEBUG [http-nio-8443-exec-16] c.b.ops.sched.PmRunner - req=88100478 pm tick
+2017-11-05 00:52:57,772 INFO  [http-nio-8443-exec-22] c.b.ops.sync.MobileSync - req=88100479 sync ok tenant=wexford-realty-management items=42
+2017-11-05 00:53:12,453 INFO  [http-nio-8443-exec-107] c.b.ops.web.Access - req=88100480 GET /api/v2/workorders 200 631ms
+2017-11-05 00:53:16,317 DEBUG [http-nio-8443-exec-106] c.b.ops.sched.PmRunner - req=88100481 pm tick
+2017-11-05 00:53:51,630 WARN  [http-nio-8443-exec-58] c.b.ops.mail.Sender - req=88100482 SMTP slow 219ms
+2017-11-05 00:54:20,690 INFO  [http-nio-8443-exec-178] c.b.ops.web.Access - req=88100483 GET /api/v2/workorders 200 210ms
+2017-11-05 00:54:45,482 WARN  [http-nio-8443-exec-61] c.b.ops.mail.Sender - req=88100484 SMTP slow 631ms
+2017-11-05 00:54:54,008 DEBUG [http-nio-8443-exec-125] c.b.ops.sched.PmRunner - req=88100485 pm tick
+2017-11-05 00:55:18,099 INFO  [http-nio-8443-exec-91] c.b.ops.web.Access - req=88100486 GET /api/v2/workorders 200 512ms
+2017-11-05 00:55:24,098 DEBUG [http-nio-8443-exec-192] c.b.ops.sched.PmRunner - req=88100487 pm tick
+2017-11-05 00:55:40,598 WARN  [http-nio-8443-exec-198] c.b.ops.mail.Sender - req=88100488 SMTP slow 535ms
+2017-11-05 00:56:20,431 DEBUG [http-nio-8443-exec-88] c.b.ops.sched.PmRunner - req=88100489 pm tick
+2017-11-05 00:56:33,859 WARN  [http-nio-8443-exec-68] c.b.ops.mail.Sender - req=88100490 SMTP slow 217ms
+2017-11-05 00:56:59,942 WARN  [http-nio-8443-exec-30] c.b.ops.mail.Sender - req=88100491 SMTP slow 161ms
+2017-11-05 00:57:33,064 WARN  [http-nio-8443-exec-162] c.b.ops.mail.Sender - req=88100492 SMTP slow 151ms
+2017-11-05 00:57:40,234 DEBUG [http-nio-8443-exec-187] c.b.ops.sched.PmRunner - req=88100493 pm tick
+2017-11-05 00:58:09,814 INFO  [http-nio-8443-exec-196] c.b.ops.web.Access - req=88100494 GET /api/v2/workorders 200 452ms
+2017-11-05 00:58:27,357 INFO  [http-nio-8443-exec-91] c.b.ops.sync.MobileSync - req=88100495 sync ok tenant=cedar-college-ltd items=21
+2017-11-05 00:58:33,875 INFO  [http-nio-8443-exec-8] c.b.ops.web.Access - req=88100496 GET /api/v2/workorders 200 458ms
+2017-11-05 00:59:08,374 DEBUG [http-nio-8443-exec-128] c.b.ops.sched.PmRunner - req=88100497 pm tick
+2017-11-05 00:59:39,556 INFO  [http-nio-8443-exec-67] c.b.ops.sync.MobileSync - req=88100498 sync ok tenant=quillfeather-maintenance-co- items=12
+2017-11-05 01:00:00,508 INFO  [http-nio-8443-exec-34] c.b.ops.sync.MobileSync - req=88100499 sync ok tenant=stonebridge-university-facil items=77
+2017-11-05 01:00:04,386 INFO  [http-nio-8443-exec-152] c.b.ops.sync.MobileSync - req=88100500 sync ok tenant=mesa-industries items=22
+2017-11-05 01:00:27,201 INFO  [http-nio-8443-exec-139] c.b.ops.sync.MobileSync - req=88100501 sync ok tenant=martin-university-facilities items=46
+2017-11-05 01:00:45,879 INFO  [http-nio-8443-exec-149] c.b.ops.sync.MobileSync - req=88100502 sync ok tenant=cedar-restoration-co items=40
+2017-11-05 01:01:21,156 DEBUG [http-nio-8443-exec-89] c.b.ops.sched.PmRunner - req=88100503 pm tick
+2017-11-05 01:01:25,533 DEBUG [http-nio-8443-exec-58] c.b.ops.sched.PmRunner - req=88100504 pm tick
+2017-11-05 01:02:00,610 DEBUG [http-nio-8443-exec-148] c.b.ops.sched.PmRunner - req=88100505 pm tick
+2017-11-05 01:02:27,839 DEBUG [http-nio-8443-exec-37] c.b.ops.sched.PmRunner - req=88100506 pm tick
+2017-11-05 01:02:53,050 DEBUG [http-nio-8443-exec-10] c.b.ops.sched.PmRunner - req=88100507 pm tick
+2017-11-05 01:03:16,102 WARN  [http-nio-8443-exec-47] c.b.ops.mail.Sender - req=88100508 SMTP slow 592ms
+2017-11-05 01:03:31,622 DEBUG [http-nio-8443-exec-19] c.b.ops.sched.PmRunner - req=88100509 pm tick
+2017-11-05 01:03:48,585 DEBUG [http-nio-8443-exec-33] c.b.ops.sched.PmRunner - req=88100510 pm tick
+2017-11-05 01:04:02,047 INFO  [http-nio-8443-exec-118] c.b.ops.web.Access - req=88100511 GET /api/v2/workorders 200 308ms
+2017-11-05 01:04:17,804 WARN  [http-nio-8443-exec-16] c.b.ops.mail.Sender - req=88100512 SMTP slow 500ms
+2017-11-05 01:04:49,875 DEBUG [http-nio-8443-exec-48] c.b.ops.sched.PmRunner - req=88100513 pm tick
+2017-11-05 01:05:12,824 INFO  [http-nio-8443-exec-122] c.b.ops.web.Access - req=88100514 GET /api/v2/workorders 200 295ms
+2017-11-05 01:05:33,138 INFO  [http-nio-8443-exec-153] c.b.ops.sync.MobileSync - req=88100515 sync ok tenant=brown-inns items=16
+2017-11-05 01:05:44,311 WARN  [http-nio-8443-exec-143] c.b.ops.mail.Sender - req=88100516 SMTP slow 261ms
+2017-11-05 01:05:59,655 WARN  [http-nio-8443-exec-78] c.b.ops.mail.Sender - req=88100517 SMTP slow 696ms
+2017-11-05 01:06:25,521 INFO  [http-nio-8443-exec-112] c.b.ops.web.Access - req=88100518 GET /api/v2/workorders 200 647ms
+2017-11-05 01:06:37,036 INFO  [http-nio-8443-exec-15] c.b.ops.web.Access - req=88100519 GET /api/v2/workorders 200 61ms
+2017-11-05 01:06:46,988 WARN  [http-nio-8443-exec-160] c.b.ops.mail.Sender - req=88100520 SMTP slow 525ms
+2017-11-05 01:06:53,537 DEBUG [http-nio-8443-exec-32] c.b.ops.sched.PmRunner - req=88100521 pm tick
+2017-11-05 01:07:10,793 INFO  [http-nio-8443-exec-5] c.b.ops.sync.MobileSync - req=88100522 sync ok tenant=muskingum-mills-inc items=5
+2017-11-05 01:07:32,518 WARN  [http-nio-8443-exec-107] c.b.ops.mail.Sender - req=88100523 SMTP slow 154ms
+2017-11-05 01:07:53,883 INFO  [http-nio-8443-exec-121] c.b.ops.sync.MobileSync - req=88100524 sync ok tenant=o-connor-municipal-services- items=67
+2017-11-05 01:08:12,794 WARN  [http-nio-8443-exec-23] c.b.ops.mail.Sender - req=88100525 SMTP slow 407ms
+2017-11-05 01:08:20,121 INFO  [http-nio-8443-exec-164] c.b.ops.web.Access - req=88100526 GET /api/v2/workorders 200 834ms
+2017-11-05 01:08:28,364 WARN  [http-nio-8443-exec-145] c.b.ops.mail.Sender - req=88100527 SMTP slow 825ms
+2017-11-05 01:08:57,376 INFO  [http-nio-8443-exec-64] c.b.ops.web.Access - req=88100528 GET /api/v2/workorders 200 118ms
+2017-11-05 01:09:10,874 DEBUG [http-nio-8443-exec-28] c.b.ops.sched.PmRunner - req=88100529 pm tick
+2017-11-05 01:09:34,102 WARN  [http-nio-8443-exec-70] c.b.ops.mail.Sender - req=88100530 SMTP slow 727ms
+2017-11-05 01:09:52,482 INFO  [http-nio-8443-exec-42] c.b.ops.sync.MobileSync - req=88100531 sync ok tenant=ozark-freight-co items=34
+2017-11-05 01:10:11,685 DEBUG [http-nio-8443-exec-104] c.b.ops.sched.PmRunner - req=88100532 pm tick
+2017-11-05 01:10:47,002 INFO  [http-nio-8443-exec-20] c.b.ops.web.Access - req=88100533 GET /api/v2/workorders 200 563ms
+2017-11-05 01:11:17,948 DEBUG [http-nio-8443-exec-74] c.b.ops.sched.PmRunner - req=88100534 pm tick
+2017-11-05 01:11:47,512 WARN  [http-nio-8443-exec-152] c.b.ops.mail.Sender - req=88100535 SMTP slow 899ms
+2017-11-05 01:11:59,655 INFO  [http-nio-8443-exec-88] c.b.ops.sync.MobileSync - req=88100536 sync ok tenant=phillips-resorts items=14
+2017-11-05 01:12:29,108 WARN  [http-nio-8443-exec-95] c.b.ops.mail.Sender - req=88100537 SMTP slow 680ms
+2017-11-05 01:13:02,177 DEBUG [http-nio-8443-exec-28] c.b.ops.sched.PmRunner - req=88100538 pm tick
+2017-11-05 01:13:27,713 WARN  [http-nio-8443-exec-140] c.b.ops.mail.Sender - req=88100539 SMTP slow 661ms
+2017-11-05 01:13:41,995 DEBUG [http-nio-8443-exec-173] c.b.ops.sched.PmRunner - req=88100540 pm tick
+2017-11-05 01:14:06,571 DEBUG [http-nio-8443-exec-23] c.b.ops.sched.PmRunner - req=88100541 pm tick
+2017-11-05 01:14:41,869 DEBUG [http-nio-8443-exec-120] c.b.ops.sched.PmRunner - req=88100542 pm tick
+2017-11-05 01:15:10,493 INFO  [http-nio-8443-exec-7] c.b.ops.web.Access - req=88100543 GET /api/v2/workorders 200 100ms
+2017-11-05 01:15:27,331 DEBUG [http-nio-8443-exec-80] c.b.ops.sched.PmRunner - req=88100544 pm tick
+2017-11-05 01:16:01,399 INFO  [http-nio-8443-exec-88] c.b.ops.sync.MobileSync - req=88100545 sync ok tenant=price-jones-hotels items=12
+2017-11-05 01:16:15,261 INFO  [http-nio-8443-exec-129] c.b.ops.sync.MobileSync - req=88100546 sync ok tenant=cornerstone-resorts-inc items=14
+2017-11-05 01:16:33,759 INFO  [http-nio-8443-exec-100] c.b.ops.sync.MobileSync - req=88100547 sync ok tenant=ostrander-clinics-inc items=29
+2017-11-05 01:16:37,579 DEBUG [http-nio-8443-exec-114] c.b.ops.sched.PmRunner - req=88100548 pm tick
+2017-11-05 01:17:15,375 INFO  [http-nio-8443-exec-43] c.b.ops.web.Access - req=88100549 GET /api/v2/workorders 200 711ms
+2017-11-05 01:17:31,917 INFO  [http-nio-8443-exec-164] c.b.ops.sync.MobileSync - req=88100550 sync ok tenant=tremblay-unified-schools items=11
+2017-11-05 01:18:01,001 WARN  [http-nio-8443-exec-14] c.b.ops.mail.Sender - req=88100551 SMTP slow 653ms
+2017-11-05 01:18:25,953 INFO  [http-nio-8443-exec-74] c.b.ops.web.Access - req=88100552 GET /api/v2/workorders 200 610ms
+2017-11-05 01:18:51,376 WARN  [http-nio-8443-exec-78] c.b.ops.mail.Sender - req=88100553 SMTP slow 749ms
+2017-11-05 01:19:25,521 WARN  [http-nio-8443-exec-60] c.b.ops.mail.Sender - req=88100554 SMTP slow 655ms
+2017-11-05 01:19:35,804 WARN  [http-nio-8443-exec-88] c.b.ops.mail.Sender - req=88100555 SMTP slow 761ms
+2017-11-05 01:19:55,885 DEBUG [http-nio-8443-exec-134] c.b.ops.sched.PmRunner - req=88100556 pm tick
+2017-11-05 01:19:59,226 INFO  [http-nio-8443-exec-155] c.b.ops.web.Access - req=88100557 GET /api/v2/workorders 200 432ms
+2017-11-05 01:20:11,439 WARN  [http-nio-8443-exec-81] c.b.ops.web.Health - req=88100558 healthcheck FAILED (503)
+2017-11-05 01:20:22,935 ERROR [http-nio-8443-exec-6] c.b.ops.db.PoolManager - req=88100559 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:20:59,080 ERROR [http-nio-8443-exec-193] c.b.ops.db.PoolManager - req=88100560 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:21:25,947 ERROR [http-nio-8443-exec-143] c.b.ops.db.PoolManager - req=88100561 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:21:59,271 WARN  [http-nio-8443-exec-146] c.b.ops.web.Health - req=88100562 healthcheck FAILED (503)
+2017-11-05 01:22:39,047 ERROR [http-nio-8443-exec-103] c.b.ops.db.PoolManager - req=88100563 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:22:56,068 ERROR [http-nio-8443-exec-145] c.b.ops.db.PoolManager - req=88100564 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:23:36,668 WARN  [http-nio-8443-exec-83] c.b.ops.web.Health - req=88100565 healthcheck FAILED (503)
+2017-11-05 01:23:54,941 ERROR [http-nio-8443-exec-157] c.b.ops.db.PoolManager - req=88100566 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:24:04,951 ERROR [http-nio-8443-exec-7] c.b.ops.db.PoolManager - req=88100567 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:24:35,178 ERROR [http-nio-8443-exec-100] c.b.ops.db.PoolManager - req=88100568 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:25:10,065 ERROR [http-nio-8443-exec-120] c.b.ops.db.PoolManager - req=88100569 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:25:44,212 ERROR [http-nio-8443-exec-59] c.b.ops.db.PoolManager - req=88100570 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:25:55,553 ERROR [http-nio-8443-exec-42] c.b.ops.db.PoolManager - req=88100571 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:26:32,538 ERROR [http-nio-8443-exec-60] c.b.ops.db.PoolManager - req=88100572 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:26:49,030 WARN  [http-nio-8443-exec-131] c.b.ops.web.Health - req=88100573 healthcheck FAILED (503)
+2017-11-05 01:27:20,659 ERROR [http-nio-8443-exec-194] c.b.ops.db.PoolManager - req=88100574 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:27:47,617 WARN  [http-nio-8443-exec-104] c.b.ops.web.Health - req=88100575 healthcheck FAILED (503)
+2017-11-05 01:28:25,080 ERROR [http-nio-8443-exec-60] c.b.ops.db.PoolManager - req=88100576 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:28:58,588 ERROR [http-nio-8443-exec-43] c.b.ops.db.PoolManager - req=88100577 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:29:09,660 ERROR [http-nio-8443-exec-156] c.b.ops.db.PoolManager - req=88100578 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:29:46,050 WARN  [http-nio-8443-exec-99] c.b.ops.web.Health - req=88100579 healthcheck FAILED (503)
+2017-11-05 01:30:08,956 ERROR [http-nio-8443-exec-62] c.b.ops.db.PoolManager - req=88100580 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:30:34,621 WARN  [http-nio-8443-exec-141] c.b.ops.web.Health - req=88100581 healthcheck FAILED (503)
+2017-11-05 01:30:39,427 ERROR [http-nio-8443-exec-43] c.b.ops.db.PoolManager - req=88100582 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:30:47,842 WARN  [http-nio-8443-exec-181] c.b.ops.web.Health - req=88100583 healthcheck FAILED (503)
+2017-11-05 01:31:09,189 ERROR [http-nio-8443-exec-198] c.b.ops.db.PoolManager - req=88100584 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:31:40,725 WARN  [http-nio-8443-exec-82] c.b.ops.web.Health - req=88100585 healthcheck FAILED (503)
+2017-11-05 01:31:49,525 ERROR [http-nio-8443-exec-39] c.b.ops.db.PoolManager - req=88100586 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:32:22,840 WARN  [http-nio-8443-exec-171] c.b.ops.web.Health - req=88100587 healthcheck FAILED (503)
+2017-11-05 01:32:49,466 WARN  [http-nio-8443-exec-187] c.b.ops.web.Health - req=88100588 healthcheck FAILED (503)
+2017-11-05 01:33:10,138 ERROR [http-nio-8443-exec-137] c.b.ops.db.PoolManager - req=88100589 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:33:26,126 ERROR [http-nio-8443-exec-63] c.b.ops.db.PoolManager - req=88100590 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:34:06,111 ERROR [http-nio-8443-exec-11] c.b.ops.db.PoolManager - req=88100591 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:34:36,543 WARN  [http-nio-8443-exec-147] c.b.ops.web.Health - req=88100592 healthcheck FAILED (503)
+2017-11-05 01:35:05,509 WARN  [http-nio-8443-exec-7] c.b.ops.web.Health - req=88100593 healthcheck FAILED (503)
+2017-11-05 01:35:24,203 ERROR [http-nio-8443-exec-63] c.b.ops.db.PoolManager - req=88100594 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:35:46,791 ERROR [http-nio-8443-exec-121] c.b.ops.db.PoolManager - req=88100595 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:35:52,079 WARN  [http-nio-8443-exec-93] c.b.ops.web.Health - req=88100596 healthcheck FAILED (503)
+2017-11-05 01:35:59,815 ERROR [http-nio-8443-exec-97] c.b.ops.db.PoolManager - req=88100597 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:36:25,392 WARN  [http-nio-8443-exec-47] c.b.ops.web.Health - req=88100598 healthcheck FAILED (503)
+2017-11-05 01:37:03,743 ERROR [http-nio-8443-exec-67] c.b.ops.db.PoolManager - req=88100599 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:37:14,658 ERROR [http-nio-8443-exec-47] c.b.ops.db.PoolManager - req=88100600 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:37:40,709 ERROR [http-nio-8443-exec-134] c.b.ops.db.PoolManager - req=88100601 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:38:13,611 WARN  [http-nio-8443-exec-195] c.b.ops.web.Health - req=88100602 healthcheck FAILED (503)
+2017-11-05 01:38:38,330 ERROR [http-nio-8443-exec-171] c.b.ops.db.PoolManager - req=88100603 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:39:00,780 ERROR [http-nio-8443-exec-133] c.b.ops.db.PoolManager - req=88100604 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:39:14,370 ERROR [http-nio-8443-exec-155] c.b.ops.db.PoolManager - req=88100605 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:39:34,332 WARN  [http-nio-8443-exec-14] c.b.ops.web.Health - req=88100606 healthcheck FAILED (503)
+2017-11-05 01:40:04,549 ERROR [http-nio-8443-exec-124] c.b.ops.db.PoolManager - req=88100607 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:40:22,151 ERROR [http-nio-8443-exec-114] c.b.ops.db.PoolManager - req=88100608 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:40:55,124 WARN  [http-nio-8443-exec-98] c.b.ops.web.Health - req=88100609 healthcheck FAILED (503)
+2017-11-05 01:41:32,078 WARN  [http-nio-8443-exec-143] c.b.ops.web.Health - req=88100610 healthcheck FAILED (503)
+2017-11-05 01:41:38,141 ERROR [http-nio-8443-exec-48] c.b.ops.db.PoolManager - req=88100611 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:41:45,068 ERROR [http-nio-8443-exec-8] c.b.ops.db.PoolManager - req=88100612 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:42:21,254 WARN  [http-nio-8443-exec-177] c.b.ops.web.Health - req=88100613 healthcheck FAILED (503)
+2017-11-05 01:42:39,943 WARN  [http-nio-8443-exec-115] c.b.ops.web.Health - req=88100614 healthcheck FAILED (503)
+2017-11-05 01:43:03,029 ERROR [http-nio-8443-exec-194] c.b.ops.db.PoolManager - req=88100615 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:43:36,872 ERROR [http-nio-8443-exec-183] c.b.ops.db.PoolManager - req=88100616 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:44:13,843 WARN  [http-nio-8443-exec-80] c.b.ops.web.Health - req=88100617 healthcheck FAILED (503)
+2017-11-05 01:44:43,472 ERROR [http-nio-8443-exec-31] c.b.ops.db.PoolManager - req=88100618 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:45:17,618 ERROR [http-nio-8443-exec-28] c.b.ops.db.PoolManager - req=88100619 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:45:46,507 ERROR [http-nio-8443-exec-95] c.b.ops.db.PoolManager - req=88100620 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:46:18,382 ERROR [http-nio-8443-exec-9] c.b.ops.db.PoolManager - req=88100621 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:46:56,573 ERROR [http-nio-8443-exec-199] c.b.ops.db.PoolManager - req=88100622 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:47:23,159 ERROR [http-nio-8443-exec-135] c.b.ops.db.PoolManager - req=88100623 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:47:29,759 ERROR [http-nio-8443-exec-103] c.b.ops.db.PoolManager - req=88100624 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:47:58,882 ERROR [http-nio-8443-exec-33] c.b.ops.db.PoolManager - req=88100625 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:48:11,956 ERROR [http-nio-8443-exec-175] c.b.ops.db.PoolManager - req=88100626 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:48:21,907 WARN  [http-nio-8443-exec-90] c.b.ops.web.Health - req=88100627 healthcheck FAILED (503)
+2017-11-05 01:48:46,870 ERROR [http-nio-8443-exec-96] c.b.ops.db.PoolManager - req=88100628 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:49:13,156 ERROR [http-nio-8443-exec-74] c.b.ops.db.PoolManager - req=88100629 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:49:17,436 WARN  [http-nio-8443-exec-17] c.b.ops.web.Health - req=88100630 healthcheck FAILED (503)
+2017-11-05 01:49:56,360 ERROR [http-nio-8443-exec-46] c.b.ops.db.PoolManager - req=88100631 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:50:14,674 ERROR [http-nio-8443-exec-150] c.b.ops.db.PoolManager - req=88100632 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:50:33,291 ERROR [http-nio-8443-exec-171] c.b.ops.db.PoolManager - req=88100633 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:50:37,127 ERROR [http-nio-8443-exec-166] c.b.ops.db.PoolManager - req=88100634 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:50:56,839 WARN  [http-nio-8443-exec-157] c.b.ops.web.Health - req=88100635 healthcheck FAILED (503)
+2017-11-05 01:51:07,716 WARN  [http-nio-8443-exec-99] c.b.ops.web.Health - req=88100636 healthcheck FAILED (503)
+2017-11-05 01:51:17,164 ERROR [http-nio-8443-exec-28] c.b.ops.db.PoolManager - req=88100637 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:51:57,202 ERROR [http-nio-8443-exec-179] c.b.ops.db.PoolManager - req=88100638 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:52:30,983 ERROR [http-nio-8443-exec-64] c.b.ops.db.PoolManager - req=88100639 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:52:35,087 ERROR [http-nio-8443-exec-116] c.b.ops.db.PoolManager - req=88100640 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:53:06,953 ERROR [http-nio-8443-exec-127] c.b.ops.db.PoolManager - req=88100641 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:53:19,504 ERROR [http-nio-8443-exec-159] c.b.ops.db.PoolManager - req=88100642 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:53:48,408 ERROR [http-nio-8443-exec-109] c.b.ops.db.PoolManager - req=88100643 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:54:15,537 ERROR [http-nio-8443-exec-117] c.b.ops.db.PoolManager - req=88100644 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:54:55,257 WARN  [http-nio-8443-exec-154] c.b.ops.web.Health - req=88100645 healthcheck FAILED (503)
+2017-11-05 01:55:33,436 ERROR [http-nio-8443-exec-55] c.b.ops.db.PoolManager - req=88100646 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:55:45,204 WARN  [http-nio-8443-exec-32] c.b.ops.web.Health - req=88100647 healthcheck FAILED (503)
+2017-11-05 01:56:11,081 ERROR [http-nio-8443-exec-135] c.b.ops.db.PoolManager - req=88100648 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:56:30,420 ERROR [http-nio-8443-exec-36] c.b.ops.db.PoolManager - req=88100649 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:56:34,459 ERROR [http-nio-8443-exec-116] c.b.ops.db.PoolManager - req=88100650 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:56:45,918 WARN  [http-nio-8443-exec-128] c.b.ops.web.Health - req=88100651 healthcheck FAILED (503)
+2017-11-05 01:57:18,750 WARN  [http-nio-8443-exec-8] c.b.ops.web.Health - req=88100652 healthcheck FAILED (503)
+2017-11-05 01:57:50,110 WARN  [http-nio-8443-exec-175] c.b.ops.web.Health - req=88100653 healthcheck FAILED (503)
+2017-11-05 01:58:01,557 ERROR [http-nio-8443-exec-151] c.b.ops.db.PoolManager - req=88100654 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:58:40,056 ERROR [http-nio-8443-exec-164] c.b.ops.db.PoolManager - req=88100655 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:59:12,988 WARN  [http-nio-8443-exec-101] c.b.ops.web.Health - req=88100656 healthcheck FAILED (503)
+2017-11-05 01:59:28,638 ERROR [http-nio-8443-exec-16] c.b.ops.db.PoolManager - req=88100657 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:59:50,612 WARN  [http-nio-8443-exec-110] c.b.ops.web.Health - req=88100658 healthcheck FAILED (503)
+2017-11-05 01:00:04,278 ERROR [http-nio-8443-exec-69] c.b.ops.db.PoolManager - req=88100659 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:00:30,772 WARN  [http-nio-8443-exec-169] c.b.ops.web.Health - req=88100660 healthcheck FAILED (503)
+2017-11-05 01:01:08,402 ERROR [http-nio-8443-exec-143] c.b.ops.db.PoolManager - req=88100661 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:01:20,642 ERROR [http-nio-8443-exec-160] c.b.ops.db.PoolManager - req=88100662 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:01:26,135 ERROR [http-nio-8443-exec-179] c.b.ops.db.PoolManager - req=88100663 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:01:47,872 ERROR [http-nio-8443-exec-73] c.b.ops.db.PoolManager - req=88100664 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:02:15,847 ERROR [http-nio-8443-exec-36] c.b.ops.db.PoolManager - req=88100665 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:02:33,409 ERROR [http-nio-8443-exec-106] c.b.ops.db.PoolManager - req=88100666 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:03:09,446 ERROR [http-nio-8443-exec-102] c.b.ops.db.PoolManager - req=88100667 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:03:37,552 ERROR [http-nio-8443-exec-116] c.b.ops.db.PoolManager - req=88100668 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:04:14,785 ERROR [http-nio-8443-exec-192] c.b.ops.db.PoolManager - req=88100669 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:04:41,995 ERROR [http-nio-8443-exec-7] c.b.ops.db.PoolManager - req=88100670 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:05:11,789 WARN  [http-nio-8443-exec-51] c.b.ops.web.Health - req=88100671 healthcheck FAILED (503)
+2017-11-05 01:05:15,589 WARN  [http-nio-8443-exec-40] c.b.ops.web.Health - req=88100672 healthcheck FAILED (503)
+2017-11-05 01:05:40,856 WARN  [http-nio-8443-exec-142] c.b.ops.web.Health - req=88100673 healthcheck FAILED (503)
+2017-11-05 01:06:04,386 ERROR [http-nio-8443-exec-129] c.b.ops.db.PoolManager - req=88100674 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:06:38,974 WARN  [http-nio-8443-exec-37] c.b.ops.web.Health - req=88100675 healthcheck FAILED (503)
+2017-11-05 01:06:56,109 WARN  [http-nio-8443-exec-91] c.b.ops.web.Health - req=88100676 healthcheck FAILED (503)
+2017-11-05 01:07:06,526 ERROR [http-nio-8443-exec-135] c.b.ops.db.PoolManager - req=88100677 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:07:36,806 ERROR [http-nio-8443-exec-92] c.b.ops.db.PoolManager - req=88100678 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:07:47,755 ERROR [http-nio-8443-exec-160] c.b.ops.db.PoolManager - req=88100679 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:08:10,046 WARN  [http-nio-8443-exec-159] c.b.ops.web.Health - req=88100680 healthcheck FAILED (503)
+2017-11-05 01:08:29,218 ERROR [http-nio-8443-exec-44] c.b.ops.db.PoolManager - req=88100681 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:09:08,184 WARN  [http-nio-8443-exec-156] c.b.ops.web.Health - req=88100682 healthcheck FAILED (503)
+2017-11-05 01:09:30,901 ERROR [http-nio-8443-exec-189] c.b.ops.db.PoolManager - req=88100683 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:10:00,101 ERROR [http-nio-8443-exec-34] c.b.ops.db.PoolManager - req=88100684 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:10:05,623 ERROR [http-nio-8443-exec-121] c.b.ops.db.PoolManager - req=88100685 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:10:16,954 ERROR [http-nio-8443-exec-187] c.b.ops.db.PoolManager - req=88100686 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:10:40,815 ERROR [http-nio-8443-exec-118] c.b.ops.db.PoolManager - req=88100687 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:11:03,732 ERROR [http-nio-8443-exec-16] c.b.ops.db.PoolManager - req=88100688 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:11:10,732 ERROR [http-nio-8443-exec-6] c.b.ops.db.PoolManager - req=88100689 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:11:40,044 ERROR [http-nio-8443-exec-122] c.b.ops.db.PoolManager - req=88100690 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:11:44,535 WARN  [http-nio-8443-exec-93] c.b.ops.web.Health - req=88100691 healthcheck FAILED (503)
+2017-11-05 01:12:09,447 WARN  [http-nio-8443-exec-111] c.b.ops.web.Health - req=88100692 healthcheck FAILED (503)
+2017-11-05 01:12:36,414 ERROR [http-nio-8443-exec-151] c.b.ops.db.PoolManager - req=88100693 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:13:15,994 ERROR [http-nio-8443-exec-173] c.b.ops.db.PoolManager - req=88100694 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:13:44,482 ERROR [http-nio-8443-exec-35] c.b.ops.db.PoolManager - req=88100695 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:13:48,903 ERROR [http-nio-8443-exec-60] c.b.ops.db.PoolManager - req=88100696 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:14:03,699 ERROR [http-nio-8443-exec-168] c.b.ops.db.PoolManager - req=88100697 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:14:19,339 WARN  [http-nio-8443-exec-187] c.b.ops.web.Health - req=88100698 healthcheck FAILED (503)
+2017-11-05 01:14:43,198 WARN  [http-nio-8443-exec-108] c.b.ops.web.Health - req=88100699 healthcheck FAILED (503)
+2017-11-05 01:15:09,024 ERROR [http-nio-8443-exec-49] c.b.ops.db.PoolManager - req=88100700 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:15:26,343 ERROR [http-nio-8443-exec-184] c.b.ops.db.PoolManager - req=88100701 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:15:33,450 ERROR [http-nio-8443-exec-89] c.b.ops.db.PoolManager - req=88100702 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:15:53,443 WARN  [http-nio-8443-exec-8] c.b.ops.web.Health - req=88100703 healthcheck FAILED (503)
+2017-11-05 01:16:33,468 ERROR [http-nio-8443-exec-85] c.b.ops.db.PoolManager - req=88100704 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:16:58,016 WARN  [http-nio-8443-exec-139] c.b.ops.web.Health - req=88100705 healthcheck FAILED (503)
+2017-11-05 01:17:31,431 ERROR [http-nio-8443-exec-25] c.b.ops.db.PoolManager - req=88100706 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:17:54,067 ERROR [http-nio-8443-exec-82] c.b.ops.db.PoolManager - req=88100707 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:18:32,744 ERROR [http-nio-8443-exec-74] c.b.ops.db.PoolManager - req=88100708 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:19:02,036 WARN  [http-nio-8443-exec-167] c.b.ops.web.Health - req=88100709 healthcheck FAILED (503)
+2017-11-05 01:19:35,151 WARN  [http-nio-8443-exec-93] c.b.ops.web.Health - req=88100710 healthcheck FAILED (503)
+2017-11-05 01:20:03,145 WARN  [http-nio-8443-exec-83] c.b.ops.web.Health - req=88100711 healthcheck FAILED (503)
+2017-11-05 01:20:18,910 WARN  [http-nio-8443-exec-85] c.b.ops.web.Health - req=88100712 healthcheck FAILED (503)
+2017-11-05 01:20:37,491 ERROR [http-nio-8443-exec-109] c.b.ops.db.PoolManager - req=88100713 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:20:44,946 ERROR [http-nio-8443-exec-158] c.b.ops.db.PoolManager - req=88100714 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:20:54,493 ERROR [http-nio-8443-exec-98] c.b.ops.db.PoolManager - req=88100715 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:21:22,587 ERROR [http-nio-8443-exec-188] c.b.ops.db.PoolManager - req=88100716 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:21:33,942 ERROR [http-nio-8443-exec-85] c.b.ops.db.PoolManager - req=88100717 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:22:01,868 ERROR [http-nio-8443-exec-188] c.b.ops.db.PoolManager - req=88100718 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:22:38,249 ERROR [http-nio-8443-exec-78] c.b.ops.db.PoolManager - req=88100719 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:22:46,263 ERROR [http-nio-8443-exec-48] c.b.ops.db.PoolManager - req=88100720 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:23:10,258 ERROR [http-nio-8443-exec-106] c.b.ops.db.PoolManager - req=88100721 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:23:27,391 ERROR [http-nio-8443-exec-62] c.b.ops.db.PoolManager - req=88100722 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:23:46,897 ERROR [http-nio-8443-exec-23] c.b.ops.db.PoolManager - req=88100723 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:24:05,957 WARN  [http-nio-8443-exec-149] c.b.ops.web.Health - req=88100724 healthcheck FAILED (503)
+2017-11-05 01:24:35,630 ERROR [http-nio-8443-exec-149] c.b.ops.db.PoolManager - req=88100725 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:24:49,029 ERROR [http-nio-8443-exec-51] c.b.ops.db.PoolManager - req=88100726 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:25:24,710 ERROR [http-nio-8443-exec-198] c.b.ops.db.PoolManager - req=88100727 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:25:43,801 WARN  [http-nio-8443-exec-157] c.b.ops.web.Health - req=88100728 healthcheck FAILED (503)
+2017-11-05 01:25:47,491 ERROR [http-nio-8443-exec-24] c.b.ops.db.PoolManager - req=88100729 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:26:05,456 ERROR [http-nio-8443-exec-178] c.b.ops.db.PoolManager - req=88100730 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:26:30,740 ERROR [http-nio-8443-exec-26] c.b.ops.db.PoolManager - req=88100731 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:27:07,297 ERROR [http-nio-8443-exec-85] c.b.ops.db.PoolManager - req=88100732 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:27:19,957 ERROR [http-nio-8443-exec-2] c.b.ops.db.PoolManager - req=88100733 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:27:41,273 ERROR [http-nio-8443-exec-195] c.b.ops.db.PoolManager - req=88100734 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:27:57,544 ERROR [http-nio-8443-exec-10] c.b.ops.db.PoolManager - req=88100735 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:28:30,384 ERROR [http-nio-8443-exec-130] c.b.ops.db.PoolManager - req=88100736 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:29:07,912 ERROR [http-nio-8443-exec-95] c.b.ops.db.PoolManager - req=88100737 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:29:16,051 ERROR [http-nio-8443-exec-40] c.b.ops.db.PoolManager - req=88100738 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:29:28,357 ERROR [http-nio-8443-exec-118] c.b.ops.db.PoolManager - req=88100739 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:30:00,951 WARN  [http-nio-8443-exec-15] c.b.ops.web.Health - req=88100740 healthcheck FAILED (503)
+2017-11-05 01:30:26,502 WARN  [http-nio-8443-exec-189] c.b.ops.web.Health - req=88100741 healthcheck FAILED (503)
+2017-11-05 01:30:41,635 WARN  [http-nio-8443-exec-26] c.b.ops.web.Health - req=88100742 healthcheck FAILED (503)
+2017-11-05 01:31:12,741 WARN  [http-nio-8443-exec-170] c.b.ops.web.Health - req=88100743 healthcheck FAILED (503)
+2017-11-05 01:31:32,362 ERROR [http-nio-8443-exec-95] c.b.ops.db.PoolManager - req=88100744 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:31:56,166 ERROR [http-nio-8443-exec-28] c.b.ops.db.PoolManager - req=88100745 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:32:22,131 ERROR [http-nio-8443-exec-22] c.b.ops.db.PoolManager - req=88100746 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:32:47,326 ERROR [http-nio-8443-exec-62] c.b.ops.db.PoolManager - req=88100747 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:33:17,050 ERROR [http-nio-8443-exec-68] c.b.ops.db.PoolManager - req=88100748 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:33:39,366 ERROR [http-nio-8443-exec-24] c.b.ops.db.PoolManager - req=88100749 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:33:48,198 ERROR [http-nio-8443-exec-164] c.b.ops.db.PoolManager - req=88100750 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:33:55,474 ERROR [http-nio-8443-exec-85] c.b.ops.db.PoolManager - req=88100751 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:34:13,965 WARN  [http-nio-8443-exec-67] c.b.ops.web.Health - req=88100752 healthcheck FAILED (503)
+2017-11-05 01:34:24,234 WARN  [http-nio-8443-exec-46] c.b.ops.web.Health - req=88100753 healthcheck FAILED (503)
+2017-11-05 01:34:29,639 WARN  [http-nio-8443-exec-28] c.b.ops.web.Health - req=88100754 healthcheck FAILED (503)
+2017-11-05 01:35:09,863 ERROR [http-nio-8443-exec-5] c.b.ops.db.PoolManager - req=88100755 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:35:49,125 WARN  [http-nio-8443-exec-69] c.b.ops.web.Health - req=88100756 healthcheck FAILED (503)
+2017-11-05 01:36:07,078 WARN  [http-nio-8443-exec-51] c.b.ops.web.Health - req=88100757 healthcheck FAILED (503)
+2017-11-05 01:36:28,917 ERROR [http-nio-8443-exec-62] c.b.ops.db.PoolManager - req=88100758 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:36:56,079 ERROR [http-nio-8443-exec-155] c.b.ops.db.PoolManager - req=88100759 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:37:00,419 ERROR [http-nio-8443-exec-105] c.b.ops.db.PoolManager - req=88100760 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:37:36,410 ERROR [http-nio-8443-exec-192] c.b.ops.db.PoolManager - req=88100761 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:37:40,965 ERROR [http-nio-8443-exec-2] c.b.ops.db.PoolManager - req=88100762 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:38:17,064 WARN  [http-nio-8443-exec-84] c.b.ops.web.Health - req=88100763 healthcheck FAILED (503)
+2017-11-05 01:38:33,225 ERROR [http-nio-8443-exec-144] c.b.ops.db.PoolManager - req=88100764 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:38:44,395 WARN  [http-nio-8443-exec-99] c.b.ops.web.Health - req=88100765 healthcheck FAILED (503)
+2017-11-05 01:38:55,737 ERROR [http-nio-8443-exec-77] c.b.ops.db.PoolManager - req=88100766 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:39:27,855 ERROR [http-nio-8443-exec-198] c.b.ops.db.PoolManager - req=88100767 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:39:38,092 WARN  [http-nio-8443-exec-29] c.b.ops.web.Health - req=88100768 healthcheck FAILED (503)
+2017-11-05 01:39:43,842 ERROR [http-nio-8443-exec-4] c.b.ops.db.PoolManager - req=88100769 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:39:47,417 ERROR [http-nio-8443-exec-98] c.b.ops.db.PoolManager - req=88100770 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:40:04,363 ERROR [http-nio-8443-exec-173] c.b.ops.db.PoolManager - req=88100771 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:40:42,163 ERROR [http-nio-8443-exec-183] c.b.ops.db.PoolManager - req=88100772 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:41:21,062 ERROR [http-nio-8443-exec-129] c.b.ops.db.PoolManager - req=88100773 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:41:42,341 ERROR [http-nio-8443-exec-164] c.b.ops.db.PoolManager - req=88100774 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:42:07,357 ERROR [http-nio-8443-exec-146] c.b.ops.db.PoolManager - req=88100775 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:42:32,139 ERROR [http-nio-8443-exec-26] c.b.ops.db.PoolManager - req=88100776 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:43:04,656 ERROR [http-nio-8443-exec-153] c.b.ops.db.PoolManager - req=88100777 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:43:10,786 ERROR [http-nio-8443-exec-126] c.b.ops.db.PoolManager - req=88100778 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:43:24,277 WARN  [http-nio-8443-exec-27] c.b.ops.web.Health - req=88100779 healthcheck FAILED (503)
+2017-11-05 01:43:52,014 WARN  [http-nio-8443-exec-65] c.b.ops.web.Health - req=88100780 healthcheck FAILED (503)
+2017-11-05 01:44:02,124 ERROR [http-nio-8443-exec-96] c.b.ops.db.PoolManager - req=88100781 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:44:15,099 WARN  [http-nio-8443-exec-152] c.b.ops.web.Health - req=88100782 healthcheck FAILED (503)
+2017-11-05 01:44:29,999 WARN  [http-nio-8443-exec-167] c.b.ops.web.Health - req=88100783 healthcheck FAILED (503)
+2017-11-05 01:45:01,940 ERROR [http-nio-8443-exec-123] c.b.ops.db.PoolManager - req=88100784 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:45:18,299 ERROR [http-nio-8443-exec-85] c.b.ops.db.PoolManager - req=88100785 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:45:25,188 WARN  [http-nio-8443-exec-1] c.b.ops.web.Health - req=88100786 healthcheck FAILED (503)
+2017-11-05 01:45:54,903 ERROR [http-nio-8443-exec-143] c.b.ops.db.PoolManager - req=88100787 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:46:13,199 WARN  [http-nio-8443-exec-127] c.b.ops.web.Health - req=88100788 healthcheck FAILED (503)
+2017-11-05 01:46:40,477 ERROR [http-nio-8443-exec-172] c.b.ops.db.PoolManager - req=88100789 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:47:07,638 ERROR [http-nio-8443-exec-191] c.b.ops.db.PoolManager - req=88100790 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:47:19,749 ERROR [http-nio-8443-exec-122] c.b.ops.db.PoolManager - req=88100791 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:47:59,228 ERROR [http-nio-8443-exec-168] c.b.ops.db.PoolManager - req=88100792 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:48:22,307 ERROR [http-nio-8443-exec-113] c.b.ops.db.PoolManager - req=88100793 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:48:50,508 ERROR [http-nio-8443-exec-134] c.b.ops.db.PoolManager - req=88100794 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:48:56,800 WARN  [http-nio-8443-exec-54] c.b.ops.web.Health - req=88100795 healthcheck FAILED (503)
+2017-11-05 01:49:19,088 WARN  [http-nio-8443-exec-62] c.b.ops.web.Health - req=88100796 healthcheck FAILED (503)
+2017-11-05 01:49:55,204 ERROR [http-nio-8443-exec-47] c.b.ops.db.PoolManager - req=88100797 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:50:20,883 ERROR [http-nio-8443-exec-53] c.b.ops.db.PoolManager - req=88100798 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:50:54,001 ERROR [http-nio-8443-exec-2] c.b.ops.db.PoolManager - req=88100799 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:51:22,723 ERROR [http-nio-8443-exec-7] c.b.ops.db.PoolManager - req=88100800 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:51:38,842 ERROR [http-nio-8443-exec-28] c.b.ops.db.PoolManager - req=88100801 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:51:48,347 ERROR [http-nio-8443-exec-172] c.b.ops.db.PoolManager - req=88100802 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:51:55,506 ERROR [http-nio-8443-exec-31] c.b.ops.db.PoolManager - req=88100803 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:52:07,638 ERROR [http-nio-8443-exec-191] c.b.ops.db.PoolManager - req=88100804 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:52:34,162 ERROR [http-nio-8443-exec-7] c.b.ops.db.PoolManager - req=88100805 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:52:41,732 ERROR [http-nio-8443-exec-32] c.b.ops.db.PoolManager - req=88100806 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:52:45,536 WARN  [http-nio-8443-exec-110] c.b.ops.web.Health - req=88100807 healthcheck FAILED (503)
+2017-11-05 01:52:49,676 WARN  [http-nio-8443-exec-96] c.b.ops.web.Health - req=88100808 healthcheck FAILED (503)
+2017-11-05 01:53:01,032 ERROR [http-nio-8443-exec-183] c.b.ops.db.PoolManager - req=88100809 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:53:26,416 ERROR [http-nio-8443-exec-120] c.b.ops.db.PoolManager - req=88100810 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:53:34,730 ERROR [http-nio-8443-exec-29] c.b.ops.db.PoolManager - req=88100811 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:54:09,326 ERROR [http-nio-8443-exec-167] c.b.ops.db.PoolManager - req=88100812 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:54:42,467 WARN  [http-nio-8443-exec-110] c.b.ops.web.Health - req=88100813 healthcheck FAILED (503)
+2017-11-05 01:55:14,766 ERROR [http-nio-8443-exec-96] c.b.ops.db.PoolManager - req=88100814 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:55:34,858 ERROR [http-nio-8443-exec-134] c.b.ops.db.PoolManager - req=88100815 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:56:00,358 ERROR [http-nio-8443-exec-20] c.b.ops.db.PoolManager - req=88100816 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:56:20,771 ERROR [http-nio-8443-exec-124] c.b.ops.db.PoolManager - req=88100817 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:56:58,842 ERROR [http-nio-8443-exec-200] c.b.ops.db.PoolManager - req=88100818 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:57:16,402 ERROR [http-nio-8443-exec-97] c.b.ops.db.PoolManager - req=88100819 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:57:51,148 ERROR [http-nio-8443-exec-179] c.b.ops.db.PoolManager - req=88100820 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:57:59,920 ERROR [http-nio-8443-exec-126] c.b.ops.db.PoolManager - req=88100821 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:58:26,522 WARN  [http-nio-8443-exec-154] c.b.ops.web.Health - req=88100822 healthcheck FAILED (503)
+2017-11-05 01:58:32,727 ERROR [http-nio-8443-exec-27] c.b.ops.db.PoolManager - req=88100823 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:58:53,827 ERROR [http-nio-8443-exec-102] c.b.ops.db.PoolManager - req=88100824 Cannot get a connection, pool error Timeout waiting for idle object
+2017-11-05 01:59:19,417 WARN  [http-nio-8443-exec-51] c.b.ops.web.Health - req=88100825 healthcheck FAILED (503)
+2017-11-05 01:59:25,182 WARN  [http-nio-8443-exec-90] c.b.ops.web.Health - req=88100826 healthcheck FAILED (503)
+2017-11-05 01:59:43,076 WARN  [http-nio-8443-exec-67] c.b.ops.web.Health - req=88100827 healthcheck FAILED (503)
+2017-11-05 02:00:06,123 WARN  [http-nio-8443-exec-104] c.b.ops.mail.Sender - req=88100828 SMTP slow 300ms
+2017-11-05 02:00:21,989 DEBUG [http-nio-8443-exec-109] c.b.ops.sched.PmRunner - req=88100829 pm tick
+2017-11-05 02:00:52,578 WARN  [http-nio-8443-exec-139] c.b.ops.mail.Sender - req=88100830 SMTP slow 645ms
+2017-11-05 02:00:56,802 DEBUG [http-nio-8443-exec-154] c.b.ops.sched.PmRunner - req=88100831 pm tick
+2017-11-05 02:01:02,406 DEBUG [http-nio-8443-exec-77] c.b.ops.sched.PmRunner - req=88100832 pm tick
+2017-11-05 02:01:15,769 DEBUG [http-nio-8443-exec-173] c.b.ops.sched.PmRunner - req=88100833 pm tick
+2017-11-05 02:01:32,037 WARN  [http-nio-8443-exec-140] c.b.ops.mail.Sender - req=88100834 SMTP slow 529ms
+2017-11-05 02:01:52,308 INFO  [http-nio-8443-exec-139] c.b.ops.web.Access - req=88100835 GET /api/v2/workorders 200 123ms
+2017-11-05 02:02:24,626 DEBUG [http-nio-8443-exec-165] c.b.ops.sched.PmRunner - req=88100836 pm tick
+2017-11-05 02:02:54,529 WARN  [http-nio-8443-exec-64] c.b.ops.mail.Sender - req=88100837 SMTP slow 115ms
+2017-11-05 02:03:01,752 INFO  [http-nio-8443-exec-82] c.b.ops.web.Access - req=88100838 GET /api/v2/workorders 200 66ms
+2017-11-05 02:03:41,286 DEBUG [http-nio-8443-exec-13] c.b.ops.sched.PmRunner - req=88100839 pm tick
+2017-11-05 02:04:21,727 DEBUG [http-nio-8443-exec-107] c.b.ops.sched.PmRunner - req=88100840 pm tick
+2017-11-05 02:04:55,804 WARN  [http-nio-8443-exec-172] c.b.ops.mail.Sender - req=88100841 SMTP slow 636ms
+2017-11-05 02:05:00,172 DEBUG [http-nio-8443-exec-104] c.b.ops.sched.PmRunner - req=88100842 pm tick
+2017-11-05 02:05:08,548 DEBUG [http-nio-8443-exec-94] c.b.ops.sched.PmRunner - req=88100843 pm tick
+2017-11-05 02:05:39,402 DEBUG [http-nio-8443-exec-123] c.b.ops.sched.PmRunner - req=88100844 pm tick
+2017-11-05 02:06:10,178 INFO  [http-nio-8443-exec-38] c.b.ops.sync.MobileSync - req=88100845 sync ok tenant=patriot-academy items=8
+2017-11-05 02:06:23,110 WARN  [http-nio-8443-exec-184] c.b.ops.mail.Sender - req=88100846 SMTP slow 839ms
+2017-11-05 02:06:32,953 INFO  [http-nio-8443-exec-171] c.b.ops.sync.MobileSync - req=88100847 sync ok tenant=huron-builders items=69
+2017-11-05 02:07:07,954 INFO  [http-nio-8443-exec-25] c.b.ops.sync.MobileSync - req=88100848 sync ok tenant=cascade-hospitality-group items=61
+2017-11-05 02:07:18,152 INFO  [http-nio-8443-exec-151] c.b.ops.web.Access - req=88100849 GET /api/v2/workorders 200 322ms
+2017-11-05 02:07:27,017 INFO  [http-nio-8443-exec-92] c.b.ops.web.Access - req=88100850 GET /api/v2/workorders 200 777ms
+2017-11-05 02:08:03,615 WARN  [http-nio-8443-exec-156] c.b.ops.mail.Sender - req=88100851 SMTP slow 438ms
+2017-11-05 02:08:07,756 DEBUG [http-nio-8443-exec-84] c.b.ops.sched.PmRunner - req=88100852 pm tick
+2017-11-05 02:08:18,909 INFO  [http-nio-8443-exec-27] c.b.ops.web.Access - req=88100853 GET /api/v2/workorders 200 696ms
+2017-11-05 02:08:42,347 WARN  [http-nio-8443-exec-16] c.b.ops.mail.Sender - req=88100854 SMTP slow 642ms
+2017-11-05 02:09:19,870 INFO  [http-nio-8443-exec-172] c.b.ops.web.Access - req=88100855 GET /api/v2/workorders 200 132ms
+2017-11-05 02:09:27,677 WARN  [http-nio-8443-exec-150] c.b.ops.mail.Sender - req=88100856 SMTP slow 510ms
+2017-11-05 02:09:58,763 WARN  [http-nio-8443-exec-197] c.b.ops.mail.Sender - req=88100857 SMTP slow 520ms
+2017-11-05 02:10:23,375 WARN  [http-nio-8443-exec-44] c.b.ops.mail.Sender - req=88100858 SMTP slow 359ms
+2017-11-05 02:10:34,301 INFO  [http-nio-8443-exec-170] c.b.ops.web.Access - req=88100859 GET /api/v2/workorders 200 765ms
+2017-11-05 02:10:40,119 DEBUG [http-nio-8443-exec-187] c.b.ops.sched.PmRunner - req=88100860 pm tick
+2017-11-05 02:11:15,234 INFO  [http-nio-8443-exec-131] c.b.ops.web.Access - req=88100861 GET /api/v2/workorders 200 769ms
+2017-11-05 02:11:31,814 INFO  [http-nio-8443-exec-14] c.b.ops.sync.MobileSync - req=88100862 sync ok tenant=carter-county-facilities items=17
+2017-11-05 02:12:11,558 INFO  [http-nio-8443-exec-68] c.b.ops.web.Access - req=88100863 GET /api/v2/workorders 200 761ms
+2017-11-05 02:12:37,629 WARN  [http-nio-8443-exec-50] c.b.ops.mail.Sender - req=88100864 SMTP slow 615ms
+2017-11-05 02:12:46,983 INFO  [http-nio-8443-exec-161] c.b.ops.web.Access - req=88100865 GET /api/v2/workorders 200 541ms
+2017-11-05 02:13:21,455 DEBUG [http-nio-8443-exec-101] c.b.ops.sched.PmRunner - req=88100866 pm tick
+2017-11-05 02:13:47,360 WARN  [http-nio-8443-exec-104] c.b.ops.mail.Sender - req=88100867 SMTP slow 554ms
+2017-11-05 02:14:07,552 WARN  [http-nio-8443-exec-175] c.b.ops.mail.Sender - req=88100868 SMTP slow 733ms
+2017-11-05 02:14:43,214 DEBUG [http-nio-8443-exec-163] c.b.ops.sched.PmRunner - req=88100869 pm tick
+2017-11-05 02:14:49,269 WARN  [http-nio-8443-exec-16] c.b.ops.mail.Sender - req=88100870 SMTP slow 670ms
+2017-11-05 02:15:20,772 WARN  [http-nio-8443-exec-147] c.b.ops.mail.Sender - req=88100871 SMTP slow 91ms
+2017-11-05 02:15:55,001 DEBUG [http-nio-8443-exec-24] c.b.ops.sched.PmRunner - req=88100872 pm tick
+2017-11-05 02:16:09,587 INFO  [http-nio-8443-exec-157] c.b.ops.web.Access - req=88100873 GET /api/v2/workorders 200 822ms
+2017-11-05 02:16:31,606 WARN  [http-nio-8443-exec-60] c.b.ops.mail.Sender - req=88100874 SMTP slow 160ms
+2017-11-05 02:16:45,988 INFO  [http-nio-8443-exec-6] c.b.ops.sync.MobileSync - req=88100875 sync ok tenant=twin-municipal-services-co items=6
+2017-11-05 02:16:56,105 INFO  [http-nio-8443-exec-119] c.b.ops.web.Access - req=88100876 GET /api/v2/workorders 200 410ms
+2017-11-05 02:17:33,318 DEBUG [http-nio-8443-exec-196] c.b.ops.sched.PmRunner - req=88100877 pm tick
+2017-11-05 02:17:51,945 WARN  [http-nio-8443-exec-6] c.b.ops.mail.Sender - req=88100878 SMTP slow 759ms
+2017-11-05 02:18:09,140 INFO  [http-nio-8443-exec-145] c.b.ops.web.Access - req=88100879 GET /api/v2/workorders 200 646ms
+2017-11-05 02:18:33,070 DEBUG [http-nio-8443-exec-104] c.b.ops.sched.PmRunner - req=88100880 pm tick
+2017-11-05 02:19:08,102 INFO  [http-nio-8443-exec-117] c.b.ops.sync.MobileSync - req=88100881 sync ok tenant=anderson-municipal-services items=22
+2017-11-05 02:19:21,485 DEBUG [http-nio-8443-exec-141] c.b.ops.sched.PmRunner - req=88100882 pm tick
+2017-11-05 02:19:56,062 INFO  [http-nio-8443-exec-137] c.b.ops.web.Access - req=88100883 GET /api/v2/workorders 200 414ms
+2017-11-05 02:20:07,437 DEBUG [http-nio-8443-exec-183] c.b.ops.sched.PmRunner - req=88100884 pm tick
+2017-11-05 02:20:29,955 DEBUG [http-nio-8443-exec-137] c.b.ops.sched.PmRunner - req=88100885 pm tick
+2017-11-05 02:20:48,864 WARN  [http-nio-8443-exec-73] c.b.ops.mail.Sender - req=88100886 SMTP slow 524ms
+2017-11-05 02:21:04,768 INFO  [http-nio-8443-exec-64] c.b.ops.sync.MobileSync - req=88100887 sync ok tenant=lakes-mills-ltd items=33
+2017-11-05 02:21:16,580 INFO  [http-nio-8443-exec-59] c.b.ops.web.Access - req=88100888 GET /api/v2/workorders 200 290ms
+2017-11-05 02:21:34,624 WARN  [http-nio-8443-exec-45] c.b.ops.mail.Sender - req=88100889 SMTP slow 622ms
+2017-11-05 02:21:55,819 INFO  [http-nio-8443-exec-7] c.b.ops.sync.MobileSync - req=88100890 sync ok tenant=johansson-suites items=43
+2017-11-05 02:22:34,678 DEBUG [http-nio-8443-exec-139] c.b.ops.sched.PmRunner - req=88100891 pm tick
+2017-11-05 02:23:04,327 DEBUG [http-nio-8443-exec-136] c.b.ops.sched.PmRunner - req=88100892 pm tick
+2017-11-05 02:23:14,771 INFO  [http-nio-8443-exec-186] c.b.ops.sync.MobileSync - req=88100893 sync ok tenant=ostrander-hospital-inc items=8
+2017-11-05 02:23:29,897 INFO  [http-nio-8443-exec-195] c.b.ops.web.Access - req=88100894 GET /api/v2/workorders 200 729ms
+2017-11-05 02:24:01,836 WARN  [http-nio-8443-exec-48] c.b.ops.mail.Sender - req=88100895 SMTP slow 864ms
+2017-11-05 02:24:08,056 INFO  [http-nio-8443-exec-59] c.b.ops.sync.MobileSync - req=88100896 sync ok tenant=lakeshore-mechanical-llc items=76
+2017-11-05 02:24:24,468 INFO  [http-nio-8443-exec-120] c.b.ops.sync.MobileSync - req=88100897 sync ok tenant=harris-township-inc items=54
+2017-11-05 02:24:58,434 DEBUG [http-nio-8443-exec-111] c.b.ops.sched.PmRunner - req=88100898 pm tick
+2017-11-05 02:25:06,179 INFO  [http-nio-8443-exec-130] c.b.ops.web.Access - req=88100899 GET /api/v2/workorders 200 873ms
+2017-11-05 02:25:28,081 WARN  [http-nio-8443-exec-79] c.b.ops.mail.Sender - req=88100900 SMTP slow 851ms
+2017-11-05 02:25:49,810 DEBUG [http-nio-8443-exec-5] c.b.ops.sched.PmRunner - req=88100901 pm tick
+2017-11-05 02:26:06,297 INFO  [http-nio-8443-exec-181] c.b.ops.sync.MobileSync - req=88100902 sync ok tenant=ridgeline-stores-ltd items=16
+2017-11-05 02:26:38,162 WARN  [http-nio-8443-exec-28] c.b.ops.mail.Sender - req=88100903 SMTP slow 852ms
+2017-11-05 02:26:44,220 DEBUG [http-nio-8443-exec-6] c.b.ops.sched.PmRunner - req=88100904 pm tick
+2017-11-05 02:26:50,216 INFO  [http-nio-8443-exec-191] c.b.ops.sync.MobileSync - req=88100905 sync ok tenant=kestrel-builders-corp items=28
+2017-11-05 02:27:12,657 INFO  [http-nio-8443-exec-78] c.b.ops.web.Access - req=88100906 GET /api/v2/workorders 200 60ms
+2017-11-05 02:27:25,040 DEBUG [http-nio-8443-exec-48] c.b.ops.sched.PmRunner - req=88100907 pm tick
+2017-11-05 02:27:51,658 INFO  [http-nio-8443-exec-169] c.b.ops.sync.MobileSync - req=88100908 sync ok tenant=mesa-public-works items=44
+2017-11-05 02:28:28,756 WARN  [http-nio-8443-exec-9] c.b.ops.mail.Sender - req=88100909 SMTP slow 777ms
+2017-11-05 02:28:48,318 WARN  [http-nio-8443-exec-63] c.b.ops.mail.Sender - req=88100910 SMTP slow 519ms
+2017-11-05 02:28:52,968 WARN  [http-nio-8443-exec-63] c.b.ops.mail.Sender - req=88100911 SMTP slow 247ms
+2017-11-05 02:28:58,165 INFO  [http-nio-8443-exec-9] c.b.ops.web.Access - req=88100912 GET /api/v2/workorders 200 272ms
+2017-11-05 02:29:27,796 DEBUG [http-nio-8443-exec-171] c.b.ops.sched.PmRunner - req=88100913 pm tick
+2017-11-05 02:29:37,281 INFO  [http-nio-8443-exec-173] c.b.ops.web.Access - req=88100914 GET /api/v2/workorders 200 489ms
+2017-11-05 02:29:53,446 INFO  [http-nio-8443-exec-66] c.b.ops.web.Access - req=88100915 GET /api/v2/workorders 200 839ms
+2017-11-05 02:30:25,016 INFO  [http-nio-8443-exec-88] c.b.ops.sync.MobileSync - req=88100916 sync ok tenant=king-logistics-co items=74
+2017-11-05 02:30:38,565 INFO  [http-nio-8443-exec-126] c.b.ops.sync.MobileSync - req=88100917 sync ok tenant=willow-transit-authority-hol items=24
+2017-11-05 02:30:47,904 INFO  [http-nio-8443-exec-16] c.b.ops.web.Access - req=88100918 GET /api/v2/workorders 200 140ms
+2017-11-05 02:31:08,489 INFO  [http-nio-8443-exec-51] c.b.ops.web.Access - req=88100919 GET /api/v2/workorders 200 146ms
+2017-11-05 02:31:35,061 DEBUG [http-nio-8443-exec-21] c.b.ops.sched.PmRunner - req=88100920 pm tick
+2017-11-05 02:31:49,841 WARN  [http-nio-8443-exec-66] c.b.ops.mail.Sender - req=88100921 SMTP slow 786ms
+2017-11-05 02:32:27,663 DEBUG [http-nio-8443-exec-98] c.b.ops.sched.PmRunner - req=88100922 pm tick
+2017-11-05 02:32:34,100 DEBUG [http-nio-8443-exec-129] c.b.ops.sched.PmRunner - req=88100923 pm tick
+2017-11-05 02:33:14,884 WARN  [http-nio-8443-exec-72] c.b.ops.mail.Sender - req=88100924 SMTP slow 322ms
+2017-11-05 02:33:23,593 INFO  [http-nio-8443-exec-59] c.b.ops.web.Access - req=88100925 GET /api/v2/workorders 200 531ms
+2017-11-05 02:33:33,533 INFO  [http-nio-8443-exec-63] c.b.ops.web.Access - req=88100926 GET /api/v2/workorders 200 730ms
+2017-11-05 02:33:48,900 INFO  [http-nio-8443-exec-88] c.b.ops.sync.MobileSync - req=88100927 sync ok tenant=okonkwo-hale-residential-cor items=17
+2017-11-05 02:34:00,338 INFO  [http-nio-8443-exec-71] c.b.ops.sync.MobileSync - req=88100928 sync ok tenant=martin-health-partners items=20
+2017-11-05 02:34:07,822 INFO  [http-nio-8443-exec-111] c.b.ops.web.Access - req=88100929 GET /api/v2/workorders 200 619ms
+2017-11-05 02:34:18,314 INFO  [http-nio-8443-exec-160] c.b.ops.sync.MobileSync - req=88100930 sync ok tenant=tillamook-college-holdings items=35
+2017-11-05 02:34:22,320 WARN  [http-nio-8443-exec-122] c.b.ops.mail.Sender - req=88100931 SMTP slow 390ms
+2017-11-05 02:34:44,675 DEBUG [http-nio-8443-exec-156] c.b.ops.sched.PmRunner - req=88100932 pm tick
+2017-11-05 02:35:22,870 WARN  [http-nio-8443-exec-127] c.b.ops.mail.Sender - req=88100933 SMTP slow 615ms
+2017-11-05 02:35:56,503 INFO  [http-nio-8443-exec-129] c.b.ops.sync.MobileSync - req=88100934 sync ok tenant=abernathy-builders-holdings items=47
+2017-11-05 02:36:08,201 INFO  [http-nio-8443-exec-48] c.b.ops.web.Access - req=88100935 GET /api/v2/workorders 200 686ms
+2017-11-05 02:36:25,839 INFO  [http-nio-8443-exec-147] c.b.ops.web.Access - req=88100936 GET /api/v2/workorders 200 736ms
+2017-11-05 02:37:02,400 INFO  [http-nio-8443-exec-144] c.b.ops.web.Access - req=88100937 GET /api/v2/workorders 200 512ms
+2017-11-05 02:37:36,140 WARN  [http-nio-8443-exec-6] c.b.ops.mail.Sender - req=88100938 SMTP slow 686ms
+2017-11-05 02:37:56,237 INFO  [http-nio-8443-exec-93] c.b.ops.sync.MobileSync - req=88100939 sync ok tenant=westbrook-health-partners items=60
+2017-11-05 02:38:02,019 DEBUG [http-nio-8443-exec-121] c.b.ops.sched.PmRunner - req=88100940 pm tick
+2017-11-05 02:38:14,926 INFO  [http-nio-8443-exec-52] c.b.ops.sync.MobileSync - req=88100941 sync ok tenant=perez-outfitters-corp items=39
+2017-11-05 02:38:54,567 INFO  [http-nio-8443-exec-179] c.b.ops.web.Access - req=88100942 GET /api/v2/workorders 200 545ms
+2017-11-05 02:39:05,638 DEBUG [http-nio-8443-exec-147] c.b.ops.sched.PmRunner - req=88100943 pm tick
+2017-11-05 02:39:34,174 DEBUG [http-nio-8443-exec-84] c.b.ops.sched.PmRunner - req=88100944 pm tick
+2017-11-05 02:40:13,076 INFO  [http-nio-8443-exec-84] c.b.ops.sync.MobileSync - req=88100945 sync ok tenant=foster-couriers-ltd items=52
+2017-11-05 02:40:37,513 WARN  [http-nio-8443-exec-177] c.b.ops.mail.Sender - req=88100946 SMTP slow 72ms
+2017-11-05 02:41:07,393 DEBUG [http-nio-8443-exec-145] c.b.ops.sched.PmRunner - req=88100947 pm tick
+2017-11-05 02:41:30,517 INFO  [http-nio-8443-exec-80] c.b.ops.web.Access - req=88100948 GET /api/v2/workorders 200 192ms
+2017-11-05 02:42:02,969 INFO  [http-nio-8443-exec-129] c.b.ops.web.Access - req=88100949 GET /api/v2/workorders 200 847ms
+2017-11-05 02:42:31,388 INFO  [http-nio-8443-exec-187] c.b.ops.web.Access - req=88100950 GET /api/v2/workorders 200 541ms
+2017-11-05 02:43:06,189 DEBUG [http-nio-8443-exec-73] c.b.ops.sched.PmRunner - req=88100951 pm tick
+2017-11-05 02:43:27,075 DEBUG [http-nio-8443-exec-25] c.b.ops.sched.PmRunner - req=88100952 pm tick
+2017-11-05 02:43:40,510 INFO  [http-nio-8443-exec-101] c.b.ops.web.Access - req=88100953 GET /api/v2/workorders 200 746ms
+2017-11-05 02:43:46,211 DEBUG [http-nio-8443-exec-146] c.b.ops.sched.PmRunner - req=88100954 pm tick
+2017-11-05 02:44:07,165 INFO  [http-nio-8443-exec-169] c.b.ops.web.Access - req=88100955 GET /api/v2/workorders 200 327ms
+2017-11-05 02:44:36,531 DEBUG [http-nio-8443-exec-65] c.b.ops.sched.PmRunner - req=88100956 pm tick
+2017-11-05 02:45:04,609 INFO  [http-nio-8443-exec-99] c.b.ops.sync.MobileSync - req=88100957 sync ok tenant=bayview-restoration-ltd items=9
+2017-11-05 02:45:35,943 INFO  [http-nio-8443-exec-32] c.b.ops.web.Access - req=88100958 GET /api/v2/workorders 200 210ms
+2017-11-05 02:46:13,534 WARN  [http-nio-8443-exec-173] c.b.ops.mail.Sender - req=88100959 SMTP slow 91ms
+2017-11-05 02:46:53,912 DEBUG [http-nio-8443-exec-49] c.b.ops.sched.PmRunner - req=88100960 pm tick
+2017-11-05 02:46:59,700 INFO  [http-nio-8443-exec-95] c.b.ops.sync.MobileSync - req=88100961 sync ok tenant=ridgeline-mills-holdings items=74
+2017-11-05 02:47:21,047 DEBUG [http-nio-8443-exec-157] c.b.ops.sched.PmRunner - req=88100962 pm tick
+2017-11-05 02:47:41,466 DEBUG [http-nio-8443-exec-170] c.b.ops.sched.PmRunner - req=88100963 pm tick
+2017-11-05 02:48:19,757 WARN  [http-nio-8443-exec-68] c.b.ops.mail.Sender - req=88100964 SMTP slow 217ms
+2017-11-05 02:48:34,804 INFO  [http-nio-8443-exec-15] c.b.ops.sync.MobileSync - req=88100965 sync ok tenant=southport-supply-co-llc items=3
+2017-11-05 02:49:05,620 INFO  [http-nio-8443-exec-70] c.b.ops.web.Access - req=88100966 GET /api/v2/workorders 200 651ms
+2017-11-05 02:49:15,616 WARN  [http-nio-8443-exec-10] c.b.ops.mail.Sender - req=88100967 SMTP slow 783ms
+2017-11-05 02:49:50,285 DEBUG [http-nio-8443-exec-89] c.b.ops.sched.PmRunner - req=88100968 pm tick
+2017-11-05 02:50:21,381 WARN  [http-nio-8443-exec-8] c.b.ops.mail.Sender - req=88100969 SMTP slow 349ms
+2017-11-05 02:50:39,405 WARN  [http-nio-8443-exec-148] c.b.ops.mail.Sender - req=88100970 SMTP slow 265ms
+2017-11-05 02:51:14,922 INFO  [http-nio-8443-exec-139] c.b.ops.web.Access - req=88100971 GET /api/v2/workorders 200 65ms
+2017-11-05 02:51:28,605 INFO  [http-nio-8443-exec-96] c.b.ops.web.Access - req=88100972 GET /api/v2/workorders 200 129ms
+2017-11-05 02:51:55,494 INFO  [http-nio-8443-exec-184] c.b.ops.sync.MobileSync - req=88100973 sync ok tenant=perez-construction-inc items=29
+2017-11-05 02:52:18,722 INFO  [http-nio-8443-exec-41] c.b.ops.web.Access - req=88100974 GET /api/v2/workorders 200 522ms
+2017-11-05 02:52:33,460 INFO  [http-nio-8443-exec-71] c.b.ops.web.Access - req=88100975 GET /api/v2/workorders 200 35ms
+2017-11-05 02:52:58,970 INFO  [http-nio-8443-exec-121] c.b.ops.sync.MobileSync - req=88100976 sync ok tenant=liberty-hotels-corp items=11
+2017-11-05 02:53:37,833 WARN  [http-nio-8443-exec-166] c.b.ops.mail.Sender - req=88100977 SMTP slow 173ms
+2017-11-05 02:54:09,021 DEBUG [http-nio-8443-exec-88] c.b.ops.sched.PmRunner - req=88100978 pm tick
+2017-11-05 02:54:44,883 DEBUG [http-nio-8443-exec-45] c.b.ops.sched.PmRunner - req=88100979 pm tick
+2017-11-05 02:54:54,998 INFO  [http-nio-8443-exec-137] c.b.ops.web.Access - req=88100980 GET /api/v2/workorders 200 729ms
+2017-11-05 02:55:15,295 WARN  [http-nio-8443-exec-30] c.b.ops.mail.Sender - req=88100981 SMTP slow 802ms
+2017-11-05 02:55:43,311 WARN  [http-nio-8443-exec-160] c.b.ops.mail.Sender - req=88100982 SMTP slow 340ms
+2017-11-05 02:56:13,926 WARN  [http-nio-8443-exec-28] c.b.ops.mail.Sender - req=88100983 SMTP slow 672ms
+2017-11-05 02:56:37,611 WARN  [http-nio-8443-exec-123] c.b.ops.mail.Sender - req=88100984 SMTP slow 615ms
+2017-11-05 02:57:15,362 INFO  [http-nio-8443-exec-147] c.b.ops.web.Access - req=88100985 GET /api/v2/workorders 200 258ms
+2017-11-05 02:57:23,052 INFO  [http-nio-8443-exec-93] c.b.ops.sync.MobileSync - req=88100986 sync ok tenant=miami-outfitters-holdings items=67
+2017-11-05 02:57:55,417 INFO  [http-nio-8443-exec-63] c.b.ops.web.Access - req=88100987 GET /api/v2/workorders 200 508ms
+2017-11-05 02:58:05,903 DEBUG [http-nio-8443-exec-39] c.b.ops.sched.PmRunner - req=88100988 pm tick
+2017-11-05 02:58:21,943 DEBUG [http-nio-8443-exec-3] c.b.ops.sched.PmRunner - req=88100989 pm tick
+2017-11-05 02:58:33,350 INFO  [http-nio-8443-exec-34] c.b.ops.sync.MobileSync - req=88100990 sync ok tenant=campbell-rhys-property-servi items=13
+2017-11-05 02:58:59,316 WARN  [http-nio-8443-exec-80] c.b.ops.mail.Sender - req=88100991 SMTP slow 508ms
+2017-11-05 02:59:30,635 DEBUG [http-nio-8443-exec-34] c.b.ops.sched.PmRunner - req=88100992 pm tick
+2017-11-05 03:00:00,720 WARN  [http-nio-8443-exec-98] c.b.ops.mail.Sender - req=88100993 SMTP slow 410ms
+2017-11-05 03:00:14,747 INFO  [http-nio-8443-exec-37] c.b.ops.web.Access - req=88100994 GET /api/v2/workorders 200 471ms
+2017-11-05 03:00:38,975 INFO  [http-nio-8443-exec-55] c.b.ops.web.Access - req=88100995 GET /api/v2/workorders 200 576ms
+2017-11-05 03:01:11,983 WARN  [http-nio-8443-exec-63] c.b.ops.mail.Sender - req=88100996 SMTP slow 544ms
+2017-11-05 03:01:42,733 DEBUG [http-nio-8443-exec-115] c.b.ops.sched.PmRunner - req=88100997 pm tick
+2017-11-05 03:02:17,848 DEBUG [http-nio-8443-exec-97] c.b.ops.sched.PmRunner - req=88100998 pm tick
+2017-11-05 03:02:37,087 DEBUG [http-nio-8443-exec-11] c.b.ops.sched.PmRunner - req=88100999 pm tick
+2017-11-05 03:03:10,773 WARN  [http-nio-8443-exec-91] c.b.ops.mail.Sender - req=88101000 SMTP slow 853ms
+2017-11-05 03:03:39,720 DEBUG [http-nio-8443-exec-143] c.b.ops.sched.PmRunner - req=88101001 pm tick
+2017-11-05 03:04:14,345 INFO  [http-nio-8443-exec-43] c.b.ops.web.Access - req=88101002 GET /api/v2/workorders 200 713ms
+2017-11-05 03:04:51,681 WARN  [http-nio-8443-exec-147] c.b.ops.mail.Sender - req=88101003 SMTP slow 476ms
+2017-11-05 03:04:55,683 INFO  [http-nio-8443-exec-200] c.b.ops.web.Access - req=88101004 GET /api/v2/workorders 200 331ms
+2017-11-05 03:05:21,673 INFO  [http-nio-8443-exec-71] c.b.ops.sync.MobileSync - req=88101005 sync ok tenant=clearwater-transit-authority items=32
+2017-11-05 03:05:36,156 INFO  [http-nio-8443-exec-129] c.b.ops.web.Access - req=88101006 GET /api/v2/workorders 200 647ms
+2017-11-05 03:06:14,980 WARN  [http-nio-8443-exec-82] c.b.ops.mail.Sender - req=88101007 SMTP slow 669ms
+2017-11-05 03:06:47,626 WARN  [http-nio-8443-exec-72] c.b.ops.mail.Sender - req=88101008 SMTP slow 429ms
+2017-11-05 03:07:07,277 INFO  [http-nio-8443-exec-12] c.b.ops.sync.MobileSync - req=88101009 sync ok tenant=scioto-public-works items=44
+2017-11-05 03:07:17,784 WARN  [http-nio-8443-exec-4] c.b.ops.mail.Sender - req=88101010 SMTP slow 505ms
+2017-11-05 03:07:36,130 WARN  [http-nio-8443-exec-65] c.b.ops.mail.Sender - req=88101011 SMTP slow 21ms
+2017-11-05 03:08:14,998 DEBUG [http-nio-8443-exec-97] c.b.ops.sched.PmRunner - req=88101012 pm tick
+2017-11-05 03:08:52,797 INFO  [http-nio-8443-exec-93] c.b.ops.web.Access - req=88101013 GET /api/v2/workorders 200 541ms
+2017-11-05 03:09:08,067 INFO  [http-nio-8443-exec-49] c.b.ops.web.Access - req=88101014 GET /api/v2/workorders 200 793ms
+2017-11-05 03:09:35,636 WARN  [http-nio-8443-exec-32] c.b.ops.mail.Sender - req=88101015 SMTP slow 137ms
+2017-11-05 03:09:47,606 DEBUG [http-nio-8443-exec-9] c.b.ops.sched.PmRunner - req=88101016 pm tick
+2017-11-05 03:10:00,222 WARN  [http-nio-8443-exec-34] c.b.ops.mail.Sender - req=88101017 SMTP slow 315ms
+2017-11-05 03:10:17,870 DEBUG [http-nio-8443-exec-12] c.b.ops.sched.PmRunner - req=88101018 pm tick
+2017-11-05 03:10:44,372 WARN  [http-nio-8443-exec-23] c.b.ops.mail.Sender - req=88101019 SMTP slow 96ms
+2017-11-05 03:11:17,615 INFO  [http-nio-8443-exec-115] c.b.ops.web.Access - req=88101020 GET /api/v2/workorders 200 452ms
+2017-11-05 03:11:52,127 WARN  [http-nio-8443-exec-177] c.b.ops.mail.Sender - req=88101021 SMTP slow 339ms
+2017-11-05 03:12:19,576 WARN  [http-nio-8443-exec-79] c.b.ops.mail.Sender - req=88101022 SMTP slow 873ms
+2017-11-05 03:12:59,586 WARN  [http-nio-8443-exec-126] c.b.ops.mail.Sender - req=88101023 SMTP slow 214ms
+2017-11-05 03:13:28,896 WARN  [http-nio-8443-exec-12] c.b.ops.mail.Sender - req=88101024 SMTP slow 620ms
+2017-11-05 03:13:41,095 INFO  [http-nio-8443-exec-136] c.b.ops.sync.MobileSync - req=88101025 sync ok tenant=eastlake-building-services items=27
+2017-11-05 03:14:17,199 WARN  [http-nio-8443-exec-57] c.b.ops.mail.Sender - req=88101026 SMTP slow 430ms
+2017-11-05 03:14:44,099 INFO  [http-nio-8443-exec-159] c.b.ops.sync.MobileSync - req=88101027 sync ok tenant=williams-university-faciliti items=71
+2017-11-05 03:15:01,882 INFO  [http-nio-8443-exec-194] c.b.ops.sync.MobileSync - req=88101028 sync ok tenant=smith-hospital-llc items=71
+2017-11-05 03:15:21,847 INFO  [http-nio-8443-exec-166] c.b.ops.sync.MobileSync - req=88101029 sync ok tenant=ostrander-restoration-group items=7
+2017-11-05 03:15:50,568 INFO  [http-nio-8443-exec-90] c.b.ops.sync.MobileSync - req=88101030 sync ok tenant=blackhawk-maintenance-co-inc items=63
+2017-11-05 03:16:10,756 WARN  [http-nio-8443-exec-59] c.b.ops.mail.Sender - req=88101031 SMTP slow 820ms
+2017-11-05 03:16:17,290 INFO  [http-nio-8443-exec-41] c.b.ops.sync.MobileSync - req=88101032 sync ok tenant=redstone-facilities-manageme items=16
+2017-11-05 03:16:21,023 WARN  [http-nio-8443-exec-85] c.b.ops.mail.Sender - req=88101033 SMTP slow 701ms
+2017-11-05 03:16:56,005 WARN  [http-nio-8443-exec-50] c.b.ops.mail.Sender - req=88101034 SMTP slow 75ms
+2017-11-05 03:17:07,995 DEBUG [http-nio-8443-exec-28] c.b.ops.sched.PmRunner - req=88101035 pm tick
+2017-11-05 03:17:20,311 WARN  [http-nio-8443-exec-190] c.b.ops.mail.Sender - req=88101036 SMTP slow 336ms
+2017-11-05 03:17:41,889 DEBUG [http-nio-8443-exec-32] c.b.ops.sched.PmRunner - req=88101037 pm tick
+2017-11-05 03:18:01,705 WARN  [http-nio-8443-exec-171] c.b.ops.mail.Sender - req=88101038 SMTP slow 27ms
+2017-11-05 03:18:18,794 INFO  [http-nio-8443-exec-85] c.b.ops.sync.MobileSync - req=88101039 sync ok tenant=jessop-university-facilities items=16
+2017-11-05 03:18:56,406 INFO  [http-nio-8443-exec-156] c.b.ops.sync.MobileSync - req=88101040 sync ok tenant=ozark-realty-management-hold items=45
+2017-11-05 03:19:33,443 WARN  [http-nio-8443-exec-23] c.b.ops.mail.Sender - req=88101041 SMTP slow 240ms
+2017-11-05 03:19:37,908 INFO  [http-nio-8443-exec-101] c.b.ops.sync.MobileSync - req=88101042 sync ok tenant=southport-supply-co-llc items=30
+2017-11-05 03:20:06,840 DEBUG [http-nio-8443-exec-190] c.b.ops.sched.PmRunner - req=88101043 pm tick
+2017-11-05 03:20:16,283 INFO  [http-nio-8443-exec-187] c.b.ops.sync.MobileSync - req=88101044 sync ok tenant=mesa-contracting-corp items=64
+2017-11-05 03:20:37,486 INFO  [http-nio-8443-exec-16] c.b.ops.web.Access - req=88101045 GET /api/v2/workorders 200 342ms
+2017-11-05 03:20:44,194 DEBUG [http-nio-8443-exec-92] c.b.ops.sched.PmRunner - req=88101046 pm tick
+2017-11-05 03:20:48,874 INFO  [http-nio-8443-exec-48] c.b.ops.web.Access - req=88101047 GET /api/v2/workorders 200 427ms
+2017-11-05 03:20:52,070 WARN  [http-nio-8443-exec-51] c.b.ops.mail.Sender - req=88101048 SMTP slow 323ms
+2017-11-05 03:21:24,029 DEBUG [http-nio-8443-exec-43] c.b.ops.sched.PmRunner - req=88101049 pm tick
+2017-11-05 03:21:40,909 DEBUG [http-nio-8443-exec-25] c.b.ops.sched.PmRunner - req=88101050 pm tick
+2017-11-05 03:22:20,980 INFO  [http-nio-8443-exec-30] c.b.ops.web.Access - req=88101051 GET /api/v2/workorders 200 565ms
+2017-11-05 03:22:39,507 INFO  [http-nio-8443-exec-59] c.b.ops.sync.MobileSync - req=88101052 sync ok tenant=heron-mills-group items=68
+2017-11-05 03:22:49,683 DEBUG [http-nio-8443-exec-116] c.b.ops.sched.PmRunner - req=88101053 pm tick
+2017-11-05 03:23:29,504 WARN  [http-nio-8443-exec-13] c.b.ops.mail.Sender - req=88101054 SMTP slow 687ms
+2017-11-05 03:23:38,097 INFO  [http-nio-8443-exec-148] c.b.ops.sync.MobileSync - req=88101055 sync ok tenant=crescent-works-llc items=54
+2017-11-05 03:23:54,805 INFO  [http-nio-8443-exec-107] c.b.ops.sync.MobileSync - req=88101056 sync ok tenant=clark-contracting-corp items=69
+2017-11-05 03:24:25,419 INFO  [http-nio-8443-exec-100] c.b.ops.web.Access - req=88101057 GET /api/v2/workorders 200 674ms
+2017-11-05 03:24:46,369 WARN  [http-nio-8443-exec-199] c.b.ops.mail.Sender - req=88101058 SMTP slow 131ms
+2017-11-05 03:24:57,496 WARN  [http-nio-8443-exec-122] c.b.ops.mail.Sender - req=88101059 SMTP slow 241ms
+2017-11-05 03:25:26,604 INFO  [http-nio-8443-exec-111] c.b.ops.web.Access - req=88101060 GET /api/v2/workorders 200 539ms
+2017-11-05 03:25:43,296 INFO  [http-nio-8443-exec-89] c.b.ops.sync.MobileSync - req=88101061 sync ok tenant=beacon-manufacturing items=11
+2017-11-05 03:25:59,979 DEBUG [http-nio-8443-exec-37] c.b.ops.sched.PmRunner - req=88101062 pm tick
+2017-11-05 03:26:35,116 INFO  [http-nio-8443-exec-60] c.b.ops.sync.MobileSync - req=88101063 sync ok tenant=patriot-facilities-managemen items=21
+2017-11-05 03:27:08,105 INFO  [http-nio-8443-exec-65] c.b.ops.web.Access - req=88101064 GET /api/v2/workorders 200 155ms
+2017-11-05 03:27:30,285 WARN  [http-nio-8443-exec-142] c.b.ops.mail.Sender - req=88101065 SMTP slow 397ms
+2017-11-05 03:27:45,387 INFO  [http-nio-8443-exec-160] c.b.ops.web.Access - req=88101066 GET /api/v2/workorders 200 372ms
+2017-11-05 03:28:16,729 WARN  [http-nio-8443-exec-126] c.b.ops.mail.Sender - req=88101067 SMTP slow 511ms
+2017-11-05 03:28:27,502 WARN  [http-nio-8443-exec-198] c.b.ops.mail.Sender - req=88101068 SMTP slow 78ms
+2017-11-05 03:28:51,006 INFO  [http-nio-8443-exec-191] c.b.ops.web.Access - req=88101069 GET /api/v2/workorders 200 733ms
+2017-11-05 03:29:05,169 INFO  [http-nio-8443-exec-27] c.b.ops.sync.MobileSync - req=88101070 sync ok tenant=miami-construction-co items=12
+2017-11-05 03:29:29,312 WARN  [http-nio-8443-exec-87] c.b.ops.mail.Sender - req=88101071 SMTP slow 748ms
+2017-11-05 03:29:38,688 INFO  [http-nio-8443-exec-3] c.b.ops.sync.MobileSync - req=88101072 sync ok tenant=jessop-works-inc items=51
+2017-11-05 03:29:43,863 DEBUG [http-nio-8443-exec-34] c.b.ops.sched.PmRunner - req=88101073 pm tick
+2017-11-05 03:30:19,212 INFO  [http-nio-8443-exec-123] c.b.ops.sync.MobileSync - req=88101074 sync ok tenant=bayou-property-services-grou items=66
+2017-11-05 03:30:57,919 WARN  [http-nio-8443-exec-39] c.b.ops.mail.Sender - req=88101075 SMTP slow 115ms
+2017-11-05 03:31:15,960 INFO  [http-nio-8443-exec-94] c.b.ops.web.Access - req=88101076 GET /api/v2/workorders 200 173ms
+2017-11-05 03:31:47,634 INFO  [http-nio-8443-exec-16] c.b.ops.sync.MobileSync - req=88101077 sync ok tenant=lakeshore-mechanical-llc items=72
+2017-11-05 03:32:04,223 INFO  [http-nio-8443-exec-144] c.b.ops.web.Access - req=88101078 GET /api/v2/workorders 200 520ms
+2017-11-05 03:32:23,461 INFO  [http-nio-8443-exec-15] c.b.ops.sync.MobileSync - req=88101079 sync ok tenant=lindenwood-properties-co items=22
+2017-11-05 03:32:35,431 WARN  [http-nio-8443-exec-111] c.b.ops.mail.Sender - req=88101080 SMTP slow 371ms
+2017-11-05 03:33:10,499 WARN  [http-nio-8443-exec-90] c.b.ops.mail.Sender - req=88101081 SMTP slow 420ms
+2017-11-05 03:33:29,866 DEBUG [http-nio-8443-exec-66] c.b.ops.sched.PmRunner - req=88101082 pm tick
+2017-11-05 03:34:01,554 INFO  [http-nio-8443-exec-74] c.b.ops.web.Access - req=88101083 GET /api/v2/workorders 200 475ms
+2017-11-05 03:34:27,139 INFO  [http-nio-8443-exec-48] c.b.ops.web.Access - req=88101084 GET /api/v2/workorders 200 125ms
+2017-11-05 03:34:57,699 WARN  [http-nio-8443-exec-77] c.b.ops.mail.Sender - req=88101085 SMTP slow 829ms
+2017-11-05 03:35:06,107 INFO  [http-nio-8443-exec-69] c.b.ops.web.Access - req=88101086 GET /api/v2/workorders 200 168ms
+2017-11-05 03:35:12,091 WARN  [http-nio-8443-exec-27] c.b.ops.mail.Sender - req=88101087 SMTP slow 523ms
+2017-11-05 03:35:41,687 WARN  [http-nio-8443-exec-109] c.b.ops.mail.Sender - req=88101088 SMTP slow 338ms
+2017-11-05 03:36:15,002 INFO  [http-nio-8443-exec-175] c.b.ops.web.Access - req=88101089 GET /api/v2/workorders 200 98ms
+2017-11-05 03:36:53,442 WARN  [http-nio-8443-exec-80] c.b.ops.mail.Sender - req=88101090 SMTP slow 468ms
+2017-11-05 03:37:02,279 INFO  [http-nio-8443-exec-76] c.b.ops.web.Access - req=88101091 GET /api/v2/workorders 200 605ms
+2017-11-05 03:37:36,020 WARN  [http-nio-8443-exec-38] c.b.ops.mail.Sender - req=88101092 SMTP slow 856ms
+2017-11-05 03:37:50,817 INFO  [http-nio-8443-exec-131] c.b.ops.web.Access - req=88101093 GET /api/v2/workorders 200 662ms
+2017-11-05 03:38:15,733 INFO  [http-nio-8443-exec-8] c.b.ops.web.Access - req=88101094 GET /api/v2/workorders 200 159ms
+2017-11-05 03:38:20,378 INFO  [http-nio-8443-exec-55] c.b.ops.sync.MobileSync - req=88101095 sync ok tenant=keystone-construction-inc items=41
+2017-11-05 03:38:59,144 INFO  [http-nio-8443-exec-48] c.b.ops.web.Access - req=88101096 GET /api/v2/workorders 200 259ms
+2017-11-05 03:39:39,769 INFO  [http-nio-8443-exec-75] c.b.ops.sync.MobileSync - req=88101097 sync ok tenant=copperfield-building-service items=31
+2017-11-05 03:40:11,685 WARN  [http-nio-8443-exec-53] c.b.ops.mail.Sender - req=88101098 SMTP slow 227ms
+2017-11-05 03:40:26,880 INFO  [http-nio-8443-exec-130] c.b.ops.sync.MobileSync - req=88101099 sync ok tenant=martin-realty-management-ltd items=36
+2017-11-05 03:40:57,809 WARN  [http-nio-8443-exec-60] c.b.ops.mail.Sender - req=88101100 SMTP slow 494ms
+2017-11-05 03:41:28,224 DEBUG [http-nio-8443-exec-131] c.b.ops.sched.PmRunner - req=88101101 pm tick
+2017-11-05 03:41:55,190 INFO  [http-nio-8443-exec-194] c.b.ops.sync.MobileSync - req=88101102 sync ok tenant=keystone-stores-llc items=75
+2017-11-05 03:42:30,116 INFO  [http-nio-8443-exec-126] c.b.ops.web.Access - req=88101103 GET /api/v2/workorders 200 733ms
+2017-11-05 03:42:52,040 WARN  [http-nio-8443-exec-106] c.b.ops.mail.Sender - req=88101104 SMTP slow 97ms
+2017-11-05 03:43:17,824 INFO  [http-nio-8443-exec-81] c.b.ops.sync.MobileSync - req=88101105 sync ok tenant=robinson-construction-llc items=79
+2017-11-05 03:43:31,300 DEBUG [http-nio-8443-exec-17] c.b.ops.sched.PmRunner - req=88101106 pm tick
+2017-11-05 03:43:59,479 DEBUG [http-nio-8443-exec-182] c.b.ops.sched.PmRunner - req=88101107 pm tick
+2017-11-05 03:44:20,000 WARN  [http-nio-8443-exec-29] c.b.ops.mail.Sender - req=88101108 SMTP slow 237ms
+2017-11-05 03:44:25,223 WARN  [http-nio-8443-exec-114] c.b.ops.mail.Sender - req=88101109 SMTP slow 571ms
+2017-11-05 03:44:52,566 WARN  [http-nio-8443-exec-38] c.b.ops.mail.Sender - req=88101110 SMTP slow 669ms
+2017-11-05 03:45:31,666 INFO  [http-nio-8443-exec-76] c.b.ops.web.Access - req=88101111 GET /api/v2/workorders 200 297ms
+2017-11-05 03:45:56,183 WARN  [http-nio-8443-exec-136] c.b.ops.mail.Sender - req=88101112 SMTP slow 565ms
+2017-11-05 03:46:15,465 INFO  [http-nio-8443-exec-174] c.b.ops.sync.MobileSync - req=88101113 sync ok tenant=pioneer-stores-inc items=61
+2017-11-05 03:46:39,611 WARN  [http-nio-8443-exec-34] c.b.ops.mail.Sender - req=88101114 SMTP slow 158ms
+2017-11-05 03:46:46,605 DEBUG [http-nio-8443-exec-60] c.b.ops.sched.PmRunner - req=88101115 pm tick
+2017-11-05 03:47:10,577 INFO  [http-nio-8443-exec-193] c.b.ops.sync.MobileSync - req=88101116 sync ok tenant=magnolia-unified-schools-inc items=78
+2017-11-05 03:47:40,384 INFO  [http-nio-8443-exec-134] c.b.ops.sync.MobileSync - req=88101117 sync ok tenant=oakmere-manufacturing items=23
+2017-11-05 03:48:19,458 INFO  [http-nio-8443-exec-159] c.b.ops.web.Access - req=88101118 GET /api/v2/workorders 200 394ms
+2017-11-05 03:48:40,861 INFO  [http-nio-8443-exec-95] c.b.ops.web.Access - req=88101119 GET /api/v2/workorders 200 728ms
+2017-11-05 03:49:02,360 INFO  [http-nio-8443-exec-104] c.b.ops.web.Access - req=88101120 GET /api/v2/workorders 200 74ms
+2017-11-05 03:49:42,371 INFO  [http-nio-8443-exec-137] c.b.ops.sync.MobileSync - req=88101121 sync ok tenant=wexford-clinics-inc items=66
+2017-11-05 03:50:02,931 INFO  [http-nio-8443-exec-10] c.b.ops.sync.MobileSync - req=88101122 sync ok tenant=erie-county-facilities-inc items=69
+2017-11-05 03:50:14,713 INFO  [http-nio-8443-exec-9] c.b.ops.sync.MobileSync - req=88101123 sync ok tenant=white-health-system items=79
+2017-11-05 03:50:52,282 DEBUG [http-nio-8443-exec-68] c.b.ops.sched.PmRunner - req=88101124 pm tick
+2017-11-05 03:51:21,317 INFO  [http-nio-8443-exec-113] c.b.ops.web.Access - req=88101125 GET /api/v2/workorders 200 200ms
+2017-11-05 03:51:40,100 INFO  [http-nio-8443-exec-199] c.b.ops.sync.MobileSync - req=88101126 sync ok tenant=hawthorne-fabrication-inc items=12
+2017-11-05 03:51:59,598 WARN  [http-nio-8443-exec-53] c.b.ops.mail.Sender - req=88101127 SMTP slow 200ms
+2017-11-05 03:52:20,909 WARN  [http-nio-8443-exec-86] c.b.ops.mail.Sender - req=88101128 SMTP slow 167ms
+2017-11-05 03:52:58,683 DEBUG [http-nio-8443-exec-99] c.b.ops.sched.PmRunner - req=88101129 pm tick
+2017-11-05 03:53:32,115 DEBUG [http-nio-8443-exec-120] c.b.ops.sched.PmRunner - req=88101130 pm tick
+2017-11-05 03:53:48,580 WARN  [http-nio-8443-exec-10] c.b.ops.mail.Sender - req=88101131 SMTP slow 506ms
+2017-11-05 03:54:24,163 INFO  [http-nio-8443-exec-135] c.b.ops.web.Access - req=88101132 GET /api/v2/workorders 200 112ms
+2017-11-05 03:54:57,709 WARN  [http-nio-8443-exec-116] c.b.ops.mail.Sender - req=88101133 SMTP slow 631ms
+2017-11-05 03:55:10,724 DEBUG [http-nio-8443-exec-85] c.b.ops.sched.PmRunner - req=88101134 pm tick
+2017-11-05 03:55:31,506 WARN  [http-nio-8443-exec-115] c.b.ops.mail.Sender - req=88101135 SMTP slow 644ms
+2017-11-05 03:55:47,513 DEBUG [http-nio-8443-exec-64] c.b.ops.sched.PmRunner - req=88101136 pm tick
+2017-11-05 03:55:56,830 INFO  [http-nio-8443-exec-32] c.b.ops.sync.MobileSync - req=88101137 sync ok tenant=edwards-inns items=32
+2017-11-05 03:56:14,236 WARN  [http-nio-8443-exec-115] c.b.ops.mail.Sender - req=88101138 SMTP slow 403ms
+2017-11-05 03:56:19,149 DEBUG [http-nio-8443-exec-122] c.b.ops.sched.PmRunner - req=88101139 pm tick
+2017-11-05 03:56:49,256 INFO  [http-nio-8443-exec-158] c.b.ops.sync.MobileSync - req=88101140 sync ok tenant=evans-facilities-management items=13
+2017-11-05 03:57:05,390 INFO  [http-nio-8443-exec-3] c.b.ops.sync.MobileSync - req=88101141 sync ok tenant=clearwater-markets-holdings items=34
+2017-11-05 03:57:27,719 INFO  [http-nio-8443-exec-56] c.b.ops.sync.MobileSync - req=88101142 sync ok tenant=martinez-inns items=56
+2017-11-05 03:58:06,145 WARN  [http-nio-8443-exec-165] c.b.ops.mail.Sender - req=88101143 SMTP slow 240ms
+2017-11-05 03:58:28,559 INFO  [http-nio-8443-exec-141] c.b.ops.web.Access - req=88101144 GET /api/v2/workorders 200 154ms
+2017-11-05 03:59:03,988 INFO  [http-nio-8443-exec-185] c.b.ops.sync.MobileSync - req=88101145 sync ok tenant=thompson-builders-inc items=30
+2017-11-05 03:59:31,886 WARN  [http-nio-8443-exec-142] c.b.ops.mail.Sender - req=88101146 SMTP slow 613ms
+2017-11-05 03:59:37,742 DEBUG [http-nio-8443-exec-74] c.b.ops.sched.PmRunner - req=88101147 pm tick
+2017-11-05 03:59:58,633 DEBUG [http-nio-8443-exec-185] c.b.ops.sched.PmRunner - req=88101148 pm tick
+2017-11-05 04:00:30,383 INFO  [http-nio-8443-exec-122] c.b.ops.sync.MobileSync - req=88101149 sync ok tenant=sandpiper-contracting items=60
+2017-11-05 04:01:09,548 INFO  [http-nio-8443-exec-53] c.b.ops.web.Access - req=88101150 GET /api/v2/workorders 200 443ms
+2017-11-05 04:01:40,898 INFO  [http-nio-8443-exec-101] c.b.ops.sync.MobileSync - req=88101151 sync ok tenant=quarry-county-facilities-cor items=34
+2017-11-05 04:01:46,786 INFO  [http-nio-8443-exec-154] c.b.ops.sync.MobileSync - req=88101152 sync ok tenant=rivers-residential-inc items=45
+2017-11-05 04:02:26,072 DEBUG [http-nio-8443-exec-22] c.b.ops.sched.PmRunner - req=88101153 pm tick
+2017-11-05 04:02:31,059 DEBUG [http-nio-8443-exec-20] c.b.ops.sched.PmRunner - req=88101154 pm tick
+2017-11-05 04:02:44,153 DEBUG [http-nio-8443-exec-44] c.b.ops.sched.PmRunner - req=88101155 pm tick
+2017-11-05 04:03:20,513 DEBUG [http-nio-8443-exec-23] c.b.ops.sched.PmRunner - req=88101156 pm tick
+2017-11-05 04:03:56,649 WARN  [http-nio-8443-exec-30] c.b.ops.mail.Sender - req=88101157 SMTP slow 287ms
+2017-11-05 04:04:13,075 WARN  [http-nio-8443-exec-95] c.b.ops.mail.Sender - req=88101158 SMTP slow 150ms
+2017-11-05 04:04:23,734 INFO  [http-nio-8443-exec-198] c.b.ops.web.Access - req=88101159 GET /api/v2/workorders 200 738ms
+2017-11-05 04:04:59,010 INFO  [http-nio-8443-exec-73] c.b.ops.sync.MobileSync - req=88101160 sync ok tenant=superior-health-partners-ltd items=15
+2017-11-05 04:05:24,440 WARN  [http-nio-8443-exec-46] c.b.ops.mail.Sender - req=88101161 SMTP slow 771ms
+2017-11-05 04:05:35,293 DEBUG [http-nio-8443-exec-179] c.b.ops.sched.PmRunner - req=88101162 pm tick
+2017-11-05 04:05:50,892 INFO  [http-nio-8443-exec-193] c.b.ops.sync.MobileSync - req=88101163 sync ok tenant=highland-fabrication items=51
+2017-11-05 04:06:26,133 INFO  [http-nio-8443-exec-161] c.b.ops.sync.MobileSync - req=88101164 sync ok tenant=sycamore-fabrication-co items=44
+2017-11-05 04:07:06,353 INFO  [http-nio-8443-exec-109] c.b.ops.web.Access - req=88101165 GET /api/v2/workorders 200 585ms
+2017-11-05 04:07:37,868 INFO  [http-nio-8443-exec-18] c.b.ops.sync.MobileSync - req=88101166 sync ok tenant=highland-restoration-holding items=80
+2017-11-05 04:08:14,324 INFO  [http-nio-8443-exec-147] c.b.ops.sync.MobileSync - req=88101167 sync ok tenant=eastlake-warehousing-co items=51
+2017-11-05 04:08:43,172 INFO  [http-nio-8443-exec-177] c.b.ops.web.Access - req=88101168 GET /api/v2/workorders 200 24ms
+2017-11-05 04:08:58,160 DEBUG [http-nio-8443-exec-6] c.b.ops.sched.PmRunner - req=88101169 pm tick
+2017-11-05 04:09:29,574 WARN  [http-nio-8443-exec-142] c.b.ops.mail.Sender - req=88101170 SMTP slow 112ms
+2017-11-05 04:09:50,462 INFO  [http-nio-8443-exec-126] c.b.ops.web.Access - req=88101171 GET /api/v2/workorders 200 887ms
+2017-11-05 04:10:00,520 INFO  [http-nio-8443-exec-198] c.b.ops.web.Access - req=88101172 GET /api/v2/workorders 200 211ms
+2017-11-05 04:10:10,993 INFO  [http-nio-8443-exec-166] c.b.ops.sync.MobileSync - req=88101173 sync ok tenant=riverbend-couriers-group items=8
+2017-11-05 04:10:15,733 INFO  [http-nio-8443-exec-182] c.b.ops.web.Access - req=88101174 GET /api/v2/workorders 200 287ms
+2017-11-05 04:10:23,999 DEBUG [http-nio-8443-exec-122] c.b.ops.sched.PmRunner - req=88101175 pm tick
+2017-11-05 04:10:47,376 INFO  [http-nio-8443-exec-129] c.b.ops.web.Access - req=88101176 GET /api/v2/workorders 200 640ms
+2017-11-05 04:11:07,802 INFO  [http-nio-8443-exec-111] c.b.ops.web.Access - req=88101177 GET /api/v2/workorders 200 225ms
+2017-11-05 04:11:35,667 WARN  [http-nio-8443-exec-43] c.b.ops.mail.Sender - req=88101178 SMTP slow 691ms
+2017-11-05 04:11:50,908 INFO  [http-nio-8443-exec-62] c.b.ops.web.Access - req=88101179 GET /api/v2/workorders 200 164ms
+2017-11-05 04:12:11,624 WARN  [http-nio-8443-exec-161] c.b.ops.mail.Sender - req=88101180 SMTP slow 526ms
+2017-11-05 04:12:41,945 DEBUG [http-nio-8443-exec-198] c.b.ops.sched.PmRunner - req=88101181 pm tick
+2017-11-05 04:13:12,775 INFO  [http-nio-8443-exec-67] c.b.ops.web.Access - req=88101182 GET /api/v2/workorders 200 625ms
+2017-11-05 04:13:25,654 WARN  [http-nio-8443-exec-126] c.b.ops.mail.Sender - req=88101183 SMTP slow 285ms
+2017-11-05 04:13:59,179 INFO  [http-nio-8443-exec-4] c.b.ops.sync.MobileSync - req=88101184 sync ok tenant=willow-hospitality-group-llc items=43
+2017-11-05 04:14:04,063 WARN  [http-nio-8443-exec-5] c.b.ops.mail.Sender - req=88101185 SMTP slow 719ms
+2017-11-05 04:14:26,884 INFO  [http-nio-8443-exec-1] c.b.ops.sync.MobileSync - req=88101186 sync ok tenant=northgate-retail-group-group items=30
+2017-11-05 04:15:01,652 INFO  [http-nio-8443-exec-33] c.b.ops.web.Access - req=88101187 GET /api/v2/workorders 200 320ms
+2017-11-05 04:15:26,415 INFO  [http-nio-8443-exec-1] c.b.ops.web.Access - req=88101188 GET /api/v2/workorders 200 618ms
+2017-11-05 04:15:59,378 INFO  [http-nio-8443-exec-111] c.b.ops.sync.MobileSync - req=88101189 sync ok tenant=clearwater-facilities-manage items=13
+2017-11-05 04:16:17,463 WARN  [http-nio-8443-exec-98] c.b.ops.mail.Sender - req=88101190 SMTP slow 62ms
+2017-11-05 04:16:54,200 INFO  [http-nio-8443-exec-8] c.b.ops.sync.MobileSync - req=88101191 sync ok tenant=cedar-municipal-services-ltd items=8
+2017-11-05 04:17:24,824 INFO  [http-nio-8443-exec-182] c.b.ops.web.Access - req=88101192 GET /api/v2/workorders 200 683ms
+2017-11-05 04:17:47,683 INFO  [http-nio-8443-exec-84] c.b.ops.web.Access - req=88101193 GET /api/v2/workorders 200 329ms
+2017-11-05 04:18:25,214 DEBUG [http-nio-8443-exec-84] c.b.ops.sched.PmRunner - req=88101194 pm tick
+2017-11-05 04:19:00,958 DEBUG [http-nio-8443-exec-60] c.b.ops.sched.PmRunner - req=88101195 pm tick
+2017-11-05 04:19:10,770 INFO  [http-nio-8443-exec-54] c.b.ops.web.Access - req=88101196 GET /api/v2/workorders 200 417ms
+2017-11-05 04:19:45,325 WARN  [http-nio-8443-exec-150] c.b.ops.mail.Sender - req=88101197 SMTP slow 590ms
+2017-11-05 04:20:03,237 DEBUG [http-nio-8443-exec-147] c.b.ops.sched.PmRunner - req=88101198 pm tick
+2017-11-05 04:20:07,254 WARN  [http-nio-8443-exec-157] c.b.ops.mail.Sender - req=88101199 SMTP slow 227ms
+2017-11-05 04:20:20,309 DEBUG [http-nio-8443-exec-151] c.b.ops.sched.PmRunner - req=88101200 pm tick
+2017-11-05 04:20:28,487 INFO  [http-nio-8443-exec-185] c.b.ops.web.Access - req=88101201 GET /api/v2/workorders 200 472ms
+2017-11-05 04:20:45,571 WARN  [http-nio-8443-exec-175] c.b.ops.mail.Sender - req=88101202 SMTP slow 600ms
+2017-11-05 04:21:17,094 INFO  [http-nio-8443-exec-4] c.b.ops.sync.MobileSync - req=88101203 sync ok tenant=lakes-hotels-inc items=35
+2017-11-05 04:21:55,832 INFO  [http-nio-8443-exec-151] c.b.ops.web.Access - req=88101204 GET /api/v2/workorders 200 361ms
+2017-11-05 04:22:14,027 WARN  [http-nio-8443-exec-81] c.b.ops.mail.Sender - req=88101205 SMTP slow 23ms
+2017-11-05 04:22:54,359 INFO  [http-nio-8443-exec-51] c.b.ops.web.Access - req=88101206 GET /api/v2/workorders 200 348ms
+2017-11-05 04:23:17,163 DEBUG [http-nio-8443-exec-156] c.b.ops.sched.PmRunner - req=88101207 pm tick
+2017-11-05 04:23:32,065 INFO  [http-nio-8443-exec-60] c.b.ops.sync.MobileSync - req=88101208 sync ok tenant=gatehouse-logistics-holdings items=76
+2017-11-05 04:24:11,419 WARN  [http-nio-8443-exec-180] c.b.ops.mail.Sender - req=88101209 SMTP slow 514ms
+2017-11-05 04:24:19,942 WARN  [http-nio-8443-exec-86] c.b.ops.mail.Sender - req=88101210 SMTP slow 99ms
+2017-11-05 04:24:29,395 DEBUG [http-nio-8443-exec-103] c.b.ops.sched.PmRunner - req=88101211 pm tick
+2017-11-05 04:24:38,074 INFO  [http-nio-8443-exec-137] c.b.ops.sync.MobileSync - req=88101212 sync ok tenant=hawthorne-mills-corp items=70
+2017-11-05 04:25:05,352 INFO  [http-nio-8443-exec-119] c.b.ops.web.Access - req=88101213 GET /api/v2/workorders 200 591ms
+2017-11-05 04:25:34,158 DEBUG [http-nio-8443-exec-43] c.b.ops.sched.PmRunner - req=88101214 pm tick
+2017-11-05 04:26:02,290 WARN  [http-nio-8443-exec-19] c.b.ops.mail.Sender - req=88101215 SMTP slow 192ms
+2017-11-05 04:26:16,618 INFO  [http-nio-8443-exec-63] c.b.ops.sync.MobileSync - req=88101216 sync ok tenant=fairhaven-property-group-llc items=51
+2017-11-05 04:26:24,171 WARN  [http-nio-8443-exec-200] c.b.ops.mail.Sender - req=88101217 SMTP slow 656ms
+2017-11-05 04:26:47,428 WARN  [http-nio-8443-exec-115] c.b.ops.mail.Sender - req=88101218 SMTP slow 863ms
+2017-11-05 04:27:17,454 DEBUG [http-nio-8443-exec-13] c.b.ops.sched.PmRunner - req=88101219 pm tick
+2017-11-05 04:27:50,818 INFO  [http-nio-8443-exec-26] c.b.ops.web.Access - req=88101220 GET /api/v2/workorders 200 763ms
+2017-11-05 04:28:13,277 DEBUG [http-nio-8443-exec-82] c.b.ops.sched.PmRunner - req=88101221 pm tick
+2017-11-05 04:28:27,039 INFO  [http-nio-8443-exec-47] c.b.ops.sync.MobileSync - req=88101222 sync ok tenant=jackson-warehousing-inc items=33
+2017-11-05 04:29:05,795 INFO  [http-nio-8443-exec-17] c.b.ops.sync.MobileSync - req=88101223 sync ok tenant=westbrook-industries items=35
+2017-11-05 04:29:30,868 DEBUG [http-nio-8443-exec-142] c.b.ops.sched.PmRunner - req=88101224 pm tick
+2017-11-05 04:30:06,125 DEBUG [http-nio-8443-exec-55] c.b.ops.sched.PmRunner - req=88101225 pm tick
+2017-11-05 04:30:37,270 WARN  [http-nio-8443-exec-144] c.b.ops.mail.Sender - req=88101226 SMTP slow 218ms
+2017-11-05 04:30:51,717 INFO  [http-nio-8443-exec-60] c.b.ops.sync.MobileSync - req=88101227 sync ok tenant=wexford-distribution-co items=2
+2017-11-05 04:31:15,645 INFO  [http-nio-8443-exec-2] c.b.ops.sync.MobileSync - req=88101228 sync ok tenant=osprey-industries-llc items=63
+2017-11-05 04:31:27,134 INFO  [http-nio-8443-exec-28] c.b.ops.sync.MobileSync - req=88101229 sync ok tenant=huron-public-works-inc items=46
+2017-11-05 04:31:42,576 DEBUG [http-nio-8443-exec-167] c.b.ops.sched.PmRunner - req=88101230 pm tick
+2017-11-05 04:31:46,713 WARN  [http-nio-8443-exec-164] c.b.ops.mail.Sender - req=88101231 SMTP slow 510ms
+2017-11-05 04:31:55,719 INFO  [http-nio-8443-exec-28] c.b.ops.web.Access - req=88101232 GET /api/v2/workorders 200 415ms
+2017-11-05 04:32:05,117 WARN  [http-nio-8443-exec-177] c.b.ops.mail.Sender - req=88101233 SMTP slow 534ms
+2017-11-05 04:32:28,919 DEBUG [http-nio-8443-exec-200] c.b.ops.sched.PmRunner - req=88101234 pm tick
+2017-11-05 04:32:41,211 INFO  [http-nio-8443-exec-80] c.b.ops.web.Access - req=88101235 GET /api/v2/workorders 200 669ms
+2017-11-05 04:32:55,395 DEBUG [http-nio-8443-exec-66] c.b.ops.sched.PmRunner - req=88101236 pm tick
+2017-11-05 04:33:05,627 WARN  [http-nio-8443-exec-160] c.b.ops.mail.Sender - req=88101237 SMTP slow 378ms
+2017-11-05 04:33:36,338 INFO  [http-nio-8443-exec-79] c.b.ops.web.Access - req=88101238 GET /api/v2/workorders 200 897ms
+2017-11-05 04:34:09,430 WARN  [http-nio-8443-exec-5] c.b.ops.mail.Sender - req=88101239 SMTP slow 801ms
+2017-11-05 04:34:19,201 WARN  [http-nio-8443-exec-130] c.b.ops.mail.Sender - req=88101240 SMTP slow 624ms
+2017-11-05 04:34:56,830 WARN  [http-nio-8443-exec-86] c.b.ops.mail.Sender - req=88101241 SMTP slow 742ms
+2017-11-05 04:35:29,512 WARN  [http-nio-8443-exec-186] c.b.ops.mail.Sender - req=88101242 SMTP slow 371ms
+2017-11-05 04:35:34,616 INFO  [http-nio-8443-exec-157] c.b.ops.web.Access - req=88101243 GET /api/v2/workorders 200 614ms
+2017-11-05 04:35:57,258 WARN  [http-nio-8443-exec-146] c.b.ops.mail.Sender - req=88101244 SMTP slow 529ms
+2017-11-05 04:36:06,870 INFO  [http-nio-8443-exec-188] c.b.ops.sync.MobileSync - req=88101245 sync ok tenant=iyer-realty-management-group items=38
+2017-11-05 04:36:44,104 WARN  [http-nio-8443-exec-30] c.b.ops.mail.Sender - req=88101246 SMTP slow 842ms
+2017-11-05 04:37:19,869 INFO  [http-nio-8443-exec-161] c.b.ops.web.Access - req=88101247 GET /api/v2/workorders 200 124ms
+2017-11-05 04:37:59,177 INFO  [http-nio-8443-exec-11] c.b.ops.sync.MobileSync - req=88101248 sync ok tenant=kestrel-college-group items=7
+2017-11-05 04:38:21,752 INFO  [http-nio-8443-exec-107] c.b.ops.sync.MobileSync - req=88101249 sync ok tenant=foxglove-construction-ltd items=79
+2017-11-05 04:38:29,078 INFO  [http-nio-8443-exec-90] c.b.ops.web.Access - req=88101250 GET /api/v2/workorders 200 98ms
+2017-11-05 04:39:07,455 INFO  [http-nio-8443-exec-72] c.b.ops.sync.MobileSync - req=88101251 sync ok tenant=foxglove-residential items=75
+2017-11-05 04:39:41,399 DEBUG [http-nio-8443-exec-33] c.b.ops.sched.PmRunner - req=88101252 pm tick
+2017-11-05 04:40:19,019 DEBUG [http-nio-8443-exec-108] c.b.ops.sched.PmRunner - req=88101253 pm tick
+2017-11-05 04:40:32,191 INFO  [http-nio-8443-exec-77] c.b.ops.web.Access - req=88101254 GET /api/v2/workorders 200 450ms
+2017-11-05 04:41:09,084 INFO  [http-nio-8443-exec-2] c.b.ops.web.Access - req=88101255 GET /api/v2/workorders 200 602ms
+2017-11-05 04:41:45,146 DEBUG [http-nio-8443-exec-36] c.b.ops.sched.PmRunner - req=88101256 pm tick
+2017-11-05 04:42:25,420 DEBUG [http-nio-8443-exec-152] c.b.ops.sched.PmRunner - req=88101257 pm tick
+2017-11-05 04:43:03,193 INFO  [http-nio-8443-exec-111] c.b.ops.web.Access - req=88101258 GET /api/v2/workorders 200 470ms
+2017-11-05 04:43:41,137 DEBUG [http-nio-8443-exec-151] c.b.ops.sched.PmRunner - req=88101259 pm tick
+2017-11-05 04:44:17,864 INFO  [http-nio-8443-exec-44] c.b.ops.sync.MobileSync - req=88101260 sync ok tenant=martin-health-partners items=17
+2017-11-05 04:44:38,980 DEBUG [http-nio-8443-exec-10] c.b.ops.sched.PmRunner - req=88101261 pm tick
+2017-11-05 04:44:51,530 INFO  [http-nio-8443-exec-78] c.b.ops.sync.MobileSync - req=88101262 sync ok tenant=carter-property-services items=29
+2017-11-05 04:45:31,882 WARN  [http-nio-8443-exec-107] c.b.ops.mail.Sender - req=88101263 SMTP slow 79ms
+2017-11-05 04:45:53,910 INFO  [http-nio-8443-exec-106] c.b.ops.sync.MobileSync - req=88101264 sync ok tenant=clark-restoration-inc items=55
+2017-11-05 04:46:06,456 WARN  [http-nio-8443-exec-166] c.b.ops.mail.Sender - req=88101265 SMTP slow 250ms
+2017-11-05 04:46:36,328 INFO  [http-nio-8443-exec-68] c.b.ops.web.Access - req=88101266 GET /api/v2/workorders 200 833ms
+2017-11-05 04:46:42,474 WARN  [http-nio-8443-exec-101] c.b.ops.mail.Sender - req=88101267 SMTP slow 162ms
+2017-11-05 04:46:53,906 WARN  [http-nio-8443-exec-32] c.b.ops.mail.Sender - req=88101268 SMTP slow 219ms
+2017-11-05 04:47:16,052 WARN  [http-nio-8443-exec-187] c.b.ops.mail.Sender - req=88101269 SMTP slow 788ms
+2017-11-05 04:47:43,095 INFO  [http-nio-8443-exec-47] c.b.ops.web.Access - req=88101270 GET /api/v2/workorders 200 287ms
+2017-11-05 04:47:57,335 INFO  [http-nio-8443-exec-118] c.b.ops.web.Access - req=88101271 GET /api/v2/workorders 200 171ms
+2017-11-05 04:48:25,172 INFO  [http-nio-8443-exec-189] c.b.ops.web.Access - req=88101272 GET /api/v2/workorders 200 606ms
+2017-11-05 04:48:36,486 INFO  [http-nio-8443-exec-53] c.b.ops.sync.MobileSync - req=88101273 sync ok tenant=copperfield-hospitality-grou items=29
+2017-11-05 04:49:16,210 INFO  [http-nio-8443-exec-30] c.b.ops.sync.MobileSync - req=88101274 sync ok tenant=cartwright-stores-group items=46
+2017-11-05 04:49:31,544 INFO  [http-nio-8443-exec-157] c.b.ops.sync.MobileSync - req=88101275 sync ok tenant=saguaro-college items=62
+2017-11-05 04:49:35,520 DEBUG [http-nio-8443-exec-34] c.b.ops.sched.PmRunner - req=88101276 pm tick
+2017-11-05 04:49:51,355 WARN  [http-nio-8443-exec-175] c.b.ops.mail.Sender - req=88101277 SMTP slow 675ms
+2017-11-05 04:50:11,976 INFO  [http-nio-8443-exec-126] c.b.ops.sync.MobileSync - req=88101278 sync ok tenant=erie-outfitters-holdings items=34
+2017-11-05 04:50:34,432 DEBUG [http-nio-8443-exec-197] c.b.ops.sched.PmRunner - req=88101279 pm tick
+2017-11-05 04:50:41,118 WARN  [http-nio-8443-exec-160] c.b.ops.mail.Sender - req=88101280 SMTP slow 689ms
+2017-11-05 04:50:50,546 WARN  [http-nio-8443-exec-39] c.b.ops.mail.Sender - req=88101281 SMTP slow 24ms
+2017-11-05 04:51:19,428 DEBUG [http-nio-8443-exec-157] c.b.ops.sched.PmRunner - req=88101282 pm tick
+2017-11-05 04:51:23,202 INFO  [http-nio-8443-exec-112] c.b.ops.web.Access - req=88101283 GET /api/v2/workorders 200 91ms
+2017-11-05 04:51:40,254 DEBUG [http-nio-8443-exec-3] c.b.ops.sched.PmRunner - req=88101284 pm tick
+2017-11-05 04:51:58,701 INFO  [http-nio-8443-exec-194] c.b.ops.sync.MobileSync - req=88101285 sync ok tenant=kelly-markets items=36
+2017-11-05 04:52:16,673 INFO  [http-nio-8443-exec-110] c.b.ops.sync.MobileSync - req=88101286 sync ok tenant=quarry-construction-co items=24
+2017-11-05 04:52:24,188 DEBUG [http-nio-8443-exec-13] c.b.ops.sched.PmRunner - req=88101287 pm tick
+2017-11-05 04:52:33,047 DEBUG [http-nio-8443-exec-183] c.b.ops.sched.PmRunner - req=88101288 pm tick
+2017-11-05 04:52:47,961 WARN  [http-nio-8443-exec-196] c.b.ops.mail.Sender - req=88101289 SMTP slow 339ms
+2017-11-05 04:53:15,711 INFO  [http-nio-8443-exec-84] c.b.ops.web.Access - req=88101290 GET /api/v2/workorders 200 273ms
+2017-11-05 04:53:21,343 WARN  [http-nio-8443-exec-124] c.b.ops.mail.Sender - req=88101291 SMTP slow 242ms
+2017-11-05 04:53:26,911 INFO  [http-nio-8443-exec-104] c.b.ops.web.Access - req=88101292 GET /api/v2/workorders 200 389ms
+2017-11-05 04:53:31,503 INFO  [http-nio-8443-exec-164] c.b.ops.sync.MobileSync - req=88101293 sync ok tenant=lindqvist-fabrication-holdin items=20
+2017-11-05 04:53:38,758 DEBUG [http-nio-8443-exec-57] c.b.ops.sched.PmRunner - req=88101294 pm tick
+2017-11-05 04:53:57,745 INFO  [http-nio-8443-exec-65] c.b.ops.web.Access - req=88101295 GET /api/v2/workorders 200 547ms
+2017-11-05 04:54:23,983 DEBUG [http-nio-8443-exec-36] c.b.ops.sched.PmRunner - req=88101296 pm tick
+2017-11-05 04:54:37,554 INFO  [http-nio-8443-exec-4] c.b.ops.sync.MobileSync - req=88101297 sync ok tenant=huang-school-district-llc items=10
+2017-11-05 04:55:04,857 DEBUG [http-nio-8443-exec-164] c.b.ops.sched.PmRunner - req=88101298 pm tick
+2017-11-05 04:55:12,528 WARN  [http-nio-8443-exec-183] c.b.ops.mail.Sender - req=88101299 SMTP slow 695ms
+2017-11-05 04:55:46,353 INFO  [http-nio-8443-exec-109] c.b.ops.web.Access - req=88101300 GET /api/v2/workorders 200 559ms
+2017-11-05 04:56:05,182 DEBUG [http-nio-8443-exec-27] c.b.ops.sched.PmRunner - req=88101301 pm tick
+2017-11-05 04:56:20,911 INFO  [http-nio-8443-exec-23] c.b.ops.sync.MobileSync - req=88101302 sync ok tenant=llewellyn-clinics items=69
+2017-11-05 04:57:00,356 DEBUG [http-nio-8443-exec-1] c.b.ops.sched.PmRunner - req=88101303 pm tick
+2017-11-05 04:57:15,613 INFO  [http-nio-8443-exec-110] c.b.ops.sync.MobileSync - req=88101304 sync ok tenant=baker-municipal-services items=10
+2017-11-05 04:57:43,989 DEBUG [http-nio-8443-exec-180] c.b.ops.sched.PmRunner - req=88101305 pm tick
+2017-11-05 04:58:02,048 INFO  [http-nio-8443-exec-20] c.b.ops.sync.MobileSync - req=88101306 sync ok tenant=saguaro-mills-holdings items=24
+2017-11-05 04:58:39,973 INFO  [http-nio-8443-exec-83] c.b.ops.web.Access - req=88101307 GET /api/v2/workorders 200 413ms
+2017-11-05 04:58:59,984 DEBUG [http-nio-8443-exec-118] c.b.ops.sched.PmRunner - req=88101308 pm tick
+2017-11-05 04:59:04,139 INFO  [http-nio-8443-exec-81] c.b.ops.sync.MobileSync - req=88101309 sync ok tenant=wexford-couriers-ltd items=36
+2017-11-05 04:59:33,413 DEBUG [http-nio-8443-exec-182] c.b.ops.sched.PmRunner - req=88101310 pm tick
+2017-11-05 04:59:45,683 INFO  [http-nio-8443-exec-169] c.b.ops.web.Access - req=88101311 GET /api/v2/workorders 200 369ms
+2017-11-05 04:59:49,233 INFO  [http-nio-8443-exec-73] c.b.ops.sync.MobileSync - req=88101312 sync ok tenant=castillo-academy items=13
+2017-11-05 05:00:01,926 DEBUG [http-nio-8443-exec-61] c.b.ops.sched.PmRunner - req=88101313 pm tick

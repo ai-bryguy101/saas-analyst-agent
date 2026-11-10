@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00051</md:CustomerCode>
+  <md:CustomerName>Fairhaven County Facilities Holdings</md:CustomerName>
+  <md:JobId>J723290</md:JobId>
+  <md:Partner id="KSV-031">Keewatin Service Vans</md:Partner>
+  <md:Requested>2017-04-07T15:22:00</md:Requested>
+  <md:Address><md:City>Toronto</md:City><md:Province>ON</md:Province></md:Address>
+  <md:Notes><![CDATA[Call on arrival]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

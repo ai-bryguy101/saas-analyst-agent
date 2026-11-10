@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00193</md:CustomerCode>
+  <md:CustomerName>Tamarack Hotels</md:CustomerName>
+  <md:JobId>J517025</md:JobId>
+  <md:Partner id="ASP-040">Assiniboine Parts Runners</md:Partner>
+  <md:Requested>2019-05-28T14:52:00</md:Requested>
+  <md:Address><md:City>Montréal</md:City><md:Province>QC</md:Province></md:Address>
+  <md:Notes><![CDATA[Fragile - <glass> panels]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

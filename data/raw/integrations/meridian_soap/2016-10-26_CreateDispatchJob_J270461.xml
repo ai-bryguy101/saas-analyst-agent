@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00051</md:CustomerCode>
+  <md:CustomerName>Fairhaven County Facilities Holdings</md:CustomerName>
+  <md:JobId>J270461</md:JobId>
+  <md:Partner id="NWH-014">Northwoods Haulage</md:Partner>
+  <md:Requested>2016-10-26T12:15:00</md:Requested>
+  <md:Address><md:City>Toronto</md:City><md:Province>ON</md:Province></md:Address>
+  <md:Notes><![CDATA[Livraison avant 10h SVP]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

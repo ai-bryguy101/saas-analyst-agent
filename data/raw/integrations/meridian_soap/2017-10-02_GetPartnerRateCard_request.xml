@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:GetPartnerRateCard><md:Region>MB</md:Region></md:GetPartnerRateCard>
+</soap:Body>
+</soap:Envelope>

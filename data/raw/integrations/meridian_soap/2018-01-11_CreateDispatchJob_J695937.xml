@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<soap:Fault><faultcode>soap:Server</faultcode><faultstring>Object reference not set to an instance of an object.</faultstring><detail><md:Trace>at Meridian.Dispatch.JobService.Create(JobRequest req) in C:\build\src\JobService.cs:line 212</md:Trace></detail></soap:Fault>
+</soap:Body>
+</soap:Envelope>

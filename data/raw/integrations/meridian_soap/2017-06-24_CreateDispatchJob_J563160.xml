@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00104</md:CustomerCode>
+  <md:CustomerName>Clearwater Mills LLC</md:CustomerName>
+  <md:JobId>J563160</md:JobId>
+  <md:Partner id="KSV-031">Keewatin Service Vans</md:Partner>
+  <md:Requested>2017-06-24T17:21:00</md:Requested>
+  <md:Address><md:City>Vancouver</md:City><md:Province>BC</md:Province></md:Address>
+  <md:Notes><![CDATA[Back door, ring bell]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:md="urn:meridiandispatch:partner:v2">
+<soap:Header><md:Auth><md:ApiKey>REDACTED</md:ApiKey></md:Auth></soap:Header>
+<soap:Body>
+<md:CreateDispatchJob>
+  <md:CustomerCode>MD-CA-00181</md:CustomerCode>
+  <md:CustomerName>Muskingum Couriers Corp.</md:CustomerName>
+  <md:JobId>J228318</md:JobId>
+  <md:Partner id="ASP-040">Assiniboine Parts Runners</md:Partner>
+  <md:Requested>2018-10-29T12:11:00</md:Requested>
+  <md:Address><md:City>Halifax</md:City><md:Province>NS</md:Province></md:Address>
+  <md:Notes><![CDATA[Back door, ring bell]]></md:Notes>
+</md:CreateDispatchJob>
+</soap:Body>
+</soap:Envelope>

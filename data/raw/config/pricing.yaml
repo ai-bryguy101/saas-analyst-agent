@@ -1,0 +1,26 @@
+# Price book as deployed to billing v3. Owner: RevOps.
+# NOTE: contract-specific prices (see legal) are NOT represented here.
+version: 2023-01
+currency_defaults:
+  USD: {symbol: "$", planning_fx: 1.0}
+  CAD: {symbol: "C$", planning_fx: 0.75}
+  GBP: {symbol: "£", planning_fx: 1.27}
+plans:
+  starter:    {per_seat_monthly: 22.0, min_seats: 1}
+  pro:        {per_seat_monthly: 39.0, min_seats: 5}
+  enterprise: {per_seat_monthly: 59.0, min_seats: 50, annual_only: false}
+addons:
+  invoicing:  {per_seat_monthly: 6.0}
+  dispatch:   {per_seat_monthly: 9.0}
+  insights:   {flat_monthly: 400.0}   # Project Lantern
+discounts:
+  max_without_approval: 0.10
+  max_with_vp: 0.20
+grandfathering: true
+legacy_price_books:
+  - effective: 2011-07-01
+    plans: {starter: 15.0, pro: 29.0, enterprise: 45.0}
+  - effective: 2015-01-01
+    plans: {starter: 17.0, pro: 32.0, enterprise: 49.0}
+  - effective: 2019-01-01
+    plans: {starter: 19.0, pro: 35.0, enterprise: 54.0}
