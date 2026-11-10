@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "0195bd2d-5d28-da5d-f1c8-bb297ff7a02f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UCQT1GS0C0C",
+        "ts": "1659704691.958592",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e3315573-73ae-5db4-6b88-9e26e5deeab5",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1659715573.574935",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b83a830d-1ed1-77d6-f355-77621f1bfb9c",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UQTUT2GDN85",
+        "ts": "1659727261.458798",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1d5abc2-5f7d-ebd3-d7c0-596054f47bd0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1659727768.424293",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#97946 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1dbd2bc-1eea-2319-641d-3e0c8723b19b",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1659732333.309710",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8aad20c2-bcb4-baaf-4b04-04f41c5a1ce7",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> cert renewal for *.brindlecove.example done",
+        "user": "U2LMMLL4F31",
+        "ts": "1659732336.548207",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UFGLBSDS2XV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f338a131-9dcd-13eb-3e7c-35bbe280738e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1659732559.474430",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29023 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f4a7f01-a2fe-93cf-89cc-64da93354ec1",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UMYYLUTXG9R",
+        "ts": "1659741869.868543",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "38d8ef3e-4785-3af3-0d55-23817a88d532",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UBHB6GTB73U",
+        "ts": "1659741880.257561",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c32d4322-e99f-bda7-8d32-99e6300e4635",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1659746134.796611",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#68874 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf72e20b-4925-8acf-171f-965dc8313d45",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1659746535.543742",
+        "team": "T02BRNDLCV"
+    }
+]

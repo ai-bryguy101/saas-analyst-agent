@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "8d9dfc32-20e8-e7c3-9dfe-53f191569d90",
+        "type": "message",
+        "text": "Clearwater Resorts Corp. asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1749304857.394384",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "17cf19f7-0b56-d085-5b29-ace683632a01",
+        "type": "message",
+        "text": "Venkatesan Outfitters reporting sync failures since this morning, CSM is Robert Gomez",
+        "user": "U9Y2KF0S90E",
+        "ts": "1749312446.321182",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54b6a18e-2b38-06fa-4289-c1eeb536c387",
+        "type": "message",
+        "text": "Lockwood Building Services Ltd. asking for an SLA credit",
+        "user": "UQXT5A6YMVH",
+        "ts": "1749318968.190057",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UQXT5A6YMVH",
+            "ts": "1749316455.490506"
+        }
+    },
+    {
+        "client_msg_id": "45661a7b-b3fd-db35-b8eb-7601e4a25243",
+        "type": "message",
+        "text": "Renewal risk: Miami Janitorial Holdings unhappy with mobile app",
+        "user": "UJQY3Q26RVW",
+        "ts": "1749322207.957452",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6f1ffb5-f63e-0a04-be1b-e516709a6885",
+        "type": "message",
+        "text": "Can someone check Clearwater Hotels Holdings's invoice? They say they were double billed",
+        "user": "UH9DL28T3MH",
+        "ts": "1749323637.757116",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "661b158c-32c8-4352-2c0a-ff44a1e84b48",
+        "type": "message",
+        "text": "Can someone check Saginaw Works LLC's invoice? They say they were double billed",
+        "user": "U8SR98620D7",
+        "ts": "1749329423.833515",
+        "team": "T02BRNDLCV"
+    }
+]

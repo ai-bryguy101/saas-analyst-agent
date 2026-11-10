@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "39744309-c861-e6fa-3ff2-4c53efa3a1f8",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U7PFYH0YRRG",
+        "ts": "1684870860.117467",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "45c34642-be13-6972-cb26-b39971faa42d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URWNWW8QFM6",
+        "ts": "1684877622.853279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e7be46c-f294-0c29-bb67-6be3687b5a10",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UWUGRQ83YYM",
+        "ts": "1684879591.513282",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1305fb0a-911c-cc96-8fc5-0d8643634e2c",
+        "type": "message",
+        "text": "FX rates loaded for May 2023",
+        "user": "UX84HDPARWN",
+        "ts": "1684883494.461194",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2228e901-4ac8-c94c-1836-f95808aefe84",
+        "type": "message",
+        "text": "Meadowlark Fabrication Co. paid by wire, applying now",
+        "user": "UE49ET7WGNU",
+        "ts": "1684885838.152590",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

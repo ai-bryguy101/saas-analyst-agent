@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "15be37b6-ef97-fded-c778-56051e523433",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> Riverbend Suites Inc. paid by wire, applying now",
+        "user": "UFWAQ6E76D6",
+        "ts": "1738243248.673248",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16274514-eba9-dee0-e815-890e79f75ec9",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2025",
+        "user": "UL20M69UM76",
+        "ts": "1738250545.803081",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "256ca741-dc8f-8794-cbbc-5252795c8913",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UVQRW5SQSEL",
+        "ts": "1738279169.181724",
+        "team": "T02BRNDLCV"
+    }
+]

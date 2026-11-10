@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "9989e22a-6119-7b53-1608-8287b2ee535e",
+        "type": "message",
+        "text": "AR aging is up, Collins Mechanical Ltd. is 90+ days",
+        "user": "UVQRW5SQSEL",
+        "ts": "1592316535.318767",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "813513db-fdd7-aee9-c4be-38966c9211db",
+        "type": "message",
+        "text": "AR aging is up, Clearwater Builders Group is 90+ days",
+        "user": "UG4ETD69L1D",
+        "ts": "1592322756.835820",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5f9b821-cd6e-c42f-4d57-03e505efece7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UJQY3Q26RVW",
+        "ts": "1592331435.376960",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23f53907-bcb1-b6ef-9b12-ee8abd25007c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U7PFYH0YRRG",
+        "ts": "1592343443.524994",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

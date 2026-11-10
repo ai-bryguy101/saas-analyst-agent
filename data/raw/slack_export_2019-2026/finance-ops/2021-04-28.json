@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "ec089038-1fa4-c31b-96b8-c1f96bccad74",
+        "type": "message",
+        "text": "Beacon Property Group LLC paid by wire, applying now",
+        "user": "UUFS9CP1A17",
+        "ts": "1619617367.295977",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ebe515d-c6fe-81a6-6fbe-aa86fdc3d533",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U09CZFTHQSS",
+        "ts": "1619627927.963557",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "509efc82-8115-7ecc-8805-88c3fa5a4c2a",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2021",
+        "user": "UH9DL28T3MH",
+        "ts": "1619636687.257008",
+        "team": "T02BRNDLCV"
+    }
+]

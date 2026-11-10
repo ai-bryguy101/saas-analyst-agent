@@ -1,0 +1,362 @@
+{
+ "metaData": {
+  "id": "9ed6c0a5-9522-6110-1a84-77c5a9c8ec3d",
+  "url": "https://app.gong.example/call?id=9ed6c0a5-9522-6110-1a84-77c5a9c8ec3d",
+  "title": "Valley Maintenance Co Ltd. | Brindlecove Discovery",
+  "scheduled": "2024-02-27T18:00:00Z",
+  "started": "2024-02-27T13:00:12Z",
+  "duration": 129,
+  "primaryUserId": "E040",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Jean Marchetti",
+   "affiliation": "Internal",
+   "emailAddress": "jmarchetti@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": null,
+   "affiliation": "External",
+   "emailAddress": null
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 2000,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4360,
+     "end": 8360,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9451,
+     "end": 13451,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14607,
+     "end": 18607,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 19438,
+     "end": 22438,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 25237,
+     "end": 29237,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 29579,
+     "end": 31579,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 33248,
+     "end": 37248,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 39820,
+     "end": 41820,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 44185,
+     "end": 46185,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 48682,
+     "end": 50682,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 52317,
+     "end": 54317,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 55795,
+     "end": 57795,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 58904,
+     "end": 60904,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 62416,
+     "end": 65416,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 67599,
+     "end": 71599,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 74096,
+     "end": 78096,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 78823,
+     "end": 80823,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 83596,
+     "end": 85596,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 87942,
+     "end": 89942,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 90612,
+     "end": 92612,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 93329,
+     "end": 95329,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 96559,
+     "end": 98559,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 101446,
+     "end": 103446,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 103722,
+     "end": 105722,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 106606,
+     "end": 108606,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 108901,
+     "end": 111901,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 114338,
+     "end": 118338,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 118964,
+     "end": 122964,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 124815,
+     "end": 128815,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  }
+ ]
+}

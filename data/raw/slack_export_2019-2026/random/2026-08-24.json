@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "7eea0917-8eee-1065-ca3f-5d63f6fb1319",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UXETPKNK8MV",
+        "ts": "1787583880.853793",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UFWAQ6E76D6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98ec8b7e-c3f7-3ad5-ceb2-90d2ae8c86ae",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> happy friday",
+        "user": "U5HQ6U91D2E",
+        "ts": "1787617267.678956",
+        "team": "T02BRNDLCV"
+    }
+]

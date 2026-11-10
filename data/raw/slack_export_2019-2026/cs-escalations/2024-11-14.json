@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "f89f4d09-2eed-6996-6d77-d3ab77bc3556",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> Can someone check Redstone Facilities Management Co.'s invoice? They say they were double billed",
+        "user": "UT9KGXWKHLB",
+        "ts": "1731590657.656293",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fa470da9-1217-ff47-26b5-60df1af729a3",
+        "type": "message",
+        "text": "Can someone check Beacon Facilities Management Inc.'s invoice? They say they were double billed",
+        "user": "UQK194B1V43",
+        "ts": "1731593598.757875",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c702857d-c982-9b19-bb9f-c29cae65b970",
+        "type": "message",
+        "text": "<@UC70JNE74S7> Renewal risk: Millbrook Hospital Ltd. unhappy with mobile app",
+        "user": "U0E67MPWRXA",
+        "ts": "1731604227.478913",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fcdc536-edc9-9d12-c72f-b8dafa10c8b8",
+        "type": "message",
+        "text": "Renewal risk: Shenandoah College LLC unhappy with mobile app",
+        "user": "UC95B7VAFX0",
+        "ts": "1731616051.437371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aef8672e-3349-e80c-8671-f7ca3aa7a0ef",
+        "type": "message",
+        "text": "Can someone check Magnolia Residential LLC's invoice? They say they were double billed",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1731618933.393808",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8159dd94-f0b1-b0f3-381d-5f3c280ef386",
+        "type": "message",
+        "text": "Can someone check Long Builders Inc.'s invoice? They say they were double billed",
+        "user": "UFULM18ZBQ6",
+        "ts": "1731625620.237969",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "46cf08c2-4e7d-96de-475f-5f1c0b437585",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2020",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1604934485.597393",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1604952601.237615"
+        }
+    },
+    {
+        "client_msg_id": "5412f42f-c267-e766-d267-963f1495ca62",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXS2WD4BYRN",
+        "ts": "1604949641.357673",
+        "team": "T02BRNDLCV"
+    }
+]

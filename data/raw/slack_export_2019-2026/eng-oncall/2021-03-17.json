@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "1444b4c9-065b-87a7-1030-f8ce33e301af",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXS2WD4BYRN",
+        "ts": "1615988631.247102",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bb4f20f7-d917-32a3-7c7b-cf862913af8e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615988700.223619",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#35941 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec94c64f-c38a-ac71-d677-13beef660aa7",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UG4ETD69L1D",
+        "ts": "1616009387.680506",
+        "team": "T02BRNDLCV"
+    }
+]

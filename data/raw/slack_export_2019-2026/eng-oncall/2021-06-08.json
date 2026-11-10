@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "af20e112-5a2d-3072-9c1c-f2363f6b32fb",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UMXMN24FN4K",
+        "ts": "1623197119.134197",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UMXMN24FN4K",
+            "ts": "1623170644.984814"
+        }
+    }
+]

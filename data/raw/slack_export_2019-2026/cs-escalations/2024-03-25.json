@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "5b7713c4-d047-17ea-91d6-1bb7cad66af1",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Renewal risk: Three Inns Co. unhappy with mobile app",
+        "user": "UPGXMWMDQNR",
+        "ts": "1711373611.116201",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07184e68-8d1d-865e-b86f-88c62c92bf2c",
+        "type": "message",
+        "text": "Renewal risk: Cooper Mechanical Co. unhappy with mobile app",
+        "user": "UZJU9N8CY2T",
+        "ts": "1711395346.751294",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

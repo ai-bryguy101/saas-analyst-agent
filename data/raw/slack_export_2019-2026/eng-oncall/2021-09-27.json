@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "b10e66e1-0c07-c947-2d1c-021856535536",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1632755526.213423",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7b712864-4815-fb70-b2ee-abdade76c89c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1632776948.487655",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#85423 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21213d4d-21fa-3999-40e1-d89eecd44e01",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UH9DL28T3MH",
+        "ts": "1632790491.106410",
+        "team": "T02BRNDLCV"
+    }
+]

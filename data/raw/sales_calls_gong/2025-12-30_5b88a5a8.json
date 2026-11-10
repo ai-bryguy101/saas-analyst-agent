@@ -1,0 +1,208 @@
+{
+ "metaData": {
+  "id": "5b88a5a8-fa9f-fbaa-2842-67505311b1c3",
+  "url": "https://app.gong.example/call?id=5b88a5a8-fa9f-fbaa-2842-67505311b1c3",
+  "title": "Superior Outfitters Inc. | Brindlecove Discovery",
+  "scheduled": "2025-12-30T17:00:00Z",
+  "started": "2025-12-30T16:04:12Z",
+  "duration": 66,
+  "primaryUserId": "E024",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Samantha Baker",
+   "affiliation": "Internal",
+   "emailAddress": "sbaker@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": null,
+   "affiliation": "External",
+   "emailAddress": null
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 4000,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 5724,
+     "end": 7724,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10527,
+     "end": 12527,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13151,
+     "end": 15151,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16047,
+     "end": 18047,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 18485,
+     "end": 20485,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 22312,
+     "end": 24312,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 25565,
+     "end": 29565,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 30300,
+     "end": 34300,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 35599,
+     "end": 37599,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 39459,
+     "end": 41459,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 42924,
+     "end": 44924,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 46064,
+     "end": 50064,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 52543,
+     "end": 54543,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 56109,
+     "end": 59109,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 61924,
+     "end": 65924,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "metaData": {
+  "id": "e40bfce2-f695-c23e-b46b-18bba46f40e8",
+  "url": "https://app.gong.example/call?id=e40bfce2-f695-c23e-b46b-18bba46f40e8",
+  "title": "Ortiz Transit Authority Ltd. | Brindlecove Discovery",
+  "scheduled": "2026-05-11T21:00:00Z",
+  "started": "2026-05-11T16:09:12Z",
+  "duration": 83,
+  "primaryUserId": "E050",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Janice Mendoza",
+   "affiliation": "Internal",
+   "emailAddress": "jmendoza@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": null,
+   "affiliation": "External",
+   "emailAddress": null
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 4000,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4846,
+     "end": 6846,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 8610,
+     "end": 10610,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 12623,
+     "end": 14623,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16092,
+     "end": 18092,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 20060,
+     "end": 24060,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 26029,
+     "end": 28029,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 30413,
+     "end": 32413,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 34776,
+     "end": 36776,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 37120,
+     "end": 39120,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 41459,
+     "end": 45459,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 48155,
+     "end": 52155,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 54264,
+     "end": 56264,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 58609,
+     "end": 62609,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 64186,
+     "end": 68186,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 68913,
+     "end": 70913,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 72519,
+     "end": 76519,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 79096,
+     "end": 81096,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  }
+ ]
+}

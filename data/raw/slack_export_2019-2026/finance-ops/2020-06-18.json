@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "e77bb4fa-c0b9-9e5a-4f2b-412b46562496",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2020",
+        "user": "UPGXMWMDQNR",
+        "ts": "1592485879.187641",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32f31399-d683-0565-a460-445d437513e9",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1592494787.614881",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UL8NMQFXPJR",
+            "ts": "1592505120.220400"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "9a65916e-106f-4f5b-503e-5db7c0072a2e",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2020",
+        "user": "UT9KGXWKHLB",
+        "ts": "1594216054.325845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3e8b136-2e36-a6bf-31f3-c8020e8a1ee7",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U9SD2024Q7F",
+        "ts": "1594232242.413911",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9SD2024Q7F",
+            "ts": "1594218051.886231"
+        }
+    }
+]

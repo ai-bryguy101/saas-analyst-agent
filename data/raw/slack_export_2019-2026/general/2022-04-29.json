@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "f4a4eab8-d2c3-5a25-1530-0869ee5bef3f",
+        "type": "message",
+        "text": "Welcome John Lavoie to the Operations team!",
+        "user": "UMXMN24FN4K",
+        "ts": "1651238891.093975",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3299e120-3b92-d32a-fbc7-1c14329d5907",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UWBW507RCA9",
+        "ts": "1651262456.380392",
+        "team": "T02BRNDLCV"
+    }
+]

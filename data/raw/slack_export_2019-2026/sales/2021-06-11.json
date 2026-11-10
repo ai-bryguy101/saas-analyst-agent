@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "3df64a5a-340b-56a1-bc2e-e56ee5bc7871",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "UCQT1GS0C0C",
+        "ts": "1623423568.189494",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dab41dc0-5779-3ea8-a99b-dc9886b8e2d8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1623433601.983505",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a78ecc8-970b-50ed-632e-07e3074cefe8",
+        "type": "message",
+        "text": "Lost Mendoza Works Holdings to Plinthwise on price",
+        "user": "UBHB6GTB73U",
+        "ts": "1623436064.086658",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cea6e34f-7e4f-4c30-138b-1769f975a373",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U69WX6HRQNH",
+        "ts": "1623448437.158478",
+        "team": "T02BRNDLCV"
+    }
+]

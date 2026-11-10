@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "40b87d32-632c-058b-c8ce-1bdd1c123669",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UC95B7VAFX0",
+        "ts": "1760546284.624037",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9222fd42-eb3a-90eb-b0c5-e0f410f058e2",
+        "type": "message",
+        "text": "Closed Bluewater Freight Corp.! 186 seats, Starter",
+        "user": "UC95B7VAFX0",
+        "ts": "1760563321.481380",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edcdd7db-529d-5466-3f56-063a85224384",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U9SD2024Q7F",
+        "ts": "1760573933.478184",
+        "team": "T02BRNDLCV"
+    }
+]

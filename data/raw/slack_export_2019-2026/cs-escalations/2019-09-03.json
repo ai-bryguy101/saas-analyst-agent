@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "d3b9f9a6-3243-9ca8-1221-396bdc669316",
+        "type": "message",
+        "text": "Renewal risk: Ross County Facilities LLC unhappy with mobile app",
+        "user": "U8SR98620D7",
+        "ts": "1567524654.762619",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6231b60d-9ec0-1097-b509-2121431c217d",
+        "type": "message",
+        "text": "Renewal risk: Three County Facilities unhappy with mobile app",
+        "user": "UA3MVBJWAHX",
+        "ts": "1567524939.352866",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U94ETEKNM26"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb6c608c-a371-51e7-d958-3407d9307ae7",
+        "type": "message",
+        "text": "Superior Mechanical Ltd. reporting sync failures since this morning, CSM is Etienne Gagnon",
+        "user": "U3EQ075NUYR",
+        "ts": "1567526005.803817",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3EQ075NUYR",
+            "ts": "1567516273.045601"
+        }
+    },
+    {
+        "client_msg_id": "911941e5-7d24-d437-f37e-a958dd8ea39f",
+        "type": "message",
+        "text": "Cook Township Ltd. wants an exec call about the outage",
+        "user": "U3KL08VJD8C",
+        "ts": "1567530397.880542",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0873c1b2-7bc7-5add-6e1f-ce6085430bc7",
+        "type": "message",
+        "text": "Frontier Properties Inc. asking for an SLA credit",
+        "user": "UWU9WG7ECGY",
+        "ts": "1567532437.366211",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7d6e876-638f-fde5-a965-976597a2ee77",
+        "type": "message",
+        "text": "Renewal risk: Wang Logistics Co. unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1567550627.012041",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ce3de50a-9c0f-bd8c-ebce-22cd6f23e40c",
+        "type": "message",
+        "text": "Pham Realty Management Ltd. reporting sync failures since this morning, CSM is Andrew Bailey",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1567552564.275456",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJQ9E01DWPS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c4ee4c3-17cb-832f-f73c-77119c5f2f6b",
+        "type": "message",
+        "text": "Northgate Homes LLC asking for an SLA credit",
+        "user": "UFARBQM0LCD",
+        "ts": "1567552967.090406",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9adae294-42e1-5843-513e-449881d8ac6b",
+        "type": "message",
+        "text": "Renewal risk: Juniper Facilities Management unhappy with mobile app",
+        "user": "UB0YL0LKYC7",
+        "ts": "1567555829.412084",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ef17cfb-d89d-4eef-f79e-98aa28797f94",
+        "type": "message",
+        "text": "Can someone check Willow Health System Holdings's invoice? They say they were double billed",
+        "user": "UZJU9N8CY2T",
+        "ts": "1567556768.085562",
+        "team": "T02BRNDLCV"
+    }
+]

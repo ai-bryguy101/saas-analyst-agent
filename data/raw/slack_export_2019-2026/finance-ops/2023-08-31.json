@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "d58b731e-1c2c-69a2-f41d-474446ce375a",
+        "type": "message",
+        "text": "Riverbend Stores Ltd. paid by wire, applying now",
+        "user": "UE4GTX0EXPH",
+        "ts": "1693488090.578083",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "818185cc-f333-0f5d-8d3d-0f53a8313ec6",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U0V9BPHARQX",
+        "ts": "1693501977.139652",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "08cefa5f-2ad3-575e-1057-3cb1a9721308",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAHZYQG5URJ",
+        "ts": "1693506915.752121",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5c36296-9331-cf20-ad2d-1265874eade1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UV8WG09HYBP",
+        "ts": "1693513810.625663",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5TERVWF7JH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48f5f0c2-424b-dda1-800d-b29b7f686bbb",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> FX rates loaded for Aug 2023",
+        "user": "UFARBQM0LCD",
+        "ts": "1693521790.624648",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,461 @@
+{
+ "metaData": {
+  "id": "4b78550f-4abb-2470-ca93-3db9a8c323df",
+  "url": "https://app.gong.example/call?id=4b78550f-4abb-2470-ca93-3db9a8c323df",
+  "title": "Lakeshore Residential Ltd. | Brindlecove Discovery",
+  "scheduled": "2023-08-28T14:00:00Z",
+  "started": "2023-08-28T14:09:12Z",
+  "duration": 167,
+  "primaryUserId": "E033",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Alexander Zhang",
+   "affiliation": "Internal",
+   "emailAddress": "azhang@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": null,
+   "affiliation": "External",
+   "emailAddress": null
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 2000,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 2397,
+     "end": 6397,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 6900,
+     "end": 8900,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10895,
+     "end": 12895,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 13865,
+     "end": 15865,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 18674,
+     "end": 22674,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 24303,
+     "end": 26303,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 29079,
+     "end": 33079,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 34466,
+     "end": 38466,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 40093,
+     "end": 42093,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 44536,
+     "end": 48536,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 49203,
+     "end": 51203,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 54090,
+     "end": 56090,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 56529,
+     "end": 60529,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 62752,
+     "end": 66752,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 67674,
+     "end": 69674,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 71491,
+     "end": 73491,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 75990,
+     "end": 79990,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 81959,
+     "end": 83959,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 84577,
+     "end": 86577,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 86846,
+     "end": 88846,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 90501,
+     "end": 94501,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 97274,
+     "end": 99274,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 99730,
+     "end": 101730,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 102774,
+     "end": 106774,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 107776,
+     "end": 111776,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 113258,
+     "end": 115258,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 117879,
+     "end": 121879,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 123220,
+     "end": 125220,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 127000,
+     "end": 129000,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 131896,
+     "end": 133896,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 135341,
+     "end": 137341,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 139452,
+     "end": 142452,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 142832,
+     "end": 144832,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 145375,
+     "end": 148375,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 150926,
+     "end": 152926,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 154080,
+     "end": 158080,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 158467,
+     "end": 160467,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 162647,
+     "end": 166647,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "dedbfca5-b0ea-d1a8-eca4-3429174a8d13",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> Quillfeather Maintenance Co Ltd. paid by wire, applying now",
+        "user": "U5DYUQUF95P",
+        "ts": "1674079900.962472",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e57a41f3-c88d-83b5-b23c-316a3cba6075",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXVNE61TTLN",
+        "ts": "1674080441.943075",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U6TBCUVSYPZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebdd116c-ce3f-7915-be59-e28aad47ff73",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UV9KPNCPQJN",
+        "ts": "1674082469.378878",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fa569835-4789-a6fa-6a0e-f7c03bed3757",
+        "type": "message",
+        "text": "AR aging is up, Three Fabrication Co. is 90+ days",
+        "user": "UPGXMWMDQNR",
+        "ts": "1674089090.614074",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

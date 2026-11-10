@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "06f3b664-6e15-eb25-f192-a392559025c4",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1565789926.862125",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "97d4b52d-ee2f-fc2a-aa8b-87d286b141a7",
+        "type": "message",
+        "text": "Robinson County Facilities Holdings paid by wire, applying now",
+        "user": "UYFL6320JLT",
+        "ts": "1565822054.103400",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "92f1ef90-b1fe-6b74-3fe8-a836cc2c6bbd",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U8SR98620D7",
+        "ts": "1565822467.116531",
+        "team": "T02BRNDLCV"
+    }
+]

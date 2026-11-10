@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "e839523c-27f5-57b1-3e1c-15292adb56ef",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UAGQX7APZBG",
+        "ts": "1600191831.133550",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4df746b7-fd1e-d09c-537b-060c7d15e5cf",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1600194790.851159",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56020d5b-f1ef-6516-4bf2-4823a8bc7220",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "U9Y2KF0S90E",
+        "ts": "1600204263.474644",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11f6a403-0cd8-a461-4e17-e22e55246744",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UT9KGXWKHLB",
+        "ts": "1600204667.955101",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30dd1682-fe43-703c-bbbe-473c1787bec0",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U48TCJE75PD",
+        "ts": "1600211612.990373",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afe7e220-2393-d44b-60d8-e390d2acec37",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UAGQX7APZBG",
+        "ts": "1600215569.998723",
+        "team": "T02BRNDLCV"
+    }
+]

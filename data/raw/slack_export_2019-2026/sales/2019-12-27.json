@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "6653472a-0598-debb-a49f-d18267d76100",
+        "type": "message",
+        "text": "Anyone have a reference customer in Hospitality?",
+        "user": "U22GUF0P303",
+        "ts": "1577460064.714412",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e75c866-6216-3774-bee4-b25f1078622b",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Northgate University Facilities LLC wants a discount, how far can I go?",
+        "user": "UC95B7VAFX0",
+        "ts": "1577464500.665865",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ea66e5f1-9127-1a4b-85e4-19c5de6d6575",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQK194B1V43",
+        "ts": "1577477524.717358",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQK194B1V43",
+            "ts": "1577492237.936621"
+        }
+    },
+    {
+        "client_msg_id": "34f5f649-35ce-1748-8b55-80db3558b1f1",
+        "type": "message",
+        "text": "Venkatesan Builders Group wants a discount, how far can I go?",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1577490685.115432",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9e7013f-78c4-0769-ff17-5524b64c1f9e",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Closed Copperfield Clinics Corp.! 76 seats, Pro",
+        "user": "U5DYUQUF95P",
+        "ts": "1577492296.407876",
+        "team": "T02BRNDLCV"
+    }
+]

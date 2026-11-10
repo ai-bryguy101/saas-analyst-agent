@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "cd2727cb-6d83-4f86-27de-6007fd3ca302",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UPHFQAHDPSK",
+        "ts": "1733403835.881980",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f897550-5fb6-6d1a-602d-a246589cc9f1",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UAGQX7APZBG",
+        "ts": "1733425698.279646",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f390a9a-e06a-91fb-eb2b-562d4b2eee3a",
+        "type": "message",
+        "text": "<@UVX5HCR5MMD> Anyone have a reference customer in Manufacturing?",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1733426972.100356",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UM2UVLXX7MZ",
+            "ts": "1733444525.759850"
+        }
+    },
+    {
+        "client_msg_id": "2422b054-83b9-66d2-2e16-55fe23360f2b",
+        "type": "message",
+        "text": "Lost Hawthorne Homes Inc. to Plinthwise on price",
+        "user": "U9SD2024Q7F",
+        "ts": "1733427029.752904",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "34a2988d-3004-4108-a65d-fa2e6165876e",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> Lost Morales Medical Center to Plinthwise on price",
+        "user": "UWUGRQ83YYM",
+        "ts": "1733427987.577909",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55eb0e8f-1b63-e918-f72e-9da864a5465c",
+        "type": "message",
+        "text": "Saginaw Janitorial Inc. wants a discount, how far can I go?",
+        "user": "UFNKJQT8PV1",
+        "ts": "1733429591.850729",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "88caef65-1801-8167-2014-fa2a12ab9fe3",
+        "type": "message",
+        "text": "Green Contracting LLC wants a discount, how far can I go?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1733445906.125393",
+        "team": "T02BRNDLCV"
+    }
+]

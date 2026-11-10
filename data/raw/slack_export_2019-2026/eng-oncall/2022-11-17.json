@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "67223022-e2da-04c9-0c9d-395303a0a728",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> rolling back v7.16.8",
+        "user": "UUFS9CP1A17",
+        "ts": "1668691526.397676",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca52560e-7ba7-4095-eb0f-65a7f49c424d",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UE49ET7WGNU",
+        "ts": "1668696793.278016",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "92b02931-3b71-5483-dd1c-5a066bab4cf2",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1668701019.372291",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#20930 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b5a3435-d67a-eef5-58ac-58f6ab370067",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1668702474.794667",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6578ccc4-12d5-8f9c-38da-5c23155ce970",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UMXMN24FN4K",
+        "ts": "1668710985.052106",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "968787c1-1023-6d76-72d9-c34948c3e7d4",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UVX5HCR5MMD",
+        "ts": "1668713033.432908",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5e80e17-6e76-f653-61f0-9af2b2633252",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UAGQX7APZBG",
+        "ts": "1668727513.087005",
+        "team": "T02BRNDLCV"
+    }
+]

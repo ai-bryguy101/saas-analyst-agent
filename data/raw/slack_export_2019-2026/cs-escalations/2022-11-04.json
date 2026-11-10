@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "1c40295a-4ac6-3ac4-7ed6-c2b3230893ac",
+        "type": "message",
+        "text": "Plains Municipal Services reporting sync failures since this morning, CSM is Arjun Peterson",
+        "user": "UH9DL28T3MH",
+        "ts": "1667575096.511143",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f38da1e-cf73-d252-883f-6cfaf2b358d0",
+        "type": "message",
+        "text": "Can someone check Ashford Inns's invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1667575653.214183",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b20a61c1-82e9-d433-fb62-a47aa7df7f6a",
+        "type": "message",
+        "text": "Renewal risk: Lindqvist Municipal Services unhappy with mobile app",
+        "user": "U7PFYH0YRRG",
+        "ts": "1667576583.479214",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fac2779a-8bd2-85a1-a931-1192899f2002",
+        "type": "message",
+        "text": "Renewal risk: Campbell Retail Group unhappy with mobile app",
+        "user": "UC70JNE74S7",
+        "ts": "1667578179.598362",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b1709a0-e36e-ee5e-a663-891403882ce6",
+        "type": "message",
+        "text": "Renewal risk: Shenandoah Manufacturing Co. unhappy with mobile app",
+        "user": "UMXMN24FN4K",
+        "ts": "1667580898.051698",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMXMN24FN4K",
+            "ts": "1667603515.312031"
+        }
+    },
+    {
+        "client_msg_id": "cdfd840d-a27f-fbb2-c3c0-839e97a65932",
+        "type": "message",
+        "text": "Can someone check Ruiz Mechanical's invoice? They say they were double billed",
+        "user": "UQK194B1V43",
+        "ts": "1667601834.882255",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "079c9691-e92b-9d94-b5f0-448363ee7fa3",
+        "type": "message",
+        "text": "Tri-County Homes Corp. wants an exec call about the outage",
+        "user": "UCQT1GS0C0C",
+        "ts": "1667604950.042182",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4380480f-9086-d15e-312d-f12a46911218",
+        "type": "message",
+        "text": "Renewal risk: Kestrel Stores Corp. unhappy with mobile app",
+        "user": "U5DYUQUF95P",
+        "ts": "1667605597.198300",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73f08a73-3292-eb87-0444-c30f85ae851a",
+        "type": "message",
+        "text": "Bennett Retail Group Co. wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1667609233.221539",
+        "team": "T02BRNDLCV"
+    }
+]

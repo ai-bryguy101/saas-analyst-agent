@@ -1,0 +1,164 @@
+{
+ "metaData": {
+  "id": "94b228f4-10d7-abfd-c5f2-674ff40c21be",
+  "url": "https://app.gong.example/call?id=94b228f4-10d7-abfd-c5f2-674ff40c21be",
+  "title": "Miami Distribution Corp. | Brindlecove Discovery",
+  "scheduled": "2023-07-26T15:00:00Z",
+  "started": "2023-07-26T21:04:12Z",
+  "duration": 53,
+  "primaryUserId": "E043",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Megan Ramirez",
+   "affiliation": "Internal",
+   "emailAddress": "mramirez@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": null,
+   "affiliation": "External",
+   "emailAddress": null
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 3000,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 4420,
+     "end": 6420,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 7089,
+     "end": 9089,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 10991,
+     "end": 12991,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14805,
+     "end": 16805,
+     "text": "Thanks for making the time today."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 18213,
+     "end": 22213,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 24434,
+     "end": 28434,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 28742,
+     "end": 32742,
+     "text": "We're on spreadsheets and a whiteboard, honestly."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 35471,
+     "end": 39471,
+     "text": "Dispatch is an add-on, it's nine dollars a seat."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 41932,
+     "end": 45932,
+     "text": "Does it work offline? Half our sites have no signal."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 46650,
+     "end": 49650,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 51151,
+     "end": 53151,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "b6bd75fc-e9f3-5bf7-c58c-656a22d3feb2",
+        "type": "message",
+        "text": "<@URFUZYLCAEC> Closed Scioto Restoration! 115 seats, Pro",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1661184171.671189",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58611545-8245-caed-b7a6-2686dd1cd1d8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UXVNE61TTLN",
+        "ts": "1661200026.816352",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXVNE61TTLN",
+            "ts": "1661194958.973024"
+        }
+    },
+    {
+        "client_msg_id": "e515c3c4-c07c-40fa-dfae-cba49f0e7f16",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3EQ075NUYR",
+        "ts": "1661208143.908930",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

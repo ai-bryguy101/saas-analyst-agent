@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "b067f07b-e258-5ba6-1097-3a2a659aab97",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1592578834.678535",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#65575 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a08560d-2a30-9877-e5fa-0f87204f5f66",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U8SR98620D7",
+        "ts": "1592590168.753467",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1024c483-60c5-c673-446d-823ff2be3789",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UMDHKXLV8RH",
+        "ts": "1592609466.678562",
+        "team": "T02BRNDLCV"
+    }
+]

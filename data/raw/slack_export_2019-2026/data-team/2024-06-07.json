@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "9282a67d-fbea-78be-8463-ee0ff8c9d964",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQTUT2GDN85",
+        "ts": "1717766412.201118",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60d38218-8170-0743-57b9-0915c187fa7e",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "U9Y2KF0S90E",
+        "ts": "1717770991.520494",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "20f761cf-c238-c124-23da-b11f69354d63",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "UDCALCM1RUG",
+        "ts": "1717779535.252912",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a162eda1-5ba2-bcfd-c4ac-85d86b905cc8",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQXT5A6YMVH",
+        "ts": "1717796108.081548",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4410add-e36f-204b-d714-4bde83dcf292",
+        "type": "message",
+        "text": "<@U1YEVCXATA8> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UX84HDPARWN",
+        "ts": "1717803564.399858",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dfce189c-0109-66b6-9076-e36acc7709df",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UXETPKNK8MV",
+        "ts": "1717805466.668570",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5757238b-6e37-0aad-5ddc-9231efb4a0d8",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UR3LDWKU006",
+        "ts": "1717806872.335988",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UR3LDWKU006",
+            "ts": "1717769951.042756"
+        }
+    }
+]

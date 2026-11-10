@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "505dad63-55f6-6c22-34e2-3abe5408290a",
+        "type": "message",
+        "text": "Closed Thornbury Mills Ltd.! 6 seats, Starter",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1733321311.289418",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45abd966-aa2f-4051-4d6b-0ef757c6a2c6",
+        "type": "message",
+        "text": "Closed Morris Builders Holdings! 161 seats, Pro",
+        "user": "UXS2WD4BYRN",
+        "ts": "1733322730.048589",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86e7cce7-e273-cbdc-8ddc-c609c260adcc",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1733323515.005663",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "058361b2-8f96-dc2d-abc4-d647dc8300e3",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "U22GUF0P303",
+        "ts": "1733325267.043134",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c2996bf2-355e-48e5-2fe6-7845a8f5d592",
+        "type": "message",
+        "text": "Lavoie Hospitality Group Co. wants a discount, how far can I go?",
+        "user": "UG4ETD69L1D",
+        "ts": "1733330617.010647",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1286a93-6a21-ef84-5a98-83281f8a7918",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1733334595.803473",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2235d52a-07a7-7176-30a6-cc754fb5263c",
+        "type": "message",
+        "text": "Closed Frontier Janitorial Group! 336 seats, Starter",
+        "user": "UQTUT2GDN85",
+        "ts": "1733342342.934525",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQTUT2GDN85",
+            "ts": "1733335975.034077"
+        }
+    },
+    {
+        "client_msg_id": "7dfc464b-8e58-6645-06df-b10e6b88b5bd",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1733355391.638204",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd1a945e-75c4-14e7-00ed-a55b8ad14d8d",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> Pipeline review moved to 3pm",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1733359731.870832",
+        "team": "T02BRNDLCV"
+    }
+]

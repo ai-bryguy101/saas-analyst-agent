@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "28b47cd6-a188-4e75-12dc-61967498f5de",
+        "type": "message",
+        "text": "Can someone check Summit Warehousing LLC's invoice? They say they were double billed",
+        "user": "UYFL6320JLT",
+        "ts": "1615564814.870190",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3010b8f1-cbac-3038-076a-3172dd7fb38d",
+        "type": "message",
+        "text": "Highland University Facilities asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1615569559.653406",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "606b24b1-4ffb-8336-bca0-4027a0a25e81",
+        "type": "message",
+        "text": "Nelson Property Group asking for an SLA credit",
+        "user": "UP51TVUPQU5",
+        "ts": "1615570475.398499",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UP51TVUPQU5",
+            "ts": "1615556549.222012"
+        }
+    },
+    {
+        "client_msg_id": "dba16e7b-a9fa-df10-8bbd-5e4ab591e937",
+        "type": "message",
+        "text": "Marrow Construction Holdings wants an exec call about the outage",
+        "user": "UKMQNTKUR4V",
+        "ts": "1615594382.046586",
+        "team": "T02BRNDLCV"
+    }
+]

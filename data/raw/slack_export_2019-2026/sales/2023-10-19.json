@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "7aab41df-ab7f-2e13-20d1-26641f39a1d1",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3EQ075NUYR",
+        "ts": "1697727153.013592",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e4153e1-8fb0-7352-ef4a-7528c697a9bc",
+        "type": "message",
+        "text": "Closed Nasser School District! 52 seats, Enterprise",
+        "user": "U5X9PNA34DU",
+        "ts": "1697741425.519968",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d6d85296-c881-d146-e574-668a34ea5f1c",
+        "type": "message",
+        "text": "Closed Bayview Logistics LLC! 52 seats, Pro",
+        "user": "U9XCAUGPS1F",
+        "ts": "1697750031.217755",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6661d234-d4df-e965-5c5e-70c31279c726",
+        "type": "message",
+        "text": "Parker Municipal Services Co. wants a discount, how far can I go?",
+        "user": "URFUZYLCAEC",
+        "ts": "1697762425.115775",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "6424afae-5474-7a83-fd25-bbbbd9955f2f",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UAXWVBRVKW9",
+        "ts": "1598462952.832524",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33931085-e52e-1600-10d3-eb0703825d7e",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UDM784MTBQ7",
+        "ts": "1598479928.298894",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "743d2cb2-0987-383e-d017-103adc1315d4",
+        "type": "message",
+        "text": "Welcome Kathleen Martinez to the Customer Success team!",
+        "user": "URFUZYLCAEC",
+        "ts": "1598481600.723841",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "911c5e1a-1ede-d345-8959-d66335af451b",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "U9SD2024Q7F",
+        "ts": "1598484854.194299",
+        "team": "T02BRNDLCV"
+    }
+]

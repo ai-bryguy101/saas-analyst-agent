@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "e6271876-362a-bad6-742f-cacfe89d190f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U7PFYH0YRRG",
+        "ts": "1590070546.255342",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ce5aaa05-9f03-f82e-d97f-2a1fea7d308f",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U9U3DZUVA3L",
+        "ts": "1590074581.362936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a70ca0e7-2a8c-cafb-0895-8d19dec24fc1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1590077796.431352",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#40031 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59662d60-2c99-53d2-2dad-1da025bf8bcd",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UC95B7VAFX0",
+        "ts": "1590081670.218055",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e281ad99-5de1-0df5-2ff9-1f0bee2ae318",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UNCGDMQATC5",
+        "ts": "1590099274.776563",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf4ce178-dedb-14d8-b2f9-390b9565cc96",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UJQY3Q26RVW",
+        "ts": "1590100399.598845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "168543a1-bed7-e9be-f359-0a7ac6d2bb55",
+        "type": "message",
+        "text": "rolling back v7.7.9",
+        "user": "UUFS9CP1A17",
+        "ts": "1590101206.582764",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "71b66fbf-273d-2b33-1ddb-0aa9269402ae",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U09CZFTHQSS",
+        "ts": "1590102405.655227",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8117904-f20a-5800-42a2-8224ef007eaa",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UPHFQAHDPSK",
+        "ts": "1590105136.605503",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae31cc5f-c9ce-94e6-eb80-0ecce70d6147",
+        "type": "message",
+        "text": "deploy v8.8.4 to prod :rocket:",
+        "user": "U09CZFTHQSS",
+        "ts": "1590108906.029935",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

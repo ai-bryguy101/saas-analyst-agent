@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "310c40f7-3f02-5b43-70d9-0b47c43149f3",
+        "type": "message",
+        "text": "deploy v9.39.2 to prod :rocket:",
+        "user": "UFARBQM0LCD",
+        "ts": "1586358117.579161",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0a3e884-b3d0-a973-a05c-c4f022c6b3c5",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1586359618.063275",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29429 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78adc0c1-1b2b-1299-912a-6a1f474d0059",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1586388227.480312",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#37138 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

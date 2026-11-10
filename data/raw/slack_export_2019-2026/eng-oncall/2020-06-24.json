@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "9bb517a0-1cff-6fda-c267-441cba08bd04",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> PagerDuty: high error rate on api-gw",
+        "user": "UUFS9CP1A17",
+        "ts": "1593004366.482096",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UV9GDKGY32C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b576221-fa23-14e3-d331-45765595ea33",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1593006547.561619",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31bd7e98-4c80-678c-c59a-6fc144571feb",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1593017156.085445",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#36743 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3edf636a-42db-0406-47d2-2aa29cd555fb",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> deploy v9.28.1 to prod :rocket:",
+        "user": "UR12Y3AZNKK",
+        "ts": "1593027792.156835",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "35331aaa-1fea-4955-de19-77dd021da868",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UZACKQ1VXCH",
+        "ts": "1593029647.623833",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36ee91e1-677d-6b90-f2ba-f81f4137d533",
+        "type": "message",
+        "text": "deploy v9.1.7 to prod :rocket:",
+        "user": "UWU9WG7ECGY",
+        "ts": "1593030398.836721",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1593006055.901961"
+        }
+    },
+    {
+        "client_msg_id": "bc61eaf4-a1de-1052-e877-20161090e11d",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UL8NMQFXPJR",
+        "ts": "1593046477.249589",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "21f738a6-5d30-678f-cb2b-87ccb44eebff",
+        "type": "message",
+        "text": "Northgate Construction reporting sync failures since this morning, CSM is Kathleen Jackson",
+        "user": "UL8NMQFXPJR",
+        "ts": "1645809268.221703",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0df4d50d-d167-c616-dd38-7f081fbbfca7",
+        "type": "message",
+        "text": "Renewal risk: Foster Residential Group unhappy with mobile app",
+        "user": "UT7K74ALYGQ",
+        "ts": "1645810529.053098",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ef60ac8-0101-23a7-be0d-f85a386dcc93",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> Can someone check Roberts Stores's invoice? They say they were double billed",
+        "user": "U9XCAUGPS1F",
+        "ts": "1645827483.825798",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

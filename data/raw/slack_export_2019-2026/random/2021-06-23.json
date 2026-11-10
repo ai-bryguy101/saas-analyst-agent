@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e9e2a8c8-f5e4-8401-91dd-574b588fae4e",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U2CKCF24AEA",
+        "ts": "1624457471.123043",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ed4c7c2-3ec4-fd9d-db2f-0768e6178460",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UFNKJQT8PV1",
+        "ts": "1624479208.463880",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ba17233b-6af4-fc99-6d58-d51e8f95c240",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UUFS9CP1A17",
+        "ts": "1624496292.922318",
+        "team": "T02BRNDLCV"
+    }
+]

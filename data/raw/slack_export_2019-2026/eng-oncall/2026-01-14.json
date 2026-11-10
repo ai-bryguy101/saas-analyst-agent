@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "fe32d633-48ce-a78d-03b3-ced3b57020e4",
+        "type": "message",
+        "text": "deploy v7.25.3 to prod :rocket:",
+        "user": "UPHFQAHDPSK",
+        "ts": "1768397012.689647",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8eaa6981-fb89-34a9-5441-4f4a6067073a",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1768398032.989012",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4215e910-b181-5390-ba51-f47085c498a0",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U5HQ6U91D2E",
+        "ts": "1768402642.861860",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad8b9bd3-c0b0-a71c-8330-fe6fd3100dab",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "USW7BR7KTST",
+        "ts": "1768405161.883499",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5352440-10c7-00f5-6994-5de3387ecf3d",
+        "type": "message",
+        "text": "rolling back v9.32.2",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1768406155.764057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3635c46c-c728-3020-f7b2-534c4d1cdd01",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1768411899.336944",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#46722 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7cea12a-6143-b14e-0283-0ea258d96a70",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1768414423.766562",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#21616 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd633e47-b944-15db-ca39-646d85e1d1da",
+        "type": "message",
+        "text": "rolling back v6.3.6",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1768422357.359857",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d00e9f69-7bce-7c40-d242-cca71c4b3086",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UDCALCM1RUG",
+        "ts": "1768428374.073642",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "494f3380-a4ba-d9cc-0fee-209fb99ad61c",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> cert renewal for *.brindlecove.example done",
+        "user": "U9XCAUGPS1F",
+        "ts": "1768436465.763064",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bc197d14-e070-8d6e-2b5e-bc8c504313a8",
+        "type": "message",
+        "text": "<@U8SR98620D7> who owns the cron for nightly exports?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1768437748.280423",
+        "team": "T02BRNDLCV"
+    }
+]

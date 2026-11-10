@@ -1,0 +1,186 @@
+{
+ "metaData": {
+  "id": "ec157185-060d-51f6-b543-70c140bf572f",
+  "url": "https://app.gong.example/call?id=ec157185-060d-51f6-b543-70c140bf572f",
+  "title": "Valley Hospitality Group Group | Brindlecove Discovery",
+  "scheduled": "2026-03-16T19:00:00Z",
+  "started": "2026-03-16T18:07:12Z",
+  "duration": 50,
+  "primaryUserId": "E047",
+  "direction": "Conference",
+  "system": "Zoom",
+  "scope": "External",
+  "media": "Video",
+  "language": "eng"
+ },
+ "parties": [
+  {
+   "id": "s0",
+   "name": "Olivia Foster",
+   "affiliation": "Internal",
+   "emailAddress": "ofoster@brindlecove.example"
+  },
+  {
+   "id": "s1",
+   "name": null,
+   "affiliation": "External",
+   "emailAddress": null
+  }
+ ],
+ "transcript": [
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 0,
+     "end": 2000,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 3100,
+     "end": 5100,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 6065,
+     "end": 9065,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 9846,
+     "end": 11846,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 14158,
+     "end": 16158,
+     "text": "We can do a pilot with ten seats."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 16511,
+     "end": 18511,
+     "text": "Our budget cycle starts in July."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 18753,
+     "end": 20753,
+     "text": "I'll send a recap after this call."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 22750,
+     "end": 24750,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 25271,
+     "end": 29271,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 30125,
+     "end": 32125,
+     "text": "What does onboarding look like?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 34159,
+     "end": 37159,
+     "text": "Pricing for Pro is per seat per month."
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 40101,
+     "end": 42101,
+     "text": "We looked at Plinthwise too."
+    }
+   ]
+  },
+  {
+   "speakerId": "s0",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 43859,
+     "end": 47859,
+     "text": "Can you walk me through how your techs log work today?"
+    }
+   ]
+  },
+  {
+   "speakerId": "s1",
+   "topic": null,
+   "sentences": [
+    {
+     "start": 48249,
+     "end": 50249,
+     "text": "I need to loop in our controller."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "12164a1d-6345-77a2-63c4-b52fb8c142a8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UFJUKVTAA1B",
+        "ts": "1592490373.641608",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01e8ee41-9c3f-6fba-071f-98992235a6e1",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1592490467.462504",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "89c05f09-fb14-0f6c-568e-132e90f363c3",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U9U3DZUVA3L",
+        "ts": "1592502929.259556",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a0415f65-c9dc-d8b0-8f82-b4bc42e8e6bf",
+        "type": "message",
+        "text": "Lost Saginaw Fabrication Ltd. to Plinthwise on price",
+        "user": "UCQT1GS0C0C",
+        "ts": "1592505331.303320",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37e69b2f-9f12-ca1a-6112-fc5e38d62489",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UQTUT2GDN85",
+        "ts": "1592506773.516114",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a8bbea0-ac41-1c28-6301-65b68352e84f",
+        "type": "message",
+        "text": "Copperfield Hospital Ltd. wants a discount, how far can I go?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1592507683.210781",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f30b4c2b-1a46-a45f-2b63-051d19157bd8",
+        "type": "message",
+        "text": "Closed Huang Restoration! 132 seats, Pro",
+        "user": "UJRKGMQPU2R",
+        "ts": "1592518561.434489",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "59d9fefb-c16f-94c3-3ea5-410b28d6621e",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UYFL6320JLT",
+        "ts": "1592522015.618889",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b09c7ccd-d81d-27c5-b3c1-058a78c3b7bd",
+        "type": "message",
+        "text": "Muskingum Couriers Corp. wants a discount, how far can I go?",
+        "user": "UQK194B1V43",
+        "ts": "1592523230.011972",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

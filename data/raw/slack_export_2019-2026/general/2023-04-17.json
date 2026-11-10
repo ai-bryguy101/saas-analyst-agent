@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "26f8c53d-43a6-c3dd-7d70-cf8a862adf50",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U2CKCF24AEA",
+        "ts": "1681763639.247119",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "467924dc-9ebe-9882-781e-05c3b2572989",
+        "type": "message",
+        "text": "Welcome Alan Carter to the Sales team!",
+        "user": "UC70JNE74S7",
+        "ts": "1681766065.956857",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

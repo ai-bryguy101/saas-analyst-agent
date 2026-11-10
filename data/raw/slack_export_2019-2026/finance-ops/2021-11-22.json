@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "9e4b8645-6ea5-e3da-660a-a5404e0d197d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UVQRW5SQSEL",
+        "ts": "1637600741.690898",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0cf3acf4-7e93-64fd-ec3d-1a64c43a725d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1637603278.339999",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "550d39f3-750f-5fa4-95d9-35ac3baaa06f",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2021",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1637622422.418390",
+        "team": "T02BRNDLCV"
+    }
+]

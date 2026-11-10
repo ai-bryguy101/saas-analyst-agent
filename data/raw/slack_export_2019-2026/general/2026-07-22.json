@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "fb22324e-ecff-b478-fd50-9e5eacfe9c06",
+        "type": "message",
+        "text": "Welcome Joseph Reed to the Operations team!",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1784731383.457912",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "64daa6a7-c67c-0688-f05f-437011091128",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Welcome Ngozi Jones to the Operations team!",
+        "user": "UYR8E48FJ62",
+        "ts": "1784742604.630986",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3c696d36-86b1-65f2-7e9e-15674f45b9d5",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Welcome Kathleen Martinez to the Customer Success team!",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1784752502.804721",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94a0d93b-96ea-037d-dbb0-c4e7a098641b",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UXXA9L8HH83",
+        "ts": "1784756946.290642",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a50ff5ea-0b28-e56d-9e21-1233e2353248",
+        "type": "message",
+        "text": "Welcome Margaret Okonkwo-Hale to the Customer Success team!",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1784764602.389397",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1784756913.811140"
+        }
+    },
+    {
+        "client_msg_id": "8e41c5d1-bbb4-6c5c-bcb0-e83726565579",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UGPRJ4K947R",
+        "ts": "1784767230.283931",
+        "team": "T02BRNDLCV"
+    }
+]

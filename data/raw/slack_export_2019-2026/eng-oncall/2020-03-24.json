@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "d80e52ba-85d5-bdc9-7812-5b91fccf9ecf",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1585059747.572851",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#64155 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b79cb428-dcfb-346b-5090-c7af3fe0c096",
+        "type": "message",
+        "text": "rolling back v7.33.4",
+        "user": "U3YU9TS6QYB",
+        "ts": "1585065319.002832",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "92f873ad-4a63-fc1d-0c17-74db64e839a6",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UJQY3Q26RVW",
+        "ts": "1585078569.945654",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86a4bb43-29f3-a7d3-b551-d0e2a63c87fb",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UGPRJ4K947R",
+        "ts": "1585085099.999901",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f1c78ecc-816b-530b-4154-973f881fdde0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1585094601.888698",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#70805 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

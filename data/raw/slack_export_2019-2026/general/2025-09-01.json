@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "b7adbbbb-fcdb-cd75-d8da-135b47df1474",
+        "type": "message",
+        "text": "Welcome Tyler Scott to the Sales team!",
+        "user": "UJRKGMQPU2R",
+        "ts": "1756733819.820694",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "de6e1622-5fd6-1689-f8fb-5758334023a0",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1756739573.712321",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c2cd12c-447a-4e00-ea32-0691831f0c9d",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UWU9WG7ECGY",
+        "ts": "1756747392.239480",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1756744430.018435"
+        }
+    },
+    {
+        "client_msg_id": "bc524a90-a998-c865-ead2-8a6d0ff94cc7",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1756747469.423882",
+        "team": "T02BRNDLCV"
+    }
+]

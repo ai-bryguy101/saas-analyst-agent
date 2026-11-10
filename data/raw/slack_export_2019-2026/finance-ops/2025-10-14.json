@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "dd9d8ca8-edfa-52a8-bba4-45802f529ea1",
+        "type": "message",
+        "text": "AR aging is up, Anderson Municipal Services is 90+ days",
+        "user": "U3EQ075NUYR",
+        "ts": "1760449218.429817",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c18463b-e643-ed99-d436-d1048362d527",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UAGQX7APZBG",
+        "ts": "1760452555.261039",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAGQX7APZBG",
+            "ts": "1760481855.552261"
+        }
+    },
+    {
+        "client_msg_id": "700d0869-1e7c-9df6-ad97-5bc1de64013d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1760453161.724149",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c50ceffb-2493-b9bd-1179-9a9e773fc155",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UVX5HCR5MMD",
+        "ts": "1760460712.399073",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7dfa6f8a-51c8-3f17-1e71-7b665b93cc6f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFULM18ZBQ6",
+        "ts": "1760468586.287871",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25c10b82-c0a8-1a7e-6869-1faabdb83aa9",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UR12Y3AZNKK",
+        "ts": "1760482946.188568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1db80110-3e63-b885-166d-4c2a0d616380",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> AR aging is up, Tidewater Retail Group is 90+ days",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1760484258.071363",
+        "team": "T02BRNDLCV"
+    }
+]

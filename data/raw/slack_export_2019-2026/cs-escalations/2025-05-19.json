@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "03744b33-4fc6-48e2-1789-c79567b9a359",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Lakeshore Inns Ltd. wants an exec call about the outage",
+        "user": "U7V33ZEGRET",
+        "ts": "1747662385.453996",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7408026-9fa7-e3b7-feef-c14bbc33ec14",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> Heron Mills Group reporting sync failures since this morning, CSM is Wei Adams",
+        "user": "UFNKJQT8PV1",
+        "ts": "1747672608.004581",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b751aa5e-a2b6-81a1-306d-26d08a9f71e6",
+        "type": "message",
+        "text": "Can someone check Foxglove Stores Holdings's invoice? They say they were double billed",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1747680868.746811",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "534e86fb-5a4d-4c76-a016-890c5bd0e89e",
+        "type": "message",
+        "text": "Pioneer County Facilities Holdings asking for an SLA credit",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1747687656.129977",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40ca7841-24bf-6ffe-3b6e-138fdb8b500f",
+        "type": "message",
+        "text": "<@UX84HDPARWN> Pelletier Municipal Services wants an exec call about the outage",
+        "user": "UFQYM82M1LX",
+        "ts": "1747694904.699630",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6cb8d607-5e7f-d117-9c1e-2bc8eedb4db7",
+        "type": "message",
+        "text": "Frontier Fabrication reporting sync failures since this morning, CSM is Peter Pham",
+        "user": "UJKZ2R47YW9",
+        "ts": "1747700412.269853",
+        "team": "T02BRNDLCV"
+    }
+]

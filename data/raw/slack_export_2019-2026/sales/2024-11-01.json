@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "aac4b636-ae8f-39e8-f474-5d2ddd6c40a1",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1730474518.073435",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UWLZTMJ6YM7",
+            "ts": "1730477854.086150"
+        }
+    },
+    {
+        "client_msg_id": "0554baf3-56ac-be32-488a-92f0c8e2e266",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "UAGQX7APZBG",
+        "ts": "1730496528.374218",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b36c57b-affc-dbaf-bb79-b569bdb71372",
+        "type": "message",
+        "text": "Heron Distribution wants a discount, how far can I go?",
+        "user": "URFUZYLCAEC",
+        "ts": "1730501909.973859",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "652c572e-ebd1-8857-4549-46809422d15a",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UAHZYQG5URJ",
+        "ts": "1730503338.404824",
+        "team": "T02BRNDLCV"
+    }
+]

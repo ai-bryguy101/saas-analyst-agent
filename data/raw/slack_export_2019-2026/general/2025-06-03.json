@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "f88d49e4-5439-c131-926c-9e7a93000298",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1748955958.599214",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ff2dc0e-7604-b9a0-5f9c-29471498f620",
+        "type": "message",
+        "text": "<@UUFS9CP1A17> Who left a lasagna in the 3rd floor fridge",
+        "user": "UMDHKXLV8RH",
+        "ts": "1748963181.084380",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01be4312-be66-1a17-d88f-803e74469e77",
+        "type": "message",
+        "text": "Welcome Andrea Penhallow to the Executive team!",
+        "user": "UGPRJ4K947R",
+        "ts": "1748968002.505424",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

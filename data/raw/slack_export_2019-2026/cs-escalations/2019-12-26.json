@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "8117a5e0-8177-6f66-6d31-dfc2bc7902c1",
+        "type": "message",
+        "text": "Kowalski Industries Group wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1577376686.914072",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a15c4e6a-6a04-6288-678d-6debef4d35bc",
+        "type": "message",
+        "text": "<@UQXT5A6YMVH> Can someone check Granite Fabrication Group's invoice? They say they were double billed",
+        "user": "UE49ET7WGNU",
+        "ts": "1577379453.093841",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80d9d97c-64a8-f70d-9316-57ee751b861c",
+        "type": "message",
+        "text": "Crescent School District asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1577390297.486242",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e02e1cfe-353b-c0fc-2ff9-a1128292d84c",
+        "type": "message",
+        "text": "Allegheny Supply Co Ltd. asking for an SLA credit",
+        "user": "UL8NMQFXPJR",
+        "ts": "1577407209.466963",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0de97e7-e23a-c22b-c938-7fe8a8498e6a",
+        "type": "message",
+        "text": "Hall Janitorial wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1577407763.780188",
+        "team": "T02BRNDLCV"
+    }
+]

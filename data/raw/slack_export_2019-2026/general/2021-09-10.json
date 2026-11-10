@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "2ad1b6ec-b1ed-7e08-9bad-cdba85dfb051",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U69WX6HRQNH",
+        "ts": "1631298553.719717",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "118a586d-8209-17a8-9c35-a1e6571511d5",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UYFL6320JLT",
+        "ts": "1631316598.977155",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28260478-5d87-dfa7-c27f-faf6541e15cf",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UMXMN24FN4K",
+        "ts": "1631318867.270104",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

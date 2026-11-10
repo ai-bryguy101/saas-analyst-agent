@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "b7d0594b-5078-2cfe-dd47-3d55c9442f78",
+        "type": "message",
+        "text": "Eastlake Residential Corp. asking for an SLA credit",
+        "user": "URWNWW8QFM6",
+        "ts": "1566317479.876495",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UKMQNTKUR4V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03a3cafe-3b51-c428-d413-18ddfcd4c3a3",
+        "type": "message",
+        "text": "Granite Mills Group reporting sync failures since this morning, CSM is Zachary Romano",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1566319153.788954",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b51653f2-7cb1-f622-37d5-c15b96e0aeba",
+        "type": "message",
+        "text": "Renewal risk: Bayou Maintenance Co Holdings unhappy with mobile app",
+        "user": "UFJUKVTAA1B",
+        "ts": "1566320225.512113",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "483bbbdb-6a62-511a-a6c5-0641a77d23c4",
+        "type": "message",
+        "text": "<@UGUNVSC71NZ> Sycamore Mechanical Holdings wants an exec call about the outage",
+        "user": "UMXMN24FN4K",
+        "ts": "1566346416.240694",
+        "team": "T02BRNDLCV"
+    }
+]

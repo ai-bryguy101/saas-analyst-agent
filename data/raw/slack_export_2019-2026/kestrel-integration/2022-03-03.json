@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "81eb509a-5320-bb58-58d9-854475e118fa",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UE49ET7WGNU",
+        "ts": "1646321373.617603",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "75e6fb41-70d9-440b-17a4-8d14ee9dae7b",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U09CZFTHQSS",
+        "ts": "1646321520.418955",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27c8bd59-6409-5dc1-ec70-3a817023234d",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UE49ET7WGNU",
+        "ts": "1646349887.494550",
+        "team": "T02BRNDLCV"
+    }
+]

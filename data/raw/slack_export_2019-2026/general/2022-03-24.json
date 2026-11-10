@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "03306c30-c527-71bf-f2bc-e585468cd048",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UAGQX7APZBG",
+        "ts": "1648154778.805907",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c146632a-3a81-a264-74b9-bb2aa8ce463e",
+        "type": "message",
+        "text": "Welcome Femi Adeyemi to the Finance team!",
+        "user": "UDCALCM1RUG",
+        "ts": "1648167785.664697",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

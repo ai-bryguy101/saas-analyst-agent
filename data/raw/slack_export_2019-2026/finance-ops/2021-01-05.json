@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "fe1ab977-8226-4972-6d99-14de1a2bec02",
+        "type": "message",
+        "text": "AR aging is up, Perez Logistics Corp. is 90+ days",
+        "user": "U9U3DZUVA3L",
+        "ts": "1609860676.222928",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6410c808-9394-7b24-afe0-583ad93b9c5b",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UE4GTX0EXPH",
+        "ts": "1609862552.993421",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b8e63da-ef84-457e-008d-df3b2cb5cb54",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U8TVGALMJLQ",
+        "ts": "1609862827.386471",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f441754-9b53-94d4-1377-dee493c6f5da",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1609867798.513883",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UTLU2ZXMLEL",
+            "ts": "1609854868.187525"
+        }
+    },
+    {
+        "client_msg_id": "1caa8bae-cc92-436a-7cca-3ea37459ad95",
+        "type": "message",
+        "text": "Cornerstone County Facilities Group paid by wire, applying now",
+        "user": "U0E67MPWRXA",
+        "ts": "1609868041.576031",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fcbdf63-2de6-9fee-4307-7a254c63c802",
+        "type": "message",
+        "text": "AR aging is up, Pioneer Janitorial Group is 90+ days",
+        "user": "UXETPKNK8MV",
+        "ts": "1609875429.364417",
+        "team": "T02BRNDLCV"
+    }
+]

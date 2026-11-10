@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "e6b081cc-d713-1880-fa5f-668a07b933fd",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UWU9WG7ECGY",
+        "ts": "1595608687.602219",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c006876e-b246-b58f-8ebe-27ca5cc986d7",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UCQT1GS0C0C",
+        "ts": "1595637176.330835",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UDM784MTBQ7"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UCQT1GS0C0C",
+            "ts": "1595618495.515592"
+        }
+    }
+]

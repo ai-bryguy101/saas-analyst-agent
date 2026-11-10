@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "7bc212ef-5afa-94e2-c59c-639649d87ef0",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U9XCAUGPS1F",
+        "ts": "1708696182.540903",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1708701725.844909"
+        }
+    },
+    {
+        "client_msg_id": "1d5395b9-e17e-4597-9027-0c2fc96ca46d",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> Benefits enrollment closes Friday",
+        "user": "UL20M69UM76",
+        "ts": "1708696608.436581",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a424fadf-fa0d-8dd8-74ec-d29aaa944588",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UJQY3Q26RVW",
+        "ts": "1708702390.477258",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2292c51-0667-aead-ab74-ea119b05c8c0",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UT7K74ALYGQ",
+        "ts": "1708704652.840354",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3a3072d-95a8-0b58-b763-f44c265da4b7",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Q1 kickoff deck is in the drive",
+        "user": "UXVNE61TTLN",
+        "ts": "1708718080.324749",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXVNE61TTLN",
+            "ts": "1708728724.655582"
+        }
+    },
+    {
+        "client_msg_id": "12cfbe47-dc72-cfaa-5e21-0bcae8ad3905",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UAHZYQG5URJ",
+        "ts": "1708719749.526535",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fbefe055-9dff-a5aa-2a2f-3549634edf35",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UJRKGMQPU2R",
+        "ts": "1708721799.094819",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJRKGMQPU2R",
+            "ts": "1708707724.699982"
+        }
+    }
+]

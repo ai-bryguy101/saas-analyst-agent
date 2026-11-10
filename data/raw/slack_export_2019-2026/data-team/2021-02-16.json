@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "c8650e63-645b-1ebd-04ae-d99319f9f5bd",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UWBW507RCA9",
+        "ts": "1613483753.930726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86480f7b-cb8d-933b-4b16-1d108f8b5053",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UC95B7VAFX0",
+        "ts": "1613484585.123374",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "db5b42dd-7062-9d3e-79c9-ea5a1fa10007",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "U0E67MPWRXA",
+        "ts": "1613497502.777181",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1613512058.522123"
+        }
+    },
+    {
+        "client_msg_id": "bd7d0a7f-00f6-6510-5176-519a4f486b51",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UL8NMQFXPJR",
+        "ts": "1613497946.187596",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

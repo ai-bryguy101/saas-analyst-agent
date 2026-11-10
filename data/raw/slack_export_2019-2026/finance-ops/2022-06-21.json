@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "08f5b3e9-8399-0e61-2ea7-96e3144fa460",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U8SR98620D7",
+        "ts": "1655832730.975576",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "809553c2-0474-f13a-baf6-c0ef3ee33576",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1655841227.257475",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04ec3c59-a82e-b5e1-16a0-8d7ab7f3657f",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> FX rates loaded for Jun 2022",
+        "user": "URFUZYLCAEC",
+        "ts": "1655843737.410650",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0754c873-e5cd-a2f3-ddd4-99ba4a5fcfbb",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U48TCJE75PD",
+        "ts": "1655856181.646213",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

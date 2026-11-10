@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "44d8e15c-1b3e-6d29-3372-ce8eff9a3ea9",
+        "type": "message",
+        "text": "O'Connor Outfitters LLC paid by wire, applying now",
+        "user": "UZACKQ1VXCH",
+        "ts": "1619808903.359458",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3da49982-1995-33d3-dc21-8199cd29c48d",
+        "type": "message",
+        "text": "Wexford Markets LLC paid by wire, applying now",
+        "user": "U5TERVWF7JH",
+        "ts": "1619821456.647510",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

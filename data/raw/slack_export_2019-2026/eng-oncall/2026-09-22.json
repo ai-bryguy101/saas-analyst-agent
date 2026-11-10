@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "e3c27ba6-b1bb-59e5-0597-d0242cdb7c9b",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> postmortem doc for yesterday is up",
+        "user": "U09CZFTHQSS",
+        "ts": "1790082520.577023",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37358d72-0afc-4e85-b49e-eeaccfa39534",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UVX5HCR5MMD",
+        "ts": "1790089459.755822",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "df3c6593-e7e9-e24e-7f55-81d44b09a861",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U773RMBLF5X",
+        "ts": "1790089780.810313",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6285de33-8365-606f-89cb-987ac490ddb6",
+        "type": "message",
+        "text": "deploy v7.38.6 to prod :rocket:",
+        "user": "UBHB6GTB73U",
+        "ts": "1790090654.620549",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b88da905-4f65-478b-97b2-1e7ce7f94f15",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> who owns the cron for nightly exports?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1790093869.650762",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96ce5e44-4324-46f4-980d-37bb40289eb5",
+        "type": "message",
+        "text": "rolling back v8.3.2",
+        "user": "U8SR98620D7",
+        "ts": "1790096391.166897",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d72f846a-f2d9-e1bb-c42e-c643f6bc9e29",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> who owns the cron for nightly exports?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1790097277.664801",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c3b336e-3a6e-ee3a-441a-3426072ad778",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UE49ET7WGNU",
+        "ts": "1790107712.202226",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9084dac8-fbfc-af5f-bbbb-e51d05922486",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXS2WD4BYRN",
+        "ts": "1790113098.589368",
+        "team": "T02BRNDLCV"
+    }
+]

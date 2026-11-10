@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "3994a242-6777-567a-2af1-03d72ae7d55f",
+        "type": "message",
+        "text": "Twin Resorts Corp. reporting sync failures since this morning, CSM is Brian Calloway",
+        "user": "UT9KGXWKHLB",
+        "ts": "1695311732.507347",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42340810-adea-6cee-ab2c-7f71d8b873bc",
+        "type": "message",
+        "text": "Copperfield Markets Holdings wants an exec call about the outage",
+        "user": "UFULM18ZBQ6",
+        "ts": "1695312479.555550",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e57b14e1-3200-aff6-62cd-b315adfc8848",
+        "type": "message",
+        "text": "Kelly Suites Group asking for an SLA credit",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1695316002.615007",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d788d8e6-3297-bf98-bda7-9ea644ae8cfa",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> Renewal risk: Kestrel County Facilities Holdings unhappy with mobile app",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1695316042.557087",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "936aef93-c238-b0c3-a87b-544e4d457b97",
+        "type": "message",
+        "text": "Cascade Works wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1695316563.951039",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5ef61c3e-055c-59d9-b864-d4a971b3a509",
+        "type": "message",
+        "text": "Can someone check Howard Works Corp.'s invoice? They say they were double billed",
+        "user": "U9V01K22TU1",
+        "ts": "1695324470.837125",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "25b661d3-c6ea-abdb-b022-696cbb23872c",
+        "type": "message",
+        "text": "Can someone check Howard Health Partners LLC's invoice? They say they were double billed",
+        "user": "UXVNE61TTLN",
+        "ts": "1695324989.101131",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ca601448-e49c-d3be-eaef-db14bee90754",
+        "type": "message",
+        "text": "Renewal risk: Blackhawk Municipal Services unhappy with mobile app",
+        "user": "UV8WG09HYBP",
+        "ts": "1695325601.898398",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd3697b7-5892-d961-57c0-3816b0126a4a",
+        "type": "message",
+        "text": "Keystone Property Group Corp. asking for an SLA credit",
+        "user": "UWBW507RCA9",
+        "ts": "1695330489.923909",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d21aa4af-575f-1e44-614c-7e42b20b4c76",
+        "type": "message",
+        "text": "Can someone check Haddad Realty Management Holdings's invoice? They say they were double billed",
+        "user": "UFNKJQT8PV1",
+        "ts": "1695335304.035146",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fdafd6b8-54c8-6dae-ea66-cca68d913d12",
+        "type": "message",
+        "text": "Union Medical Center asking for an SLA credit",
+        "user": "UDDBYSY4RFA",
+        "ts": "1695343421.869682",
+        "team": "T02BRNDLCV"
+    }
+]

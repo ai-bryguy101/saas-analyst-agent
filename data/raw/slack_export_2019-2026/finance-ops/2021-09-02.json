@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1902a713-9c36-7fc5-e15a-fd7fab8a9e23",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> AR aging is up, Valley Construction is 90+ days",
+        "user": "UXXA9L8HH83",
+        "ts": "1630588061.978946",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "266bf5a1-ae37-3d94-703e-c3fca1ee5489",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1630598824.594402",
+        "team": "T02BRNDLCV"
+    }
+]

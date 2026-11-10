@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "624d20f0-cd78-1ca3-0b92-01c1b334b2ae",
+        "type": "message",
+        "text": "rolling back v5.38.1",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1715779139.051150",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a298fc31-ae0e-fd08-d25d-9aae1afad86f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U1YEVCXATA8",
+        "ts": "1715782507.713787",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec6c8e0f-cf80-1fcc-9dfc-515ee219e4c7",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "URWNWW8QFM6",
+        "ts": "1715787869.771400",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d54c595a-4959-8423-c39e-0942541467c6",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1715802836.252367",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUDLJ7GDXKE",
+            "ts": "1715796097.352217"
+        }
+    },
+    {
+        "client_msg_id": "245da923-27ee-87f4-a1ec-240ffc2dc297",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UQTUT2GDN85",
+        "ts": "1715804213.304083",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQTUT2GDN85",
+            "ts": "1715813613.485026"
+        }
+    },
+    {
+        "client_msg_id": "e3250ced-e6fc-487e-6742-eb04c857cec3",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> postmortem doc for yesterday is up",
+        "user": "U9XCAUGPS1F",
+        "ts": "1715810646.360060",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c434f564-b13f-cd2d-c5cc-53ea3fc74768",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U48TCJE75PD",
+        "ts": "1715813394.092356",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cb7b88e1-b54f-0afd-7e59-60be8d706f23",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1715816214.499206",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d9617234-5b1d-a037-d9ab-bed36f9ac2a9",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1715820764.248378",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#65924 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

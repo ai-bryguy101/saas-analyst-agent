@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "b9481b48-5915-713a-8503-51a38534d9bc",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Can someone check Carter Manufacturing Inc.'s invoice? They say they were double billed",
+        "user": "UQTUT2GDN85",
+        "ts": "1771427167.240151",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3d934d1-ccd1-92c9-c3c6-a65e6c395628",
+        "type": "message",
+        "text": "<@UFJUKVTAA1B> Renewal risk: Westbrook Construction unhappy with mobile app",
+        "user": "U5HQ6U91D2E",
+        "ts": "1771435750.471116",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a290c2e-8f5a-71c7-d4df-de4f94fd9add",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Miami Couriers Ltd. wants an exec call about the outage",
+        "user": "UVQRW5SQSEL",
+        "ts": "1771444389.597506",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0995379-876c-d2f3-84a7-a545c7e89f82",
+        "type": "message",
+        "text": "Brooks Public Works reporting sync failures since this morning, CSM is Jason Garcia",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1771446090.584887",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f406be8-3bb9-ef17-c3c2-fab2f81c0c5b",
+        "type": "message",
+        "text": "Southport Unified Schools Ltd. asking for an SLA credit",
+        "user": "UMDHKXLV8RH",
+        "ts": "1771447369.394449",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

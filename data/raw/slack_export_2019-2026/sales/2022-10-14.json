@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "aa1baee5-1e96-44fc-802f-b698e05080d9",
+        "type": "message",
+        "text": "Closed Clearwater Industries! 89 seats, Pro",
+        "user": "UMXMN24FN4K",
+        "ts": "1665754443.054308",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23109fb1-49a5-5926-4352-7a832233caee",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UGPRJ4K947R",
+        "ts": "1665773404.258290",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "626acb74-6a40-1ea2-6aac-994075cda630",
+        "type": "message",
+        "text": "Closed Cornerstone Health Partners Ltd.! 289 seats, Starter",
+        "user": "UL20M69UM76",
+        "ts": "1665781508.334356",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b1e3bfc-cbbb-a977-b37a-128ec066bbc9",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UVX5HCR5MMD",
+        "ts": "1665784599.341086",
+        "team": "T02BRNDLCV"
+    }
+]

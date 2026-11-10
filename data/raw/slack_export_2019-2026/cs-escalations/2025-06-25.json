@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "eca63fdb-f843-8a7a-8bb5-0023a2db91f5",
+        "type": "message",
+        "text": "Union Construction Ltd. wants an exec call about the outage",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1750860231.809859",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UHN0Q6LZH8E",
+            "ts": "1750868286.794328"
+        }
+    },
+    {
+        "client_msg_id": "2836f881-356b-5a8d-7d86-6c0e260f4f80",
+        "type": "message",
+        "text": "Can someone check Heron Building Services Corp.'s invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1750864630.749832",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9c7d59b1-958b-607d-03ce-ac86dec624d8",
+        "type": "message",
+        "text": "Renewal risk: Hawthorne Township LLC unhappy with mobile app",
+        "user": "UYFL6320JLT",
+        "ts": "1750877252.919763",
+        "team": "T02BRNDLCV"
+    }
+]

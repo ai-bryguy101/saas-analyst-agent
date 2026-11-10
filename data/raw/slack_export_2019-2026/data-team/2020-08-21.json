@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0dadfc36-e775-0fd4-a060-5c19eb0de560",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Don't use ARR__c from Salesforce, it's stale",
+        "user": "U09CZFTHQSS",
+        "ts": "1598015787.910170",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53f98fb3-4279-b9d1-8a0a-26759c6c4c54",
+        "type": "message",
+        "text": "<@U22GUF0P303> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UXS2WD4BYRN",
+        "ts": "1598017191.038393",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0aa3821-0021-485a-9c4d-f7b0f1c0ec94",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UBHB6GTB73U",
+        "ts": "1598047222.853357",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "7c6c2617-e12e-2a25-78a3-4cebaa50501f",
+        "type": "message",
+        "text": "Can someone check Iyer College's invoice? They say they were double billed",
+        "user": "U5DYUQUF95P",
+        "ts": "1578413559.328547",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac36ee4b-9b36-0c42-ca01-5fc075c6740e",
+        "type": "message",
+        "text": "Keystone Public Works LLC wants an exec call about the outage",
+        "user": "UQK194B1V43",
+        "ts": "1578415409.308758",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "756f1529-f421-dd82-5209-613ec3b42808",
+        "type": "message",
+        "text": "O'Brien Building Services asking for an SLA credit",
+        "user": "UPHFQAHDPSK",
+        "ts": "1578422283.287930",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5cf0e556-80d6-0ae2-f331-64e936d8caa1",
+        "type": "message",
+        "text": "Renewal risk: Esposito Facilities Management Holdings unhappy with mobile app",
+        "user": "UB0YL0LKYC7",
+        "ts": "1578422607.807221",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32e40f2b-3392-8ff2-f4d9-be7d551a7182",
+        "type": "message",
+        "text": "Southport Works Corp. wants an exec call about the outage",
+        "user": "U3EQ075NUYR",
+        "ts": "1578435000.456835",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "237993f1-52be-47c8-65c8-b361ffc88886",
+        "type": "message",
+        "text": "Renewal risk: Ironwood School District Co. unhappy with mobile app",
+        "user": "UNCGDMQATC5",
+        "ts": "1578436640.064135",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53c79434-ead9-7170-0a7e-81af2f39905f",
+        "type": "message",
+        "text": "Marrow University Facilities Co. reporting sync failures since this morning, CSM is Gideon Ashdown",
+        "user": "UXETPKNK8MV",
+        "ts": "1578439919.561798",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "9bc4a33a-0ed5-1d44-6464-aaaa682092a3",
+        "type": "message",
+        "text": "Howard Builders asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1791827486.200691",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "201c41bd-f316-fdf2-c5ec-653329704937",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> Renewal risk: Scioto Public Works unhappy with mobile app",
+        "user": "UFJUKVTAA1B",
+        "ts": "1791830121.442833",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bc5d141-b31c-8568-5516-6ab522baee33",
+        "type": "message",
+        "text": "Wilson Fabrication wants an exec call about the outage",
+        "user": "UZJU9N8CY2T",
+        "ts": "1791845677.667702",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb978d04-7ea0-f0d6-6168-bddfdea0c691",
+        "type": "message",
+        "text": "Can someone check Clearwater Logistics's invoice? They say they were double billed",
+        "user": "UAXWVBRVKW9",
+        "ts": "1791846267.214692",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UAXWVBRVKW9",
+            "ts": "1791843007.194835"
+        }
+    },
+    {
+        "client_msg_id": "58e5529d-77ae-4b05-e647-6500c5161af3",
+        "type": "message",
+        "text": "Can someone check Great Medical Center Group's invoice? They say they were double billed",
+        "user": "U22GUF0P303",
+        "ts": "1791848320.929860",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a1101a2-f48a-5c67-9179-1a684a0c4c1b",
+        "type": "message",
+        "text": "Clearwater Contracting wants an exec call about the outage",
+        "user": "UE4GTX0EXPH",
+        "ts": "1791850440.953590",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9880c74-0833-37a6-a322-f599dc3d8cd5",
+        "type": "message",
+        "text": "Oakmere Works Inc. wants an exec call about the outage",
+        "user": "UNFVCYNZT6K",
+        "ts": "1791851981.320083",
+        "team": "T02BRNDLCV"
+    }
+]

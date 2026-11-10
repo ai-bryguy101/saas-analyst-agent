@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "7acf3570-da45-29be-81a3-18c1c536647d",
+        "type": "message",
+        "text": "Heron Manufacturing reporting sync failures since this morning, CSM is Lorraine Whitlock",
+        "user": "UZACKQ1VXCH",
+        "ts": "1650550454.331809",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00a7e91b-fd3a-cd94-bc60-eb8c38b4b3d5",
+        "type": "message",
+        "text": "Keystone Inns Group wants an exec call about the outage",
+        "user": "UX84HDPARWN",
+        "ts": "1650564098.564390",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0VB9M5U3TM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

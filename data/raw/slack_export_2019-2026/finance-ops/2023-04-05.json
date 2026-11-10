@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6f03c3dd-4700-8f1b-0246-b2d0fae06de5",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UV8WG09HYBP",
+        "ts": "1680708001.136606",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9856644c-6072-0c7d-d7cd-37262a1a3291",
+        "type": "message",
+        "text": "Beacon Property Services paid by wire, applying now",
+        "user": "UUFS9CP1A17",
+        "ts": "1680722493.121254",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

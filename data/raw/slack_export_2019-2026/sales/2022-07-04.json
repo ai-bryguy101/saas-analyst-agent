@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f1ff3d33-33df-97c7-fe3e-a959462c68f3",
+        "type": "message",
+        "text": "Closed Highland Mills Co.! 259 seats, Pro",
+        "user": "UQXT5A6YMVH",
+        "ts": "1656943476.582166",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77f5fce5-655f-02e4-254a-414eb556ef79",
+        "type": "message",
+        "text": "Lost Foxglove Retail Group to Plinthwise on price",
+        "user": "U9Y2KF0S90E",
+        "ts": "1656966440.421781",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74cf0430-24f4-0cdf-3fe2-8b5f975c4f7c",
+        "type": "message",
+        "text": "Wabash Markets Corp. wants a discount, how far can I go?",
+        "user": "UYFL6320JLT",
+        "ts": "1656975132.469514",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

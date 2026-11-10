@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "25ecd25f-5ed1-51fe-4918-3964013e35cb",
+        "type": "message",
+        "text": "Can someone check Romano Health Partners Co.'s invoice? They say they were double billed",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1584575480.719974",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd7c6393-81d7-1837-890e-6305dd1ec3e7",
+        "type": "message",
+        "text": "<@UAHZYQG5URJ> Great Builders Holdings reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "UQTUT2GDN85",
+        "ts": "1584576540.776517",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b4a836d5-a13f-14ab-040a-8fb8aa67c26e",
+        "type": "message",
+        "text": "Ramirez Restoration wants an exec call about the outage",
+        "user": "UJQ9E01DWPS",
+        "ts": "1584579591.599538",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

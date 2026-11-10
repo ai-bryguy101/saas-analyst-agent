@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "23582223-eca6-e7f4-6c67-11941571a418",
+        "type": "message",
+        "text": "Kingsley Suites Inc. wants an exec call about the outage",
+        "user": "UYR8E48FJ62",
+        "ts": "1637590367.083715",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4369c60-bc57-7aa2-3715-76bd1eee53af",
+        "type": "message",
+        "text": "Jones Residential asking for an SLA credit",
+        "user": "U69WX6HRQNH",
+        "ts": "1637590568.326980",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c8e91845-fdb4-8e7e-14f7-8b7db986df77",
+        "type": "message",
+        "text": "Oakmere Transit Authority reporting sync failures since this morning, CSM is Lars Roberts",
+        "user": "U773RMBLF5X",
+        "ts": "1637592734.738940",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fe22380-e54a-ed76-ca79-6b8064fbe853",
+        "type": "message",
+        "text": "Bouchard Retail Group Corp. asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1637595715.503264",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84b1dfcf-a25a-0567-9cad-a32e60d6c87d",
+        "type": "message",
+        "text": "Can someone check Moore Hotels LLC's invoice? They say they were double billed",
+        "user": "U0E67MPWRXA",
+        "ts": "1637617662.094316",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fa1b02b-c674-fee7-94ff-61d61dc73536",
+        "type": "message",
+        "text": "Blackhawk Resorts Inc. wants an exec call about the outage",
+        "user": "UT9KGXWKHLB",
+        "ts": "1637618548.265841",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "90237dd5-36ce-0d40-4a07-c5d2d94160ca",
+        "type": "message",
+        "text": "<@UL20M69UM76> Can someone check Ross County Facilities LLC's invoice? They say they were double billed",
+        "user": "UP51TVUPQU5",
+        "ts": "1637624279.165454",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3DBR7QKZWE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

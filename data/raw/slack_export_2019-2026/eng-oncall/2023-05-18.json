@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "0f6a559a-0bac-efae-a637-56d6eab21ce1",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UQTUT2GDN85",
+        "ts": "1684416926.103257",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "db9c3a70-b901-368a-a894-23926ee504c7",
+        "type": "message",
+        "text": "deploy v9.15.6 to prod :rocket:",
+        "user": "U5TERVWF7JH",
+        "ts": "1684425172.577137",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6a8a06ce-6313-9d00-b379-b81c57df91ed",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1684426542.822922",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2f3d69e9-f9c0-fb03-1dbb-b65370f587f5",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1684429768.109559",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#17545 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2dd8f94f-9e66-1083-a466-d645618b20d7",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UZACKQ1VXCH",
+        "ts": "1684432384.944240",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aa1569f5-ac3c-d3dd-59a4-75604062ca00",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U22GUF0P303",
+        "ts": "1684451761.165814",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "24009246-07cb-e06a-d6d9-ee06a36a29a9",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UMDHKXLV8RH",
+        "ts": "1684457036.383996",
+        "team": "T02BRNDLCV"
+    }
+]

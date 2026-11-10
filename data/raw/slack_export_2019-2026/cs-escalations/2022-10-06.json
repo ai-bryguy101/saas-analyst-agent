@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "7e184785-b661-48a8-80b0-8ac554fb18ad",
+        "type": "message",
+        "text": "<@U48TCJE75PD> Nguyen Property Services Holdings asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1665070480.207227",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9c0de632-755f-2a61-826e-a113b934560a",
+        "type": "message",
+        "text": "Crescent Public Works asking for an SLA credit",
+        "user": "U8TVGALMJLQ",
+        "ts": "1665071698.236131",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6db04c9d-a202-47b6-be44-0ffa2369d59b",
+        "type": "message",
+        "text": "Ostrander Couriers Group reporting sync failures since this morning, CSM is Bjorn Wright",
+        "user": "UUFS9CP1A17",
+        "ts": "1665075151.441544",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e31aea53-0b0e-3b80-8a16-07910e1f8404",
+        "type": "message",
+        "text": "Renewal risk: Tillamook Mills LLC unhappy with mobile app",
+        "user": "U3YU9TS6QYB",
+        "ts": "1665081883.481339",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f3377c3-82ac-964a-38bd-ef92dcfcc661",
+        "type": "message",
+        "text": "Can someone check Morales School District Inc.'s invoice? They say they were double billed",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1665095586.164332",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74540dce-5a3b-ed20-3778-fc06b5bfbb3e",
+        "type": "message",
+        "text": "Great Contracting Group asking for an SLA credit",
+        "user": "UAXWVBRVKW9",
+        "ts": "1665096727.704000",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0b95f34a-5403-3d5e-58c3-66cdb7fc930b",
+        "type": "message",
+        "text": "Riverbend Transit Authority Co. reporting sync failures since this morning, CSM is Frank Ortiz",
+        "user": "U7V33ZEGRET",
+        "ts": "1665099119.721177",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U7V33ZEGRET",
+            "ts": "1665097589.462778"
+        }
+    },
+    {
+        "client_msg_id": "2e4b5cb0-aae9-fec3-321a-2c9897b9a5a2",
+        "type": "message",
+        "text": "Meadowlark Mills Corp. wants an exec call about the outage",
+        "user": "UBHB6GTB73U",
+        "ts": "1665099868.678465",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ccc272dc-9790-d85a-6763-a349431bc0c0",
+        "type": "message",
+        "text": "Granite Medical Center Ltd. wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1665103010.955326",
+        "team": "T02BRNDLCV"
+    }
+]

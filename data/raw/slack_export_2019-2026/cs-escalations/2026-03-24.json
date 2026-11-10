@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "bf738ab6-54f2-6c2f-4159-d3ba8d9664d8",
+        "type": "message",
+        "text": "Gatehouse University Facilities reporting sync failures since this morning, CSM is Ngozi Jones",
+        "user": "UMYYLUTXG9R",
+        "ts": "1774357783.330781",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b96ee2f-f917-9d3d-fbb7-c4e4a28281d9",
+        "type": "message",
+        "text": "Saguaro Industries Inc. asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1774365058.093487",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d46fb76-930d-fc6a-bc49-5302c04a2ed9",
+        "type": "message",
+        "text": "Copperfield Building Services Group reporting sync failures since this morning, CSM is Margaret Roberts",
+        "user": "URWNWW8QFM6",
+        "ts": "1774365912.452605",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9081cb16-21e8-3494-c985-bc9fb11bd1da",
+        "type": "message",
+        "text": "Perez Construction Inc. wants an exec call about the outage",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1774367903.149761",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "39bbfa0f-e2ab-f1fa-e3f7-38df0826aa28",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Renewal risk: Riverbend Suites Inc. unhappy with mobile app",
+        "user": "U3YU9TS6QYB",
+        "ts": "1774377905.139495",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3YU9TS6QYB",
+            "ts": "1774380465.033896"
+        }
+    },
+    {
+        "client_msg_id": "cccdf58d-bb5a-7fa6-43e6-34391a4d934e",
+        "type": "message",
+        "text": "Kelly Markets reporting sync failures since this morning, CSM is Deepa Foster",
+        "user": "UT7K74ALYGQ",
+        "ts": "1774389656.321747",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5d53efd-c3d7-ef69-3a92-8c39648ea1d5",
+        "type": "message",
+        "text": "Magnolia Property Services Holdings asking for an SLA credit",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1774394144.762054",
+        "team": "T02BRNDLCV"
+    }
+]

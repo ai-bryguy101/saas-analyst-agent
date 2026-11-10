@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "8915ab52-f802-9752-947f-ae130d4ff4be",
+        "type": "message",
+        "text": "Green Contracting LLC asking for an SLA credit",
+        "user": "UFNKJQT8PV1",
+        "ts": "1666285401.444261",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9512a26-4b1c-ced2-49a3-1f513a8e072e",
+        "type": "message",
+        "text": "Prairie Contracting wants an exec call about the outage",
+        "user": "UXS2WD4BYRN",
+        "ts": "1666285472.219566",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "be64d71a-ec1f-3b18-4516-ad9a7a66d69a",
+        "type": "message",
+        "text": "Blackhawk Academy Ltd. asking for an SLA credit",
+        "user": "UE49ET7WGNU",
+        "ts": "1666294613.484477",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fec02c66-72ed-9239-8191-6e36b5583ad8",
+        "type": "message",
+        "text": "Renewal risk: Summit Township Group unhappy with mobile app",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1666303748.259646",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

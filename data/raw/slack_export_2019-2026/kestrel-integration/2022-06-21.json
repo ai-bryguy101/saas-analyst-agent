@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "c12d9dfd-4141-4877-ea6c-3f7cdc7d1766",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U773RMBLF5X",
+        "ts": "1655826157.302612",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "76c4f2e9-cca9-6111-65e4-66e42218a23c",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "U9SD2024Q7F",
+        "ts": "1655830444.512926",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "98f25bfc-947c-12ca-c8b8-79acb2abcd52",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1655831811.780485",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e198d08-ee74-5bfd-76bb-26d5131335c4",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1655844356.558269",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fd956377-c8d5-5d8f-2913-c489e827ef26",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UXETPKNK8MV",
+        "ts": "1655846668.466800",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18791775-37ba-9938-6812-854d989b7b30",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> GBP invoices migrating next sprint",
+        "user": "U48TCJE75PD",
+        "ts": "1655851093.910255",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22fbea3a-f4cf-4d51-1593-84243dd94bfd",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UFJUKVTAA1B",
+        "ts": "1655854828.574346",
+        "team": "T02BRNDLCV"
+    }
+]

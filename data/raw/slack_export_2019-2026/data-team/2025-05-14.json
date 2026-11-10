@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "69425f15-42d8-871a-3b5b-59088a882238",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UMYYLUTXG9R",
+        "ts": "1747239109.978896",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0b45088-c43f-d832-1b0a-6b44ff1bc2de",
+        "type": "message",
+        "text": "Need churn list for 2024",
+        "user": "U5X9PNA34DU",
+        "ts": "1747261616.117079",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1e9b6441-38c9-f644-2e39-71ac297c81f4",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1747262624.341483",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    }
+]

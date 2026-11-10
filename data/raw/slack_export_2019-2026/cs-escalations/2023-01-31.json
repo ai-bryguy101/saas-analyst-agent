@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "ed565a7f-e328-295a-9188-e47953e842cf",
+        "type": "message",
+        "text": "Ashford Property Group reporting sync failures since this morning, CSM is Eugene Fontaine",
+        "user": "UFJUKVTAA1B",
+        "ts": "1675180764.547933",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1f066996-65ed-35eb-8174-5f7da4ca9bf6",
+        "type": "message",
+        "text": "Great Clinics asking for an SLA credit",
+        "user": "UFULM18ZBQ6",
+        "ts": "1675185436.273505",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b351f0cd-8c9a-98bd-d715-c3fa4ebcf6e0",
+        "type": "message",
+        "text": "Scioto Academy Co. asking for an SLA credit",
+        "user": "UQTUT2GDN85",
+        "ts": "1675187918.058641",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFGLBSDS2XV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "ac031b17-9d0c-2ea5-7f5d-b39e0cb54622",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U0VB9M5U3TM",
+        "ts": "1638888360.370947",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d70f3987-2e2c-8088-911d-650ea5552b99",
+        "type": "message",
+        "text": "AR aging is up, Gomez Warehousing is 90+ days",
+        "user": "UL20M69UM76",
+        "ts": "1638890432.663097",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f6885db-f80f-97b4-00d9-2228a2edebf2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U7V33ZEGRET",
+        "ts": "1638897286.050867",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbcc881c-9b20-4088-39a4-e77b171b1532",
+        "type": "message",
+        "text": "AR aging is up, Muskingum Warehousing Ltd. is 90+ days",
+        "user": "U22GUF0P303",
+        "ts": "1638898007.143539",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed51eef5-b9ff-9e50-5a8a-e843df852c85",
+        "type": "message",
+        "text": "Northgate Clinics paid by wire, applying now",
+        "user": "UG4ETD69L1D",
+        "ts": "1638898557.233055",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1ae65e94-6b61-68ee-8121-b38bf0e7449c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UPHFQAHDPSK",
+        "ts": "1638916698.283807",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56391272-17d0-b7e6-1250-819a30d5946a",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UYFL6320JLT",
+        "ts": "1638919174.813930",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UYFL6320JLT",
+            "ts": "1638913754.164055"
+        }
+    },
+    {
+        "client_msg_id": "5c3e0563-3e2d-5ba6-9b2a-4f58c9e0f212",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2021",
+        "user": "UJKZ2R47YW9",
+        "ts": "1638922854.801233",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UJKZ2R47YW9",
+            "ts": "1638891846.191833"
+        }
+    }
+]

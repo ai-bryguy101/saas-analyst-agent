@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "f86ea951-c343-7be9-9c2f-8480dca92004",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFARBQM0LCD",
+        "ts": "1744037946.843773",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52734157-4471-98e8-5706-477d58d9f358",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "URFUZYLCAEC",
+        "ts": "1744062026.874184",
+        "team": "T02BRNDLCV"
+    }
+]

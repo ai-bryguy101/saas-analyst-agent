@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "2c93e685-ef83-4283-aa4a-8793fd61248b",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> replica lag on db-03 again",
+        "user": "UMDHKXLV8RH",
+        "ts": "1692379380.550065",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a93e064f-d039-f492-a272-2226b3c34507",
+        "type": "message",
+        "text": "<@UFJUKVTAA1B> postmortem doc for yesterday is up",
+        "user": "U773RMBLF5X",
+        "ts": "1692380359.122866",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36416f06-7d7a-1924-8434-31ff656dcbf8",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1692397956.282265",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#26188 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6f69bfe-4392-6ace-699f-ac9ae7419b94",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U9Y2KF0S90E",
+        "ts": "1692404798.988002",
+        "team": "T02BRNDLCV"
+    }
+]

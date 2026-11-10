@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "071f4c63-2a7e-334e-4914-25aacdf6c105",
+        "type": "message",
+        "text": "<@U9SD2024Q7F> who's watching the game tonight",
+        "user": "UXETPKNK8MV",
+        "ts": "1759957171.824960",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4abb7802-11f4-223a-23e7-52ab1829f3f3",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1759957612.709600",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "47092944-b0a3-658d-1120-b86cec8c49d7",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1759960052.562020",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "54fbf496-9ba6-71cd-a745-06f22df5cbf6",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UMYYLUTXG9R",
+        "ts": "1759960659.287559",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UDDBYSY4RFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2eb3b2dc-02da-f024-5d97-8a580e31bb3b",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U3YU9TS6QYB",
+        "ts": "1759966557.156327",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "f7141982-3782-d15d-b3a2-1680adcc6ad4",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> FX rates loaded for Oct 2025",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1759770568.410074",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UTLU2ZXMLEL",
+            "ts": "1759784966.100094"
+        }
+    },
+    {
+        "client_msg_id": "8a095e7a-54fa-f697-867d-c0261b3661b5",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Month-end close starts tomorrow",
+        "user": "U9XCAUGPS1F",
+        "ts": "1759781280.638482",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

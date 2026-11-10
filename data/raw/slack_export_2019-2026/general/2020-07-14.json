@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "acce6719-cc1b-e606-cd1b-db10c3e7012c",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UVQRW5SQSEL",
+        "ts": "1594742323.043209",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d7dbe475-fee6-a9fa-0882-7a8c1063afe8",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UH9DL28T3MH",
+        "ts": "1594751091.993699",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

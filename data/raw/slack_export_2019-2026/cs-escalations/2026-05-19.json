@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "066f83e1-4e00-6456-fd24-32f7267abfb6",
+        "type": "message",
+        "text": "Wang Mills Co. wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1779197464.352545",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83ffaec2-eba2-9e96-936b-1d3bc5733ac3",
+        "type": "message",
+        "text": "Superior Hotels Corp. asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1779201505.201342",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "654f9bb8-e85c-d1bf-b83c-a36d766a1bde",
+        "type": "message",
+        "text": "Lakes Outfitters Corp. wants an exec call about the outage",
+        "user": "U09CZFTHQSS",
+        "ts": "1779203878.085908",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e722980c-805d-e2ad-df87-3826ec48c58e",
+        "type": "message",
+        "text": "Crescent Freight Corp. reporting sync failures since this morning, CSM is Lawrence Fitzgerald",
+        "user": "UAHZYQG5URJ",
+        "ts": "1779206030.817030",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "43fcbcc3-1c0f-4f49-df0a-6f57e07f793d",
+        "type": "message",
+        "text": "Renewal risk: Lindqvist Municipal Services unhappy with mobile app",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1779207720.635101",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d1511724-0cb9-4109-d484-7ebbe9890db8",
+        "type": "message",
+        "text": "Smith Builders LLC wants an exec call about the outage",
+        "user": "UNFVCYNZT6K",
+        "ts": "1779215367.983869",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1613934f-f24b-b515-2fa7-709fadad8db6",
+        "type": "message",
+        "text": "Renewal risk: Copperfield County Facilities Holdings unhappy with mobile app",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1779226598.955312",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24a441d1-8e3f-3867-8286-30baa8da2257",
+        "type": "message",
+        "text": "Frontier College asking for an SLA credit",
+        "user": "UFULM18ZBQ6",
+        "ts": "1779234299.143344",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "108773a3-b648-e4d7-af3c-e58f09ec615c",
+        "type": "message",
+        "text": "Ingleby Mechanical reporting sync failures since this morning, CSM is Peter Pham",
+        "user": "UXS2WD4BYRN",
+        "ts": "1779234954.864888",
+        "team": "T02BRNDLCV"
+    }
+]

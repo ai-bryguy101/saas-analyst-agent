@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "5c537f81-f2be-3dee-73c9-eb5a3818275e",
+        "type": "message",
+        "text": "Blackhawk Residential Inc. reporting sync failures since this morning, CSM is Mei Thomas",
+        "user": "UJQY3Q26RVW",
+        "ts": "1615302427.448299",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ab3a2c1e-83b8-478a-e280-392ac16f03ae",
+        "type": "message",
+        "text": "Valley Homes Inc. wants an exec call about the outage",
+        "user": "U2CKCF24AEA",
+        "ts": "1615314610.085265",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U2CKCF24AEA",
+            "ts": "1615328361.398740"
+        }
+    }
+]

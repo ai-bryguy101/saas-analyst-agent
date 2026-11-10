@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "93702031-90d0-0c69-4653-07309cad1635",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U5DYUQUF95P",
+        "ts": "1648215370.305237",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4fad9511-edfb-d034-3751-a9043f352fd3",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "U3DBR7QKZWE",
+        "ts": "1648216904.594902",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9af05a99-18a2-f279-59e1-9d06232c7ab3",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Who owns Lantern pricing?",
+        "user": "UR3LDWKU006",
+        "ts": "1648223892.752911",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83ac265e-d726-11b0-64f4-b87e640cb84b",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UB8UH2KX2NW",
+        "ts": "1648230847.559343",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4075e2c6-3bb6-4773-a34d-217064a79326",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "U773RMBLF5X",
+        "ts": "1648238119.823325",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0a3a8a1-ad8a-2e40-dace-01d54a31693c",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> Kestrel SSO cutover tonight",
+        "user": "UYR8E48FJ62",
+        "ts": "1648249040.254108",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8eaae02d-19ec-508e-f98b-46f4aca07e91",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UVQRW5SQSEL",
+        "ts": "1648254863.230932",
+        "team": "T02BRNDLCV"
+    }
+]

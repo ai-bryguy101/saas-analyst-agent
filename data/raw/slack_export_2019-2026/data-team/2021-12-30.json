@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "6ba98133-5436-357b-771e-69466cf97140",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1640869953.615864",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66964ef6-a9ad-86a5-1915-adc57dd43ace",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UWUGRQ83YYM",
+        "ts": "1640872498.688441",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f4a6a04d-52d5-7e59-3ea2-834eeaace50a",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UP51TVUPQU5",
+        "ts": "1640872640.781646",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c9c405e-935c-f12b-1bdf-f5209ad23236",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UH9DL28T3MH",
+        "ts": "1640872870.774968",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UH9DL28T3MH",
+            "ts": "1640881333.266989"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "aaae2131-f03d-ff6d-73ed-8a9388e8d361",
+        "type": "message",
+        "text": "Oakmere Residential Inc. wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1597237323.217755",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86ccd886-7bd9-8f51-d8a6-091cb260a263",
+        "type": "message",
+        "text": "Pioneer Warehousing Co. asking for an SLA credit",
+        "user": "UQK194B1V43",
+        "ts": "1597240841.821436",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84228fb4-7261-7ce6-a1f1-4b61230923ba",
+        "type": "message",
+        "text": "Ashdown Realty Management Corp. wants an exec call about the outage",
+        "user": "U773RMBLF5X",
+        "ts": "1597258391.936090",
+        "team": "T02BRNDLCV"
+    }
+]

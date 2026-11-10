@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1ee47c9f-054c-0341-956e-1229830da685",
+        "type": "message",
+        "text": "rolling back v5.30.8",
+        "user": "UHV2RFNY0HN",
+        "ts": "1765807875.469101",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3e5b83b-080a-6181-134a-8c7ec9fb8505",
+        "type": "message",
+        "text": "deploy v7.35.8 to prod :rocket:",
+        "user": "UQTUT2GDN85",
+        "ts": "1765825772.259610",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

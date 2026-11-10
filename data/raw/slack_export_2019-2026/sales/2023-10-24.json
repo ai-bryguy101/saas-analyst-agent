@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "5808bba8-ced7-0e02-72b9-095b5da79815",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "U5HQ6U91D2E",
+        "ts": "1698167096.289143",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95198c06-69ec-de1a-5c21-83260cd09140",
+        "type": "message",
+        "text": "Meadowlark Building Services Group wants a discount, how far can I go?",
+        "user": "U48TCJE75PD",
+        "ts": "1698173375.250659",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33235f4f-82b1-3e77-1636-1af61fbafd69",
+        "type": "message",
+        "text": "Watson School District Inc. wants a discount, how far can I go?",
+        "user": "UG4ETD69L1D",
+        "ts": "1698180360.584815",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc8f5928-0dd3-0280-9bd5-4f030fa5a0d8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UG4ETD69L1D",
+        "ts": "1698194578.708482",
+        "team": "T02BRNDLCV"
+    }
+]

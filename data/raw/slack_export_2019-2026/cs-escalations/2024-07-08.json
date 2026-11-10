@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "600b3755-e9a6-55e9-2aa9-5f5667c7371c",
+        "type": "message",
+        "text": "Renewal risk: Ramirez Construction Corp. unhappy with mobile app",
+        "user": "U0V9BPHARQX",
+        "ts": "1720448403.132041",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6d892da-e903-2fdc-cfd1-b7ddbe1bd1e8",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Choi Resorts Corp. wants an exec call about the outage",
+        "user": "U69WX6HRQNH",
+        "ts": "1720452497.337371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0b2406b0-600d-96b9-3677-4751b3b8174d",
+        "type": "message",
+        "text": "Renewal risk: Ashford Property Group unhappy with mobile app",
+        "user": "U1YEVCXATA8",
+        "ts": "1720465676.945386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a301ad9d-ae73-1af3-a571-432aba815069",
+        "type": "message",
+        "text": "Renewal risk: Ravenwood Property Services unhappy with mobile app",
+        "user": "UQXT5A6YMVH",
+        "ts": "1720473107.644584",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd5b92e0-556e-0e91-0f3d-5a18a2205407",
+        "type": "message",
+        "text": "Saginaw Contracting reporting sync failures since this morning, CSM is Ngozi Lefebvre",
+        "user": "U5DYUQUF95P",
+        "ts": "1720485820.798854",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af1959f0-c075-d4e8-07e1-75ecb79f4de4",
+        "type": "message",
+        "text": "<@UR3LDWKU006> Harbortown Transit Authority Holdings asking for an SLA credit",
+        "user": "UT7K74ALYGQ",
+        "ts": "1720485831.660003",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

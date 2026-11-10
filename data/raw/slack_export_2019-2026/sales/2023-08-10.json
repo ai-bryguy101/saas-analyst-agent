@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "a73ade10-80c8-2d68-a807-5d86bb2a64f2",
+        "type": "message",
+        "text": "<@U8SR98620D7> Pricing question: does Starter include Dispatch?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1691676998.221945",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e9c674dc-9110-aa8d-c58a-2d8be95ad6e5",
+        "type": "message",
+        "text": "Rivers Unified Schools Holdings wants a discount, how far can I go?",
+        "user": "UWBW507RCA9",
+        "ts": "1691681300.506426",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93203861-2b22-4fc7-c9bf-a26151b2617a",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1691697882.228424",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63bd5aae-b1e4-1641-8c11-7de4aca9c0e5",
+        "type": "message",
+        "text": "Lost Lindenwood School District to Plinthwise on price",
+        "user": "UE49ET7WGNU",
+        "ts": "1691712428.239660",
+        "team": "T02BRNDLCV"
+    }
+]

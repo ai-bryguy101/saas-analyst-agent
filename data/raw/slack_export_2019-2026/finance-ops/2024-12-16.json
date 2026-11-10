@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "516aaa36-726b-20e2-e1d9-2f78953c0b60",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXETPKNK8MV",
+        "ts": "1734361560.532715",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6f0efd0-c80d-a616-6a02-e76dc6d44d36",
+        "type": "message",
+        "text": "AR aging is up, Foxglove Industries is 90+ days",
+        "user": "UJQY3Q26RVW",
+        "ts": "1734374663.514422",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d478ad0-a348-8b2a-ec03-93d26319628b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UBHB6GTB73U",
+        "ts": "1734392520.045918",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

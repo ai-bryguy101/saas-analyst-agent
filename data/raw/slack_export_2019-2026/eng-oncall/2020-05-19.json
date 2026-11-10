@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "ca067498-b941-5e71-b548-f55c9351a960",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1589894364.352933",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e43cfa77-5ed2-4034-d602-66a2beb24032",
+        "type": "message",
+        "text": "deploy v6.31.5 to prod :rocket:",
+        "user": "UX84HDPARWN",
+        "ts": "1589897699.748446",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "72a32619-b1f0-df26-aa17-4d8e170d98c2",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UZJU9N8CY2T",
+        "ts": "1589899901.474848",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fd956deb-b554-26c4-bc22-b64158b28eb6",
+        "type": "message",
+        "text": "rolling back v7.22.5",
+        "user": "UPHFQAHDPSK",
+        "ts": "1589902756.448615",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a515f4e2-5ac2-c060-8c07-2a67207a427d",
+        "type": "message",
+        "text": "<@URFUZYLCAEC> rolling back v6.10.9",
+        "user": "U9V01K22TU1",
+        "ts": "1589919026.949878",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf15a319-ec6b-b031-3c19-7554addd6c6b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1589927986.641500",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#11566 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73f372e7-ef11-60db-85fc-7f794d753958",
+        "type": "message",
+        "text": "rolling back v7.38.3",
+        "user": "U8SR98620D7",
+        "ts": "1589933153.763378",
+        "team": "T02BRNDLCV"
+    }
+]

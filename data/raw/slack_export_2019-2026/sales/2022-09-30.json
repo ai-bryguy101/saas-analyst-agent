@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "fb6c6745-315e-f091-139c-31bf92a105f1",
+        "type": "message",
+        "text": "<@U8SR98620D7> Pricing question: does Pro include Dispatch?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1664545679.370863",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81bb1c9e-8584-ba66-cd94-77db6defd645",
+        "type": "message",
+        "text": "Lost Young Homes to Plinthwise on price",
+        "user": "UXS2WD4BYRN",
+        "ts": "1664569065.077637",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89339100-b746-6b40-049f-d114cf28825e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1664572300.114251",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMDHKXLV8RH",
+            "ts": "1664549059.395428"
+        }
+    },
+    {
+        "client_msg_id": "9f787ebf-3c5a-7eb4-d046-5600a9d40355",
+        "type": "message",
+        "text": "Anyone have a reference customer in Retail?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1664573776.404560",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1664557387.409028"
+        }
+    }
+]

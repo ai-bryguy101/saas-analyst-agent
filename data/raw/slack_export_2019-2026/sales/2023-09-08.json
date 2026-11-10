@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "3648f18a-1bb5-e654-e919-1f2fadd921b8",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "U9SD2024Q7F",
+        "ts": "1694188713.316056",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ba9b9e2-94ce-34a4-f5ba-31b2426fec0c",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Anyone have a reference customer in Facilities Services?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1694194351.931338",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c09c693-4a95-23e4-9879-f8c39d5ff22d",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1694198475.354004",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6a4c4de1-1951-5b5c-e185-f17e38915cb6",
+        "type": "message",
+        "text": "Lost Allegheny University Facilities to Plinthwise on price",
+        "user": "U0E67MPWRXA",
+        "ts": "1694212932.209719",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1694201294.199403"
+        }
+    },
+    {
+        "client_msg_id": "a3a9cdc5-b093-4b47-90dc-532692be894d",
+        "type": "message",
+        "text": "Closed Martinez Resorts LLC! 400 seats, Pro",
+        "user": "UDDBYSY4RFA",
+        "ts": "1694217878.233750",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

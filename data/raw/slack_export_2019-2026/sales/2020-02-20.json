@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "584ae8f8-bb98-f83d-4e47-682c26c87628",
+        "type": "message",
+        "text": "<@U8TVGALMJLQ> Pipeline review moved to 3pm",
+        "user": "UE49ET7WGNU",
+        "ts": "1582212022.129680",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a02c9d04-c355-cd24-2a8f-fde6cd518728",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> Pricing question: does Starter include Dispatch?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1582231681.533634",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "554651a7-8cc6-98b4-7320-31682d89fdae",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1582238383.960860",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFULM18ZBQ6",
+            "ts": "1582229586.173489"
+        }
+    },
+    {
+        "client_msg_id": "1cd03919-999a-741e-9566-4e43affe5b46",
+        "type": "message",
+        "text": "Lost Brookside Markets to Plinthwise on price",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1582238947.203630",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70528b70-dd7f-9f1b-0cfc-2457681e10ff",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UDM784MTBQ7",
+        "ts": "1582240309.933982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40a08ec4-7c24-fd08-f1b0-773398ac3735",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1582243946.142727",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69e0aac1-856a-fdff-7b3d-c53d77aab974",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> Lost Plains Outfitters Inc. to Plinthwise on price",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1582244002.334657",
+        "team": "T02BRNDLCV"
+    }
+]

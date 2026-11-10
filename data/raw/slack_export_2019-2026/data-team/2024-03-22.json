@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "94c109b4-39cd-1ee3-fd36-30eb674f1960",
+        "type": "message",
+        "text": "<@UQXT5A6YMVH> Dashboard refresh failed overnight",
+        "user": "U3EQ075NUYR",
+        "ts": "1711121519.459270",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "132aec40-e8e5-f92d-e385-18c48e809b7e",
+        "type": "message",
+        "text": "<@UFARBQM0LCD> Dashboard refresh failed overnight",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1711124395.202574",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e4bd4d0-31f0-d263-5543-7afcd24c0cfc",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U7PFYH0YRRG",
+        "ts": "1711127687.037694",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a153048-41c5-9048-5015-47963dedde38",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UQTUT2GDN85",
+        "ts": "1711130407.487633",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4060f3bb-2ca2-b098-3415-c890b3da5333",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U22GUF0P303",
+        "ts": "1711139488.714925",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79016a59-49ff-1364-87c7-8cd80c4734c2",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "U9V01K22TU1",
+        "ts": "1711150424.035246",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63b2bd45-1fa7-6805-ca36-0f2a04afa8be",
+        "type": "message",
+        "text": "<@UL20M69UM76> Dashboard refresh failed overnight",
+        "user": "UGPRJ4K947R",
+        "ts": "1711152201.051988",
+        "team": "T02BRNDLCV"
+    }
+]

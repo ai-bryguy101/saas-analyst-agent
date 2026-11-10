@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "ffd36d1f-0734-99fa-7322-62b4463c95f4",
+        "type": "message",
+        "text": "Need churn list for 2022",
+        "user": "UWBW507RCA9",
+        "ts": "1690983164.570976",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c581fff-9681-0358-106b-06db87f337ee",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1690983747.450483",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f4fed9e1-1f20-cb73-0b77-d0c07267a979",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U5HQ6U91D2E",
+        "ts": "1691007429.831522",
+        "team": "T02BRNDLCV"
+    }
+]

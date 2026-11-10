@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "3ec3b2e1-b74c-1ebc-a527-639648237752",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> Adams Municipal Services Inc. reporting sync failures since this morning, CSM is Anthony Ellsworth",
+        "user": "UPGXMWMDQNR",
+        "ts": "1777990227.678120",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49f4a400-8d4c-3e99-ed00-b4ab71d1d552",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Yarrow Restoration Holdings reporting sync failures since this morning, CSM is Frank Quillfeather",
+        "user": "U9XCAUGPS1F",
+        "ts": "1777999537.158055",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1778321a-bf27-4594-3df1-7cf2bad1994f",
+        "type": "message",
+        "text": "Southport Works Corp. reporting sync failures since this morning, CSM is Frank Quillfeather",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1778002108.733373",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "440e6c9a-7aaa-c1df-c111-1899c9f03871",
+        "type": "message",
+        "text": "Smith Restoration wants an exec call about the outage",
+        "user": "UUFS9CP1A17",
+        "ts": "1778015373.869826",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "950efc0e-c800-325f-31ce-761cb9a78939",
+        "type": "message",
+        "text": "Renewal risk: Mensah Hospitality Group unhappy with mobile app",
+        "user": "U5DYUQUF95P",
+        "ts": "1778022881.026494",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c7d7f61-a27e-e9ac-6059-e9b6b2296a35",
+        "type": "message",
+        "text": "Phillips Hospitality Group LLC asking for an SLA credit",
+        "user": "U9XCAUGPS1F",
+        "ts": "1778027821.215394",
+        "team": "T02BRNDLCV"
+    }
+]

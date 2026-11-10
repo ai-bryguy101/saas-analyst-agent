@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "d4018ef6-433c-76e1-b183-3aaab9583d34",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UPGXMWMDQNR",
+        "ts": "1582031521.187908",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "08c01355-421c-14c0-753a-f5d2fa20f883",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UXXA9L8HH83",
+        "ts": "1582036917.791149",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

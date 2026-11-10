@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "be588565-f0f0-7d23-110a-97c311d65160",
+        "type": "message",
+        "text": "rolling back v5.31.5",
+        "user": "U0V9BPHARQX",
+        "ts": "1668778456.080987",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2477429a-4e31-98e3-224b-506579062ff4",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UP51TVUPQU5",
+        "ts": "1668779607.227114",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9136dc30-2cc2-0443-fea7-008c77aebb0b",
+        "type": "message",
+        "text": "deploy v9.4.1 to prod :rocket:",
+        "user": "U3DBR7QKZWE",
+        "ts": "1668789875.006442",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "554795f8-e73f-68e9-c5b0-92ad958a2cdc",
+        "type": "message",
+        "text": "deploy v8.35.2 to prod :rocket:",
+        "user": "UQK194B1V43",
+        "ts": "1668796758.223818",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a946f224-9bb4-9a0a-35d3-73fcd623fb12",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1668802142.996033",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#13555 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

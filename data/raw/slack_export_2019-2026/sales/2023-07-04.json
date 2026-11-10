@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "be9784b8-1d7f-a250-a8fc-3000b8870bba",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1688494890.434364",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "243a6086-9d9a-1260-9594-246bd1b6f55a",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> Pipeline review moved to 3pm",
+        "user": "UCQT1GS0C0C",
+        "ts": "1688495290.611936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3519323-8a87-8806-7abb-5df6001a4cda",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UMXMN24FN4K",
+        "ts": "1688495326.325825",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

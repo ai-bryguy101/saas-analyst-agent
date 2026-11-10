@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "3a28ec79-9c20-c5bb-d853-dacaf8a7c254",
+        "type": "message",
+        "text": "Westbrook County Facilities Corp. asking for an SLA credit",
+        "user": "UR3LDWKU006",
+        "ts": "1687533187.620562",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2089a21-f2b9-cbb5-09c8-4c6e647448af",
+        "type": "message",
+        "text": "Jones County Facilities wants an exec call about the outage",
+        "user": "UMXMN24FN4K",
+        "ts": "1687534628.556469",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "201be1e1-a5e2-5e23-9cc5-dd44262843fb",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> Granite County Facilities reporting sync failures since this morning, CSM is Lawrence Fitzgerald",
+        "user": "UH9DL28T3MH",
+        "ts": "1687565220.460720",
+        "team": "T02BRNDLCV"
+    }
+]

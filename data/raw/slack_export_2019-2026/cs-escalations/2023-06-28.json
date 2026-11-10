@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "ebfbf672-5d58-88d9-920a-0400600d0cfe",
+        "type": "message",
+        "text": "Heron Mills Group asking for an SLA credit",
+        "user": "UXS2WD4BYRN",
+        "ts": "1687958892.822062",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53b96f2d-fdd6-6219-116a-97f8182029c4",
+        "type": "message",
+        "text": "Renewal risk: Kittredge Transit Authority unhappy with mobile app",
+        "user": "URWNWW8QFM6",
+        "ts": "1687960426.830678",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b586d37-8625-5cdc-33b9-8ff18c49b05d",
+        "type": "message",
+        "text": "Le Mechanical Co. wants an exec call about the outage",
+        "user": "UV8WG09HYBP",
+        "ts": "1687967348.223985",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6643579-a6bb-9b9c-a8f1-e1f3783d978c",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Renewal risk: Ironwood Manufacturing Corp. unhappy with mobile app",
+        "user": "UA3MVBJWAHX",
+        "ts": "1687971663.569432",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "43d00a28-ee36-8c0e-3d8c-d7dd2e661536",
+        "type": "message",
+        "text": "Foxglove Property Group reporting sync failures since this morning, CSM is Brian Calloway",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1687973025.618246",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "443e359e-01ef-73ef-8f02-eb95cacfada9",
+        "type": "message",
+        "text": "Three Building Services wants an exec call about the outage",
+        "user": "U48TCJE75PD",
+        "ts": "1687973649.574609",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1687970868.710998"
+        }
+    },
+    {
+        "client_msg_id": "2dc86086-3b08-df58-f9da-7069b87105ac",
+        "type": "message",
+        "text": "Renewal risk: Peterson Medical Center Inc. unhappy with mobile app",
+        "user": "U5X9PNA34DU",
+        "ts": "1687986642.737329",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "699e47ac-f999-1fd0-0673-8d5a1a372d3d",
+        "type": "message",
+        "text": "Hargreaves Health System wants an exec call about the outage",
+        "user": "U2LMMLL4F31",
+        "ts": "1687987193.472651",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1ac4291-366a-3184-7509-d1a337066fd0",
+        "type": "message",
+        "text": "<@UV8WG09HYBP> Nguyen Public Works Corp. asking for an SLA credit",
+        "user": "U69WX6HRQNH",
+        "ts": "1687988558.627133",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d448121c-b64b-4373-2063-d9ad9464a1fe",
+        "type": "message",
+        "text": "Whitlock Supply Co reporting sync failures since this morning, CSM is Wei Adams",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1687991312.512383",
+        "team": "T02BRNDLCV"
+    }
+]

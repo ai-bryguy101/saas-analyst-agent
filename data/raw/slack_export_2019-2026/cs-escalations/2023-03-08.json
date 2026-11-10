@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "83e5728e-0c87-9fee-70af-5992b5eef0d9",
+        "type": "message",
+        "text": "Union Medical Center wants an exec call about the outage",
+        "user": "U773RMBLF5X",
+        "ts": "1678281680.690317",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22730354-cde5-7d30-042f-4e6b41ba1757",
+        "type": "message",
+        "text": "Can someone check Clearwater Health Partners's invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1678286933.992270",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXS2WD4BYRN",
+            "ts": "1678281565.606984"
+        }
+    },
+    {
+        "client_msg_id": "3ad021ae-fe80-0af4-1e63-0773d0c0eb61",
+        "type": "message",
+        "text": "Can someone check Evans Outfitters Group's invoice? They say they were double billed",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1678314707.968052",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5e69f9cc-d2e4-86dd-64b8-0ff21cea6b96",
+        "type": "message",
+        "text": "Thornbury Industries asking for an SLA credit",
+        "user": "UWUGRQ83YYM",
+        "ts": "1678320315.872051",
+        "team": "T02BRNDLCV"
+    }
+]

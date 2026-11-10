@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "a05e2b63-52ac-d7a2-1753-cb658a2b6325",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2024",
+        "user": "U5HQ6U91D2E",
+        "ts": "1709056925.737626",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U5HQ6U91D2E",
+            "ts": "1709066837.725604"
+        }
+    },
+    {
+        "client_msg_id": "e86e9934-18f4-8048-ded5-018889808a41",
+        "type": "message",
+        "text": "<@UWLZTMJ6YM7> AR aging is up, Tidewater Residential Co. is 90+ days",
+        "user": "UVX5HCR5MMD",
+        "ts": "1709066977.653256",
+        "team": "T02BRNDLCV"
+    }
+]

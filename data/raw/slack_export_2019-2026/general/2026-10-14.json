@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "21650635-5b8f-4ab8-bf8a-27af3e10e780",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1791997815.780410",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c2e7bcf-5c3e-09c4-0fd1-9c173c691927",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UH9DL28T3MH",
+        "ts": "1792004775.430577",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

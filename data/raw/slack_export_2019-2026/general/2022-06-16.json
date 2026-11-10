@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "89491f36-396e-c8a9-5042-64e4dabd89c7",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1655418012.313474",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8301241a-9862-c76c-560a-4521a109cf87",
+        "type": "message",
+        "text": "<@UYR8E48FJ62> Who left a lasagna in the 3rd floor fridge",
+        "user": "UQXT5A6YMVH",
+        "ts": "1655426426.224433",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

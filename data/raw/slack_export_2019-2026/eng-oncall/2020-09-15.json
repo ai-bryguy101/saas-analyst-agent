@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "5c70e63d-d85d-1ee0-be02-e4a4aa3a93c1",
+        "type": "message",
+        "text": "<@UAHZYQG5URJ> replica lag on db-03 again",
+        "user": "UT9KGXWKHLB",
+        "ts": "1600176473.399363",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "879cab5f-d988-f09d-c3f1-9e1cb6006771",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1600192925.862937",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#28824 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f9e8c42-a518-344c-b921-a6ec9ca5efca",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1600194105.517254",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#70940 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f331767-bf0b-5364-8fda-f51f46230a14",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1600194514.089705",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29862 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3488d5e0-da15-d019-2c49-4ece7cde16ac",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UC95B7VAFX0",
+        "ts": "1600208545.586178",
+        "team": "T02BRNDLCV"
+    }
+]

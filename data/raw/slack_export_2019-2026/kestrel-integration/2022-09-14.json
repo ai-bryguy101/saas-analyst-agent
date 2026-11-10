@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "dd3651b3-6629-5c79-9c0d-2c690992b0c1",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UFULM18ZBQ6",
+        "ts": "1663161502.590490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f799762-96a5-c2ce-ee78-e87ee8231ed3",
+        "type": "message",
+        "text": "<@UFGLBSDS2XV> Xero export is the source of truth until April",
+        "user": "U3KL08VJD8C",
+        "ts": "1663162461.471655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "035df334-019a-18cd-62e5-8ee7ffa388ed",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U7V33ZEGRET",
+        "ts": "1663187016.363823",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U7V33ZEGRET",
+            "ts": "1663165372.403317"
+        }
+    },
+    {
+        "client_msg_id": "6fd2aeb7-15e9-66f7-9d54-b90c68cf2682",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "U0VB9M5U3TM",
+        "ts": "1663187387.293644",
+        "team": "T02BRNDLCV"
+    }
+]

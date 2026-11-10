@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "d7fa6c8d-7f50-7cca-ea30-129a6b306627",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Benefits enrollment closes Friday",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1566136612.932523",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c3bbb01-7759-5bb6-a637-9f0fa33067b7",
+        "type": "message",
+        "text": "Welcome Mei Thomas to the Executive team!",
+        "user": "UE4GTX0EXPH",
+        "ts": "1566143238.544918",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U94ETEKNM26"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89bca29e-cf66-82ef-eec0-b03ac6b79d29",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UGPRJ4K947R",
+        "ts": "1566162182.771861",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

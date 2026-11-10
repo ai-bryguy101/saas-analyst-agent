@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "db0f8bff-c1a7-0efd-0966-eb11115620db",
+        "type": "message",
+        "text": "Chen Suites Inc. wants a discount, how far can I go?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1567785971.480599",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fc6fd6c-53ec-7351-f53c-a99151bc366a",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "UG4ETD69L1D",
+        "ts": "1567789821.118894",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UNCGDMQATC5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e53d0fe-2c97-8576-e604-aceb209847b9",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UAXWVBRVKW9",
+        "ts": "1567790148.356872",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbdbce33-0b43-da72-e842-3284b72c1485",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "UC95B7VAFX0",
+        "ts": "1567799431.512288",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b13b7a2-48a8-0efb-2e3d-85c4b277fa19",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UR3LDWKU006",
+        "ts": "1567803426.207442",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78e39767-c1d5-b49e-bdc9-f8ac694ef0c1",
+        "type": "message",
+        "text": "Closed Saguaro College! 246 seats, Pro",
+        "user": "UXXA9L8HH83",
+        "ts": "1567807877.595128",
+        "team": "T02BRNDLCV"
+    }
+]

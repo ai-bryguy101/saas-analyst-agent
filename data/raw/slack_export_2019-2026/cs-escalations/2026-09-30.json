@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "b278a5ea-4572-5dec-017a-f3a52278b9dc",
+        "type": "message",
+        "text": "Cascade Manufacturing Holdings asking for an SLA credit",
+        "user": "UQXT5A6YMVH",
+        "ts": "1790774973.518638",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e1d2ed1f-75a9-c564-182c-394fd2079ceb",
+        "type": "message",
+        "text": "Miami Maintenance Co Corp. reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "UAGQX7APZBG",
+        "ts": "1790782148.090942",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "242d1d2a-5806-6b4a-122a-ce1d5bc3ae43",
+        "type": "message",
+        "text": "Rivers Hospital LLC asking for an SLA credit",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1790786596.840229",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec535c54-82c8-5ff0-b2da-f1923b85b191",
+        "type": "message",
+        "text": "Crescent Hotels asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1790786708.602008",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "d7486ae5-c021-7028-e968-8b9338b81f39",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UFULM18ZBQ6",
+        "ts": "1660845002.583991",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24bc3b53-be21-6a20-60eb-ed8c36cefefe",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> happy friday",
+        "user": "UFGLBSDS2XV",
+        "ts": "1660853941.831010",
+        "team": "T02BRNDLCV"
+    }
+]

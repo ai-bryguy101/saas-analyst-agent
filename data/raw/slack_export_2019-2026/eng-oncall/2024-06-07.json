@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "2be57938-f174-4fcf-8044-48d00ea83c55",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UJKZ2R47YW9",
+        "ts": "1717768765.574882",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd3c3e67-9078-82de-92a4-099ee9c11016",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U9SD2024Q7F",
+        "ts": "1717777013.671597",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aa94d52c-4b79-e035-56e7-008de26657a9",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U3YU9TS6QYB",
+        "ts": "1717779732.720501",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "556bdff7-98fa-572b-11d4-846bb6cecc08",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UJRKGMQPU2R",
+        "ts": "1717796351.475743",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1fa3f2d-ff6a-8380-4dbe-f766b4b5c914",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1717797179.634472",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#12389 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30fd2db8-ee87-f30d-f2eb-3bfd4852d462",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U0V9BPHARQX",
+        "ts": "1717804302.080417",
+        "team": "T02BRNDLCV"
+    }
+]

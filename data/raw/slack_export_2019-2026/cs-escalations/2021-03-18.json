@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "630729e1-3b0b-4e36-05fd-be3cc28fad1e",
+        "type": "message",
+        "text": "Brookside Mills Ltd. asking for an SLA credit",
+        "user": "U9U3DZUVA3L",
+        "ts": "1616080097.077397",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec762923-22ba-0353-66d2-b29cb344c8c4",
+        "type": "message",
+        "text": "Ironwood Couriers wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1616089917.045384",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67adc3c5-874b-ea23-7213-b66737c5931e",
+        "type": "message",
+        "text": "Fitzgerald Property Services Corp. asking for an SLA credit",
+        "user": "UNCGDMQATC5",
+        "ts": "1616099602.111026",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

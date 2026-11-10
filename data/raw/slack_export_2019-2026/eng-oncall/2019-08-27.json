@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "b0238528-059e-77d3-c7d4-13acf2eaa6cc",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFJUKVTAA1B",
+        "ts": "1566923789.965423",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1566940723.529740"
+        }
+    },
+    {
+        "client_msg_id": "36345683-6634-8fe9-f00a-e3169a618f02",
+        "type": "message",
+        "text": "rolling back v6.30.4",
+        "user": "UMDHKXLV8RH",
+        "ts": "1566935532.489297",
+        "team": "T02BRNDLCV"
+    }
+]

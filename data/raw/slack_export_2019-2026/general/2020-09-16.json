@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "e258531b-a1a3-577e-6cd4-83cfd8db49bf",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UC95B7VAFX0",
+        "ts": "1600281043.167398",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce8836f8-9e96-ec11-38e9-7fc98264cd8f",
+        "type": "message",
+        "text": "Welcome Peter Pham to the Customer Success team!",
+        "user": "U5X9PNA34DU",
+        "ts": "1600301105.226076",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "client_msg_id": "c909400b-840f-1f59-c60a-40155c2c34d7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1611666913.996143",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#74845 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f53df731-f95e-05ee-873e-85cef2c21420",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UT7K74ALYGQ",
+        "ts": "1611667297.369726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ffed53c9-9b23-e4c7-ea6b-f9c249fc9014",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1611668026.243191",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#54076 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90b61198-9322-eb1a-d914-792607b1269c",
+        "type": "message",
+        "text": "<@U8TVGALMJLQ> replica lag on db-03 again",
+        "user": "URWNWW8QFM6",
+        "ts": "1611668852.978578",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23390678-2bc8-60b2-4a4e-2ee987d8bd45",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> cert renewal for *.brindlecove.example done",
+        "user": "UE49ET7WGNU",
+        "ts": "1611674086.081358",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b5cf3dcc-5fec-5c0e-dc40-7a4fe902671f",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1611675300.413205",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4cf69f15-34b7-1555-febd-41355cc08005",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1611678821.733663",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#90692 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e801bfc-ea1d-6029-2d52-533d1ea65dd0",
+        "type": "message",
+        "text": "deploy v7.31.8 to prod :rocket:",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1611687998.968990",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "103f3d0c-8850-344d-a5df-1ad13b581bcd",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1611688934.307475",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#73029 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3842513e-bdf7-1ca0-e8e7-e4807a6d386e",
+        "type": "message",
+        "text": "rolling back v8.15.7",
+        "user": "UQK194B1V43",
+        "ts": "1611691431.772551",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e1837ea-b693-d79d-b27b-9b0b14fe51ec",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1611696306.534896",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#84543 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3de1756c-b0a6-69c4-4f1d-a91b88b5bf40",
+        "type": "message",
+        "text": "rolling back v5.14.2",
+        "user": "U8TVGALMJLQ",
+        "ts": "1611697889.845667",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c2130964-884a-2cc4-6353-cef5e54adc39",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U09CZFTHQSS",
+        "ts": "1611700373.514614",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e4860fc2-d563-4c51-d00c-8675d0cc290c",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1611705733.176299",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "293ef721-cfde-df64-f574-7494a20010a9",
+        "type": "message",
+        "text": "<@U9U3DZUVA3L> who owns the cron for nightly exports?",
+        "user": "U3KL08VJD8C",
+        "ts": "1611708908.091247",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "6d17e9d1-f93e-2e4e-ed50-d10cd7d9bebe",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1602771222.334956",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "603d5a29-5341-16b6-ddff-52a3ea04eb1f",
+        "type": "message",
+        "text": "Shenandoah Warehousing Co. wants a discount, how far can I go?",
+        "user": "UQTUT2GDN85",
+        "ts": "1602801164.160458",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50a331ff-27cf-4c76-b548-6aae29a29567",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "URFUZYLCAEC",
+        "ts": "1602801768.681934",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9dd7d89-c341-d3cc-ac67-72645449c707",
+        "type": "message",
+        "text": "Long Municipal Services wants a discount, how far can I go?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1602805104.168275",
+        "team": "T02BRNDLCV"
+    }
+]

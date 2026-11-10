@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "b83e9326-cadc-1d03-7c4e-96c5816554e9",
+        "type": "message",
+        "text": "<@UUFS9CP1A17> Who left a lasagna in the 3rd floor fridge",
+        "user": "UPHFQAHDPSK",
+        "ts": "1672153870.815582",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "84fd87fd-93f3-4467-73d5-a5a305f2db2e",
+        "type": "message",
+        "text": "Welcome Ines Johansson to the Finance team!",
+        "user": "UDCALCM1RUG",
+        "ts": "1672163796.563726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81b54519-1cab-de11-46a9-01c8faaa1801",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UL8NMQFXPJR",
+        "ts": "1672186689.836020",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "fdfacdde-70bc-cbbb-249a-83829b482f22",
+        "type": "message",
+        "text": "Can someone check Vance Hospitality Group LLC's invoice? They say they were double billed",
+        "user": "UGPRJ4K947R",
+        "ts": "1683300532.291548",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5934e18-bc93-a7dd-bd7c-645a6b452cf7",
+        "type": "message",
+        "text": "Commonwealth Manufacturing LLC reporting sync failures since this morning, CSM is Ines Delacroix",
+        "user": "UFULM18ZBQ6",
+        "ts": "1683313478.451482",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f90b9552-344c-cfc9-fc9c-68a353d16343",
+        "type": "message",
+        "text": "Can someone check Commonwealth County Facilities Corp.'s invoice? They say they were double billed",
+        "user": "U8TVGALMJLQ",
+        "ts": "1683331150.299443",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8987bb5d-8e6e-0a24-e977-738a85eeb843",
+        "type": "message",
+        "text": "Can someone check Heritage Facilities Management's invoice? They say they were double billed",
+        "user": "UV9KPNCPQJN",
+        "ts": "1683333258.493110",
+        "team": "T02BRNDLCV"
+    }
+]

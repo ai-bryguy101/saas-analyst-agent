@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "424540ca-bf89-4ae3-2bcd-cdc5a2753856",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U3YU9TS6QYB",
+        "ts": "1707917228.268680",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8dc33b8f-e7c7-e7aa-52c5-48e005301153",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1707928519.965097",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#60605 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae83067a-6ffb-2e0d-dda2-eacf508f658b",
+        "type": "message",
+        "text": "rolling back v6.0.7",
+        "user": "UXS2WD4BYRN",
+        "ts": "1707929476.233374",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "791defd7-460e-4442-63e9-273270e4a56b",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3KL08VJD8C",
+        "ts": "1707937672.226448",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb5d7997-8f1f-7b1e-1def-90c240a2e1a4",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1707940295.442047",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "933aad76-8d06-231c-46ad-639e54009094",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> PagerDuty: high error rate on api-gw",
+        "user": "U9V01K22TU1",
+        "ts": "1707942741.259081",
+        "team": "T02BRNDLCV"
+    }
+]

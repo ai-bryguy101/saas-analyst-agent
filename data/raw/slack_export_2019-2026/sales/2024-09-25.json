@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "751eedb3-a976-0457-7c38-a5476d81ef08",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3EQ075NUYR",
+        "ts": "1727285991.472523",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7f62c12-82b8-29c5-c8d8-aee0c975d6be",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> Closed Johnson School District! 378 seats, Starter",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1727286378.711165",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fb62ea90-327c-ac50-bd7a-af2eb337a136",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1727290708.324981",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "55f1bae3-2114-573c-8a83-15ac20352bcf",
+        "type": "message",
+        "text": "Lindenwood Public Works Group wants a discount, how far can I go?",
+        "user": "U09CZFTHQSS",
+        "ts": "1727293956.708534",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de9fd257-b41c-27fb-9e53-62793a6ba43d",
+        "type": "message",
+        "text": "Lost Patriot Suites to Plinthwise on price",
+        "user": "UFQYM82M1LX",
+        "ts": "1727297158.024295",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bd58cbf-a643-9a24-fa21-637303894b38",
+        "type": "message",
+        "text": "Beacon Property Services wants a discount, how far can I go?",
+        "user": "U09CZFTHQSS",
+        "ts": "1727297263.103945",
+        "team": "T02BRNDLCV"
+    }
+]

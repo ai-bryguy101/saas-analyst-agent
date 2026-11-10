@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "7c76321b-ed86-bb78-0d0d-a11159f76aa1",
+        "type": "message",
+        "text": "Welcome Janice Mendoza to the Engineering team!",
+        "user": "UHV2RFNY0HN",
+        "ts": "1617802418.683300",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "03ec8e50-7900-131b-faea-9bf2344c647c",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UKMQNTKUR4V",
+        "ts": "1617813617.321213",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "937c56e8-0bc4-0fd3-cf29-b820a8f9ff69",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U3KL08VJD8C",
+        "ts": "1617814901.858226",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "10f43f47-c676-0b12-7bfb-3e4950174da1",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UC95B7VAFX0",
+        "ts": "1617825851.289555",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d356895-ebf7-5fc5-1e09-e53bca0a824f",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UFARBQM0LCD",
+        "ts": "1617833694.668015",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "138b235b-c3a7-05ac-5e9b-6ec1293ab785",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U5DYUQUF95P",
+        "ts": "1617839903.280129",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4a7c40e-6507-44ff-c337-bd94b21ce22a",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> Benefits enrollment closes Friday",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1617841519.479637",
+        "team": "T02BRNDLCV"
+    }
+]

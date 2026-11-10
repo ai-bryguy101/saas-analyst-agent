@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "35166292-7787-7d15-02c3-9001ce69d204",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Welcome Brian Calloway to the Engineering team!",
+        "user": "UH9DL28T3MH",
+        "ts": "1654792614.327975",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UH9DL28T3MH",
+            "ts": "1654787276.880945"
+        }
+    },
+    {
+        "client_msg_id": "c48ea7e5-a85f-50b6-61dc-3aeac4d122ab",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UC70JNE74S7",
+        "ts": "1654803863.762680",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dcf28011-3f06-a922-a355-16ff8dc8e4c5",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UMXMN24FN4K",
+        "ts": "1654804784.732342",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07d5572c-2b24-49d7-f0c1-2bab6520295f",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Benefits enrollment closes Friday",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1654805326.390604",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48118e98-eab1-0cb2-6ab2-45d6b7309862",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U5TERVWF7JH",
+        "ts": "1654813101.739191",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "9a574cbb-930b-4e40-022d-5c6cecad6bf2",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UYR8E48FJ62",
+        "ts": "1607436589.183494",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e708445-7447-9e34-2a33-7a1c0ec3c916",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UBHB6GTB73U",
+        "ts": "1607444546.045848",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6ce754e7-1ae8-a339-6370-4c4b62be0034",
+        "type": "message",
+        "text": "<@U69WX6HRQNH> Can I get ARR by region for the board?",
+        "user": "UX84HDPARWN",
+        "ts": "1607446981.283591",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e2ee07e-12a9-a51a-93b8-bf9be6113ed6",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1607457965.022622",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91f97b3e-058f-307f-a1dd-8e4bb6a5bd21",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1607467623.879717",
+        "team": "T02BRNDLCV"
+    }
+]

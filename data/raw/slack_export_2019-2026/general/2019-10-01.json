@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "9a635deb-5259-fe82-d78f-7891765c980c",
+        "type": "message",
+        "text": "Welcome Ines Delacroix to the Sales team!",
+        "user": "U5DYUQUF95P",
+        "ts": "1569949508.360728",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6654a94-d8e7-c585-643f-6a5d285fe740",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UZACKQ1VXCH",
+        "ts": "1569965687.377490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "46d301c4-113f-bab6-14b6-761d0c8a0673",
+        "type": "message",
+        "text": "<@UVRFQ9LWEVK> Reminder: all-hands Thursday at 1pm ET",
+        "user": "UR3LDWKU006",
+        "ts": "1569966205.633627",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cef08e2d-0b83-fc91-d6a0-9d6381cc0134",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> Q4 kickoff deck is in the drive",
+        "user": "UQTUT2GDN85",
+        "ts": "1569972576.276467",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cc9ec5b-215e-f601-6b72-2d5f7c828e62",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> Q4 kickoff deck is in the drive",
+        "user": "UT7K74ALYGQ",
+        "ts": "1569972805.820840",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "894f2be3-94d5-9b7f-e11e-26dd5dcda252",
+        "type": "message",
+        "text": "<@UKMQNTKUR4V> Reminder: all-hands Thursday at 1pm ET",
+        "user": "UL8NMQFXPJR",
+        "ts": "1569974924.972526",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2fb72b6a-be21-4ace-81a1-84d59edb8b76",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> Q4 kickoff deck is in the drive",
+        "user": "U0E67MPWRXA",
+        "ts": "1569976283.717753",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1569956160.268381"
+        }
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "92d45808-fda8-1033-1067-20deb4099074",
+        "type": "message",
+        "text": "AR aging is up, Dubois Inns Holdings is 90+ days",
+        "user": "UWU9WG7ECGY",
+        "ts": "1714149263.450275",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e12d8861-8c61-77fe-16dc-aa1ba7db124c",
+        "type": "message",
+        "text": "Lindenwood Warehousing LLC paid by wire, applying now",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1714154833.129206",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U4DHNBQWUVZ",
+            "ts": "1714167952.939991"
+        }
+    },
+    {
+        "client_msg_id": "c217b4f8-7418-24b8-8bfa-479752e34dce",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U2CKCF24AEA",
+        "ts": "1714159833.085306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68e46106-cb53-f124-04b4-c2944b20ec31",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UYFL6320JLT",
+        "ts": "1714166471.685641",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51c51ec4-17ff-c663-4128-733b41670907",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UXETPKNK8MV",
+        "ts": "1714166824.709730",
+        "team": "T02BRNDLCV"
+    }
+]

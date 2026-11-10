@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "9b8debad-6cc2-3095-69fd-e8af4349a132",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UB8UH2KX2NW",
+        "ts": "1590589059.670767",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33eacc2c-c9ab-f771-3f57-dec3d93dc72e",
+        "type": "message",
+        "text": "Welcome Lorraine Whitlock to the Finance team!",
+        "user": "U48TCJE75PD",
+        "ts": "1590597419.231582",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "10f44057-626a-8563-ebab-0f23b03b504a",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U48TCJE75PD",
+        "ts": "1590625965.682760",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

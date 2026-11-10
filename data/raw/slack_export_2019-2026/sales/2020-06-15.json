@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "c175a995-4a9c-0049-39ed-43c66c651088",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Pricing question: does Starter include Dispatch?",
+        "user": "UGPRJ4K947R",
+        "ts": "1592235220.464537",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3b84c6e2-1777-f16a-cfb7-9a7118212c42",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UZACKQ1VXCH",
+        "ts": "1592236849.973561",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e35cb23-1eec-31ca-f72d-c605fb0d3271",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UWU9WG7ECGY",
+        "ts": "1592236850.007485",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8040476b-890a-da6f-6a16-112e62323368",
+        "type": "message",
+        "text": "Highland Contracting wants a discount, how far can I go?",
+        "user": "U9SD2024Q7F",
+        "ts": "1592250861.120685",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c0844d48-21e6-f2ec-92e3-52aaafca43bf",
+        "type": "message",
+        "text": "Lost Lavoie Mills to Plinthwise on price",
+        "user": "UT7K74ALYGQ",
+        "ts": "1592251743.910982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9a3f65e4-ff53-8b63-4dca-aca80532b1f3",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1592252045.846764",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c6ec0193-6a5c-3716-a4e1-09d6a534dbef",
+        "type": "message",
+        "text": "Lost Maplewood Facilities Management Co. to Plinthwise on price",
+        "user": "U5TERVWF7JH",
+        "ts": "1592253656.108203",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04053b8a-89cf-c871-608e-f2b6439b9581",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1592254675.015940",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "26a5a701-194d-9cc0-8937-fbdda81012bf",
+        "type": "message",
+        "text": "Lost Cedar Medical Center Co. to Plinthwise on price",
+        "user": "U48TCJE75PD",
+        "ts": "1592256972.788357",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1592250722.410238"
+        }
+    },
+    {
+        "client_msg_id": "1fe82c6b-70cf-4af8-cf9c-54c2725741fa",
+        "type": "message",
+        "text": "Closed Oakmere Health System Inc.! 271 seats, Pro",
+        "user": "UB0YL0LKYC7",
+        "ts": "1592262857.579395",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cbbc4646-4e10-15c3-f5a2-3205308d418a",
+        "type": "message",
+        "text": "Closed Kingsley Supply Co Inc.! 14 seats, Pro",
+        "user": "UNPKZYBKYGA",
+        "ts": "1592267034.788969",
+        "team": "T02BRNDLCV"
+    }
+]

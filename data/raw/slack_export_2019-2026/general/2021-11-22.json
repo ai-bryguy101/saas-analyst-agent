@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "8bafd2fe-97a0-f3a4-7483-619b816e39cc",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UHV2RFNY0HN",
+        "ts": "1637593154.134824",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f5c26f67-d41c-fb0b-a097-9519f8ea3ef1",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UJRKGMQPU2R",
+        "ts": "1637608398.627972",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ffbb56e-fa1f-38cc-116a-a325d7f9893a",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UXS2WD4BYRN",
+        "ts": "1637623265.977694",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

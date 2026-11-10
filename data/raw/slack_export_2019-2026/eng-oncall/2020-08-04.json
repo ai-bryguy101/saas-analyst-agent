@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "e570f4e9-e818-7c69-b157-c5e1db3432f7",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3EQ075NUYR",
+        "ts": "1596547712.865668",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4499c708-2dc0-a5c8-3000-542cf7efda7a",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UBK8V2J099L",
+        "ts": "1596551846.375008",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UBK8V2J099L",
+            "ts": "1596568989.493215"
+        }
+    },
+    {
+        "client_msg_id": "abd6bab2-4088-6ccc-1d7e-7b01c13587e8",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UGPRJ4K947R",
+        "ts": "1596552333.314916",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83e877dd-a718-9580-efb6-ca9e2012be83",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1596564228.855213",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "6e14c203-5937-03a2-9ea9-8d3ebbe9562e",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U3EQ075NUYR",
+        "ts": "1596564345.629211",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

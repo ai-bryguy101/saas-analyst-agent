@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "28256162-b0bc-f115-ed3c-dfc927a0007c",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UJKZ2R47YW9",
+        "ts": "1704381065.561364",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "559b5193-d993-135b-a6d3-3f7f5b61842c",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1704392586.020939",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac000149-eeb6-b99a-5200-e08142aeefa3",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1704396460.479106",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9dc7d233-9f13-9dd2-ca1d-8decb47b42d7",
+        "type": "message",
+        "text": "Clearwater Fabrication Corp. wants a discount, how far can I go?",
+        "user": "UV9KPNCPQJN",
+        "ts": "1704404456.700950",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6f03ff19-7e76-7a0a-2215-001a952aaaf2",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UV9KPNCPQJN",
+        "ts": "1704405049.409551",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UV9KPNCPQJN",
+            "ts": "1704410658.002370"
+        }
+    },
+    {
+        "client_msg_id": "634bfcf1-d17b-6328-4bdb-656e1b8057a8",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "URWNWW8QFM6",
+        "ts": "1704411291.986029",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "b922fa58-1c6b-a7c7-4e31-d599852694c9",
+        "type": "message",
+        "text": "Cruz Works wants a discount, how far can I go?",
+        "user": "U0E67MPWRXA",
+        "ts": "1668526524.622729",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2242a0e8-f4c7-411f-0d61-81c4cd086a51",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U0E67MPWRXA",
+        "ts": "1668538695.244566",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1668529137.630501"
+        }
+    },
+    {
+        "client_msg_id": "984209c9-92db-896a-0cca-bbe057720a2f",
+        "type": "message",
+        "text": "Quillfeather College wants a discount, how far can I go?",
+        "user": "UXVNE61TTLN",
+        "ts": "1668541660.099038",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a40c6f7-61df-996b-01bb-465d2472121a",
+        "type": "message",
+        "text": "Closed Tamarack Outfitters Holdings! 82 seats, Starter",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1668553530.881725",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d90d9ca-89b8-a8f7-5148-72368766178e",
+        "type": "message",
+        "text": "Closed Vance Suites LLC! 209 seats, Pro",
+        "user": "U3EQ075NUYR",
+        "ts": "1668560309.425542",
+        "team": "T02BRNDLCV"
+    }
+]

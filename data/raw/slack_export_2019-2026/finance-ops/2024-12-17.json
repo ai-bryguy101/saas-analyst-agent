@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "4ed93bdd-d905-5667-3c4b-63148c8c3429",
+        "type": "message",
+        "text": "Huang Building Services Corp. paid by wire, applying now",
+        "user": "UGPRJ4K947R",
+        "ts": "1734444926.505864",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "59be5713-409c-5131-1816-1991de4f5972",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Month-end close starts tomorrow",
+        "user": "U09CZFTHQSS",
+        "ts": "1734455688.164508",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cc3c3f93-b087-ec57-1f31-f3da5eb7fc81",
+        "type": "message",
+        "text": "<@UAHZYQG5URJ> Wabash Manufacturing paid by wire, applying now",
+        "user": "U2LMMLL4F31",
+        "ts": "1734459280.227480",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3301da0d-b94c-dacb-0f12-57d296c6e1ed",
+        "type": "message",
+        "text": "AR aging is up, Ramirez Inns Corp. is 90+ days",
+        "user": "U7V33ZEGRET",
+        "ts": "1734461325.095070",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6d6140b-4e1c-d40c-dce8-cd1b4515d310",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1734461364.295037",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5689d0f2-57ef-c6fc-f3f8-bfb589d96a89",
+        "type": "message",
+        "text": "<@UXVNE61TTLN> Month-end close starts tomorrow",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1734467469.640239",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a137951d-6509-a723-c867-70578e007977",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1734476809.227722",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ebbc436-1f49-bed1-4adc-24f602ef8f54",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2024",
+        "user": "U2CKCF24AEA",
+        "ts": "1734481867.250199",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f4247d8-1150-972b-508e-28e19794c410",
+        "type": "message",
+        "text": "Myers Logistics Corp. paid by wire, applying now",
+        "user": "UVX5HCR5MMD",
+        "ts": "1734482773.009819",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "c4f5ef76-17c8-2304-c6ff-f2624481ee17",
+        "type": "message",
+        "text": "Perez School District Holdings reporting sync failures since this morning, CSM is Frank Ortiz",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1656610368.255216",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2ae043aa-5654-98a0-2c52-b1e3e663aace",
+        "type": "message",
+        "text": "Eastlake Works Group wants an exec call about the outage",
+        "user": "U2CKCF24AEA",
+        "ts": "1656611674.378844",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f0e0d1b-2d46-4dac-7af9-a6c3a3456870",
+        "type": "message",
+        "text": "Can someone check Lindenwood Property Group Inc.'s invoice? They say they were double billed",
+        "user": "UFARBQM0LCD",
+        "ts": "1656617864.029371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da32a7d2-2543-e231-393d-648f7d95eb2a",
+        "type": "message",
+        "text": "Gatehouse Hospitality Group asking for an SLA credit",
+        "user": "UCQT1GS0C0C",
+        "ts": "1656621390.726369",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93fe20bd-bbca-572e-9bbe-c5de886b6629",
+        "type": "message",
+        "text": "Renewal risk: Silverleaf Municipal Services unhappy with mobile app",
+        "user": "UX84HDPARWN",
+        "ts": "1656622225.890522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16ad6a4b-3535-bdb0-2593-e73f4b744555",
+        "type": "message",
+        "text": "Wang Residential LLC reporting sync failures since this morning, CSM is Wei Adams",
+        "user": "U9SD2024Q7F",
+        "ts": "1656629797.845830",
+        "team": "T02BRNDLCV"
+    }
+]

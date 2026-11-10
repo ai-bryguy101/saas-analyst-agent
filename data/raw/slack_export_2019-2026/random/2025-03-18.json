@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "d1a7c612-efc0-595c-c54d-ca194190236f",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UH9DL28T3MH",
+        "ts": "1742306727.603203",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3943aaef-3e6d-0d4d-c2d7-07af1655c882",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UT9KGXWKHLB",
+        "ts": "1742316724.858637",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "20c75948-56cb-4f96-98ed-d81d7a58274a",
+        "type": "message",
+        "text": "<@U3EQ075NUYR> happy friday",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1742324027.090212",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWLZTMJ6YM7",
+            "ts": "1742327262.068989"
+        }
+    },
+    {
+        "client_msg_id": "340176a6-4858-8ae3-7d67-d0ef36b39dd4",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UMDHKXLV8RH",
+        "ts": "1742337343.633312",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9aed9b6d-eb03-ac3d-3f32-b190d583254e",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UFULM18ZBQ6",
+        "ts": "1742340300.949200",
+        "team": "T02BRNDLCV"
+    }
+]

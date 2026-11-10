@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "d6697a5e-3eba-4397-f338-2238906854d5",
+        "type": "message",
+        "text": "<@UP8JCWGGNJ4> PagerDuty: high error rate on api-gw",
+        "user": "UFJUKVTAA1B",
+        "ts": "1756656974.954579",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1756670282.315758"
+        }
+    },
+    {
+        "client_msg_id": "f4336b7a-228e-191e-d770-1c18c44ee36b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1756660169.627408",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29705 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

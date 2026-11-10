@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "1993a011-f545-1b2e-9d3b-c2596fc8ce54",
+        "type": "message",
+        "text": "<@URFUZYLCAEC> Office wifi is back up",
+        "user": "UV9GDKGY32C",
+        "ts": "1606399918.085184",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "609ec474-3ea4-44c4-724b-fbd9b3d3891b",
+        "type": "message",
+        "text": "Welcome Brenda Rogers to the Sales team!",
+        "user": "U9V01K22TU1",
+        "ts": "1606404599.479620",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2f8b0a04-fb3e-d7f6-131a-49b2a57acdf0",
+        "type": "message",
+        "text": "Welcome Margaret Roberts to the Support team!",
+        "user": "U09CZFTHQSS",
+        "ts": "1606407729.986950",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ab6357d-260c-90ad-4965-504c41f7ddbe",
+        "type": "message",
+        "text": "Welcome Julie Yamamoto to the Engineering team!",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1606418819.655625",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c84acbf-5ed1-1d13-e760-fac64267c880",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U22GUF0P303",
+        "ts": "1606421685.141638",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "046d754e-e4d3-0190-f014-6ca627b40dd5",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UC95B7VAFX0",
+        "ts": "1606421879.966371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e4abe208-923c-5ed9-0f75-a2e0219d76fb",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "URWNWW8QFM6",
+        "ts": "1606424994.796224",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "21478580-0dce-7020-43d4-cef3bd8a32f3",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1594748452.067893",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "247c5e08-4ff7-fc60-15d5-96a53f239bcc",
+        "type": "message",
+        "text": "Closed Chen Suites Inc.! 232 seats, Starter",
+        "user": "U3EQ075NUYR",
+        "ts": "1594753540.682126",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a9f9e16-6e90-cec6-c154-b6ef0cc20d55",
+        "type": "message",
+        "text": "Closed Sycamore Suites Co.! 184 seats, Pro",
+        "user": "UFULM18ZBQ6",
+        "ts": "1594754944.661744",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de35d751-0d46-ed6f-5824-d91d7dbf22bb",
+        "type": "message",
+        "text": "<@UV9GDKGY32C> Closed Chen Medical Center Ltd.! 362 seats, Starter",
+        "user": "U3KL08VJD8C",
+        "ts": "1594757099.176631",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b1d75d95-adbd-ce62-ae5d-42e52b531010",
+        "type": "message",
+        "text": "Closed Pueblo Builders Holdings! 228 seats, Pro",
+        "user": "UFULM18ZBQ6",
+        "ts": "1594757584.299802",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "407c359f-842a-2c91-a1a2-5d01d7bc0da6",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1594768216.759155",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "08498a46-94b0-b7b2-4a32-060f8762c8ac",
+        "type": "message",
+        "text": "Lost Highland Industries Holdings to Plinthwise on price",
+        "user": "U7PFYH0YRRG",
+        "ts": "1594772529.469546",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U7PFYH0YRRG",
+            "ts": "1594746121.743278"
+        }
+    }
+]

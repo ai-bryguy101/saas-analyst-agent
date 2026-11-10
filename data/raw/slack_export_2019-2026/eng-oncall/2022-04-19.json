@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "3b5c6d6a-aeb3-16e0-8731-b4de72e0c748",
+        "type": "message",
+        "text": "deploy v7.38.4 to prod :rocket:",
+        "user": "UH9DL28T3MH",
+        "ts": "1650377918.387364",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "65c50e3f-e0a2-4dc3-39ab-6ce87cba2c64",
+        "type": "message",
+        "text": "<@UQXT5A6YMVH> who owns the cron for nightly exports?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1650384067.456116",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9533e89-c1dc-f5e2-c68e-f0b83c71509c",
+        "type": "message",
+        "text": "deploy v7.23.3 to prod :rocket:",
+        "user": "U9V01K22TU1",
+        "ts": "1650395163.086270",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d134c742-a2e3-86b0-96d0-83dbfa3a8c23",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UWBW507RCA9",
+        "ts": "1650402412.284537",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1ad6a992-552b-f899-95ea-67db8cee0d1f",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U9Y2KF0S90E",
+        "ts": "1650415046.095174",
+        "team": "T02BRNDLCV"
+    }
+]

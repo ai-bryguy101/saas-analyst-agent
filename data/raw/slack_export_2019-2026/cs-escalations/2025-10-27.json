@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "3a7232f0-5456-63d2-299a-c583c7b38fef",
+        "type": "message",
+        "text": "Tri-County Fabrication asking for an SLA credit",
+        "user": "UFWAQ6E76D6",
+        "ts": "1761592325.025008",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f5fe1f1-bfce-ef25-227c-7046d94eadcd",
+        "type": "message",
+        "text": "Commonwealth Residential Ltd. wants an exec call about the outage",
+        "user": "UC95B7VAFX0",
+        "ts": "1761596485.399190",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1761591226.212880"
+        }
+    },
+    {
+        "client_msg_id": "447c91cb-1a89-3134-f19d-00916e65a729",
+        "type": "message",
+        "text": "Summit Property Services Inc. wants an exec call about the outage",
+        "user": "UBHB6GTB73U",
+        "ts": "1761611476.168433",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "8f718fbb-115f-9cdf-5976-45afce1df121",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U1YEVCXATA8",
+        "ts": "1697727859.545617",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8cd1c198-bb35-b3b7-322e-f5f4493c8bce",
+        "type": "message",
+        "text": "AR aging is up, Bayview Township Group is 90+ days",
+        "user": "UWUGRQ83YYM",
+        "ts": "1697731155.698369",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

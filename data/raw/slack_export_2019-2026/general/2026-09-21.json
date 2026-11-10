@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "8d4fe23f-d5c7-e208-68ab-a21281b798fb",
+        "type": "message",
+        "text": "Welcome Bronwen Cook to the Support team!",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1790015400.230173",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "931eb5ab-459a-8b64-05da-95b37ed83655",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "URFUZYLCAEC",
+        "ts": "1790024257.974563",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8d6ffab1-d7ff-e10d-a3a0-077226b7c8b6",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U5DYUQUF95P",
+        "ts": "1790027850.997133",
+        "team": "T02BRNDLCV"
+    }
+]

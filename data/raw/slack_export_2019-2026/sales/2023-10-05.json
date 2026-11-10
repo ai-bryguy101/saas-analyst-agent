@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "ce459eee-1cd5-21dd-a2c5-c75c884dbdd8",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UNFVCYNZT6K",
+        "ts": "1696513799.055781",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fdfdba5b-2b2f-ebdd-beed-023fcc2acb2f",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UV8WG09HYBP",
+        "ts": "1696538099.024413",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UV8WG09HYBP",
+            "ts": "1696529941.483895"
+        }
+    },
+    {
+        "client_msg_id": "6dca40d2-a163-0686-93ab-639af5b53b12",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Pipeline review moved to 3pm",
+        "user": "U34NH0P5TMZ",
+        "ts": "1696551616.933895",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eb69d08c-3c71-4206-8c90-729582068857",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U9SD2024Q7F",
+        "ts": "1696553563.540258",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "699b1217-0de2-e64a-6830-315852860dd2",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "U3EQ075NUYR",
+        "ts": "1696553588.898899",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

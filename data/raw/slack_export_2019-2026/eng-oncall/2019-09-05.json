@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "d83e9298-c2fe-bf8b-f71b-a2a576a59e36",
+        "type": "message",
+        "text": "deploy v7.1.8 to prod :rocket:",
+        "user": "UJQ9E01DWPS",
+        "ts": "1567692763.534982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c28709af-c680-19ff-073e-a3a347035928",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UJQ9E01DWPS",
+        "ts": "1567697471.407388",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "990db366-35bf-c307-cf9e-e451ac9fc240",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UMDHKXLV8RH",
+        "ts": "1567702063.700291",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2cc80fc4-a12c-197d-ff25-b337f366634c",
+        "type": "message",
+        "text": "<@U9V01K22TU1> PagerDuty: high error rate on api-gw",
+        "user": "U5X9PNA34DU",
+        "ts": "1567718835.557483",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70a680ad-d2ca-94f5-624b-3b68f95872d7",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UZJU9N8CY2T",
+        "ts": "1567724446.622108",
+        "team": "T02BRNDLCV"
+    }
+]

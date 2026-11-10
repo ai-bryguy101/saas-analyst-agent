@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "d38ce593-e096-4340-6719-8dde1d579a0e",
+        "type": "message",
+        "text": "Wexford Works asking for an SLA credit",
+        "user": "UZJU9N8CY2T",
+        "ts": "1619444782.434005",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d53a4fa-e8d2-9b2a-7fdd-1396479645bf",
+        "type": "message",
+        "text": "Ironwood Realty Management Holdings wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1619469074.470660",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

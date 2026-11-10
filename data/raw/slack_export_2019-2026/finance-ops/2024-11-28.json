@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "612cf5d3-8a02-98a7-f3a5-7d8842527cc9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMDHKXLV8RH",
+        "ts": "1732809008.700252",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78ee3081-d156-7dec-430c-446b01eee53e",
+        "type": "message",
+        "text": "<@UXVNE61TTLN> Boateng Works paid by wire, applying now",
+        "user": "UWUGRQ83YYM",
+        "ts": "1732827545.368388",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

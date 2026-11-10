@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "1729ce54-d349-28e7-c2fa-63a0353fce38",
+        "type": "message",
+        "text": "Watson Property Group Corp. wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1612102601.740341",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "220a7552-0fca-27f1-7780-838f77dd6e08",
+        "type": "message",
+        "text": "Bailey Logistics reporting sync failures since this morning, CSM is Jae-won Park",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1612126753.518316",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "11a78002-c2e3-c306-c1f1-af962ff31072",
+        "type": "message",
+        "text": "Iyer Freight asking for an SLA credit",
+        "user": "UMDHKXLV8RH",
+        "ts": "1612129892.417510",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7247d0cf-f5e5-3bbe-b265-c73baa1da177",
+        "type": "message",
+        "text": "<@UXS2WD4BYRN> Renewal risk: Reed Township Inc. unhappy with mobile app",
+        "user": "UL8NMQFXPJR",
+        "ts": "1612135627.334499",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "72a27e27-efa3-5eff-161d-06ab0cc10091",
+        "type": "message",
+        "text": "Renewal risk: Maplewood Inns unhappy with mobile app",
+        "user": "UCQT1GS0C0C",
+        "ts": "1612137346.352997",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "186f8bf1-1978-f28e-dd98-d9c269bc6d5f",
+        "type": "message",
+        "text": "Renewal risk: Tri-County Public Works Group unhappy with mobile app",
+        "user": "UXS2WD4BYRN",
+        "ts": "1612138032.326034",
+        "team": "T02BRNDLCV"
+    }
+]

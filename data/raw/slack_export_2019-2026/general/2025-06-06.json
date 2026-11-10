@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "a50b4def-4a7a-2c08-03fe-586125dc7470",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UDDBYSY4RFA",
+        "ts": "1749215455.354359",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2f8307ac-561a-c900-1b6b-ef334ffad40c",
+        "type": "message",
+        "text": "Welcome Katherine Cartwright to the Engineering team!",
+        "user": "U2CKCF24AEA",
+        "ts": "1749216650.398693",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68da9c54-627a-5520-f0f2-3a30847d837e",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UDCALCM1RUG",
+        "ts": "1749244598.625624",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abea6ecb-40e7-c847-caf5-9ced8ea389e7",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UFWAQ6E76D6",
+        "ts": "1749248338.554298",
+        "team": "T02BRNDLCV"
+    }
+]

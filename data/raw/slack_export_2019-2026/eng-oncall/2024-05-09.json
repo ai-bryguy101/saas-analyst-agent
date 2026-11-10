@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "0d843855-5d91-2c76-87ea-f99febbe49f1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1715268212.018695",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#50787 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2515ce1-09c1-ceea-89f5-ba96237c046a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1715269683.061965",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#32850 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0ddd8b3-42a5-09c2-d6d1-bbf0cc6d44f4",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1715272900.816360",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#52125 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c908efb4-9c7d-f02c-15f6-6b2e69099e96",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U7V33ZEGRET",
+        "ts": "1715282018.898341",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5775114a-9d82-c44d-14fe-a15dbbe92fc5",
+        "type": "message",
+        "text": "deploy v6.38.8 to prod :rocket:",
+        "user": "U3KL08VJD8C",
+        "ts": "1715286371.674328",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23b5c131-da9a-b85d-ebda-9f07407cacb5",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UNFVCYNZT6K",
+        "ts": "1715293307.738876",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "086dfc20-9395-7966-28c9-0217419df2d4",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UQK194B1V43",
+        "ts": "1715293400.435514",
+        "team": "T02BRNDLCV"
+    }
+]

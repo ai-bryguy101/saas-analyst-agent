@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "12111209-a340-44d9-933c-d7d99e40de56",
+        "type": "message",
+        "text": "Can someone check Cumberland Clinics Co.'s invoice? They say they were double billed",
+        "user": "U09CZFTHQSS",
+        "ts": "1637759726.379854",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "843bc07f-7936-e898-135a-028aac430b74",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Tamarack Maintenance Co Co. reporting sync failures since this morning, CSM is Minh Ruiz",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1637762941.916456",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UUDLJ7GDXKE",
+            "ts": "1637775211.560794"
+        }
+    },
+    {
+        "client_msg_id": "687ba7b4-69e0-3292-0d36-00eed2e0aed5",
+        "type": "message",
+        "text": "Can someone check Mensah Restoration LLC's invoice? They say they were double billed",
+        "user": "UJQY3Q26RVW",
+        "ts": "1637767756.526208",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa811a55-3485-f6ad-1445-b1ae355060d8",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Valley Construction reporting sync failures since this morning, CSM is Peter Pham",
+        "user": "U2CKCF24AEA",
+        "ts": "1637768091.182096",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4823c5f5-4022-e4f4-a228-da2a575ec7a4",
+        "type": "message",
+        "text": "Gatehouse Medical Center Ltd. reporting sync failures since this morning, CSM is Kathleen Martinez",
+        "user": "U3DBR7QKZWE",
+        "ts": "1637775194.425449",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3ccd9db-6031-df88-7a2b-ac9b91b1e3ee",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Can someone check Castillo Academy's invoice? They say they were double billed",
+        "user": "UZJU9N8CY2T",
+        "ts": "1637778227.582549",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb4e6d40-6a13-1508-09d0-abacc41aae4d",
+        "type": "message",
+        "text": "Can someone check Patel Construction Holdings's invoice? They say they were double billed",
+        "user": "UJRKGMQPU2R",
+        "ts": "1637780513.225180",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7cacab4e-03f8-3135-9aec-6a37aa226671",
+        "type": "message",
+        "text": "Wexford University Facilities wants an exec call about the outage",
+        "user": "U48TCJE75PD",
+        "ts": "1637784492.463140",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "87f932ec-a031-571f-97da-c9a19ec01b71",
+        "type": "message",
+        "text": "Wexford University Facilities reporting sync failures since this morning, CSM is Christina Haddad",
+        "user": "UAHZYQG5URJ",
+        "ts": "1637798100.553220",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "68c82472-42cd-43e9-95c4-02a48930f37e",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UUFS9CP1A17",
+        "ts": "1599571941.289722",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c8d6e2d5-9795-db2a-8e2c-ddeee2bbd14a",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UPGXMWMDQNR",
+        "ts": "1599575297.059358",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42d2fe65-de87-8be0-5d62-b19c47372bf6",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UHV2RFNY0HN",
+        "ts": "1599591363.414179",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db28c4e4-a7bc-a522-9047-628ecee40243",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Reminder: all-hands Thursday at 1pm ET",
+        "user": "U9U3DZUVA3L",
+        "ts": "1599605909.336686",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a9352533-1cb6-7d94-49c3-f92a114ce4be",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UNPKZYBKYGA",
+        "ts": "1599607915.408307",
+        "team": "T02BRNDLCV"
+    }
+]

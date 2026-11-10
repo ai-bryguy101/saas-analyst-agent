@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "b6fcd6c4-853e-cb07-a03b-1634afb87d2d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U7V33ZEGRET",
+        "ts": "1671721444.818127",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0693e060-ed0f-fb0e-a034-ba7c708953b7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFNKJQT8PV1",
+        "ts": "1671751142.890834",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

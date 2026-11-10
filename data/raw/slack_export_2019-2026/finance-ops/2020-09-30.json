@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "fd7c0bf9-c979-aab9-161e-2512e08b5773",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UB8UH2KX2NW",
+        "ts": "1601473748.613450",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c91b668-bb3d-5bd6-7e66-b4460e3300f2",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXETPKNK8MV",
+        "ts": "1601489616.297883",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a2ae6dd-c223-3c01-ea5f-569ef727d53c",
+        "type": "message",
+        "text": "Wilson Medical Center Holdings paid by wire, applying now",
+        "user": "U3YU9TS6QYB",
+        "ts": "1601491054.436253",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99310e64-18af-e9c2-3e94-24af246ab2c5",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UB0YL0LKYC7",
+        "ts": "1601497518.928495",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8397ba6c-b913-8235-1419-3a6c38aa8e56",
+        "type": "message",
+        "text": "AR aging is up, Thornbury Property Group is 90+ days",
+        "user": "UG4ETD69L1D",
+        "ts": "1601500436.244689",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0908650-8e1f-d449-b81b-81555a5bc16a",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U2CKCF24AEA",
+        "ts": "1601504871.562390",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2945132f-7b1e-3eae-99d5-5f6231f084c2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1601511190.705828",
+        "team": "T02BRNDLCV"
+    }
+]

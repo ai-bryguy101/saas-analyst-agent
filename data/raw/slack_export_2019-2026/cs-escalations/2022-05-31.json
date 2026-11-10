@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "5b2eda34-a76a-216a-90fe-d299b96ad1d1",
+        "type": "message",
+        "text": "Eastlake Mechanical wants an exec call about the outage",
+        "user": "U3KL08VJD8C",
+        "ts": "1654004929.385029",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6a6b9b7-6b82-cfe0-be0f-23db83e17bf0",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Fairhaven Hotels wants an exec call about the outage",
+        "user": "UXXA9L8HH83",
+        "ts": "1654014498.858851",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "db6bbddb-dde9-c3c2-139f-257c1df395d3",
+        "type": "message",
+        "text": "Can someone check Harbortown College's invoice? They say they were double billed",
+        "user": "U3DBR7QKZWE",
+        "ts": "1654028891.330447",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab3c44a6-6ad9-d1d5-3214-a32f90855a9c",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> Eastlake Janitorial LLC asking for an SLA credit",
+        "user": "UFNKJQT8PV1",
+        "ts": "1654033404.026528",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32fd27d3-8597-cfa1-d9bb-9231d5ad5bb1",
+        "type": "message",
+        "text": "Renewal risk: Sanchez Residential LLC unhappy with mobile app",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1654039972.404096",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "218f145e-8b34-12fd-69ae-2ece9a28f2d0",
+        "type": "message",
+        "text": "Mesa Municipal Services Holdings asking for an SLA credit",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1654040881.624160",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "572f8537-a05d-d601-b319-52dbfbbde396",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UMYYLUTXG9R",
+        "ts": "1779717000.061299",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMYYLUTXG9R",
+            "ts": "1779717163.067207"
+        }
+    },
+    {
+        "client_msg_id": "c86a8a7b-5aba-5679-0044-c1483f752e0b",
+        "type": "message",
+        "text": "Sycamore Hotels Inc. wants a discount, how far can I go?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1779720317.828402",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f59c5364-1d39-9897-2bd9-9c2f50c39b97",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U9SD2024Q7F",
+        "ts": "1779723033.516433",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4096aee3-deaf-0e2f-828a-f3718c818c6f",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> Closed Scioto Suites Corp.! 213 seats, Enterprise",
+        "user": "UDCALCM1RUG",
+        "ts": "1779724204.406136",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7d416dd4-16dd-5092-0b7b-d5590723384b",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1779737573.083102",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1779755297.904972"
+        }
+    },
+    {
+        "client_msg_id": "ad2fc94c-ed65-41de-0ec6-d76fe469643a",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "U9V01K22TU1",
+        "ts": "1779740833.743397",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da78981a-e08e-f6ca-f11d-6e5270d2a9eb",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UNKFW783RHY",
+        "ts": "1779756224.185319",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

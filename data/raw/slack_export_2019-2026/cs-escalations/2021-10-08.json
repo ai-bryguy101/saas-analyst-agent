@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "ed4ef8f5-8e5c-2e4e-71ac-9e3876af8e14",
+        "type": "message",
+        "text": "Phillips Resorts reporting sync failures since this morning, CSM is Tyler Scott",
+        "user": "UV9KPNCPQJN",
+        "ts": "1633703067.219303",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7b11e107-2c1c-dabf-62cc-a618d9493f4c",
+        "type": "message",
+        "text": "Kestrel Outfitters Inc. wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1633710430.557296",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37d6bcb4-ea7f-312d-6b52-e51abbb80f56",
+        "type": "message",
+        "text": "Highland Contracting reporting sync failures since this morning, CSM is Lorraine Whitlock",
+        "user": "UKMQNTKUR4V",
+        "ts": "1633722281.848128",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fee11799-53a0-cdb5-7226-fd58f2819a49",
+        "type": "message",
+        "text": "Can someone check Calloway Township's invoice? They say they were double billed",
+        "user": "UP51TVUPQU5",
+        "ts": "1633724004.517561",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8aa92c80-56ff-81c7-ff3c-0bf5259ea5fe",
+        "type": "message",
+        "text": "Boateng Works wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1633730725.787254",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "90f6fd9b-db8d-621a-ca9c-2ff78986e33d",
+        "type": "message",
+        "text": "Delacroix County Facilities Group wants an exec call about the outage",
+        "user": "U9V01K22TU1",
+        "ts": "1633731102.322091",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5437f666-6889-6fa5-1cd1-6560aaa207f9",
+        "type": "message",
+        "text": "Stonebridge Realty Management Corp. reporting sync failures since this morning, CSM is Lorraine Whitlock",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1633737541.085250",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUDLJ7GDXKE",
+            "ts": "1633730717.712104"
+        }
+    }
+]

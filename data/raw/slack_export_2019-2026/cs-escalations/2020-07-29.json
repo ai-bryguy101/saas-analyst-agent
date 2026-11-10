@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "27a64ba0-627b-da9d-4cc1-2f2099ec0c81",
+        "type": "message",
+        "text": "Can someone check Watson Freight's invoice? They say they were double billed",
+        "user": "UCQT1GS0C0C",
+        "ts": "1596032570.450916",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95ef6ec1-93b1-b12c-ec7f-133124118467",
+        "type": "message",
+        "text": "Haddad Mills Co. wants an exec call about the outage",
+        "user": "UQTUT2GDN85",
+        "ts": "1596042825.749677",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0859fb2-b3c8-de3e-ee12-2a54cc1e9a53",
+        "type": "message",
+        "text": "Westbrook Residential Inc. asking for an SLA credit",
+        "user": "UJQY3Q26RVW",
+        "ts": "1596056040.957652",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6368f648-d9dd-fc00-c5d2-639df5a6422f",
+        "type": "message",
+        "text": "Cornerstone Janitorial wants an exec call about the outage",
+        "user": "UQK194B1V43",
+        "ts": "1596068686.231792",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18bac445-22a9-4a8d-8707-94c02ae86eca",
+        "type": "message",
+        "text": "Oakmere Works Inc. wants an exec call about the outage",
+        "user": "U22GUF0P303",
+        "ts": "1596070524.676877",
+        "team": "T02BRNDLCV"
+    }
+]

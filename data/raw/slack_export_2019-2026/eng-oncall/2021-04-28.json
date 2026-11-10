@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "db8c389d-0ed9-b1ae-eb11-bca22823deea",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UC95B7VAFX0",
+        "ts": "1619641089.567519",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b38325e-f433-aee9-4aeb-bed612b4458c",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U3KL08VJD8C",
+        "ts": "1619648789.154180",
+        "team": "T02BRNDLCV"
+    }
+]

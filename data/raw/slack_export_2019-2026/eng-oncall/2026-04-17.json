@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "5357075c-c86c-4874-2fa8-0353a3802f6c",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1776432290.498753",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "792ff009-6a5f-daf9-ed70-4b53a8a07451",
+        "type": "message",
+        "text": "rolling back v6.0.3",
+        "user": "U773RMBLF5X",
+        "ts": "1776436114.222166",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "650b607f-8cfc-4673-809c-2bb257adadb4",
+        "type": "message",
+        "text": "rolling back v9.14.7",
+        "user": "UJRKGMQPU2R",
+        "ts": "1776439330.860040",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0af22c8c-d8d2-8786-be05-a8a22cd1394a",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UFNKJQT8PV1",
+        "ts": "1776447448.211478",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d76382f5-8699-d5e3-89b1-a62de25183d1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1776451116.409365",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#62827 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a40e1fe-cd62-2bdf-a2a1-222181196323",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1776458634.721779",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b3306543-5ea4-343a-53c2-65548ecdb2dd",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UNKFW783RHY",
+        "ts": "1776459008.666226",
+        "team": "T02BRNDLCV"
+    }
+]

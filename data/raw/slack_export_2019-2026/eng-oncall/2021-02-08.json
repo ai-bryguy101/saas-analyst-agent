@@ -1,0 +1,19 @@
+[
+    {
+        "client_msg_id": "45ad9597-5671-e23a-f70f-ddedb230c9e8",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1612828846.908492",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "3d797b2c-9e83-b625-8558-c4de30b15b5c",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UV8WG09HYBP",
+        "ts": "1612830746.586150",
+        "team": "T02BRNDLCV"
+    }
+]

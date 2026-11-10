@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "7b13d5c3-f25b-8f5d-25c1-7286cc7cda6b",
+        "type": "message",
+        "text": "<@U1YEVCXATA8> PagerDuty: high error rate on api-gw",
+        "user": "UL8NMQFXPJR",
+        "ts": "1743714160.045188",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "08b5dbde-5fb8-a50a-3a5f-0768833b902d",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> who owns the cron for nightly exports?",
+        "user": "UQTUT2GDN85",
+        "ts": "1743727548.352251",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

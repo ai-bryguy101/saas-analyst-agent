@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "4d12d005-94a9-97ac-05f4-e06b4a9837cc",
+        "type": "message",
+        "text": "<@UXXA9L8HH83> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UVX5HCR5MMD",
+        "ts": "1785938253.522716",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3ebf3056-0b34-b496-1bbc-f37f9e115903",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U9SD2024Q7F",
+        "ts": "1785949085.333945",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "efc2c386-1fda-c6f2-30b1-331b8f37f3eb",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U69WX6HRQNH",
+        "ts": "1785952890.110500",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f215262-c2e4-89d0-0974-cff9b2de8559",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U773RMBLF5X",
+        "ts": "1785956080.557118",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "213d7bea-7794-04ae-3eb1-2b1345bfdc35",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1785972291.468752",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "599ce2e4-11ef-8186-c8c4-34a73d2cf040",
+        "type": "message",
+        "text": "Welcome Brenda Rogers to the Sales team!",
+        "user": "U5DYUQUF95P",
+        "ts": "1625844430.618384",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "678ad3f0-bd1f-53ee-0be4-d8ca2dc92c3a",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1625864887.151072",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ef8266a3-e786-dc15-7308-6af1dc1af003",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U8SR98620D7",
+        "ts": "1625870418.110583",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac836a2b-0d3e-94f0-8932-7fcbfb423a2f",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UH9DL28T3MH",
+        "ts": "1625876161.242278",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65f29e32-0334-7a94-253c-73474da03547",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> Q3 kickoff deck is in the drive",
+        "user": "UYR8E48FJ62",
+        "ts": "1625877428.352053",
+        "team": "T02BRNDLCV"
+    }
+]

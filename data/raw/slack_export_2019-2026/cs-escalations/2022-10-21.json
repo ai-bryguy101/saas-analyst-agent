@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "2fc08309-c487-ed34-4ef5-1fd4fc173776",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Kowalski Building Services wants an exec call about the outage",
+        "user": "UWUGRQ83YYM",
+        "ts": "1666363434.545107",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b47c6117-c758-2969-ab39-3d8250e1884e",
+        "type": "message",
+        "text": "Renewal risk: Erie Freight LLC unhappy with mobile app",
+        "user": "UJQY3Q26RVW",
+        "ts": "1666376765.521524",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3DBR7QKZWE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7fb2529-b68c-c845-44fb-48c1adf3b8f8",
+        "type": "message",
+        "text": "Can someone check Kestrel Stores Corp.'s invoice? They say they were double billed",
+        "user": "U9Y2KF0S90E",
+        "ts": "1666394865.471339",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4167c66d-5d94-e3f9-006e-11e5049d9e8f",
+        "type": "message",
+        "text": "Renewal risk: Kingsley Health Partners LLC unhappy with mobile app",
+        "user": "UA3MVBJWAHX",
+        "ts": "1666400369.635768",
+        "team": "T02BRNDLCV"
+    }
+]

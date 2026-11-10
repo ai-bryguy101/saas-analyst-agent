@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "3fd9c3a7-8b84-4846-cbd0-a1ba9e9a8723",
+        "type": "message",
+        "text": "Lost Pioneer Transit Authority Co. to Plinthwise on price",
+        "user": "UQTUT2GDN85",
+        "ts": "1651585822.351068",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fbae4e2-e7c8-1e12-cb6b-202d49bc07d7",
+        "type": "message",
+        "text": "Closed Shenandoah Transit Authority Co.! 365 seats, Pro",
+        "user": "U3DBR7QKZWE",
+        "ts": "1651591353.199250",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0618dbd9-059c-34fa-0d31-872c5994f7c2",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UPGXMWMDQNR",
+        "ts": "1651598296.536575",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42249bc1-a7f7-62f4-f912-dc26d2b1130b",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1651620568.426048",
+        "team": "T02BRNDLCV"
+    }
+]

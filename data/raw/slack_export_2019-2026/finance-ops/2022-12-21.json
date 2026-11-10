@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "27651c25-0f16-2863-e05f-d3b25f71f28f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UYFL6320JLT",
+        "ts": "1671644936.749802",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "956365a3-7ea2-6668-9f51-9747404e480f",
+        "type": "message",
+        "text": "Cumberland Retail Group Co. paid by wire, applying now",
+        "user": "UH9DL28T3MH",
+        "ts": "1671652552.721503",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UH9DL28T3MH",
+            "ts": "1671653825.683209"
+        }
+    },
+    {
+        "client_msg_id": "d3a3ec6d-ede7-375b-195f-99a75b45319f",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> FX rates loaded for Dec 2022",
+        "user": "U48TCJE75PD",
+        "ts": "1671656462.790522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e27d73b-6e53-f895-979a-1e0b9583d56d",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2022",
+        "user": "UVX5HCR5MMD",
+        "ts": "1671665368.267033",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1e20b6ef-3042-81c5-dd14-e09b892df81b",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UWU9WG7ECGY",
+        "ts": "1671669876.932999",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1671670546.259333"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "f7a3478c-62f3-b771-4ad3-9a910c68714f",
+        "type": "message",
+        "text": "Renewal risk: Keystone Property Group Corp. unhappy with mobile app",
+        "user": "UR12Y3AZNKK",
+        "ts": "1750257431.041546",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ad54192-47dd-9953-e829-05a937e70950",
+        "type": "message",
+        "text": "Kestrel Academy Corp. wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1750260423.481751",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3093c9ec-4239-bcb4-2b41-7a97f428e848",
+        "type": "message",
+        "text": "Sycamore Hospitality Group Inc. wants an exec call about the outage",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1750270159.517889",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "837c40e3-af71-2c85-4bc3-047ae8092e5c",
+        "type": "message",
+        "text": "<@UFARBQM0LCD> Can someone check Cedar Restoration Co.'s invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1750284368.521101",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d8656a6-ad08-43a4-e124-faf405fa05e6",
+        "type": "message",
+        "text": "Frontier Property Group asking for an SLA credit",
+        "user": "UL8NMQFXPJR",
+        "ts": "1750289960.434714",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05bd4169-3091-0fbc-34e5-8dfad4f1d532",
+        "type": "message",
+        "text": "Lantern Industries Inc. reporting sync failures since this morning, CSM is Lawrence Fitzgerald",
+        "user": "U5DYUQUF95P",
+        "ts": "1750290737.967889",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "52f90e61-a1df-0f0f-824e-3f161765019f",
+        "type": "message",
+        "text": "Silverleaf Property Services reporting sync failures since this morning, CSM is Ines Delacroix",
+        "user": "UNFVCYNZT6K",
+        "ts": "1750291115.210639",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "dddfc377-1a53-3603-ceef-b29972402ae3",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UJQY3Q26RVW",
+        "ts": "1573741628.308573",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "414b9f65-6bb5-906e-c639-845527c69d1a",
+        "type": "message",
+        "text": "Closed Cascade Public Works Group! 74 seats, Pro",
+        "user": "U9SD2024Q7F",
+        "ts": "1573754846.577425",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

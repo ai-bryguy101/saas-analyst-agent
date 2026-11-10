@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "a7e9084d-02a4-4608-6d05-7bb239e5d83d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U5DYUQUF95P",
+        "ts": "1672061334.421326",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e606baad-f58c-a320-3e36-bacbc59cc3d2",
+        "type": "message",
+        "text": "AR aging is up, Keystone Works is 90+ days",
+        "user": "U09CZFTHQSS",
+        "ts": "1672077675.282144",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c5d2022-2759-e22e-8067-76861699ac8c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQK194B1V43",
+        "ts": "1672095340.182355",
+        "team": "T02BRNDLCV"
+    }
+]

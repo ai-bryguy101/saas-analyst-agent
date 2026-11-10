@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "34aac65a-4331-0c3a-59de-0267942e805b",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UMDHKXLV8RH",
+        "ts": "1767880277.037388",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8224550c-c377-8d06-ff26-86571c4b5fd9",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UHV2RFNY0HN",
+        "ts": "1767885751.130255",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7e55b0e-be3f-9648-e2d2-fed2fa6f12d6",
+        "type": "message",
+        "text": "Welcome Priya Raghunathan to the Customer Success team!",
+        "user": "U9Y2KF0S90E",
+        "ts": "1767911293.703086",
+        "team": "T02BRNDLCV"
+    }
+]

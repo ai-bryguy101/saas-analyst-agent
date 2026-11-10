@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "a2dd1527-618b-c5f4-6489-7f9bd3e35384",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UZJU9N8CY2T",
+        "ts": "1758114064.090301",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0fd4f188-c995-c303-0616-1bf565c65ed2",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Need churn list for 2024",
+        "user": "UXXA9L8HH83",
+        "ts": "1758139713.460866",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bcc78b0a-1676-3ddb-5133-0644fc00da9d",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1758140187.008143",
+        "team": "T02BRNDLCV"
+    }
+]

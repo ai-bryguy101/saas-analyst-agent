@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "52e1ab6a-32ad-8cc6-43cc-c4f552d68178",
+        "type": "message",
+        "text": "Scioto Distribution asking for an SLA credit",
+        "user": "U9XCAUGPS1F",
+        "ts": "1648226689.470908",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3717164a-8c68-78e8-96ec-76d71116a2e7",
+        "type": "message",
+        "text": "<@UXS2WD4BYRN> Renewal risk: Ozark Public Works Ltd. unhappy with mobile app",
+        "user": "UVX5HCR5MMD",
+        "ts": "1648236259.911592",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09fe36a1-f76b-c0a8-4543-8bd106184491",
+        "type": "message",
+        "text": "Renewal risk: Bluewater Facilities Management Inc. unhappy with mobile app",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1648243459.529331",
+        "team": "T02BRNDLCV"
+    }
+]

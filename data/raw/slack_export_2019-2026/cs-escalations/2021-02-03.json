@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "b39f846f-de03-c021-9ae7-1cc63fee1bbf",
+        "type": "message",
+        "text": "Twin Retail Group wants an exec call about the outage",
+        "user": "U8TVGALMJLQ",
+        "ts": "1612362677.293175",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c9bedf84-afb8-7c5d-d2cf-57b710c20651",
+        "type": "message",
+        "text": "Tidewater Residential Co. reporting sync failures since this morning, CSM is Isabella Thompson",
+        "user": "UFARBQM0LCD",
+        "ts": "1612363947.199216",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFARBQM0LCD",
+            "ts": "1612369590.418850"
+        }
+    },
+    {
+        "client_msg_id": "65dbbafc-7f2e-9309-d73a-f55b37fffec9",
+        "type": "message",
+        "text": "Riverbend Homes Ltd. wants an exec call about the outage",
+        "user": "UQTUT2GDN85",
+        "ts": "1612396695.476993",
+        "team": "T02BRNDLCV"
+    }
+]

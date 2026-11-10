@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "af3e3440-2dfe-2ecd-3652-48c6b7b9dbd5",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2022",
+        "user": "UXS2WD4BYRN",
+        "ts": "1661526696.305077",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b45e3ac2-4f60-a950-41f9-640f76da4c30",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U48TCJE75PD",
+        "ts": "1661532294.907006",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b91dc8f-af95-cd06-3bc2-4f959d99c8af",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAXWVBRVKW9",
+        "ts": "1661540115.303179",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e95b4b3f-bb45-05bd-e475-cbddcf8591e2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1661543658.108165",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f866414-a62f-6fcc-c684-4cdcd4964112",
+        "type": "message",
+        "text": "Lakes Medical Center paid by wire, applying now",
+        "user": "UHV2RFNY0HN",
+        "ts": "1661545614.208984",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa783414-c38b-5ddc-ba96-d74be240df3c",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2022",
+        "user": "UH9DL28T3MH",
+        "ts": "1661546642.018052",
+        "team": "T02BRNDLCV"
+    }
+]

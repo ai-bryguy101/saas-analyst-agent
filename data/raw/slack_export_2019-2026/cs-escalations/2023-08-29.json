@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "93a9f93c-4ff3-1ced-b14b-cc70493795ac",
+        "type": "message",
+        "text": "Renewal risk: Redstone Distribution unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1693322053.829024",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "271c0634-a4bb-468e-e399-d8dd279073a4",
+        "type": "message",
+        "text": "Renewal risk: Yarrow Health Partners Corp. unhappy with mobile app",
+        "user": "UH9DL28T3MH",
+        "ts": "1693325891.147930",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4d5aa3a-fa30-31b3-314c-52a68781e66c",
+        "type": "message",
+        "text": "Renewal risk: Clearwater Health System Co. unhappy with mobile app",
+        "user": "UT9KGXWKHLB",
+        "ts": "1693337624.753046",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4da83168-11b4-4bd9-b508-ee92f478d4a2",
+        "type": "message",
+        "text": "Renewal risk: Prairie Builders Inc. unhappy with mobile app",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1693347622.179141",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56955782-e566-d9b9-d806-383bd67131c2",
+        "type": "message",
+        "text": "Magnolia Maintenance Co Co. asking for an SLA credit",
+        "user": "UWU9WG7ECGY",
+        "ts": "1693348424.111031",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d63c3fe-938c-c94e-1170-6325480d2384",
+        "type": "message",
+        "text": "Lewis Homes Co. reporting sync failures since this morning, CSM is Kathleen Jackson",
+        "user": "U69WX6HRQNH",
+        "ts": "1693348583.298597",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "638173ed-2b7c-7bff-8e26-b1830cf15e2e",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UE49ET7WGNU",
+        "ts": "1784214482.627672",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dc19dae-639a-a1da-4fe5-fc2ab60f7586",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UR12Y3AZNKK",
+        "ts": "1784229890.879653",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "27357008-8136-8942-94ac-edcf77133495",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UDCALCM1RUG",
+        "ts": "1784243374.555733",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "47c5940f-e853-9ca8-c308-cbfd869770b5",
+        "type": "message",
+        "text": "Can someone check Heron College Holdings's invoice? They say they were double billed",
+        "user": "UCQT1GS0C0C",
+        "ts": "1665587062.500524",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32399ab0-d65d-db42-6a71-4773342f95e8",
+        "type": "message",
+        "text": "Can someone check Jessop Works Inc.'s invoice? They say they were double billed",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1665599049.358021",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e44b8d5-f380-1076-e3b2-45f4917c38c8",
+        "type": "message",
+        "text": "Can someone check Jackson Property Group Inc.'s invoice? They say they were double billed",
+        "user": "UZJU9N8CY2T",
+        "ts": "1665601871.783972",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e61e3ef6-6dd6-b4a7-4e47-6f073d6e74b9",
+        "type": "message",
+        "text": "<@UR3LDWKU006> Can someone check Wabash Restoration Corp.'s invoice? They say they were double billed",
+        "user": "U9Y2KF0S90E",
+        "ts": "1665607326.044223",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fa50cdd-3fa2-2ca7-2b5c-690a71bc2084",
+        "type": "message",
+        "text": "Bouchard Retail Group Corp. wants an exec call about the outage",
+        "user": "UVX5HCR5MMD",
+        "ts": "1665607365.363041",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c907863b-3e2a-aaa1-03b2-f87448137d9b",
+        "type": "message",
+        "text": "Marrow Mechanical asking for an SLA credit",
+        "user": "UMDHKXLV8RH",
+        "ts": "1665607418.699906",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "725378bc-7d73-b6f9-d5ce-2f4045751c94",
+        "type": "message",
+        "text": "Hawthorne Property Services Group reporting sync failures since this morning, CSM is Christina Haddad",
+        "user": "UAHZYQG5URJ",
+        "ts": "1665621135.453401",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAHZYQG5URJ",
+            "ts": "1665596162.281209"
+        }
+    }
+]

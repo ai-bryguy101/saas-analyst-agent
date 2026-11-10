@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "2d457198-12e1-2b27-94ad-9bd5c17ccf1e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1571838740.094749",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#93934 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d17c795d-07b9-c8f5-cad3-7e6ed45847b3",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UXXA9L8HH83",
+        "ts": "1571855043.791630",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19ee0b18-d990-e88d-0ae4-447193a1e4d4",
+        "type": "message",
+        "text": "deploy v8.12.6 to prod :rocket:",
+        "user": "UAGQX7APZBG",
+        "ts": "1571865743.190013",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d258310c-b49d-e988-5b50-0f89c3391237",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1571872619.704920",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#17762 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

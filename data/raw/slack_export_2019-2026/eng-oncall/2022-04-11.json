@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "4f43c06a-df8f-60ad-1eac-898814cfcada",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> cert renewal for *.brindlecove.example done",
+        "user": "UJRKGMQPU2R",
+        "ts": "1649685269.281797",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d733a420-8bae-5a57-8370-7b3042344c75",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1649694910.779911",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed59d137-9247-220b-20c9-02b9cfa44597",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1649696495.070659",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#78138 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "649ba36a-7f70-2fe3-1f2e-9fc559a29d7c",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UFGLBSDS2XV",
+        "ts": "1649701714.216566",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c46cd0be-cc9e-e4dd-32d1-f5ec9a6eac35",
+        "type": "message",
+        "text": "rolling back v5.26.2",
+        "user": "UXVNE61TTLN",
+        "ts": "1649715020.734333",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d7c88161-d0c2-0f7d-4877-33b924266aca",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1649717987.383377",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#98346 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

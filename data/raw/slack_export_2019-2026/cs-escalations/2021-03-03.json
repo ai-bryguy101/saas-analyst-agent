@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "6741b33d-5614-357d-1a5c-8411cd4e300b",
+        "type": "message",
+        "text": "Bailey Restoration LLC wants an exec call about the outage",
+        "user": "UWBW507RCA9",
+        "ts": "1614788195.383023",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UWBW507RCA9",
+            "ts": "1614794744.382454"
+        }
+    },
+    {
+        "client_msg_id": "358a7029-f4fe-f5a9-a49f-847469df6ffb",
+        "type": "message",
+        "text": "Mesa Outfitters reporting sync failures since this morning, CSM is Mei Thomas",
+        "user": "U34NH0P5TMZ",
+        "ts": "1614800305.744429",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9d0ee27-943a-1aee-9d9c-ddb2b724d2e3",
+        "type": "message",
+        "text": "Bayview Property Group Group asking for an SLA credit",
+        "user": "U7PFYH0YRRG",
+        "ts": "1614801450.586113",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c8b333a0-2e56-0c7c-0dce-0e7bd4f4a15c",
+        "type": "message",
+        "text": "Can someone check Wexford Couriers Ltd.'s invoice? They say they were double billed",
+        "user": "UB0YL0LKYC7",
+        "ts": "1614813290.258485",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0b7b597-004e-6228-0b8f-f6487449790d",
+        "type": "message",
+        "text": "Tidewater Hospitality Group asking for an SLA credit",
+        "user": "U5TERVWF7JH",
+        "ts": "1614815343.606968",
+        "team": "T02BRNDLCV"
+    }
+]

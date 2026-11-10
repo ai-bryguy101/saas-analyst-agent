@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "711ce151-3933-9891-9721-62eff9952430",
+        "type": "message",
+        "text": "Rogers Construction Co. wants an exec call about the outage",
+        "user": "UAXWVBRVKW9",
+        "ts": "1746629542.990463",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e4f87eb-35b0-6cf3-8953-f9ba9e8ba099",
+        "type": "message",
+        "text": "Lakeshore Homes Corp. wants an exec call about the outage",
+        "user": "U2CKCF24AEA",
+        "ts": "1746629997.184656",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "29522705-be71-2dfc-a0ed-fd362cab2b17",
+        "type": "message",
+        "text": "Can someone check Keystone Warehousing LLC's invoice? They say they were double billed",
+        "user": "UBHB6GTB73U",
+        "ts": "1746632433.335963",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34febe17-8d66-db90-f574-53925c0c32cb",
+        "type": "message",
+        "text": "Three Resorts asking for an SLA credit",
+        "user": "U9V01K22TU1",
+        "ts": "1746644657.893643",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40f14640-cb96-33d1-4f2e-92a3ae7b2feb",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> King Clinics reporting sync failures since this morning, CSM is Brian Calloway",
+        "user": "UG4ETD69L1D",
+        "ts": "1746645508.723958",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UG4ETD69L1D",
+            "ts": "1746649570.160872"
+        }
+    },
+    {
+        "client_msg_id": "1fb47c28-618b-4cf5-3e05-9089a242f884",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Rogers Transit Authority Holdings asking for an SLA credit",
+        "user": "UNKFW783RHY",
+        "ts": "1746653376.397797",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66680f23-dc82-436a-bcc9-9f059c28a03c",
+        "type": "message",
+        "text": "Osprey Janitorial Holdings reporting sync failures since this morning, CSM is James Hughes",
+        "user": "UXETPKNK8MV",
+        "ts": "1746655740.935385",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4a97f7c-ad2c-f355-8bf7-9fbbfaf8941d",
+        "type": "message",
+        "text": "Pioneer Freight wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1746656910.980018",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "91c86d88-079f-134b-c9fe-aabc36ab0226",
+        "type": "message",
+        "text": "Pioneer Building Services Ltd. reporting sync failures since this morning, CSM is Wei Adams",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1746657325.283438",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

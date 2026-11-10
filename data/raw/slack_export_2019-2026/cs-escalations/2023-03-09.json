@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "7327aa14-4aa2-d228-9b4e-a662494b7947",
+        "type": "message",
+        "text": "Bayview Distribution Corp. asking for an SLA credit",
+        "user": "UVX5HCR5MMD",
+        "ts": "1678391627.190259",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bd61182-9c84-6daf-5a70-5390dafaa503",
+        "type": "message",
+        "text": "Ravenwood Distribution Ltd. asking for an SLA credit",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1678401614.758865",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U6TBCUVSYPZ",
+            "ts": "1678376664.767422"
+        }
+    }
+]

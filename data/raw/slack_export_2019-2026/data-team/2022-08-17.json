@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "fbd3f2e5-0250-c6f3-116c-cd3aa703b6b9",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Dashboard refresh failed overnight",
+        "user": "U34NH0P5TMZ",
+        "ts": "1660742850.087225",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c21a6c3-1c59-45e4-c4a1-3596882a8a99",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1660752321.125248",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "418ba5a7-f880-6bce-4b00-940125a7701a",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1651678063.545477",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b08d2765-92c2-adc8-b1a9-d3e139ff7ad8",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1651683085.183638",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#27586 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c94572c0-0d51-12da-8c34-a2cf8a9f25d3",
+        "type": "message",
+        "text": "<@UVX5HCR5MMD> cert renewal for *.brindlecove.example done",
+        "user": "U5TERVWF7JH",
+        "ts": "1651685191.666595",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5TERVWF7JH",
+            "ts": "1651691212.298522"
+        }
+    },
+    {
+        "client_msg_id": "46540809-e771-4d5f-61d2-6010b5e4b5b4",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UQK194B1V43",
+        "ts": "1651687670.928745",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4893792d-732d-7e21-20d2-9e2b78ac30ad",
+        "type": "message",
+        "text": "deploy v6.39.5 to prod :rocket:",
+        "user": "UFARBQM0LCD",
+        "ts": "1651690473.340659",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b31a8fd4-c8af-1dc4-d313-c625ea46c482",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> who owns the cron for nightly exports?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1651692432.114332",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ffc81a6-6545-9cad-3cf6-2c04d96f5280",
+        "type": "message",
+        "text": "deploy v9.36.8 to prod :rocket:",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1651694133.316820",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "badf060c-f7d6-5658-0103-176e6cd730ac",
+        "type": "message",
+        "text": "rolling back v7.11.4",
+        "user": "UMXMN24FN4K",
+        "ts": "1651705056.077976",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78e6bdb4-b6e4-3ba4-40b6-ef77ea7396b5",
+        "type": "message",
+        "text": "deploy v6.38.7 to prod :rocket:",
+        "user": "U69WX6HRQNH",
+        "ts": "1651708885.774582",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bb4a338b-9894-1874-195d-ef7bd43a1e78",
+        "type": "message",
+        "text": "rolling back v6.26.9",
+        "user": "UC95B7VAFX0",
+        "ts": "1651709769.963111",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d47ab501-35a8-4f48-dd0b-a4e0d9f7e1ff",
+        "type": "message",
+        "text": "rolling back v9.15.8",
+        "user": "UNFVCYNZT6K",
+        "ts": "1651710862.143924",
+        "team": "T02BRNDLCV"
+    }
+]

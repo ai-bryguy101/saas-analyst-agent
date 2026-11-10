@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "a1fed3dc-08b5-26da-508e-ec85b1cb692c",
+        "type": "message",
+        "text": "Pioneer Retail Group Group asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1729861866.425251",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9695e09c-b7c8-c0f2-679e-ada07b6722a0",
+        "type": "message",
+        "text": "Rivers Building Services Ltd. asking for an SLA credit",
+        "user": "UXS2WD4BYRN",
+        "ts": "1729864119.216227",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2bfe8b2f-7da6-2809-f595-f0fc0f88eb31",
+        "type": "message",
+        "text": "Willow Transit Authority Holdings wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1729871903.992694",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d80c87f5-1009-d91f-68db-0d57120309f3",
+        "type": "message",
+        "text": "Renewal risk: Ravenwood Resorts Holdings unhappy with mobile app",
+        "user": "UQTUT2GDN85",
+        "ts": "1729873970.183254",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9b210d5d-f10a-fb0d-06d4-bac61ba6b588",
+        "type": "message",
+        "text": "Ramos Hotels Inc. reporting sync failures since this morning, CSM is Abigail Fenwick",
+        "user": "UUFS9CP1A17",
+        "ts": "1729896197.811352",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUFS9CP1A17",
+            "ts": "1729884853.040895"
+        }
+    }
+]

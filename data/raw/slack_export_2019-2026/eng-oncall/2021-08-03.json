@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "b3e6bd36-4e9d-4b34-1124-523a05216f0f",
+        "type": "message",
+        "text": "deploy v5.19.0 to prod :rocket:",
+        "user": "UKMQNTKUR4V",
+        "ts": "1628021253.078978",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a28d9366-c504-f7fc-b065-5acb15f3b914",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U09CZFTHQSS",
+        "ts": "1628033883.893167",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0dddf1e-668a-9f04-5cf6-2c34125a4bbb",
+        "type": "message",
+        "text": "deploy v5.36.0 to prod :rocket:",
+        "user": "UT7K74ALYGQ",
+        "ts": "1628034141.433550",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

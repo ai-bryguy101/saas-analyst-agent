@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0f76515b-d13f-36d6-c1fc-2b362bb29664",
+        "type": "message",
+        "text": "Can someone check Mesa Janitorial Co.'s invoice? They say they were double billed",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1655211938.678538",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0dc75fb7-ce44-e1e2-e932-033ec7c7ecb9",
+        "type": "message",
+        "text": "Renewal risk: Osprey Residential Inc. unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1655223188.257137",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dfba59d7-b699-c657-3db1-e5d7c09ef411",
+        "type": "message",
+        "text": "Renewal risk: Perez Construction Inc. unhappy with mobile app",
+        "user": "UQK194B1V43",
+        "ts": "1655234985.464438",
+        "team": "T02BRNDLCV"
+    }
+]

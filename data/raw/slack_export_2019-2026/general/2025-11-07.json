@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "852e0ca9-541b-5fdd-3edf-8cae16d7515e",
+        "type": "message",
+        "text": "Welcome Andrew Bailey to the Sales team!",
+        "user": "U5DYUQUF95P",
+        "ts": "1762534287.491703",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95090712-b04d-7bea-da08-fcc86c55e084",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UFNKJQT8PV1",
+        "ts": "1762544814.944943",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ffaaa86d-6131-6a66-4b16-0cd847854d65",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1762558496.076472",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "27548493-ae4b-26c3-d1e1-3e77fe123f1b",
+        "type": "message",
+        "text": "Welcome Marguerite Carter to the Support team!",
+        "user": "UUFS9CP1A17",
+        "ts": "1762562654.607726",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "32f63f7c-1b11-dc83-ebbc-f0c8f4b96292",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UVQRW5SQSEL",
+        "ts": "1606502031.046488",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "26324826-1b20-d142-c268-917cafa60210",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UA3MVBJWAHX",
+        "ts": "1606521862.625815",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

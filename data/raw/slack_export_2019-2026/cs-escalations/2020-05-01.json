@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "04319f03-6a6c-d1e4-6cf4-fee450df2816",
+        "type": "message",
+        "text": "Chavez Medical Center Corp. asking for an SLA credit",
+        "user": "UR3LDWKU006",
+        "ts": "1588359535.597960",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "180bc379-386d-e6de-b34c-d5f57891b533",
+        "type": "message",
+        "text": "Can someone check Ashford Residential LLC's invoice? They say they were double billed",
+        "user": "UH9DL28T3MH",
+        "ts": "1588365361.082867",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "76f60a13-b925-7437-2061-618f463243c5",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Can someone check Blackhawk Realty Management Inc.'s invoice? They say they were double billed",
+        "user": "URWNWW8QFM6",
+        "ts": "1588374176.159992",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

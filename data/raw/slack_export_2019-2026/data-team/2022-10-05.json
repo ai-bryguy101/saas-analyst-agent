@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "50c84909-5523-fdcf-aeda-1c9278f580d4",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "U7PFYH0YRRG",
+        "ts": "1664977163.478949",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0975634f-0f3b-03b1-37fe-2ff07d7897d9",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UV8WG09HYBP",
+        "ts": "1664987509.390304",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ed8c114-b4df-b08f-094d-d01459e3d35f",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UCQT1GS0C0C",
+        "ts": "1664995599.708478",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "898182f4-ec9a-d809-26e7-73dd5edd8bad",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> Events schema changed again (tenant_id vs account_id)",
+        "user": "UR3LDWKU006",
+        "ts": "1665000975.766822",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f27cc3a-0a3a-3e43-35f1-f04db30d772e",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UB8UH2KX2NW",
+        "ts": "1665010625.851227",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1664980414.989715"
+        }
+    },
+    {
+        "client_msg_id": "1294cffc-af2e-ac33-d5ee-268cb0ddb37b",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UFGLBSDS2XV",
+        "ts": "1665015239.410570",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d8405af-0049-d89a-2165-3779679fcd27",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U9V01K22TU1",
+        "ts": "1665017250.169545",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

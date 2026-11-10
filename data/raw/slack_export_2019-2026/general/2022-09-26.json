@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "4507c727-275a-c3b4-5a14-1893d7ce810c",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Welcome Marguerite Carter to the Customer Success team!",
+        "user": "UXVNE61TTLN",
+        "ts": "1664203034.204076",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c4039b75-94fd-9e86-e363-391e621fdafb",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> Benefits enrollment closes Friday",
+        "user": "UXS2WD4BYRN",
+        "ts": "1664206474.688315",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a1acef4-14b7-163f-8084-0ff80a9e7ed5",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U3DBR7QKZWE",
+        "ts": "1664225536.297740",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82d16c76-24ed-bd94-0ee6-dbaf93f1e972",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UV8WG09HYBP",
+        "ts": "1664227975.082246",
+        "team": "T02BRNDLCV"
+    }
+]

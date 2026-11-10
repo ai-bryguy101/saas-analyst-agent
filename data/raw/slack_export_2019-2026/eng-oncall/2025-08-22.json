@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f8d8a0c3-5384-fa19-cc3c-c72336aa4a96",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UNKFW783RHY",
+        "ts": "1755870979.680784",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bdcae472-0a53-b6a5-ee44-1bbf917d45f7",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1755883625.828062",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21777e2f-8631-239a-f15d-315feba04cf5",
+        "type": "message",
+        "text": "rolling back v5.17.0",
+        "user": "UBHB6GTB73U",
+        "ts": "1755896932.036418",
+        "team": "T02BRNDLCV"
+    }
+]

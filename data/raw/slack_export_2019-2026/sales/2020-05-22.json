@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "38049495-3b67-8426-a908-2a06e45accac",
+        "type": "message",
+        "text": "Closed Ashdown Janitorial Group! 77 seats, Starter",
+        "user": "UT9KGXWKHLB",
+        "ts": "1590163894.116506",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4cce344b-9873-0aa1-1ad6-344d7204b969",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UDCALCM1RUG",
+        "ts": "1590170446.581556",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7703982-53e2-6923-23cb-fee42a6b8648",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "U0E67MPWRXA",
+        "ts": "1590190376.800942",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e70ad0e-3c95-b450-c283-af1585a33e69",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UC95B7VAFX0",
+        "ts": "1590194096.032917",
+        "team": "T02BRNDLCV"
+    }
+]

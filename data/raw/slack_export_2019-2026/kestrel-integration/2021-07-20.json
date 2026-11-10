@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "b610c8f8-d05a-a065-484c-8d6e853bf10a",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1626788942.269485",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2aff9d46-3990-36ac-a36c-c2fd3d593f35",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U7PFYH0YRRG",
+        "ts": "1626794384.289995",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e2499b8-fbaa-3596-de5f-dadfb3639480",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UE4GTX0EXPH",
+        "ts": "1626797238.692816",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b46ce8ee-efd8-1f01-0531-f97e5519ef76",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1626800060.072695",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01e4c392-86b0-9cf3-fd74-eb46bdcdecd7",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Lantern dashboards look great on the demo tenant",
+        "user": "UR12Y3AZNKK",
+        "ts": "1626804248.542264",
+        "team": "T02BRNDLCV"
+    }
+]

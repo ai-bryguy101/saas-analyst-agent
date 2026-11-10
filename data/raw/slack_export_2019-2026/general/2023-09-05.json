@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "33a3e809-099e-6429-6057-cb91ceb816d6",
+        "type": "message",
+        "text": "Welcome Omar Kim to the Support team!",
+        "user": "UMYYLUTXG9R",
+        "ts": "1693939380.988696",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "756beca6-6c47-18af-692c-9941648b5a4f",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U09CZFTHQSS",
+        "ts": "1693943106.560389",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

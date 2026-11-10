@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "42e7ae89-ca4e-2806-b3a5-144f6122c6be",
+        "type": "message",
+        "text": "Martinez Mills Holdings wants an exec call about the outage",
+        "user": "UFULM18ZBQ6",
+        "ts": "1737560383.493738",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f9da933-61d9-d7b5-d664-c1b37e824156",
+        "type": "message",
+        "text": "Erie University Facilities Inc. wants an exec call about the outage",
+        "user": "UX84HDPARWN",
+        "ts": "1737573249.607945",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UX84HDPARWN",
+            "ts": "1737551090.844620"
+        }
+    },
+    {
+        "client_msg_id": "50e91da0-4cc4-50e8-d589-3067670a03b0",
+        "type": "message",
+        "text": "Renewal risk: Abernathy Medical Center unhappy with mobile app",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1737574771.676659",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78ffcd88-ee9b-3d0b-909b-d04bfe9fd3a2",
+        "type": "message",
+        "text": "Superior Public Works Corp. reporting sync failures since this morning, CSM is Priya Raghunathan",
+        "user": "UP51TVUPQU5",
+        "ts": "1737589619.173789",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30856737-db3d-bd38-d709-20e0340a5f17",
+        "type": "message",
+        "text": "Heron School District LLC reporting sync failures since this morning, CSM is Jean Marchetti",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1737589651.512052",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UTLU2ZXMLEL",
+            "ts": "1737565976.842602"
+        }
+    }
+]

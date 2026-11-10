@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "4d43f105-38d7-9ef6-4b22-26b59d8d6521",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "URFUZYLCAEC",
+        "ts": "1628516207.567975",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82517da0-a5ee-7f9a-b2a8-e53757f7027e",
+        "type": "message",
+        "text": "Shenandoah Realty Management Group paid by wire, applying now",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1628530663.472179",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bebd738-f0c9-c27e-8036-c7eb886bf5b7",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UFGLBSDS2XV",
+        "ts": "1628536382.759618",
+        "team": "T02BRNDLCV"
+    }
+]

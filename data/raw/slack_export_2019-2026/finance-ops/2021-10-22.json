@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "127244ca-8fe3-fa15-3571-59ba2a43b50c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UVQRW5SQSEL",
+        "ts": "1634920009.857617",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "06060de2-c3ec-583a-9a99-2dad1ce6385e",
+        "type": "message",
+        "text": "Huron Homes Holdings paid by wire, applying now",
+        "user": "UT9KGXWKHLB",
+        "ts": "1634940386.697708",
+        "team": "T02BRNDLCV"
+    }
+]

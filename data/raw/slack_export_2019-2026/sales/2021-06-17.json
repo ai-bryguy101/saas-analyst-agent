@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "4e561fd5-77e1-158a-f8e9-9b7e0de00b41",
+        "type": "message",
+        "text": "Lost Bayview Public Works Ltd. to Plinthwise on price",
+        "user": "UXVNE61TTLN",
+        "ts": "1623961450.074003",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UXVNE61TTLN",
+            "ts": "1623960512.163427"
+        }
+    },
+    {
+        "client_msg_id": "f3eb8484-5445-0468-c247-0421cb366e4d",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Pricing question: does Pro include Dispatch?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1623977233.286206",
+        "team": "T02BRNDLCV"
+    }
+]

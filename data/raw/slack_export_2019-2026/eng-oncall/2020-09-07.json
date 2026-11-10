@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "c0972c39-fd2a-767d-68d9-b341d65f5ed3",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1599502184.503213",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "354a4d4d-4f2e-954c-758e-6773f473bac1",
+        "type": "message",
+        "text": "rolling back v7.3.4",
+        "user": "UHV2RFNY0HN",
+        "ts": "1599512647.486337",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UHV2RFNY0HN",
+            "ts": "1599503566.810693"
+        }
+    }
+]

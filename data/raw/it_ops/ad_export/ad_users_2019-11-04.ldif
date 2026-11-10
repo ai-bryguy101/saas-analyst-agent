@@ -1,0 +1,1485 @@
+version: 1
+
+dn: CN=Margaret Okonkwo-Hale,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Margaret Okonkwo-Hale
+sn: Okonkwo-Hale
+givenName: Margaret
+displayName: Margaret Okonkwo-Hale
+sAMAccountName: mokonkwohale
+userPrincipalName: mokonkwohale@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BUAQAAA==
+department: Executive
+title: CEO
+userAccountControl: 512
+whenCreated: 19940301120000.0Z
+
+dn: CN=Lorraine Whitlock,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Lorraine Whitlock
+sn: Whitlock
+givenName: Lorraine
+displayName: Lorraine Whitlock
+sAMAccountName: lwhitlock
+userPrincipalName: lwhitlock@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BVgQAAA==
+department: Executive
+title: CFO
+userAccountControl: 512
+whenCreated: 20090504120000.0Z
+
+dn: CN=Gideon Ashdown,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Gideon Ashdown
+sn: Ashdown
+givenName: Gideon
+displayName: Gideon Ashdown
+sAMAccountName: gashdown
+userPrincipalName: gashdown@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BWQQAAA==
+department: Executive
+title: VP Sales
+userAccountControl: 512
+whenCreated: 20120109120000.0Z
+
+dn: CN=Priya Raghunathan,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Priya Raghunathan
+sn: Raghunathan
+givenName: Priya
+displayName: Priya Raghunathan
+sAMAccountName: praghunathan
+userPrincipalName: praghunathan@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BXAQAAA==
+department: Executive
+title: VP Customer Success
+userAccountControl: 512
+whenCreated: 20140203120000.0Z
+
+dn: CN=Tomasz Kowalski,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Tomasz Kowalski
+sn: Kowalski
+givenName: Tomasz
+displayName: Tomasz Kowalski
+sAMAccountName: tkowalski
+userPrincipalName: tkowalski@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BXwQAAA==
+department: Executive
+title: VP Engineering
+userAccountControl: 512
+whenCreated: 20160104120000.0Z
+
+dn: CN=Yuki Tanaka,OU=Disabled Users,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Yuki Tanaka
+sn: Tanaka
+givenName: Yuki
+displayName: Yuki Tanaka
+sAMAccountName: ytanaka
+userPrincipalName: ytanaka@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BaAQAAA==
+department: Engineering
+title: DBA
+userAccountControl: 514
+whenCreated: 20100816120000.0Z
+description: Termed 10/31/2019 - per HR ticket, do not delete until 90 days
+
+dn: CN=Callum MacLeod,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Callum MacLeod
+sn: MacLeod
+givenName: Callum
+displayName: Callum MacLeod
+sAMAccountName: cmacleod
+userPrincipalName: cmacleod@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BawQAAA==
+department: Engineering
+title: SRE
+userAccountControl: 512
+whenCreated: 20150302120000.0Z
+
+dn: CN=Femi Adeyemi,OU=Operations,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Femi Adeyemi
+sn: Adeyemi
+givenName: Femi
+displayName: Femi Adeyemi
+sAMAccountName: fadeyemi
+userPrincipalName: fadeyemi@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BbgQAAA==
+department: Operations
+title: RevOps Analyst
+userAccountControl: 512
+whenCreated: 20160201120000.0Z
+
+dn: CN=Ines Delacroix,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ines Delacroix
+sn: Delacroix
+givenName: Ines
+displayName: Ines Delacroix
+sAMAccountName: idelacroix
+userPrincipalName: idelacroix@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BcQQAAA==
+department: Finance
+title: Controller
+userAccountControl: 512
+whenCreated: 20130708120000.0Z
+
+dn: CN=Sofia Marchetti,OU=Disabled Users,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Sofia Marchetti
+sn: Marchetti
+givenName: Sofia
+displayName: Sofia Marchetti
+sAMAccountName: smarchetti
+userPrincipalName: smarchetti@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BdwQAAA==
+department: Customer Success
+title: Senior CSM
+userAccountControl: 514
+whenCreated: 20121001120000.0Z
+description: Termed 1/12/2018 - per HR ticket, do not delete until 90 days
+
+dn: CN=Jae-won Park,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jae-won Park
+sn: Park
+givenName: Jae-won
+displayName: Jae-won Park
+sAMAccountName: jpark
+userPrincipalName: jpark@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BegQAAA==
+department: Support
+title: Support Lead
+userAccountControl: 512
+whenCreated: 20130506120000.0Z
+
+dn: CN=Abigail Fenwick,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Abigail Fenwick
+sn: Fenwick
+givenName: Abigail
+displayName: Abigail Fenwick
+sAMAccountName: afenwick
+userPrincipalName: afenwick@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BfQQAAA==
+department: Executive
+title: General Counsel
+userAccountControl: 512
+whenCreated: 20170905120000.0Z
+
+dn: CN=Etienne Gagnon,OU=Executive,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Etienne Gagnon
+sn: Gagnon
+givenName: Etienne
+displayName: Etienne Gagnon
+sAMAccountName: egagnon
+userPrincipalName: egagnon@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BgwQAAA==
+department: Executive
+title: GM, Meridian Dispatch
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Carl Edwards,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Carl Edwards
+sn: Edwards
+givenName: Carl
+displayName: Carl Edwards
+sAMAccountName: cedwards
+userPrincipalName: cedwards@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BjwQAAA==
+department: Sales
+title: Account Executive
+userAccountControl: 512
+whenCreated: 20031127120000.0Z
+
+dn: CN=Ngozi Lefebvre,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ngozi Lefebvre
+sn: Lefebvre
+givenName: Ngozi
+displayName: Ngozi Lefebvre
+sAMAccountName: nlefebvre
+userPrincipalName: nlefebvre@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BmwQAAA==
+department: Sales
+title: Regional Director
+userAccountControl: 512
+whenCreated: 20140915120000.0Z
+
+dn: CN=Joao Cook,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Joao Cook
+sn: Cook
+givenName: Joao
+displayName: Joao Cook
+sAMAccountName: jcook
+userPrincipalName: jcook@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BoQQAAA==
+department: Sales
+title: Regional Director
+userAccountControl: 512
+whenCreated: 20140915120000.0Z
+
+dn: CN=Hamid Roberts,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Hamid Roberts
+sn: Roberts
+givenName: Hamid
+displayName: Hamid Roberts
+sAMAccountName: hroberts
+userPrincipalName: hroberts@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BpAQAAA==
+department: Sales
+title: Sales Manager
+userAccountControl: 512
+whenCreated: 20000125120000.0Z
+
+dn: CN=Peter Pham,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Peter Pham
+sn: Pham
+givenName: Peter
+displayName: Peter Pham
+sAMAccountName: ppham
+userPrincipalName: ppham@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BpwQAAA==
+department: Sales
+title: Account Executive
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Alexander Zhang,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Alexander Zhang
+sn: Zhang
+givenName: Alexander
+displayName: Alexander Zhang
+sAMAccountName: azhang
+userPrincipalName: azhang@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BsAQAAA==
+department: Sales
+title: Sales Manager
+userAccountControl: 512
+whenCreated: 20101218120000.0Z
+
+dn: CN=Renata Takahashi,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Renata Takahashi
+sn: Takahashi
+givenName: Renata
+displayName: Renata Takahashi
+sAMAccountName: rtakahashi
+userPrincipalName: rtakahashi@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BtgQAAA==
+department: Sales
+title: Sales Development Rep
+userAccountControl: 512
+whenCreated: 20090304120000.0Z
+
+dn: CN=Julie Yamamoto,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Julie Yamamoto
+sn: Yamamoto
+givenName: Julie
+displayName: Julie Yamamoto
+sAMAccountName: jyamamoto
+userPrincipalName: jyamamoto@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BuQQAAA==
+department: Sales
+title: Regional Director
+userAccountControl: 512
+whenCreated: 20051114120000.0Z
+
+dn: CN=Kathryn Lavoie,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Kathryn Lavoie
+sn: Lavoie
+givenName: Kathryn
+displayName: Kathryn Lavoie
+sAMAccountName: klavoie
+userPrincipalName: klavoie@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BvAQAAA==
+department: Sales
+title: Regional Director
+userAccountControl: 512
+whenCreated: 20190705120000.0Z
+
+dn: CN=Kathleen Martinez,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Kathleen Martinez
+sn: Martinez
+givenName: Kathleen
+displayName: Kathleen Martinez
+sAMAccountName: kmartinez
+userPrincipalName: kmartinez@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BvwQAAA==
+department: Sales
+title: Account Executive
+userAccountControl: 512
+whenCreated: 20090816120000.0Z
+
+dn: CN=Nicole Johansson,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Nicole Johansson
+sn: Johansson
+givenName: Nicole
+displayName: Nicole Johansson
+sAMAccountName: njohansson
+userPrincipalName: njohansson@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BwgQAAA==
+department: Sales
+title: Sales Manager
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Jean Marchetti,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jean Marchetti
+sn: Marchetti
+givenName: Jean
+displayName: Jean Marchetti
+sAMAccountName: jmarchetti
+userPrincipalName: jmarchetti@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BxQQAAA==
+department: Sales
+title: Senior Account Executive
+userAccountControl: 512
+whenCreated: 20001010120000.0Z
+
+dn: CN=Megan Ramirez,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Megan Ramirez
+sn: Ramirez
+givenName: Megan
+displayName: Megan Ramirez
+sAMAccountName: mramirez
+userPrincipalName: mramirez@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BzgQAAA==
+department: Sales
+title: Senior Account Executive
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Emma Young,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Emma Young
+sn: Young
+givenName: Emma
+displayName: Emma Young
+sAMAccountName: eyoung
+userPrincipalName: eyoung@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B1wQAAA==
+department: Sales
+title: Senior Account Executive
+userAccountControl: 512
+whenCreated: 19970518120000.0Z
+
+dn: CN=Willie Lindqvist,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Willie Lindqvist
+sn: Lindqvist
+givenName: Willie
+displayName: Willie Lindqvist
+sAMAccountName: wlindqvist
+userPrincipalName: wlindqvist@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B3QQAAA==
+department: Sales
+title: Sales Manager
+userAccountControl: 512
+whenCreated: 20140128120000.0Z
+
+dn: CN=Janice Mendoza,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Janice Mendoza
+sn: Mendoza
+givenName: Janice
+displayName: Janice Mendoza
+sAMAccountName: jmendoza
+userPrincipalName: jmendoza@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B4wQAAA==
+department: Sales
+title: Senior Account Executive
+userAccountControl: 512
+whenCreated: 20191003120000.0Z
+
+dn: CN=Joyce Okonkwo-Hale,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Joyce Okonkwo-Hale
+sn: Okonkwo-Hale
+givenName: Joyce
+displayName: Joyce Okonkwo-Hale
+sAMAccountName: jokonkwohale
+userPrincipalName: jokonkwohale@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B6QQAAA==
+department: Sales
+title: Sales Development Rep
+userAccountControl: 512
+whenCreated: 20141015120000.0Z
+
+dn: CN=Alan Carter,OU=Sales,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Alan Carter
+sn: Carter
+givenName: Alan
+displayName: Alan Carter
+sAMAccountName: acarter
+userPrincipalName: acarter@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B7AQAAA==
+department: Sales
+title: Sales Manager
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Genevieve Sanders,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Genevieve Sanders
+sn: Sanders
+givenName: Genevieve
+displayName: Genevieve Sanders
+sAMAccountName: gsanders
+userPrincipalName: gsanders@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B+wQAAA==
+department: Customer Success
+title: Renewals Manager
+userAccountControl: 512
+whenCreated: 19990830120000.0Z
+
+dn: CN=Brandon Price,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Brandon Price
+sn: Price
+givenName: Brandon
+displayName: Brandon Price
+sAMAccountName: bprice
+userPrincipalName: bprice@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B/gQAAA==
+department: Customer Success
+title: Customer Success Manager
+userAccountControl: 512
+whenCreated: 20140915120000.0Z
+
+dn: CN=Robert Gomez,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Robert Gomez
+sn: Gomez
+givenName: Robert
+displayName: Robert Gomez
+sAMAccountName: rgomez
+userPrincipalName: rgomez@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BBAUAAA==
+department: Customer Success
+title: Customer Success Manager
+userAccountControl: 512
+whenCreated: 20051013120000.0Z
+
+dn: CN=Thomas Brown,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Thomas Brown
+sn: Brown
+givenName: Thomas
+displayName: Thomas Brown
+sAMAccountName: tbrown
+userPrincipalName: tbrown@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BBwUAAA==
+department: Customer Success
+title: Senior CSM
+userAccountControl: 512
+whenCreated: 19961224120000.0Z
+
+dn: CN=Aaron Edwards,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Aaron Edwards
+sn: Edwards
+givenName: Aaron
+displayName: Aaron Edwards
+sAMAccountName: aedwards
+userPrincipalName: aedwards@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BFgUAAA==
+department: Customer Success
+title: Senior CSM
+userAccountControl: 512
+whenCreated: 20140406120000.0Z
+
+dn: CN=Mei Thomas,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Mei Thomas
+sn: Thomas
+givenName: Mei
+displayName: Mei Thomas
+sAMAccountName: mthomas
+userPrincipalName: mthomas@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BHAUAAA==
+department: Customer Success
+title: Senior CSM
+userAccountControl: 512
+whenCreated: 20160809120000.0Z
+
+dn: CN=Ryan Moore,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ryan Moore
+sn: Moore
+givenName: Ryan
+displayName: Ryan Moore
+sAMAccountName: rmoore
+userPrincipalName: rmoore@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BHwUAAA==
+department: Customer Success
+title: Onboarding Specialist
+userAccountControl: 512
+whenCreated: 20190706120000.0Z
+
+dn: CN=Frank Quillfeather,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Frank Quillfeather
+sn: Quillfeather
+givenName: Frank
+displayName: Frank Quillfeather
+sAMAccountName: fquillfeather
+userPrincipalName: fquillfeather@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BJQUAAA==
+department: Customer Success
+title: Customer Success Manager
+userAccountControl: 512
+whenCreated: 20050604120000.0Z
+
+dn: CN=Lawrence Fitzgerald,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Lawrence Fitzgerald
+sn: Fitzgerald
+givenName: Lawrence
+displayName: Lawrence Fitzgerald
+sAMAccountName: lfitzgerald
+userPrincipalName: lfitzgerald@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BKAUAAA==
+department: Customer Success
+title: Customer Success Manager
+userAccountControl: 512
+whenCreated: 20061001120000.0Z
+
+dn: CN=Kathleen Jackson,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Kathleen Jackson
+sn: Jackson
+givenName: Kathleen
+displayName: Kathleen Jackson
+sAMAccountName: kjackson
+userPrincipalName: kjackson@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BLgUAAA==
+department: Customer Success
+title: Customer Success Manager
+userAccountControl: 512
+whenCreated: 20140915120000.0Z
+
+dn: CN=Gabriel Morgan,OU=CustomerSuccess,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Gabriel Morgan
+sn: Morgan
+givenName: Gabriel
+displayName: Gabriel Morgan
+sAMAccountName: gmorgan
+userPrincipalName: gmorgan@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BMQUAAA==
+department: Customer Success
+title: Onboarding Specialist
+userAccountControl: 512
+whenCreated: 20010602120000.0Z
+
+dn: CN=Brian Calloway,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Brian Calloway
+sn: Calloway
+givenName: Brian
+displayName: Brian Calloway
+sAMAccountName: bcalloway
+userPrincipalName: bcalloway@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BOgUAAA==
+department: Support
+title: Support Lead
+userAccountControl: 512
+whenCreated: 19960705120000.0Z
+
+dn: CN=Jason Garcia,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jason Garcia
+sn: Garcia
+givenName: Jason
+displayName: Jason Garcia
+sAMAccountName: jgarcia
+userPrincipalName: jgarcia@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BQwUAAA==
+department: Support
+title: Support Engineer
+userAccountControl: 512
+whenCreated: 20180418120000.0Z
+
+dn: CN=Charlotte Park,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Charlotte Park
+sn: Park
+givenName: Charlotte
+displayName: Charlotte Park
+sAMAccountName: cpark
+userPrincipalName: cpark@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BRgUAAA==
+department: Support
+title: Tier 2 Support
+userAccountControl: 512
+whenCreated: 20141024120000.0Z
+
+dn: CN=Patricia Reed,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Patricia Reed
+sn: Reed
+givenName: Patricia
+displayName: Patricia Reed
+sAMAccountName: preed
+userPrincipalName: preed@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BTAUAAA==
+department: Support
+title: Support Engineer
+userAccountControl: 512
+whenCreated: 20080604120000.0Z
+
+dn: CN=Pamela Huang,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Pamela Huang
+sn: Huang
+givenName: Pamela
+displayName: Pamela Huang
+sAMAccountName: phuang
+userPrincipalName: phuang@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BWAUAAA==
+department: Support
+title: Support Engineer
+userAccountControl: 512
+whenCreated: 20161126120000.0Z
+
+dn: CN=Christina Haddad,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Christina Haddad
+sn: Haddad
+givenName: Christina
+displayName: Christina Haddad
+sAMAccountName: chaddad
+userPrincipalName: chaddad@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BZwUAAA==
+department: Support
+title: Senior Support Engineer
+userAccountControl: 512
+whenCreated: 20170408120000.0Z
+
+dn: CN=Chidi Gutierrez,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Chidi Gutierrez
+sn: Gutierrez
+givenName: Chidi
+displayName: Chidi Gutierrez
+sAMAccountName: cgutierrez
+userPrincipalName: cgutierrez@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BagUAAA==
+department: Support
+title: Tier 2 Support
+userAccountControl: 512
+whenCreated: 20040113120000.0Z
+
+dn: CN=David Martin,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: David Martin
+sn: Martin
+givenName: David
+displayName: David Martin
+sAMAccountName: dmartin
+userPrincipalName: dmartin@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BcwUAAA==
+department: Support
+title: Senior Support Engineer
+userAccountControl: 512
+whenCreated: 20090223120000.0Z
+
+dn: CN=Philip Fenwick,OU=Disabled Users,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Philip Fenwick
+sn: Fenwick
+givenName: Philip
+displayName: Philip Fenwick
+sAMAccountName: pfenwick
+userPrincipalName: pfenwick@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BdgUAAA==
+department: Support
+title: Support Engineer
+userAccountControl: 514
+whenCreated: 20090202120000.0Z
+description: Termed 1/24/2018 - per HR ticket, do not delete until 90 days
+
+dn: CN=John Lavoie,OU=Support,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: John Lavoie
+sn: Lavoie
+givenName: John
+displayName: John Lavoie
+sAMAccountName: jlavoie
+userPrincipalName: jlavoie@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BfwUAAA==
+department: Support
+title: Senior Support Engineer
+userAccountControl: 512
+whenCreated: 20090614120000.0Z
+
+dn: CN=Donald MacLeod,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Donald MacLeod
+sn: MacLeod
+givenName: Donald
+displayName: Donald MacLeod
+sAMAccountName: dmacleod
+userPrincipalName: dmacleod@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BggUAAA==
+department: Engineering
+title: Senior Software Engineer
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Betty Nowak,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Betty Nowak
+sn: Nowak
+givenName: Betty
+displayName: Betty Nowak
+sAMAccountName: bnowak
+userPrincipalName: bnowak@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BiAUAAA==
+department: Engineering
+title: SRE
+userAccountControl: 512
+whenCreated: 20040616120000.0Z
+
+dn: CN=Tyler Scott,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Tyler Scott
+sn: Scott
+givenName: Tyler
+displayName: Tyler Scott
+sAMAccountName: tscott
+userPrincipalName: tscott@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BjgUAAA==
+department: Engineering
+title: SRE
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Callum Ross,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Callum Ross
+sn: Ross
+givenName: Callum
+displayName: Callum Ross
+sAMAccountName: cross
+userPrincipalName: cross@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BlAUAAA==
+department: Engineering
+title: Staff Engineer
+userAccountControl: 512
+whenCreated: 19960107120000.0Z
+
+dn: CN=Janice Cook,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Janice Cook
+sn: Cook
+givenName: Janice
+displayName: Janice Cook
+sAMAccountName: jcook
+userPrincipalName: jcook@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BlwUAAA==
+department: Engineering
+title: Staff Engineer
+userAccountControl: 512
+whenCreated: 20041203120000.0Z
+
+dn: CN=Jack Peterson,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jack Peterson
+sn: Peterson
+givenName: Jack
+displayName: Jack Peterson
+sAMAccountName: jpeterson
+userPrincipalName: jpeterson@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BnQUAAA==
+department: Engineering
+title: Senior Software Engineer
+userAccountControl: 512
+whenCreated: 20140122120000.0Z
+
+dn: CN=Renata Vance,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Renata Vance
+sn: Vance
+givenName: Renata
+displayName: Renata Vance
+sAMAccountName: rvance
+userPrincipalName: rvance@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BowUAAA==
+department: Engineering
+title: SRE
+userAccountControl: 512
+whenCreated: 20141030120000.0Z
+
+dn: CN=Peter Bennett,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Peter Bennett
+sn: Bennett
+givenName: Peter
+displayName: Peter Bennett
+sAMAccountName: pbennett
+userPrincipalName: pbennett@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BpgUAAA==
+department: Engineering
+title: Software Engineer
+userAccountControl: 512
+whenCreated: 20140915120000.0Z
+
+dn: CN=Ashley Walker,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ashley Walker
+sn: Walker
+givenName: Ashley
+displayName: Ashley Walker
+sAMAccountName: awalker
+userPrincipalName: awalker@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BqQUAAA==
+department: Engineering
+title: SRE
+userAccountControl: 512
+whenCreated: 20040301120000.0Z
+
+dn: CN=Ngozi Jones,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ngozi Jones
+sn: Jones
+givenName: Ngozi
+displayName: Ngozi Jones
+sAMAccountName: njones
+userPrincipalName: njones@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BrAUAAA==
+department: Engineering
+title: DBA
+userAccountControl: 512
+whenCreated: 20060131120000.0Z
+
+dn: CN=Lauren Park,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Lauren Park
+sn: Park
+givenName: Lauren
+displayName: Lauren Park
+sAMAccountName: lpark
+userPrincipalName: lpark@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BuwUAAA==
+department: Engineering
+title: DBA
+userAccountControl: 512
+whenCreated: 19961112120000.0Z
+
+dn: CN=Amara Brown,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Amara Brown
+sn: Brown
+givenName: Amara
+displayName: Amara Brown
+sAMAccountName: abrown
+userPrincipalName: abrown@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BwQUAAA==
+department: Engineering
+title: Software Engineer
+userAccountControl: 512
+whenCreated: 20190502120000.0Z
+
+dn: CN=Margaret Roberts,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Margaret Roberts
+sn: Roberts
+givenName: Margaret
+displayName: Margaret Roberts
+sAMAccountName: mroberts
+userPrincipalName: mroberts@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BxAUAAA==
+department: Engineering
+title: Staff Engineer
+userAccountControl: 512
+whenCreated: 20161130120000.0Z
+
+dn: CN=Wei Adams,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Wei Adams
+sn: Adams
+givenName: Wei
+displayName: Wei Adams
+sAMAccountName: wadams
+userPrincipalName: wadams@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BxwUAAA==
+department: Engineering
+title: Engineering Manager
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Zachary Romano,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Zachary Romano
+sn: Romano
+givenName: Zachary
+displayName: Zachary Romano
+sAMAccountName: zromano
+userPrincipalName: zromano@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BygUAAA==
+department: Engineering
+title: Staff Engineer
+userAccountControl: 512
+whenCreated: 20171111120000.0Z
+
+dn: CN=Vincent Dubois,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Vincent Dubois
+sn: Dubois
+givenName: Vincent
+displayName: Vincent Dubois
+sAMAccountName: vdubois
+userPrincipalName: vdubois@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BzQUAAA==
+department: Engineering
+title: Senior Software Engineer
+userAccountControl: 512
+whenCreated: 20110813120000.0Z
+
+dn: CN=Jordan Ingleby,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jordan Ingleby
+sn: Ingleby
+givenName: Jordan
+displayName: Jordan Ingleby
+sAMAccountName: jingleby
+userPrincipalName: jingleby@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B0wUAAA==
+department: Engineering
+title: Staff Engineer
+userAccountControl: 512
+whenCreated: 20180201120000.0Z
+
+dn: CN=Elizabeth Lopez,OU=Disabled Users,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Elizabeth Lopez
+sn: Lopez
+givenName: Elizabeth
+displayName: Elizabeth Lopez
+sAMAccountName: elopez
+userPrincipalName: elopez@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B3wUAAA==
+department: Engineering
+title: DBA
+userAccountControl: 514
+whenCreated: 20141221120000.0Z
+description: Termed 9/25/2019 - per HR ticket, do not delete until 90 days
+
+dn: CN=Joe Halvorsen,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Joe Halvorsen
+sn: Halvorsen
+givenName: Joe
+displayName: Joe Halvorsen
+sAMAccountName: jhalvorsen
+userPrincipalName: jhalvorsen@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B6AUAAA==
+department: Engineering
+title: DBA
+userAccountControl: 512
+whenCreated: 20190116120000.0Z
+
+dn: CN=Denise Chen,OU=Disabled Users,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Denise Chen
+sn: Chen
+givenName: Denise
+displayName: Denise Chen
+sAMAccountName: dchen
+userPrincipalName: dchen@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B6wUAAA==
+department: Engineering
+title: Engineering Manager
+userAccountControl: 514
+whenCreated: 20090306120000.0Z
+description: Termed 1/12/2018 - per HR ticket, do not delete until 90 days
+
+dn: CN=Angela Okafor,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Angela Okafor
+sn: Okafor
+givenName: Angela
+displayName: Angela Okafor
+sAMAccountName: aokafor
+userPrincipalName: aokafor@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B8QUAAA==
+department: Engineering
+title: DBA
+userAccountControl: 512
+whenCreated: 20160521120000.0Z
+
+dn: CN=Ryan Iyer,OU=Engineering,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ryan Iyer
+sn: Iyer
+givenName: Ryan
+displayName: Ryan Iyer
+sAMAccountName: riyer
+userPrincipalName: riyer@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B9AUAAA==
+department: Engineering
+title: DBA
+userAccountControl: 512
+whenCreated: 20180905120000.0Z
+
+dn: CN=Omar Kim,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Omar Kim
+sn: Kim
+givenName: Omar
+displayName: Omar Kim
+sAMAccountName: okim
+userPrincipalName: okim@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4B+gUAAA==
+department: Finance
+title: Controller
+userAccountControl: 512
+whenCreated: 20100319120000.0Z
+
+dn: CN=Ines Johansson,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ines Johansson
+sn: Johansson
+givenName: Ines
+displayName: Ines Johansson
+sAMAccountName: ijohansson
+userPrincipalName: ijohansson@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BAAYAAA==
+department: Finance
+title: AR Specialist
+userAccountControl: 512
+whenCreated: 20180818120000.0Z
+
+dn: CN=Walter Ortiz,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Walter Ortiz
+sn: Ortiz
+givenName: Walter
+displayName: Walter Ortiz
+sAMAccountName: wortiz
+userPrincipalName: wortiz@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BBgYAAA==
+department: Finance
+title: Staff Accountant
+userAccountControl: 512
+whenCreated: 20060623120000.0Z
+
+dn: CN=Andrew Bailey,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Andrew Bailey
+sn: Bailey
+givenName: Andrew
+displayName: Andrew Bailey
+sAMAccountName: abailey
+userPrincipalName: abailey@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BCQYAAA==
+department: Finance
+title: AR Specialist
+userAccountControl: 512
+whenCreated: 20161212120000.0Z
+
+dn: CN=Marguerite Carter,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Marguerite Carter
+sn: Carter
+givenName: Marguerite
+displayName: Marguerite Carter
+sAMAccountName: mcarter
+userPrincipalName: mcarter@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BDAYAAA==
+department: Finance
+title: AR Specialist
+userAccountControl: 512
+whenCreated: 20180402120000.0Z
+
+dn: CN=Brenda Rogers,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Brenda Rogers
+sn: Rogers
+givenName: Brenda
+displayName: Brenda Rogers
+sAMAccountName: brogers
+userPrincipalName: brogers@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BEgYAAA==
+department: Finance
+title: Controller
+userAccountControl: 512
+whenCreated: 20001125120000.0Z
+
+dn: CN=Minh Ruiz,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Minh Ruiz
+sn: Ruiz
+givenName: Minh
+displayName: Minh Ruiz
+sAMAccountName: mruiz
+userPrincipalName: mruiz@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BFQYAAA==
+department: Finance
+title: Billing Specialist
+userAccountControl: 512
+whenCreated: 19980405120000.0Z
+
+dn: CN=Dennis Boateng,OU=Finance,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Dennis Boateng
+sn: Boateng
+givenName: Dennis
+displayName: Dennis Boateng
+sAMAccountName: dboateng
+userPrincipalName: dboateng@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BGAYAAA==
+department: Finance
+title: Billing Specialist
+userAccountControl: 512
+whenCreated: 20170422120000.0Z
+
+dn: CN=Desmond McCarthy,OU=Operations,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Desmond McCarthy
+sn: McCarthy
+givenName: Desmond
+displayName: Desmond McCarthy
+sAMAccountName: dmccarthy
+userPrincipalName: dmccarthy@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BJwYAAA==
+department: Operations
+title: IT Administrator
+userAccountControl: 512
+whenCreated: 19980406120000.0Z
+
+dn: CN=Aaron Flores,OU=Operations,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Aaron Flores
+sn: Flores
+givenName: Aaron
+displayName: Aaron Flores
+sAMAccountName: aflores
+userPrincipalName: aflores@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BLQYAAA==
+department: Operations
+title: Office Manager
+userAccountControl: 512
+whenCreated: 19960710120000.0Z
+
+dn: CN=Pamela Gray,OU=Operations,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Pamela Gray
+sn: Gray
+givenName: Pamela
+displayName: Pamela Gray
+sAMAccountName: pgray
+userPrincipalName: pgray@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BMAYAAA==
+department: Operations
+title: Mainframe Operator
+userAccountControl: 512
+whenCreated: 20150507120000.0Z
+
+dn: CN=Shirley Price-Jones,OU=Operations,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Shirley Price-Jones
+sn: Price-Jones
+givenName: Shirley
+displayName: Shirley Price-Jones
+sAMAccountName: spricejones
+userPrincipalName: spricejones@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BMwYAAA==
+department: Operations
+title: Mainframe Operator
+userAccountControl: 512
+whenCreated: 20180921120000.0Z
+
+dn: CN=Anthony Ellsworth,OU=Operations,OU=Staff,DC=corp,DC=brindlecove,DC=example
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Anthony Ellsworth
+sn: Ellsworth
+givenName: Anthony
+displayName: Anthony Ellsworth
+sAMAccountName: aellsworth
+userPrincipalName: aellsworth@corp.brindlecove.example
+objectSid:: AQUAAAAAAAUVAAAAx/f+13x3VciUWs4BOQYAAA==
+department: Operations
+title: RevOps Analyst
+userAccountControl: 512
+whenCreated: 20111013120000.0Z

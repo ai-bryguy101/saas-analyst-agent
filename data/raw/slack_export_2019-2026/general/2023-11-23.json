@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "5572c38d-227c-7a45-7ef1-ccdfccd66eec",
+        "type": "message",
+        "text": "Welcome John Lavoie to the Customer Success team!",
+        "user": "U5X9PNA34DU",
+        "ts": "1700746282.751491",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ef2c55f4-69e7-5bd6-3b5c-7c4655736521",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UT9KGXWKHLB",
+        "ts": "1700747771.955817",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7638cbb8-6f47-56cb-b19b-ee9f3401b41e",
+        "type": "message",
+        "text": "Welcome Nicole Johansson to the Executive team!",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1700767474.632121",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5869bb87-3e52-a18d-c526-427b8a020ab0",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UXS2WD4BYRN",
+        "ts": "1700773578.905466",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21a4fca1-c2ff-d51f-3409-dd899e7d6b55",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UYFL6320JLT",
+        "ts": "1700785594.973431",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

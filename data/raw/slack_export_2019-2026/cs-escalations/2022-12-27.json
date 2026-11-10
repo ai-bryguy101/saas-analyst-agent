@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "ff6d16ec-ee52-3a3c-7100-8c4237975410",
+        "type": "message",
+        "text": "Renewal risk: Willow Health System Holdings unhappy with mobile app",
+        "user": "UB8UH2KX2NW",
+        "ts": "1672149388.596435",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebc6a43c-f324-e88d-f7ac-f0bac9f61393",
+        "type": "message",
+        "text": "Renewal risk: Bluewater Freight Corp. unhappy with mobile app",
+        "user": "UT7K74ALYGQ",
+        "ts": "1672166612.052349",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6ef45560-414e-96c5-ad3d-6185742d18e1",
+        "type": "message",
+        "text": "Can someone check Wabash Restoration Corp.'s invoice? They say they were double billed",
+        "user": "UFULM18ZBQ6",
+        "ts": "1672168653.789208",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFULM18ZBQ6",
+            "ts": "1672186366.509357"
+        }
+    },
+    {
+        "client_msg_id": "80ac1ed7-68d7-685f-8906-9c871cf12b0d",
+        "type": "message",
+        "text": "Cornerstone Hospital reporting sync failures since this morning, CSM is Nicole Johansson",
+        "user": "UXVNE61TTLN",
+        "ts": "1672170252.451880",
+        "team": "T02BRNDLCV"
+    }
+]

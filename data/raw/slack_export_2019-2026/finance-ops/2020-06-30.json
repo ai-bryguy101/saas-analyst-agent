@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "c4f2a685-f0c4-8d82-e178-898a4da90dc3",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U8TVGALMJLQ",
+        "ts": "1593528105.072093",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c419655d-b47a-ad34-3161-b7a154afb243",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2020",
+        "user": "UZACKQ1VXCH",
+        "ts": "1593531299.118834",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "ad7ce754-03c2-8616-ee8a-31ef4f29cac6",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMYYLUTXG9R",
+        "ts": "1677781589.927283",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb80a0e8-e1f7-6365-eead-260b8fe5994a",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UL20M69UM76",
+        "ts": "1677791881.717072",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "0a29214f-7727-ffb4-8fb3-34a369ebb328",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1780930446.068291",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#84872 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "664c7a1e-0653-d684-e842-87a70db9f999",
+        "type": "message",
+        "text": "rolling back v6.25.6",
+        "user": "UPHFQAHDPSK",
+        "ts": "1780930674.262557",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f235ead-d02d-5b63-ff45-c62e07d22faa",
+        "type": "message",
+        "text": "deploy v8.25.4 to prod :rocket:",
+        "user": "UJKZ2R47YW9",
+        "ts": "1780931556.411657",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "USW7BR7KTST"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfffe5a2-3f4f-d7f5-ec03-b12c2b59f66a",
+        "type": "message",
+        "text": "deploy v7.39.9 to prod :rocket:",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1780936521.730438",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9917fb69-82d8-37f5-c84f-c77c76ef10e5",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UQTUT2GDN85",
+        "ts": "1780938465.571522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4497bc2f-fd25-a5f2-b1bd-d3a310c409a5",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UFWAQ6E76D6",
+        "ts": "1780950525.791018",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "24003207-9bc2-57a8-54ea-7174efee4f13",
+        "type": "message",
+        "text": "<@USW7BR7KTST> rolling back v9.32.2",
+        "user": "UYFL6320JLT",
+        "ts": "1780958539.022831",
+        "team": "T02BRNDLCV"
+    }
+]

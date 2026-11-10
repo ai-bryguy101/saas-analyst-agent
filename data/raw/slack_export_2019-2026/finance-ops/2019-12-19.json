@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "dd8375b5-523a-4af3-3cd2-33b1aff4d3d1",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U3KL08VJD8C",
+        "ts": "1576761501.095703",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9e411b3-45a4-2017-e29c-b9daa01e86cb",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1576769169.177828",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04369d94-61aa-cad7-0c83-791511519966",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U5DYUQUF95P",
+        "ts": "1576772851.479395",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b43217dd-595c-68d9-4101-57bda854f5ed",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UUFS9CP1A17",
+        "ts": "1576780019.743588",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b4f34ea6-1f60-4e71-c471-b51edd79fc00",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U22GUF0P303",
+        "ts": "1576799655.630604",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1429c172-9bba-2e3f-7423-cbd6e69a3eb2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1576800131.712967",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1576769154.810107"
+        }
+    },
+    {
+        "client_msg_id": "0813005d-69dc-2d10-09ea-29e30d33e7a4",
+        "type": "message",
+        "text": "King Restoration paid by wire, applying now",
+        "user": "UXXA9L8HH83",
+        "ts": "1576801196.358400",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

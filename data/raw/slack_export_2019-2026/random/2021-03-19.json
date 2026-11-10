@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "2b6c02c4-5b53-f3f9-e341-aa8232437e9b",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1616172350.496807",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eca2d95f-5a81-a1b3-e39d-e93779ee6843",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UBHB6GTB73U",
+        "ts": "1616175601.458973",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0ff00c1-0039-45ba-2b91-4436d2d86efa",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1616185678.542003",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ed1439b-8871-6bb5-e7b2-cc9de08f4326",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U9V01K22TU1",
+        "ts": "1616189523.692313",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1616166793.289988"
+        }
+    },
+    {
+        "client_msg_id": "00419155-3f5a-41a1-4a67-ce11c4633df9",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UB8UH2KX2NW",
+        "ts": "1616190407.365277",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1616169527.960743"
+        }
+    }
+]

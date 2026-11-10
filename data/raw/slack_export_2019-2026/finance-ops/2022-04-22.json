@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "b46f7ab8-2263-b9ad-0a75-5215e07c7585",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3DBR7QKZWE",
+        "ts": "1650636766.082267",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "010908eb-eea6-b479-9ef5-2d17f9bd86f9",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2022",
+        "user": "U5HQ6U91D2E",
+        "ts": "1650651355.608779",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "312a0028-20c3-af53-8b5d-ed7e5ba3871f",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2022",
+        "user": "U8SR98620D7",
+        "ts": "1650655599.307914",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0099db14-5ccd-71ab-f9cc-3d2886b7a42c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1650656082.777901",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6e92726-cd39-d9cb-0f75-d452d0e1817d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3EQ075NUYR",
+        "ts": "1650664126.028033",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc309356-1662-8b37-5954-5f8202dd86cb",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2022",
+        "user": "UJRKGMQPU2R",
+        "ts": "1650665634.964356",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c18c98ed-bad4-c769-cbe8-918fa5472cf2",
+        "type": "message",
+        "text": "AR aging is up, Torres Clinics Corp. is 90+ days",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1650666128.201969",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc45aa14-aa01-f7d0-d8ed-c4f7d2904d72",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQTUT2GDN85",
+        "ts": "1650667534.736883",
+        "team": "T02BRNDLCV"
+    }
+]

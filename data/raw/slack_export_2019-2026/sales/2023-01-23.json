@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "afa7f49e-4c1a-a8fd-2e7d-847eaf7723eb",
+        "type": "message",
+        "text": "Ravenwood Stores wants a discount, how far can I go?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1674508111.373912",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9739f6a9-62d1-25fe-a48f-654d7b4ba996",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "UVQRW5SQSEL",
+        "ts": "1674509433.042099",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4c36130-f510-cbd4-4765-6ecba98969b8",
+        "type": "message",
+        "text": "Lost Wang Township Group to Plinthwise on price",
+        "user": "UZJU9N8CY2T",
+        "ts": "1674514427.841323",
+        "team": "T02BRNDLCV"
+    }
+]

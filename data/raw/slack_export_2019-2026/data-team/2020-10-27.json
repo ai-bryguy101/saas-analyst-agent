@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "902675e5-039c-9d04-ffe7-f39b26553875",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U69WX6HRQNH",
+        "ts": "1603820977.489745",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f427924-a02d-2bc3-c1d6-67acffd2d1c4",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UBHB6GTB73U",
+        "ts": "1603823276.488072",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4e21bb81-0354-67eb-f1d1-18ecc1424cd1",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1603828218.396065",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4550a54a-67fb-456d-db69-526903fd1f00",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UNPKZYBKYGA",
+        "ts": "1603846673.132199",
+        "team": "T02BRNDLCV"
+    }
+]

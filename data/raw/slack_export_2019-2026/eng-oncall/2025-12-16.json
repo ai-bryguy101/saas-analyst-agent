@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "60128a6b-0a98-e638-f2ff-170c454782af",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3KL08VJD8C",
+        "ts": "1765891855.482615",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf93504b-b1b6-b851-1daa-8bd05900cab7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765893449.669333",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#91061 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "590ec9b4-7ab7-beb4-6b8e-955f7507aefc",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> postmortem doc for yesterday is up",
+        "user": "UZJU9N8CY2T",
+        "ts": "1765893928.642330",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23844ab7-ebbf-2a88-de41-eef879528424",
+        "type": "message",
+        "text": "deploy v7.21.2 to prod :rocket:",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1765898246.419669",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "225cbab9-d11c-1ace-b016-21f204be8d27",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765899411.041627",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#91615 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e8ee405-51c7-58ee-1940-0310abc4298b",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5DYUQUF95P",
+        "ts": "1765901409.515765",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5DYUQUF95P",
+            "ts": "1765897126.969210"
+        }
+    },
+    {
+        "client_msg_id": "88672b02-b83d-264f-7aa0-92093888eb8f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765902122.997806",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#93015 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff1dc8ff-0667-fb9e-9764-c51f5ddc2df7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765904588.232899",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#22253 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a202c42-905e-cdae-183c-993d57815d2b",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFJUKVTAA1B",
+        "ts": "1765905281.614684",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02acf573-6dea-1401-8b15-974a3e3140f9",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U5DYUQUF95P",
+        "ts": "1765907642.741636",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b024dfa8-d68a-3388-e1a9-6f71b71e9026",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765908212.001491",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#20246 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b36723ee-9a32-aaa5-7214-d0f7266660c1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765909360.981190",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#11746 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59f9da36-9e76-ef71-cdd3-9d9fe16eae37",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UR3LDWKU006",
+        "ts": "1765912950.332124",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UR3LDWKU006",
+            "ts": "1765932568.570275"
+        }
+    },
+    {
+        "client_msg_id": "d75e26dd-9980-f26b-393c-26e4e2019578",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1765914317.517223",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#44318 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fcea8f8d-c22e-a7b8-8aa9-430828ec0873",
+        "type": "message",
+        "text": "rolling back v7.24.9",
+        "user": "UXETPKNK8MV",
+        "ts": "1765914841.410671",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXETPKNK8MV",
+            "ts": "1765918934.800312"
+        }
+    },
+    {
+        "client_msg_id": "a9a2f558-8fe0-3631-4062-df4350da097a",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> deploy v9.36.2 to prod :rocket:",
+        "user": "U34NH0P5TMZ",
+        "ts": "1765917894.575574",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86aca655-6f66-658a-7131-d6261f19c462",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U2LMMLL4F31",
+        "ts": "1765920487.827164",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16f34cb0-1303-16c8-49f8-9f7f70575af8",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFWAQ6E76D6",
+        "ts": "1765920746.154946",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f846958-67aa-f872-5da7-528de5281113",
+        "type": "message",
+        "text": "deploy v7.31.0 to prod :rocket:",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1765925578.258995",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e2ef291-187c-5ae4-2c13-c6799a16eff8",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UMYYLUTXG9R",
+        "ts": "1765925592.956490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1416cfdd-a562-2161-a851-f4b75fe63266",
+        "type": "message",
+        "text": "deploy v9.12.8 to prod :rocket:",
+        "user": "UUFS9CP1A17",
+        "ts": "1765926018.057467",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fd56645-52ba-ca75-d17d-001a16ff89a1",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U5X9PNA34DU",
+        "ts": "1765926025.776223",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e87438fe-ebcb-d32b-b217-96707284e00d",
+        "type": "message",
+        "text": "<@U9SD2024Q7F> deploy v6.19.9 to prod :rocket:",
+        "user": "UNKFW783RHY",
+        "ts": "1765930097.518017",
+        "team": "T02BRNDLCV"
+    }
+]

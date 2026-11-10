@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "2af00895-9b32-f607-8c6a-062e8b771d14",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URFUZYLCAEC",
+        "ts": "1587656878.025274",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "056b0665-e5be-376e-7c94-d2b81a310956",
+        "type": "message",
+        "text": "AR aging is up, Garcia Public Works Holdings is 90+ days",
+        "user": "U9V01K22TU1",
+        "ts": "1587658292.230587",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4de60977-1531-1e7e-4ba7-e1cafa81e946",
+        "type": "message",
+        "text": "AR aging is up, Erie Transit Authority LLC is 90+ days",
+        "user": "U773RMBLF5X",
+        "ts": "1587673156.379057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04830b0c-dcfc-d33e-ae38-3b558506f91a",
+        "type": "message",
+        "text": "Marrow Resorts paid by wire, applying now",
+        "user": "U2CKCF24AEA",
+        "ts": "1587680310.686925",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "75120b3b-3606-a3dd-52b4-697022a7123c",
+        "type": "message",
+        "text": "<@UXXA9L8HH83> Jones Warehousing paid by wire, applying now",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1587687862.481380",
+        "team": "T02BRNDLCV"
+    }
+]

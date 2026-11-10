@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "30f95eec-9996-71c9-42ef-1560d0b92b5b",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> rolling back v7.39.9",
+        "user": "UZJU9N8CY2T",
+        "ts": "1585750988.257704",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95f792f7-156e-d86b-3069-e40a7faab570",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1585751002.823451",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#90838 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bfa4676-f620-cba8-63de-3621b7c9291f",
+        "type": "message",
+        "text": "deploy v9.34.8 to prod :rocket:",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1585769770.081776",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0a44a62-26fc-a551-af93-9eec8d60b201",
+        "type": "message",
+        "text": "deploy v7.10.6 to prod :rocket:",
+        "user": "U9XCAUGPS1F",
+        "ts": "1585771745.504094",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f1a577f-56f2-557b-a4e7-f495d9e40287",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1585775245.219248",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#40883 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

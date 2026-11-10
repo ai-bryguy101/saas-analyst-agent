@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "2f48125f-99cd-db2b-fda6-911da25b66ed",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1744640930.434740",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#13489 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "420f77f3-0dee-94f8-f7cd-c1420b2e4196",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U9XCAUGPS1F",
+        "ts": "1744643378.032880",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c9d63fad-9d2f-566d-66bc-9600f553a910",
+        "type": "message",
+        "text": "rolling back v9.27.5",
+        "user": "UPHFQAHDPSK",
+        "ts": "1744644075.487233",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "270d9410-cba1-0948-0dd7-9f32cc1298f5",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UPGXMWMDQNR",
+        "ts": "1744647642.149311",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bff0a9b7-feca-f2f5-f6b6-78a383251e15",
+        "type": "message",
+        "text": "<@UQK194B1V43> rolling back v5.22.6",
+        "user": "U69WX6HRQNH",
+        "ts": "1744654822.313290",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U69WX6HRQNH",
+            "ts": "1744654791.685674"
+        }
+    },
+    {
+        "client_msg_id": "0535e9b3-fdd8-2c8b-2495-d63dbb16683b",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UQK194B1V43",
+        "ts": "1744661721.951199",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fb8a6c6d-b480-4898-5adc-dc9716eef3b0",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> rolling back v5.26.6",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1744667942.982838",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1744649630.916610"
+        }
+    }
+]

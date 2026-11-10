@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "d31ca653-593a-1b44-ffca-56874556f0ce",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UPHFQAHDPSK",
+        "ts": "1751640350.813090",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a53dcc6d-6bd0-19b7-b560-a1660568536e",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U5DYUQUF95P",
+        "ts": "1751659179.327655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "995a2eab-61c9-6b2a-a908-46a42a14633f",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U69WX6HRQNH",
+        "ts": "1751664179.712229",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67ff66ef-30ee-2e5f-b63b-d7c90b5d7309",
+        "type": "message",
+        "text": "Bennett Markets wants a discount, how far can I go?",
+        "user": "UYFL6320JLT",
+        "ts": "1751670967.724920",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b616a62e-db6c-e3a2-051e-b41446732c48",
+        "type": "message",
+        "text": "Wood Building Services wants a discount, how far can I go?",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1751672817.778040",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2b3366b7-a8a8-e874-c085-328c69bc1a2c",
+        "type": "message",
+        "text": "Closed Lakes Transit Authority Inc.! 198 seats, Starter",
+        "user": "UL8NMQFXPJR",
+        "ts": "1751672988.735427",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

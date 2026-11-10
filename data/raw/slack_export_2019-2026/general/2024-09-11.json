@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "efb053ec-00c7-446b-b0b8-3f3a607db680",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UE4GTX0EXPH",
+        "ts": "1726076142.840441",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81d615bc-7e4b-58bc-d054-7d10638774f1",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Who left a lasagna in the 3rd floor fridge",
+        "user": "UP51TVUPQU5",
+        "ts": "1726085534.937948",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UNKFW783RHY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

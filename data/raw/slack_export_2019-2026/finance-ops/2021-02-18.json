@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "66d02001-5c1b-8a3d-5fcc-1810600dcbc3",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1613660246.280828",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4039bbc-6f3d-d261-7450-e72275e5b967",
+        "type": "message",
+        "text": "AR aging is up, Erie Health System Corp. is 90+ days",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1613663142.842598",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2de6515-06f9-06c6-35ae-4209a88c59db",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "U9XCAUGPS1F",
+        "ts": "1613674982.543187",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "caa53d56-4067-3b94-1d3c-4f3334983043",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "U34NH0P5TMZ",
+        "ts": "1613679527.859465",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UWBW507RCA9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69a9f007-b4f4-0cf5-2e4c-69f854226461",
+        "type": "message",
+        "text": "Tran Residential Corp. paid by wire, applying now",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1613692287.824521",
+        "team": "T02BRNDLCV"
+    }
+]

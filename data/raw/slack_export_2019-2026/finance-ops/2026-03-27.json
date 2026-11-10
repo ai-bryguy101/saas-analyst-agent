@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "b75a6a48-0b9d-b55f-be05-acf1ebda895e",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2026",
+        "user": "U2CKCF24AEA",
+        "ts": "1774634264.414677",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2CKCF24AEA",
+            "ts": "1774625928.754077"
+        }
+    },
+    {
+        "client_msg_id": "74dcef2d-4a2d-fa34-0dd8-f2198c099f58",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMYYLUTXG9R",
+        "ts": "1774635792.175162",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf491d9c-614a-3a47-6501-f2d0e72dd4dd",
+        "type": "message",
+        "text": "AR aging is up, Tri-County Fabrication is 90+ days",
+        "user": "UL20M69UM76",
+        "ts": "1774640797.079226",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed6e0f1c-1853-cbbf-6ac5-6bba5eb0c245",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UX84HDPARWN",
+        "ts": "1774655963.954834",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

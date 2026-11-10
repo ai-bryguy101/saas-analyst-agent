@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "b96b67b7-12b9-a675-f1aa-839c893f4601",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UC70JNE74S7",
+        "ts": "1699624993.486708",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37355935-0a31-b6eb-25d8-8499d003dd75",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> Office wifi is back up",
+        "user": "U22GUF0P303",
+        "ts": "1699637194.180551",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e868dc83-6938-8684-5c10-8c818827cbf6",
+        "type": "message",
+        "text": "Welcome Lars Roberts to the Engineering team!",
+        "user": "UP51TVUPQU5",
+        "ts": "1699649912.043552",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "697eb93b-da35-d935-98bf-a3bf3a578f58",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "U34NH0P5TMZ",
+        "ts": "1699652377.957797",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UC70JNE74S7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4980f210-1371-a8f7-f3c5-5f1c6828f8e0",
+        "type": "message",
+        "text": "Welcome Renata Takahashi to the Customer Success team!",
+        "user": "UC95B7VAFX0",
+        "ts": "1699655965.239331",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "50b3556b-45f3-9b23-ea65-a1d22412e007",
+        "type": "message",
+        "text": "Gomez Building Services Co. wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1694809787.939091",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b21bc2e-8de7-8148-63c2-3273f616b69e",
+        "type": "message",
+        "text": "Renewal risk: Silverleaf Retail Group unhappy with mobile app",
+        "user": "UH9DL28T3MH",
+        "ts": "1694824479.143315",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UH9DL28T3MH",
+            "ts": "1694796756.572571"
+        }
+    }
+]

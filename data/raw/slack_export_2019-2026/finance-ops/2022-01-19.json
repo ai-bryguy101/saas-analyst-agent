@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "04f7b21a-a770-a593-261a-c6cb8c80e3fe",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAGQX7APZBG",
+        "ts": "1642604235.482638",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAGQX7APZBG",
+            "ts": "1642613649.561078"
+        }
+    },
+    {
+        "client_msg_id": "d757e7e6-ad31-f8df-4eff-f8c7b030a16c",
+        "type": "message",
+        "text": "AR aging is up, Evans Freight LLC is 90+ days",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1642612107.292834",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec7f241b-53b7-b802-cd75-a7112ca17521",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Cook Realty Management Group paid by wire, applying now",
+        "user": "UAXWVBRVKW9",
+        "ts": "1642613539.362723",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a596fd2e-b572-dace-0dd8-c96effdac931",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1642615935.513569",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0316abc1-471f-036c-e65c-3591453b5023",
+        "type": "message",
+        "text": "AR aging is up, Foxglove Maintenance Co Inc. is 90+ days",
+        "user": "U5TERVWF7JH",
+        "ts": "1642634997.857577",
+        "team": "T02BRNDLCV"
+    }
+]

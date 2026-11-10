@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "85df9529-c8c3-f54d-0132-3d24f670593d",
+        "type": "message",
+        "text": "Murphy Health Partners Co. wants an exec call about the outage",
+        "user": "UUFS9CP1A17",
+        "ts": "1563813041.195160",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUFS9CP1A17",
+            "ts": "1563813201.606602"
+        }
+    },
+    {
+        "client_msg_id": "3a044d1c-ca41-dab4-01f3-ee3f99a49bf0",
+        "type": "message",
+        "text": "Can someone check Huron Builders's invoice? They say they were double billed",
+        "user": "UE49ET7WGNU",
+        "ts": "1563820259.179793",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

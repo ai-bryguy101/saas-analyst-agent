@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "ea2237e0-d60f-18b5-d17b-1ae3733f082d",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UT9KGXWKHLB",
+        "ts": "1647006605.387597",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63e0bcd3-6095-c5fd-0007-3fca21f4546a",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U09CZFTHQSS",
+        "ts": "1647007533.500686",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2de57b72-e527-e9a7-37f9-c2bf66af2567",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UR12Y3AZNKK",
+        "ts": "1647018898.955310",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "594384cd-6b87-8a6a-3b29-d91191293a12",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1647029417.764326",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adb1db86-7c64-93ee-774b-b1027340973a",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UPGXMWMDQNR",
+        "ts": "1647043322.621365",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

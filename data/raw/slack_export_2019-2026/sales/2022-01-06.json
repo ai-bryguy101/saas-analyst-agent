@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "21e38f3f-f4f2-842b-6f56-b28f5034c4b1",
+        "type": "message",
+        "text": "Tri-County County Facilities Inc. wants a discount, how far can I go?",
+        "user": "U48TCJE75PD",
+        "ts": "1641474466.479153",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74e8bc99-5d77-be2d-7d02-f877b856828a",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "U7PFYH0YRRG",
+        "ts": "1641482023.843117",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8cfb922-c93f-908a-17fc-1d7273c53927",
+        "type": "message",
+        "text": "Anyone have a reference customer in Government?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1641485164.217059",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6adb73ef-2e80-8dba-d948-e3f3c0d1a2d0",
+        "type": "message",
+        "text": "Lost Three Building Services to Plinthwise on price",
+        "user": "UMXMN24FN4K",
+        "ts": "1641488119.905015",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcd91f6d-355a-57bf-d76a-4808612ecb21",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> Lost Phillips Janitorial Group to Plinthwise on price",
+        "user": "U7PFYH0YRRG",
+        "ts": "1641493289.881816",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3862b3fb-eccc-db83-0c0d-b11f569f5878",
+        "type": "message",
+        "text": "Lost MacLeod University Facilities Co. to Plinthwise on price",
+        "user": "UFGLBSDS2XV",
+        "ts": "1641504804.840554",
+        "team": "T02BRNDLCV"
+    }
+]

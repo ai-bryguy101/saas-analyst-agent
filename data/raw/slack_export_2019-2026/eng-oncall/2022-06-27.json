@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "7fc230eb-b8f1-6bd3-b45b-f2f38ffd8149",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1656335375.281631",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#14531 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49a917ac-8aee-1416-1752-3d01cf0a95a4",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U0VB9M5U3TM",
+        "ts": "1656341201.957078",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4c0f9132-6ca3-c72b-c63a-ade9a9c906e6",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3DBR7QKZWE",
+        "ts": "1656352083.582079",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f9cb4b85-1f39-07f5-b963-19cbe136d3dc",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> replica lag on db-03 again",
+        "user": "UT7K74ALYGQ",
+        "ts": "1656352479.829130",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40c85ea5-5c3b-0edc-82a4-bd0407fdb788",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UH9DL28T3MH",
+        "ts": "1656359121.819128",
+        "team": "T02BRNDLCV"
+    }
+]

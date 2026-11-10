@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "4fee9d00-6b35-74c0-faa3-014b1b0dfda1",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UVQRW5SQSEL",
+        "ts": "1739798271.115810",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f7e552c3-c8aa-78dc-d807-f1fbf04cd465",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UFQYM82M1LX",
+        "ts": "1739805589.950859",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f093fd2a-ce2d-6e90-37f3-cac1e0178f44",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> Month-end close starts tomorrow",
+        "user": "UE4GTX0EXPH",
+        "ts": "1739826623.216281",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6ed5c36-6316-0e21-1f38-1411fab9dd8e",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2025",
+        "user": "UP51TVUPQU5",
+        "ts": "1739828331.772414",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "298f15eb-135b-c33e-105d-ff7c935b4d65",
+        "type": "message",
+        "text": "<@UFJUKVTAA1B> Month-end close starts tomorrow",
+        "user": "UDCALCM1RUG",
+        "ts": "1739828811.088011",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f83dac0-6a2d-7af3-6167-d1948acaab81",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2025",
+        "user": "UC70JNE74S7",
+        "ts": "1739840004.827358",
+        "team": "T02BRNDLCV"
+    }
+]

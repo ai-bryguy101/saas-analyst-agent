@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "22c479bb-a933-bad2-ab99-b86dadc32652",
+        "type": "message",
+        "text": "Bayou Facilities Management reporting sync failures since this morning, CSM is Marguerite Carter",
+        "user": "UJKZ2R47YW9",
+        "ts": "1739192816.508312",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74468431-321a-79dc-88eb-89c4290d6a53",
+        "type": "message",
+        "text": "Great Clinics reporting sync failures since this morning, CSM is Jordan Turner",
+        "user": "UDDBYSY4RFA",
+        "ts": "1739194321.673936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dfc8e6fa-4984-0ff8-4750-c323b49d0368",
+        "type": "message",
+        "text": "Renewal risk: Tremblay Property Services Inc. unhappy with mobile app",
+        "user": "U9XCAUGPS1F",
+        "ts": "1739198178.690943",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01cad562-de2c-9b09-7ef1-974253c6b004",
+        "type": "message",
+        "text": "Renewal risk: Anchor Homes unhappy with mobile app",
+        "user": "UXETPKNK8MV",
+        "ts": "1739201546.943507",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5e69afb-186d-0172-b9cb-0881c84c26c2",
+        "type": "message",
+        "text": "Blackwood Supply Co wants an exec call about the outage",
+        "user": "UFNKJQT8PV1",
+        "ts": "1739205384.240955",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36d29820-96d1-cfe4-d778-3485e19aec36",
+        "type": "message",
+        "text": "Can someone check Ramos Resorts Corp.'s invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1739212013.261456",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "54f3e3b7-934b-ad2f-3f27-64b39c0fce2c",
+        "type": "message",
+        "text": "Halvorsen Residential Corp. reporting sync failures since this morning, CSM is Jordan Ingleby",
+        "user": "UXS2WD4BYRN",
+        "ts": "1739217542.112947",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXS2WD4BYRN",
+            "ts": "1739207921.081344"
+        }
+    },
+    {
+        "client_msg_id": "92aa1c5d-260d-603a-3065-2e4376276276",
+        "type": "message",
+        "text": "Renewal risk: Kestrel Unified Schools unhappy with mobile app",
+        "user": "UJKZ2R47YW9",
+        "ts": "1739223626.542149",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "721c7426-72d0-9da4-ae0b-e4b660347e99",
+        "type": "message",
+        "text": "Can someone check Pinecrest Mills Inc.'s invoice? They say they were double billed",
+        "user": "UL8NMQFXPJR",
+        "ts": "1739225454.876275",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e24b111b-4eef-d158-f6b2-700652ba770e",
+        "type": "message",
+        "text": "Renewal risk: Summit Warehousing LLC unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1739228209.549092",
+        "team": "T02BRNDLCV"
+    }
+]

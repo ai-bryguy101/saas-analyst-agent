@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "2c5e2638-8af2-bbec-c2f7-f2ca96568633",
+        "type": "message",
+        "text": "Keystone Transit Authority Co. reporting sync failures since this morning, CSM is Alan Carter",
+        "user": "UE49ET7WGNU",
+        "ts": "1611759262.229359",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c49a9fda-c72c-e680-af75-ea40b087847a",
+        "type": "message",
+        "text": "Westbrook Construction wants an exec call about the outage",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1611761574.196585",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f0816e0-6438-214a-e9c7-70b59c703dfe",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Can someone check Sierra County Facilities's invoice? They say they were double billed",
+        "user": "UXETPKNK8MV",
+        "ts": "1611763484.155280",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48b4613d-e3d2-12db-1bbf-4460b2527f0a",
+        "type": "message",
+        "text": "<@U22GUF0P303> Pinecrest Manufacturing LLC wants an exec call about the outage",
+        "user": "UJQY3Q26RVW",
+        "ts": "1611767029.064794",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "50d652d5-af24-68ed-b6b1-57ff6f011932",
+        "type": "message",
+        "text": "Three Health System wants an exec call about the outage",
+        "user": "UZACKQ1VXCH",
+        "ts": "1611767697.924405",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2bf11863-fdeb-3aa7-dfd7-3f88343fa7cd",
+        "type": "message",
+        "text": "Can someone check Heron Logistics Co.'s invoice? They say they were double billed",
+        "user": "UP51TVUPQU5",
+        "ts": "1611793924.061752",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

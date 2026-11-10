@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "59465fb8-571d-3480-7e2e-8a7f9ca895bb",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2022",
+        "user": "U9Y2KF0S90E",
+        "ts": "1641561565.476886",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "744db9fb-2d68-9c60-356f-590c98d474f8",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> AR aging is up, Osprey Building Services Holdings is 90+ days",
+        "user": "UWU9WG7ECGY",
+        "ts": "1641562159.256654",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75fd48e9-f98b-1573-9672-48c176dc764a",
+        "type": "message",
+        "text": "AR aging is up, Nasser School District is 90+ days",
+        "user": "U3KL08VJD8C",
+        "ts": "1641577089.157328",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "103139ea-7e37-c681-1e2d-bdeeec588324",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UBHB6GTB73U",
+        "ts": "1641583404.033929",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "29db7eb7-9829-ab2c-05a5-85120ffb1c5c",
+        "type": "message",
+        "text": "AR aging is up, Blackwood Hospital is 90+ days",
+        "user": "U8SR98620D7",
+        "ts": "1641585921.187115",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U8SR98620D7",
+            "ts": "1641591534.077443"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "c62593c2-8efa-ea06-307c-03b99d3d956b",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UP51TVUPQU5",
+        "ts": "1623417174.538275",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e93ad130-79a9-85fc-027b-2ab7a730f9f9",
+        "type": "message",
+        "text": "Welcome Joao Cook to the Finance team!",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1623420809.145292",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fa48aa99-eb4c-0ab6-d939-c91adacc57e3",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UFARBQM0LCD",
+        "ts": "1623431119.416252",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ab8fbf3-b51e-6f17-26c9-9e0e14b72e69",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> Benefits enrollment closes Friday",
+        "user": "UAHZYQG5URJ",
+        "ts": "1623435198.242394",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95d76d39-67f1-7016-ad46-3e5e9bcf5a9c",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UCQT1GS0C0C",
+        "ts": "1623459384.701635",
+        "team": "T02BRNDLCV"
+    }
+]

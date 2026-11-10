@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "b9d109e1-9adc-9baf-a943-5c55c46fbaa6",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U5X9PNA34DU",
+        "ts": "1643823294.497728",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "00177d36-cfb9-8abd-7a16-1918e193ce27",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UE49ET7WGNU",
+        "ts": "1643843636.240394",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3DBR7QKZWE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

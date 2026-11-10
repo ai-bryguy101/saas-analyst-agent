@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "0d39a425-0a25-543b-4089-d52bcdb9404c",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1756939962.855896",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67835335-ed2c-3a91-c04b-44126e208380",
+        "type": "message",
+        "text": "rolling back v6.32.1",
+        "user": "UT7K74ALYGQ",
+        "ts": "1756941499.309981",
+        "team": "T02BRNDLCV"
+    }
+]

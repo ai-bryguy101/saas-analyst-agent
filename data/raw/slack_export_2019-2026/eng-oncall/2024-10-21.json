@@ -1,0 +1,45 @@
+[
+    {
+        "client_msg_id": "181af87c-56e1-6838-ef05-0957d6e0f2da",
+        "type": "message",
+        "text": "deploy v9.5.0 to prod :rocket:",
+        "user": "UNFVCYNZT6K",
+        "ts": "1729515690.548838",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "147df202-6dcd-1765-129e-946cfc48eaf0",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UQXT5A6YMVH",
+        "ts": "1729522616.436842",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c54dcd9-7720-b0c3-a28c-ae84d7369f99",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1729536128.723052",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#10010 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

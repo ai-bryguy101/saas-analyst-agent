@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "0fbd8ac2-c896-0c99-6a75-fa01f9066c82",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U2CKCF24AEA",
+        "ts": "1744820093.255721",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72b940c8-2b3a-36c2-366d-3d24ce4a1227",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1744830852.405770",
+        "team": "T02BRNDLCV"
+    }
+]

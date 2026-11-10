@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6bd8c559-88ca-7ab3-c884-d2f39a83a87a",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "U9SD2024Q7F",
+        "ts": "1632841144.811470",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67b2221f-465d-2834-4ba2-58bf9e9d7d75",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "U5TERVWF7JH",
+        "ts": "1632868924.238319",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

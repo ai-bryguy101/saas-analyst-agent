@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "8e313eee-3ed3-69cd-0a77-e4c6474ffbdc",
+        "type": "message",
+        "text": "Huron Properties Co. wants an exec call about the outage",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1562332752.254061",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aad2cd6c-aa50-314f-5e71-010a4e34e3d6",
+        "type": "message",
+        "text": "Torres Realty Management asking for an SLA credit",
+        "user": "UR3LDWKU006",
+        "ts": "1562335408.542057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac1d1fc4-2258-d583-f812-cbd4eec7ea01",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Ross County Facilities LLC asking for an SLA credit",
+        "user": "UGPRJ4K947R",
+        "ts": "1562339300.868795",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "adcf93ce-3b94-91bf-8889-54af37f1bbac",
+        "type": "message",
+        "text": "Cedar Transit Authority Holdings wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1562340943.618793",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "25b8513b-e8a3-0ced-2fac-abf72903bcbe",
+        "type": "message",
+        "text": "Can someone check Millbrook Hospital Ltd.'s invoice? They say they were double billed",
+        "user": "UZACKQ1VXCH",
+        "ts": "1562343875.131812",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78b02679-ee44-5567-8f9b-0e23b7a4304b",
+        "type": "message",
+        "text": "Saguaro Stores Corp. wants an exec call about the outage",
+        "user": "U7PFYH0YRRG",
+        "ts": "1562358055.234793",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9b12d767-35d9-7969-5693-9fd5c337d0fb",
+        "type": "message",
+        "text": "<@U94ETEKNM26> Nguyen Resorts Holdings asking for an SLA credit",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1562358572.060873",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4959e416-835f-3eb7-73ec-b2f9e574e1ad",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Can someone check Valley Public Works Group's invoice? They say they were double billed",
+        "user": "U69WX6HRQNH",
+        "ts": "1562371901.984888",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U69WX6HRQNH",
+            "ts": "1562344541.250687"
+        }
+    },
+    {
+        "client_msg_id": "62cfc8e1-1f0b-f3e6-453e-58e473fd3c7e",
+        "type": "message",
+        "text": "Bluewater Builders Inc. asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1562373234.340827",
+        "team": "T02BRNDLCV"
+    }
+]

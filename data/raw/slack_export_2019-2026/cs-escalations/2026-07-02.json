@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "a003c745-54a7-8353-90b6-35c78fe642d8",
+        "type": "message",
+        "text": "Sycamore Supply Co Ltd. wants an exec call about the outage",
+        "user": "UB8UH2KX2NW",
+        "ts": "1783005221.741444",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3b65a21c-6a6f-0250-106d-9a307e31aa59",
+        "type": "message",
+        "text": "Can someone check Saginaw Mechanical's invoice? They say they were double billed",
+        "user": "UUFS9CP1A17",
+        "ts": "1783018012.076766",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ebd851f7-5405-03cb-b78e-3358a291b199",
+        "type": "message",
+        "text": "Cumberland Mechanical Ltd. wants an exec call about the outage",
+        "user": "U9Y2KF0S90E",
+        "ts": "1783024303.844645",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d70c8949-f973-3e8f-e51f-6acecc76b9ea",
+        "type": "message",
+        "text": "<@UUDLJ7GDXKE> Kingsley Inns Group wants an exec call about the outage",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1783024558.303508",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "475811d6-a453-7184-8c74-ce8b7e6f9f46",
+        "type": "message",
+        "text": "Mesa Transit Authority Group wants an exec call about the outage",
+        "user": "UDDBYSY4RFA",
+        "ts": "1783025743.981580",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fdd32af-9666-30a9-3da1-0b2a417ba159",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Thomas Mills wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1783026109.802215",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21e92ace-df03-f268-c921-5a8c87af700d",
+        "type": "message",
+        "text": "Pioneer County Facilities Holdings wants an exec call about the outage",
+        "user": "UQK194B1V43",
+        "ts": "1783027214.585711",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ac33d59-ac51-4f49-ea45-60e9fc7b39a4",
+        "type": "message",
+        "text": "Commonwealth Property Group LLC wants an exec call about the outage",
+        "user": "U9XCAUGPS1F",
+        "ts": "1783032861.253980",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5bf7719-a626-067c-5825-236fa7e031e8",
+        "type": "message",
+        "text": "Saguaro Medical Center wants an exec call about the outage",
+        "user": "UNKFW783RHY",
+        "ts": "1783034718.579587",
+        "team": "T02BRNDLCV"
+    }
+]

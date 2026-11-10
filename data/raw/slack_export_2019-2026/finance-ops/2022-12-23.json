@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "18b562ac-f947-c687-afa8-c14f4a9edc26",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U2LMMLL4F31",
+        "ts": "1671805744.256424",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3ca87a9-7c71-4b5f-f366-3a15b6b051a7",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2022",
+        "user": "UH9DL28T3MH",
+        "ts": "1671822846.993609",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "447378c9-31dc-f46f-b1c9-700cc389636c",
+        "type": "message",
+        "text": "AR aging is up, Heron Building Services Corp. is 90+ days",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1671831520.406223",
+        "team": "T02BRNDLCV"
+    }
+]

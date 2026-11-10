@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "8a2e6dd5-0ab8-84be-7279-d55ed552f47d",
+        "type": "message",
+        "text": "Harbortown Retail Group Group paid by wire, applying now",
+        "user": "UMXMN24FN4K",
+        "ts": "1687531476.448136",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UWBW507RCA9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e55db67e-74b4-2905-b119-b43091b155a4",
+        "type": "message",
+        "text": "AR aging is up, Sandpiper Contracting is 90+ days",
+        "user": "UMXMN24FN4K",
+        "ts": "1687532218.303068",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1abc6ca7-62cc-a16c-0288-91400ff97a00",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U48TCJE75PD",
+        "ts": "1687535085.486778",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7de3819a-82cf-ca3e-679c-44fdcac6e798",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2023",
+        "user": "U5HQ6U91D2E",
+        "ts": "1687542065.904600",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb1fd2ca-38ef-2ce4-3498-bedb2a0695ff",
+        "type": "message",
+        "text": "Ashdown Realty Management Corp. paid by wire, applying now",
+        "user": "UC95B7VAFX0",
+        "ts": "1687543288.524365",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c8f1301a-136e-e28b-6c6b-c9fa25a337e7",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U09CZFTHQSS",
+        "ts": "1687548086.345290",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1579c418-232c-113a-1c80-b37fa1866fbf",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3EQ075NUYR",
+        "ts": "1687554734.234467",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c9dee838-b651-210e-3af8-534b6b84540d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UCQT1GS0C0C",
+        "ts": "1687558766.960964",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f2dd9d0d-7667-c35b-22bb-9d53f9488b27",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> Month-end close starts tomorrow",
+        "user": "UE4GTX0EXPH",
+        "ts": "1687559651.355498",
+        "team": "T02BRNDLCV"
+    }
+]

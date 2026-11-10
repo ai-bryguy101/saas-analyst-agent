@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "32100bb5-8b3f-c7d5-df9f-5de4e6e50437",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UJQY3Q26RVW",
+        "ts": "1689095691.990874",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e635569-37ce-c4b3-9076-d6cd36fb9ef6",
+        "type": "message",
+        "text": "rolling back v8.21.2",
+        "user": "U5DYUQUF95P",
+        "ts": "1689102774.531129",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c6cd2b6b-b52d-53bc-1167-920f967405df",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> PagerDuty: high error rate on api-gw",
+        "user": "U7V33ZEGRET",
+        "ts": "1689105051.910991",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa185952-c66a-6688-84cf-49a3c04c4b1d",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1689108658.042871",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#78815 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd59a7eb-d9cf-966b-31e0-581f6306f7b8",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1689110615.473441",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#37698 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4d6d5b1-ca27-0d8f-9401-cae09dccbf9e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1689111570.568466",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#90343 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

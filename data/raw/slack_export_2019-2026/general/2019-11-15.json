@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "ac0bc657-1190-ca8f-5d7e-d68c7df295f7",
+        "type": "message",
+        "text": "Welcome Ines Delacroix to the Engineering team!",
+        "user": "U2CKCF24AEA",
+        "ts": "1573829547.652735",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "092d10cb-8e46-0c92-504e-37783cfed38a",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UR3LDWKU006",
+        "ts": "1573831016.284489",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "34839636-5bf7-9e0e-419d-3765339b9432",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1573834211.932286",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBK8V2J099L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "734e7b84-32d7-9854-c96a-afa7aa329468",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U09CZFTHQSS",
+        "ts": "1573847653.810673",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d0fc2fb-124f-1222-abef-058931fd0163",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UPHFQAHDPSK",
+        "ts": "1573850966.972161",
+        "team": "T02BRNDLCV"
+    }
+]

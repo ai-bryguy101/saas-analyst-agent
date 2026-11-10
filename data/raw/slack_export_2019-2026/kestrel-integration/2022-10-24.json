@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "3985d21c-9e93-b21c-b54f-63b9f8c1d7f7",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UAGQX7APZBG",
+        "ts": "1666617245.761787",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68b05fc6-20bd-515c-c7be-a490c64879e8",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Lantern dashboards look great on the demo tenant",
+        "user": "UFGLBSDS2XV",
+        "ts": "1666626707.792498",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6719d8f1-c55d-73b3-f31a-589722f10045",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UR3LDWKU006",
+        "ts": "1666655075.587820",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba5c414d-7cc4-0456-60c7-0344e0fd58c0",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UJRKGMQPU2R",
+        "ts": "1666655627.133804",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

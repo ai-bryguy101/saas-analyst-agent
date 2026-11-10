@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "466acc76-fd21-ed18-e293-20eb1b72e6a3",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UXXA9L8HH83",
+        "ts": "1564492113.702130",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f95509d-2976-f1f5-f8ae-49bd72019927",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U3YU9TS6QYB",
+        "ts": "1564508905.569168",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6ddf8e3a-b0dd-839e-3d52-e8df2b9ae600",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1564533322.374073",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "1e779dc2-368f-0918-ebc2-3659b2d6fe0e",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> postmortem doc for yesterday is up",
+        "user": "UAGQX7APZBG",
+        "ts": "1669644643.540357",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f11afbc0-7ea1-a4f2-fc90-603ae75879a4",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1669645561.550186",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88621 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39089e73-387b-b186-506d-1f23b7d83ffa",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5HQ6U91D2E",
+        "ts": "1669659408.369898",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c32723a0-9262-f22f-471b-098733223171",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1669663451.370332",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#62703 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3af1f0f-6ed8-8179-6f03-551261c60338",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UYFL6320JLT",
+        "ts": "1669666765.724506",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04774556-909f-d7ab-c5dc-1029388a1243",
+        "type": "message",
+        "text": "rolling back v9.27.2",
+        "user": "U0E67MPWRXA",
+        "ts": "1669679979.636629",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "c2b37293-161d-0eb8-4dde-e0ab72d4f036",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2024",
+        "user": "UMYYLUTXG9R",
+        "ts": "1704460875.451261",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77afa836-8a1b-131e-6716-65251be1d0a6",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UT9KGXWKHLB",
+        "ts": "1704473820.747916",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f8d4f8c5-4e94-4578-fe99-6f8de96102bd",
+        "type": "message",
+        "text": "AR aging is up, Lakeshore Mechanical LLC is 90+ days",
+        "user": "UHV2RFNY0HN",
+        "ts": "1704483398.536075",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "24c90880-a2a1-92e6-9983-eeb1ca55d06b",
+        "type": "message",
+        "text": "Lindenwood Industries Inc. paid by wire, applying now",
+        "user": "UMYYLUTXG9R",
+        "ts": "1704484326.218876",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d05acfbd-4e96-d451-064d-ad68b8fc06a9",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFARBQM0LCD",
+        "ts": "1704486270.340597",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a64d69ec-7ed5-a298-f83f-c73a6f69541c",
+        "type": "message",
+        "text": "AR aging is up, Allegheny Public Works is 90+ days",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1704489419.773574",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1453ded4-fca8-930a-4981-e7e9fa434530",
+        "type": "message",
+        "text": "Beacon Retail Group Inc. paid by wire, applying now",
+        "user": "U5DYUQUF95P",
+        "ts": "1704494811.880600",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5DYUQUF95P",
+            "ts": "1704497088.720017"
+        }
+    },
+    {
+        "client_msg_id": "16cdaa95-ce85-7ac1-afb6-4c1d0653cca0",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UNFVCYNZT6K",
+        "ts": "1704495872.427470",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c07a3d29-867e-b293-a468-8066cc2899f7",
+        "type": "message",
+        "text": "AR aging is up, Williams Supply Co Co. is 90+ days",
+        "user": "UJQY3Q26RVW",
+        "ts": "1704496087.648726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c559e664-ac7d-a798-3a8b-54f39daf8d59",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U7V33ZEGRET",
+        "ts": "1704501631.448280",
+        "team": "T02BRNDLCV"
+    }
+]

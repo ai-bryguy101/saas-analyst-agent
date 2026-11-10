@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "005c0e3c-6618-5da0-e9cc-32d7e0bab39c",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> PagerDuty: high error rate on api-gw",
+        "user": "U5HQ6U91D2E",
+        "ts": "1667226333.713314",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4967bc75-5260-9ee6-0f56-c52f5e011ba5",
+        "type": "message",
+        "text": "rolling back v5.30.4",
+        "user": "UJKZ2R47YW9",
+        "ts": "1667228438.908133",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9355146-c0c6-027b-1125-0dd815811b7c",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U9V01K22TU1",
+        "ts": "1667228725.280289",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a89c6701-d968-3632-2f8c-181c2b4bd058",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1667230298.183223",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#47717 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3dc178a-b3d9-2622-7089-f26ee9c5ecef",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UCQT1GS0C0C",
+        "ts": "1667231712.429707",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bcac3b21-e868-76df-f7bc-8fe31331caae",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U5DYUQUF95P",
+        "ts": "1667233870.215016",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ed96b3b-003f-59b3-397b-486dbd79aea5",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1667237829.990652",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee7c37ae-f712-b316-e4d9-0d1abffe8f80",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> rolling back v8.5.1",
+        "user": "UBHB6GTB73U",
+        "ts": "1667244278.185757",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b45671bf-c417-40c7-5c80-9b23f0d86cdb",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1667247129.533911",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#19761 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a484e69-38da-b5e3-11ab-ccc49cb0f488",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UG4ETD69L1D",
+        "ts": "1667247168.945196",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c6b7e5fa-ee03-2e54-a239-c43a2bff3200",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXS2WD4BYRN",
+        "ts": "1667247523.408531",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1cdbe686-f74f-7364-7a52-3d18ac735065",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U773RMBLF5X",
+        "ts": "1667248505.751851",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac655fdf-db62-cdf6-ecdc-cf32563886ad",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UZACKQ1VXCH",
+        "ts": "1667254712.735502",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ba083b3c-470f-25ec-d287-49d5cf174b96",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UJRKGMQPU2R",
+        "ts": "1667257929.566177",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "524e4109-e9dd-314e-cc3c-edf9faa67d87",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UVQRW5SQSEL",
+        "ts": "1667259224.103811",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fc8fd975-a97e-a89b-8d18-35b5be96ef8d",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1667261825.037241",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#43722 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a6af71e-2431-9d45-434d-dce812976fc3",
+        "type": "message",
+        "text": "deploy v9.15.2 to prod :rocket:",
+        "user": "UP51TVUPQU5",
+        "ts": "1667262397.798872",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b39595c1-a517-54a6-32e1-a63c7f31a378",
+        "type": "message",
+        "text": "deploy v8.30.6 to prod :rocket:",
+        "user": "U9V01K22TU1",
+        "ts": "1667263879.598783",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

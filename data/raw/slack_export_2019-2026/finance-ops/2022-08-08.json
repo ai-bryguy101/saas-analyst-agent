@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "e2ade2c3-4306-a8bc-98a8-f6adfdf91f06",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Month-end close starts tomorrow",
+        "user": "UT9KGXWKHLB",
+        "ts": "1659987893.975365",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "858da2cf-8236-8015-f247-38fcf9809066",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1659989704.956042",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e49967f-4ebf-f94a-e248-54f76a69fbb3",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2022",
+        "user": "UXVNE61TTLN",
+        "ts": "1659993796.743440",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXVNE61TTLN",
+            "ts": "1659979238.872286"
+        }
+    }
+]

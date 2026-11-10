@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "c5396304-fc8e-67d7-3ead-b72ebc58c67e",
+        "type": "message",
+        "text": "Price-Jones Resorts Holdings wants an exec call about the outage",
+        "user": "U3EQ075NUYR",
+        "ts": "1617118319.216542",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8be68edd-e899-26fb-6ff4-6b21ffb51b34",
+        "type": "message",
+        "text": "Millbrook Realty Management Co. wants an exec call about the outage",
+        "user": "UFARBQM0LCD",
+        "ts": "1617119428.766549",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "797c1670-f3b4-370a-4e9e-5f2c3110775f",
+        "type": "message",
+        "text": "Jackson Fabrication wants an exec call about the outage",
+        "user": "UPGXMWMDQNR",
+        "ts": "1617133293.837869",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "84acfaa5-9b0b-2241-cf16-31971de97ddc",
+        "type": "message",
+        "text": "Tidewater Township reporting sync failures since this morning, CSM is Ngozi Pelletier",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1617138218.900073",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8226c42b-1ddf-c33f-bce8-5e8fc75289e6",
+        "type": "message",
+        "text": "Can someone check Martin Medical Center Inc.'s invoice? They say they were double billed",
+        "user": "UVQRW5SQSEL",
+        "ts": "1617140007.319200",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b4bb510-be57-85a1-07d7-bb47857f4718",
+        "type": "message",
+        "text": "Tamarack Stores Ltd. wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1617147868.684693",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "991ca40f-8148-1047-6f67-a2eb3f011510",
+        "type": "message",
+        "text": "Prairie County Facilities asking for an SLA credit",
+        "user": "UH9DL28T3MH",
+        "ts": "1614117662.107648",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c25d8a3-c3d1-12f3-b52c-35a6736cf17c",
+        "type": "message",
+        "text": "Renewal risk: Wilson Suites unhappy with mobile app",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1614120476.463504",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eaca112b-f9a1-024e-4848-b567321f66c6",
+        "type": "message",
+        "text": "Renewal risk: Lindqvist Health Partners LLC unhappy with mobile app",
+        "user": "UYR8E48FJ62",
+        "ts": "1614122700.349026",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83f82fb2-cd25-ae11-c3c9-dd58bc2b342a",
+        "type": "message",
+        "text": "Renewal risk: Collins Markets Ltd. unhappy with mobile app",
+        "user": "UXETPKNK8MV",
+        "ts": "1614123497.137241",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04d8cbec-dcf6-edcc-d45c-556053c33803",
+        "type": "message",
+        "text": "Renewal risk: Cote Realty Management Inc. unhappy with mobile app",
+        "user": "UKMQNTKUR4V",
+        "ts": "1614124602.086981",
+        "team": "T02BRNDLCV"
+    }
+]

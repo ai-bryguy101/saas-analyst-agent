@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "95929b5f-b854-bd75-8baa-7f25796e9eaa",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UPGXMWMDQNR",
+        "ts": "1598459363.089178",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6a9b5ed-0605-74ce-25b6-c7f699f80329",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UX84HDPARWN",
+        "ts": "1598473942.029736",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cbc51527-2a4a-c749-ef37-7cd55b4eab97",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UFARBQM0LCD",
+        "ts": "1598476099.902880",
+        "team": "T02BRNDLCV"
+    }
+]

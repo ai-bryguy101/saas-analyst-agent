@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "4005b006-5ba3-ced2-8d33-7efd49d847e6",
+        "type": "message",
+        "text": "Can someone check Keystone Hotels Inc.'s invoice? They say they were double billed",
+        "user": "UL20M69UM76",
+        "ts": "1745246485.929943",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9b35bbb0-0f30-fa06-e24e-bed1c407eea8",
+        "type": "message",
+        "text": "Renewal risk: Pinecrest University Facilities LLC unhappy with mobile app",
+        "user": "UWUGRQ83YYM",
+        "ts": "1745268966.110889",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da4b381e-61e4-d859-2e7f-979848c12485",
+        "type": "message",
+        "text": "Can someone check Carter Property Group's invoice? They say they were double billed",
+        "user": "U0E67MPWRXA",
+        "ts": "1745271218.432073",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6bbceb05-be8c-2066-5623-4a4d6461628a",
+        "type": "message",
+        "text": "Liu Warehousing LLC reporting sync failures since this morning, CSM is Minh Ruiz",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1745272099.377128",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "91f95667-ffa8-14c2-44e1-1fc23b0dbf64",
+        "type": "message",
+        "text": "Zhang Clinics LLC asking for an SLA credit",
+        "user": "UMXMN24FN4K",
+        "ts": "1745275436.784733",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

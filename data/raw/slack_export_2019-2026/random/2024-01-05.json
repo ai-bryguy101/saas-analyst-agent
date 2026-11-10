@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "00e225f6-ec20-63e7-e05d-60be290d1ea7",
+        "type": "message",
+        "text": "<@UWBW507RCA9> who's watching the game tonight",
+        "user": "UQTUT2GDN85",
+        "ts": "1704476248.061736",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e2ccb74-0d23-775b-e68d-90a4e3c3ee80",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UBHB6GTB73U",
+        "ts": "1704493027.126249",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UBHB6GTB73U",
+            "ts": "1704493994.166245"
+        }
+    },
+    {
+        "client_msg_id": "89ad67b6-ea7b-ba1f-5634-171b0b6c1437",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1704501280.321460",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    }
+]

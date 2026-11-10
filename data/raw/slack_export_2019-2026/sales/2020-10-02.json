@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "21839ab8-b5c6-b908-5cf5-157165a71882",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UT7K74ALYGQ",
+        "ts": "1601651806.642184",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a63d10e8-d1f0-dca6-edc1-498505913ce4",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3YU9TS6QYB",
+        "ts": "1601663038.252644",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ec18364-f294-09c9-7776-ee9baaa2d939",
+        "type": "message",
+        "text": "Lost Mesa Transit Authority Group to Plinthwise on price",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1601665138.049103",
+        "team": "T02BRNDLCV"
+    }
+]

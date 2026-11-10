@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "a6de415b-dd0e-2fa4-832f-7e82fc28649c",
+        "type": "message",
+        "text": "Welcome Mei Thomas to the Customer Success team!",
+        "user": "UNCGDMQATC5",
+        "ts": "1585751557.330141",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23474924-10b2-319d-7fd8-4481e0ced6a1",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UFULM18ZBQ6",
+        "ts": "1585779452.357099",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFULM18ZBQ6",
+            "ts": "1585773442.468176"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "c3fb5041-ed47-83a5-3c2f-155a18da88da",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAGQX7APZBG",
+        "ts": "1635256288.257344",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b1b5f12-e19b-8708-dd3b-b9deed1fb18d",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2021",
+        "user": "UZJU9N8CY2T",
+        "ts": "1635275030.521558",
+        "team": "T02BRNDLCV"
+    }
+]

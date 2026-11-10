@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "6edd5924-17d2-8fda-6e03-6ff52c81c02e",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UL20M69UM76",
+        "ts": "1616600311.930081",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95d33e1b-5a31-3a49-fba1-2edf92010873",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Events schema changed again (tenant_id vs account_id)",
+        "user": "U69WX6HRQNH",
+        "ts": "1616619054.347425",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c513310-90db-ade5-e2c1-395e6a37f5cb",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U5TERVWF7JH",
+        "ts": "1616623528.591174",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5c12ede-79ed-5338-4b06-bd11e9deb418",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UVQRW5SQSEL",
+        "ts": "1616626808.477921",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

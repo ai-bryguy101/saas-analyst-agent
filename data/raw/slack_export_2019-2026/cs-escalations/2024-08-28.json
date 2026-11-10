@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "87252b73-41bd-2f8a-9c22-1dcb0d72920d",
+        "type": "message",
+        "text": "Renewal risk: Myers Logistics Corp. unhappy with mobile app",
+        "user": "U9V01K22TU1",
+        "ts": "1724855129.805485",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "712d1f69-658b-70cf-253b-fd0204c517ae",
+        "type": "message",
+        "text": "Can someone check Anchor Homes's invoice? They say they were double billed",
+        "user": "U3EQ075NUYR",
+        "ts": "1724857469.193215",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U3EQ075NUYR",
+            "ts": "1724854823.321258"
+        }
+    }
+]

@@ -236,7 +236,7 @@ def render(world, out, seed):
         if r.random() < 0.3:
             doc.add_paragraph(r.choice(["[NOTE TO DRAFT: confirm with Finance whether CAD pricing applies - AF]",
                                         "[RE: please remove before sending]", "[Customer redline: Net 45. ACCEPTED? - RE]"]))
-        doc.add_paragraph("Governed by the Master Subscription Agreement at brindlecove.com/legal/msa (version in effect on the Effective Date).")
+        doc.add_paragraph("Governed by the Master Subscription Agreement at brindlecove.example/legal/msa (version in effect on the Effective Date).")
         safe = "".join(ch for ch in c.name if ch.isalnum())[:30]
         p = lc / "docx" / f"{safe}_OrderForm_{d:%Y-%m-%d}{r.choice(['', '', '_final', '_FINAL_v2', '_signed', ' (1)'])}.docx"
         p.parent.mkdir(parents=True, exist_ok=True)
@@ -281,7 +281,7 @@ def render(world, out, seed):
         for j, v in enumerate(row):
             ws.write(3 + i, j, v)
     ws2 = wb.add_sheet("notes")
-    ws2.write(0, 0, "If you see a status not listed here ask Harold before he leaves (3/30/2012).")
+    ws2.write(0, 0, "If you see a status not listed here ask Harold before Harold leaves on 3/30/2012.")
     wb.save(str(sp / "BRIX_status_codes_2012.xls"))
 
     for year in (2008, 2009, 2010):

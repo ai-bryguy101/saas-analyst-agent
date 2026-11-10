@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "e8fe1e1e-7a0a-d5db-a3e8-e26527a345de",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UC95B7VAFX0",
+        "ts": "1637069896.954212",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8427b429-ffc7-1f1b-f323-b8dcfb8e9415",
+        "type": "message",
+        "text": "Huron Mechanical Group paid by wire, applying now",
+        "user": "UB8UH2KX2NW",
+        "ts": "1637070017.632605",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ddf04ba9-28e7-45e7-82ee-603358dc9bd3",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1637074469.017069",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b847514-9458-79f3-315c-c0ed2ab203e9",
+        "type": "message",
+        "text": "AR aging is up, Ostrander Retail Group LLC is 90+ days",
+        "user": "UC95B7VAFX0",
+        "ts": "1637082198.319125",
+        "team": "T02BRNDLCV"
+    }
+]

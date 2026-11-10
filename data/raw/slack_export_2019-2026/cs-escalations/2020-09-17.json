@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "cc55c801-a0bf-7689-62e2-484d00fd44a4",
+        "type": "message",
+        "text": "Scioto Outfitters reporting sync failures since this morning, CSM is Jordan Ingleby",
+        "user": "UBK8V2J099L",
+        "ts": "1600347992.328958",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "17364404-d9e4-3568-8053-91fca3344eae",
+        "type": "message",
+        "text": "Renewal risk: Pioneer Residential unhappy with mobile app",
+        "user": "UV9GDKGY32C",
+        "ts": "1600366208.136710",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fd521023-e882-9b84-9ac8-00454ccb7d66",
+        "type": "message",
+        "text": "<!here> Juniper Fabrication Co. was down most of yesterday (sync outage). They want a one-month service credit, $4,475.25. Needs VP approval per policy. <@UE4GTX0EXPH> <@UB0YL0LKYC7>",
+        "user": "UC95B7VAFX0",
+        "ts": "1600371331.453360",
+        "team": "T02BRNDLCV",
+        "thread_ts": "1600371331.453360",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1600380315.466004",
+        "reply_users": [
+            "UE4GTX0EXPH",
+            "UB0YL0LKYC7"
+        ],
+        "replies": [
+            {
+                "user": "UE4GTX0EXPH",
+                "ts": "1600376393.240151"
+            },
+            {
+                "user": "UB0YL0LKYC7",
+                "ts": "1600379155.354844"
+            },
+            {
+                "user": "UC95B7VAFX0",
+                "ts": "1600380315.466004"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba7f69f7-9935-321e-c627-aa641fd2cd5b",
+        "type": "message",
+        "text": "I'm out until Monday, can sales cover this one?",
+        "user": "UE4GTX0EXPH",
+        "ts": "1600376393.240151",
+        "team": "T02BRNDLCV",
+        "thread_ts": "1600371331.453360",
+        "parent_user_id": "UC95B7VAFX0"
+    },
+    {
+        "client_msg_id": "cf6f3e3a-23e2-eb07-f98e-b04f4e8c53e9",
+        "type": "message",
+        "text": "approved. one month, apply as a credit note not a refund",
+        "user": "UB0YL0LKYC7",
+        "ts": "1600379155.354844",
+        "team": "T02BRNDLCV",
+        "thread_ts": "1600371331.453360",
+        "parent_user_id": "UC95B7VAFX0"
+    },
+    {
+        "client_msg_id": "553ea353-bcda-487c-f822-1a21a2efec96",
+        "type": "message",
+        "text": "thanks! sending to finance-ops",
+        "user": "UC95B7VAFX0",
+        "ts": "1600380315.466004",
+        "team": "T02BRNDLCV",
+        "thread_ts": "1600371331.453360",
+        "parent_user_id": "UC95B7VAFX0"
+    },
+    {
+        "client_msg_id": "f84d6cdb-2dc9-b11f-e05d-e2a6c660e989",
+        "type": "message",
+        "text": "<@UXS2WD4BYRN> Brookside Property Services wants an exec call about the outage",
+        "user": "UMXMN24FN4K",
+        "ts": "1600381888.142669",
+        "team": "T02BRNDLCV"
+    }
+]

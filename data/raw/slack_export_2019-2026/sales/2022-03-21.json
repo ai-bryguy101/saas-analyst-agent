@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "a3708cca-ea91-12ec-f2ce-15467c2d1d00",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1647874151.180131",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3785353c-c5a2-0e87-06f4-fdabe891d518",
+        "type": "message",
+        "text": "Closed Ironwood Realty Management Holdings! 55 seats, Starter",
+        "user": "U3KL08VJD8C",
+        "ts": "1647900744.468547",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

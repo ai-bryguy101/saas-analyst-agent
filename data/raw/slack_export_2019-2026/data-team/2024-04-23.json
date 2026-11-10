@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "8845048c-69f3-f41b-f8e1-1eb4fa909f63",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1713883041.488750",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d75d4618-bd85-60aa-d85d-065418b8bc1b",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> Dashboard refresh failed overnight",
+        "user": "URFUZYLCAEC",
+        "ts": "1713887800.887611",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c7b4cea7-9a57-c784-8f10-432a3d9ee6bf",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UA3MVBJWAHX",
+        "ts": "1713893075.906653",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a99a038a-0e43-d820-cc58-cbf56e30e6a2",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1713899074.832896",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0eb7e6b5-5f74-b879-0db2-4a93432943ff",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UFJUKVTAA1B",
+        "ts": "1713901151.053113",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebb0288b-0d48-2ad8-a24e-6f92873728e2",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U3KL08VJD8C",
+        "ts": "1713909568.253031",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "980ba917-e68d-90f3-5d6e-f750b3057d3f",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1713910987.712102",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "483278c4-98df-c54d-330d-1c6e2745e521",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> Events schema changed again (tenant_id vs account_id)",
+        "user": "UG4ETD69L1D",
+        "ts": "1713914821.628577",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81722f5d-1cc7-9a4e-9828-aafca329e9bb",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "U9XCAUGPS1F",
+        "ts": "1713916977.010620",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c520dc2-dfd2-3b17-2738-6508b911a79c",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U3EQ075NUYR",
+        "ts": "1713917242.970809",
+        "team": "T02BRNDLCV"
+    }
+]

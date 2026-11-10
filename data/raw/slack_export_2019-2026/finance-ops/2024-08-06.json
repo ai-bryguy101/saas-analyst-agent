@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "18cb191f-6a47-9655-5569-67f13705d084",
+        "type": "message",
+        "text": "Hawthorne Residential Inc. paid by wire, applying now",
+        "user": "UT7K74ALYGQ",
+        "ts": "1722952448.705947",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c53dc575-d0e2-e516-478d-5848dbe10191",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2024",
+        "user": "U9V01K22TU1",
+        "ts": "1722956403.714847",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cdc3a528-b688-1a3a-ccad-725efcb474ee",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1722957019.068541",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U1YEVCXATA8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12b96472-f7d6-f295-4427-d0de84e0c182",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAXWVBRVKW9",
+        "ts": "1722976994.680243",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UAXWVBRVKW9",
+            "ts": "1722959684.904531"
+        }
+    }
+]

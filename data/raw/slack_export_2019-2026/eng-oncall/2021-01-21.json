@@ -1,0 +1,19 @@
+[
+    {
+        "client_msg_id": "eb33e7be-3de0-a1dd-1dad-6bb2ac193ecc",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1611242529.879411",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

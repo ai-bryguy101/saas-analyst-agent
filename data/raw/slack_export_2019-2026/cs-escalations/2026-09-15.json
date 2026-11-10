@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "dca86b5c-58b7-b6f0-04e5-9e38cf0b8c49",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Stonebridge Couriers LLC wants an exec call about the outage",
+        "user": "U9SD2024Q7F",
+        "ts": "1789481516.736025",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8134862b-ea48-1bcb-4abb-7ba85693e00c",
+        "type": "message",
+        "text": "Meadowlark Distribution Ltd. reporting sync failures since this morning, CSM is Vincent Dubois",
+        "user": "U09CZFTHQSS",
+        "ts": "1789498159.841941",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec276aaa-acd3-aa98-558a-c5adbd443398",
+        "type": "message",
+        "text": "Can someone check Bayou Retail Group Ltd.'s invoice? They say they were double billed",
+        "user": "UQXT5A6YMVH",
+        "ts": "1789500196.710004",
+        "team": "T02BRNDLCV"
+    }
+]

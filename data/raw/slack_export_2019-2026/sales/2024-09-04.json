@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "6aa6791b-77eb-2805-a257-f5b4b81b833f",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UX84HDPARWN",
+        "ts": "1725455819.663644",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bbb2cecd-4797-bb96-5721-521caa1800bb",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U2LMMLL4F31",
+        "ts": "1725472625.060827",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e837c259-d7a2-ab48-6d63-6bd42bae7d82",
+        "type": "message",
+        "text": "Pioneer Janitorial Group wants a discount, how far can I go?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1725473625.027251",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6fe97cfd-8ca5-38a5-55f8-949241c258dc",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> Lost Ozark Freight Co. to Plinthwise on price",
+        "user": "UWU9WG7ECGY",
+        "ts": "1725476666.710137",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6bbcfa90-79a4-9f26-0c51-d1ca33afc11e",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UXS2WD4BYRN",
+        "ts": "1725482151.087346",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXS2WD4BYRN",
+            "ts": "1725475815.476044"
+        }
+    },
+    {
+        "client_msg_id": "d52ca63e-d18a-e83d-6227-2c8f5ed990c7",
+        "type": "message",
+        "text": "Lost Saginaw Janitorial Inc. to Plinthwise on price",
+        "user": "UH9DL28T3MH",
+        "ts": "1725491857.486676",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "2be56528-1272-3e32-3795-e0290bc37410",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UL8NMQFXPJR",
+        "ts": "1657114794.306248",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6be3f158-4a2e-2fdb-272b-dc7e236e1066",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UYFL6320JLT",
+        "ts": "1657116580.853230",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "082a9d95-9ab7-aa84-2106-e7e007979610",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UHV2RFNY0HN",
+        "ts": "1657119338.943442",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7b032efc-4ef5-0731-3357-2fcb811bf845",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U22GUF0P303",
+        "ts": "1657119572.331606",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87935d64-18b7-22bf-9f75-0c9269f32f7e",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UJRKGMQPU2R",
+        "ts": "1657146245.472002",
+        "team": "T02BRNDLCV"
+    }
+]

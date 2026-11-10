@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0e1d6ecb-55eb-1d3f-8357-2f11279e45eb",
+        "type": "message",
+        "text": "AR aging is up, Quarry Municipal Services is 90+ days",
+        "user": "U09CZFTHQSS",
+        "ts": "1727274524.882663",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1cceda65-523c-2985-8285-a31952bf6fdb",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UGPRJ4K947R",
+        "ts": "1727299780.595618",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bd26a8f-f499-5261-c359-07322efee657",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2024",
+        "user": "UNFVCYNZT6K",
+        "ts": "1727311813.498648",
+        "team": "T02BRNDLCV"
+    }
+]

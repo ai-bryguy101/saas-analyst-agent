@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "10b874f1-eb07-ccc9-6095-b58b1b1ffb11",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UNCGDMQATC5",
+        "ts": "1643727151.889346",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "119b1a41-6374-4a1e-0914-7ca619567ca1",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UXETPKNK8MV",
+        "ts": "1643740615.676543",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f9e962bf-2be3-7fc1-5be7-4fb57b669f6f",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1643744085.741043",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d2e2698-1b58-c750-b4f0-9ed6d52e33ed",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "UZJU9N8CY2T",
+        "ts": "1643752450.747071",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "403e3f0a-54b6-39ab-6ac3-0f3665047511",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> Don't use ARR__c from Salesforce, it's stale",
+        "user": "U9SD2024Q7F",
+        "ts": "1643757665.287812",
+        "team": "T02BRNDLCV"
+    }
+]

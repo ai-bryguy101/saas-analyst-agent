@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "a28341f5-9cd2-6df2-ecad-d155a6020868",
+        "type": "message",
+        "text": "Riverbend Hospital Corp. wants an exec call about the outage",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1569936401.391765",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d04827b4-49cb-b20a-097f-a7ce837941f9",
+        "type": "message",
+        "text": "Cedar Couriers asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1569937188.123864",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ef8481d7-dba6-077b-e7d6-8dba3a924470",
+        "type": "message",
+        "text": "Erie Public Works LLC asking for an SLA credit",
+        "user": "UPHFQAHDPSK",
+        "ts": "1569937389.266867",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da33762b-64bc-1ec1-d1f4-88590c8f3680",
+        "type": "message",
+        "text": "Ozark Academy Inc. asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1569938360.736152",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fce46e7-ba04-4b7d-05ca-f7da0d005705",
+        "type": "message",
+        "text": "Union College wants an exec call about the outage",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1569940791.810014",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96225151-ac4c-e269-dc02-589e2078c451",
+        "type": "message",
+        "text": "Bluewater Residential Group reporting sync failures since this morning, CSM is Ryan Iyer",
+        "user": "UPHFQAHDPSK",
+        "ts": "1569941936.252253",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c51fbfce-1c4c-4cf6-1690-1f86a2cb2d68",
+        "type": "message",
+        "text": "Renewal risk: Roberts Outfitters LLC unhappy with mobile app",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1569942405.580998",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "778725e9-396e-a9f5-4bb0-a7b8eaa9bad0",
+        "type": "message",
+        "text": "Renewal risk: McCarthy Suites unhappy with mobile app",
+        "user": "UNCGDMQATC5",
+        "ts": "1569943270.256681",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9a7cb20c-7bed-dce9-b498-b57447c4cd98",
+        "type": "message",
+        "text": "Crescent Contracting Inc. wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1569952947.846178",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "48f15e71-7c81-6a07-d104-f251c3dd3436",
+        "type": "message",
+        "text": "Carter Properties Corp. reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "U9U3DZUVA3L",
+        "ts": "1569953252.831399",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "69488b43-1100-adac-740b-91ed60aca32d",
+        "type": "message",
+        "text": "Gutierrez Janitorial Holdings wants an exec call about the outage",
+        "user": "UJQY3Q26RVW",
+        "ts": "1569959095.889012",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cab7f83e-5c19-bdd5-3f79-2be5f294dd03",
+        "type": "message",
+        "text": "Erie Municipal Services asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1569961931.733063",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c3c1d5b1-637b-210a-5e71-3f576abbd5e5",
+        "type": "message",
+        "text": "Sierra Stores Ltd. asking for an SLA credit",
+        "user": "UJRKGMQPU2R",
+        "ts": "1569964954.442570",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13cf3b48-a275-3df0-7504-94bccd87b01b",
+        "type": "message",
+        "text": "Can someone check Pioneer Contracting Corp.'s invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1569972222.800618",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f35433c-e946-02f0-e25d-e9653d5d8abc",
+        "type": "message",
+        "text": "Can someone check Blackhawk Properties Group's invoice? They say they were double billed",
+        "user": "U9SD2024Q7F",
+        "ts": "1569976969.814598",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "135ecb84-48e6-3b1d-79ed-a1d3a94547c9",
+        "type": "message",
+        "text": "Scioto Suites Corp. reporting sync failures since this morning, CSM is Aaron Edwards",
+        "user": "UWU9WG7ECGY",
+        "ts": "1569977914.369441",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "51637316-1655-d106-0f7b-8d8049553b73",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U5HQ6U91D2E",
+        "ts": "1711548136.859841",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5728ccb8-913a-aaee-d53a-fc1d9d15f4ba",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UX84HDPARWN",
+        "ts": "1711548765.999420",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bee3ea84-6d44-2a5e-2683-3dc61e84cbdc",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U09CZFTHQSS",
+        "ts": "1711550858.822844",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2938f995-8ce7-67cd-a8fa-5e61366b8c2b",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "U0E67MPWRXA",
+        "ts": "1711564305.929211",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5000127f-ab9c-25a4-46cb-38ff66d7f371",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U09CZFTHQSS",
+        "ts": "1711580947.012857",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1711578690.437178"
+        }
+    }
+]

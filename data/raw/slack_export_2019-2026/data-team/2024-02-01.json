@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "46ea1fd2-b25c-8c90-6463-928f87248eb3",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1706804265.271342",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "48479b4a-8f1f-7a25-8f40-533f4be83f61",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UE49ET7WGNU",
+        "ts": "1706809127.673350",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "65771ff2-05b1-f363-09a0-f5c44ad36bf8",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> Dashboard refresh failed overnight",
+        "user": "UFARBQM0LCD",
+        "ts": "1706810012.724894",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3fd6b0c5-5b38-33bf-bf58-8532d9d56572",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UDDBYSY4RFA",
+        "ts": "1706811152.551466",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "62f7330b-62fe-0609-8a1d-a9bb0620ab97",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQK194B1V43",
+        "ts": "1706814576.089319",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cef1b648-effb-bd4e-bed2-66f6bb8d59d0",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U2LMMLL4F31",
+        "ts": "1706826844.759790",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff9577ad-cd56-c66c-80da-f328b6e8a95a",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "UE49ET7WGNU",
+        "ts": "1706828335.405914",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a46e4420-a919-e627-28fb-c65e803f8313",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UC95B7VAFX0",
+        "ts": "1706833191.044020",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

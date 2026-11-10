@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "c1ac6bcd-7975-6664-5272-b58876963012",
+        "type": "message",
+        "text": "Renewal risk: Chavez Mechanical LLC unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1654608146.984367",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0VB9M5U3TM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a0c6faf-b2f2-f8fe-4883-e87807e08a03",
+        "type": "message",
+        "text": "Can someone check Whitlock Builders Corp.'s invoice? They say they were double billed",
+        "user": "U2LMMLL4F31",
+        "ts": "1654622436.679611",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c308b61-f4a8-21a2-ee23-ea899704496a",
+        "type": "message",
+        "text": "Can someone check Bluewater Maintenance Co Co.'s invoice? They say they were double billed",
+        "user": "U3YU9TS6QYB",
+        "ts": "1654623166.478464",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01d2e1bd-6fc6-0227-07bb-e0c95b20e9e9",
+        "type": "message",
+        "text": "Bayview Distribution Corp. wants an exec call about the outage",
+        "user": "UX84HDPARWN",
+        "ts": "1654628612.564060",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f06da686-a278-6932-2a24-a1757188f01f",
+        "type": "message",
+        "text": "<@U69WX6HRQNH> Renewal risk: Calloway Municipal Services Co. unhappy with mobile app",
+        "user": "U2CKCF24AEA",
+        "ts": "1654629488.530819",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6e850a9-6934-2871-65d9-647c0919759f",
+        "type": "message",
+        "text": "Myers Outfitters wants an exec call about the outage",
+        "user": "U5HQ6U91D2E",
+        "ts": "1654633778.298684",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b447a47f-9ae1-feb3-cfbc-23d7865a31b6",
+        "type": "message",
+        "text": "Heron Facilities Management asking for an SLA credit",
+        "user": "UL20M69UM76",
+        "ts": "1654635811.115999",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8bd0fe73-6ed4-3893-c6e7-6eea15843614",
+        "type": "message",
+        "text": "Elmhurst Couriers Corp. wants an exec call about the outage",
+        "user": "UXETPKNK8MV",
+        "ts": "1654649934.023524",
+        "team": "T02BRNDLCV"
+    }
+]

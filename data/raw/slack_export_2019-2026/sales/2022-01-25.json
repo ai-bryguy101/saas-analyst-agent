@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "17272ccf-a4b6-bb68-f100-b353cbfe5c00",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> Pricing question: does Pro include Dispatch?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1643116153.679025",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "353c3c34-0a2a-2399-075f-48f2bcdb91c5",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UL20M69UM76",
+        "ts": "1643122761.717327",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "db370aad-59e2-eecf-89c2-f95d867f9466",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U69WX6HRQNH",
+        "ts": "1643124216.255367",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5472cd93-10dd-e952-0bdf-4a68fbe65606",
+        "type": "message",
+        "text": "Pelletier Contracting Group wants a discount, how far can I go?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1643125216.994032",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "caff4d20-5aa2-7903-e16b-39ad804e84d3",
+        "type": "message",
+        "text": "Cruz Building Services Corp. wants a discount, how far can I go?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1643127099.871466",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7b2b234-adf6-0163-fae6-f8273da0a323",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UUFS9CP1A17",
+        "ts": "1643152161.898188",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11a5cb99-93db-b384-80d5-31cf57fa861e",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U5DYUQUF95P",
+        "ts": "1643152894.039109",
+        "team": "T02BRNDLCV"
+    }
+]

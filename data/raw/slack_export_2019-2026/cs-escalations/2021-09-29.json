@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "b1feecee-3d3b-de7e-5ef7-ecc803660c41",
+        "type": "message",
+        "text": "<@U5X9PNA34DU> Renewal risk: Tillamook Unified Schools unhappy with mobile app",
+        "user": "UMXMN24FN4K",
+        "ts": "1632921950.276295",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60a5a34a-b5eb-d757-fbe6-89bab5dac180",
+        "type": "message",
+        "text": "Mesa Hospital Corp. reporting sync failures since this morning, CSM is Christina Fenwick",
+        "user": "U773RMBLF5X",
+        "ts": "1632928695.938011",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1ba8646a-b5cd-00e6-3736-68871ffa2c97",
+        "type": "message",
+        "text": "Ortiz Realty Management Group reporting sync failures since this morning, CSM is Callum MacLeod",
+        "user": "UJKZ2R47YW9",
+        "ts": "1632934240.337830",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e83052d-8d7b-f45a-8953-48e1c08ea9d8",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Can someone check Marrow Hospital Corp.'s invoice? They say they were double billed",
+        "user": "UCQT1GS0C0C",
+        "ts": "1632943769.660358",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ab491ec2-313b-c5f4-fef4-8c4b2693498f",
+        "type": "message",
+        "text": "Can someone check Scott Restoration's invoice? They say they were double billed",
+        "user": "URWNWW8QFM6",
+        "ts": "1632945287.608987",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e9628a65-349f-aac4-57a7-1d3863f7dfef",
+        "type": "message",
+        "text": "Can someone check Huron Homes Holdings's invoice? They say they were double billed",
+        "user": "U69WX6HRQNH",
+        "ts": "1632949064.750597",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0dbe276c-6329-d606-9213-40906d9319fb",
+        "type": "message",
+        "text": "Southport County Facilities Inc. asking for an SLA credit",
+        "user": "UQK194B1V43",
+        "ts": "1632950758.853369",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e9f348d0-f895-ccc3-d9c4-cceac86683b9",
+        "type": "message",
+        "text": "Cumberland Suites LLC reporting sync failures since this morning, CSM is Chidi Gutierrez",
+        "user": "UYR8E48FJ62",
+        "ts": "1632950762.434207",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "268668b0-85ed-78d8-7158-c9582b70b0a6",
+        "type": "message",
+        "text": "Clearwater Restoration asking for an SLA credit",
+        "user": "UYR8E48FJ62",
+        "ts": "1632953823.906239",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "806d31eb-1ebb-d2a8-ca22-c31e44d4e0c7",
+        "type": "message",
+        "text": "Watson Fabrication asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1632954332.075271",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UHN0Q6LZH8E",
+            "ts": "1632939781.988229"
+        }
+    }
+]

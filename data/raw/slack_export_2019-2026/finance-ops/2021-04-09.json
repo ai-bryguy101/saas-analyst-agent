@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e231ab26-b939-7be2-c26c-550bc2ee6322",
+        "type": "message",
+        "text": "Reyes Properties Co. paid by wire, applying now",
+        "user": "UUFS9CP1A17",
+        "ts": "1617979586.478339",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "686e76f8-6f0c-3e5a-d40d-b31f2b6dad62",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UBHB6GTB73U",
+        "ts": "1617982160.161519",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "168584f4-6d29-6a9a-b1e5-a456a9cf25e9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UYFL6320JLT",
+        "ts": "1618000835.551089",
+        "team": "T02BRNDLCV"
+    }
+]

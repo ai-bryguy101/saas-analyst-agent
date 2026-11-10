@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "21353720-92a5-9817-2d3e-50ea53ea8390",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1602162216.004599",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAXWVBRVKW9",
+            "ts": "1602162656.785566"
+        }
+    },
+    {
+        "client_msg_id": "4da8983f-694b-0c04-d800-a3c8d69f9dba",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UUFS9CP1A17",
+        "ts": "1602173997.651175",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b2322f68-e260-344a-8f9f-09fb55ea64c8",
+        "type": "message",
+        "text": "Willow Health System Holdings paid by wire, applying now",
+        "user": "UC95B7VAFX0",
+        "ts": "1602178839.845561",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e02d0a5-bef0-452f-a994-87cb56854358",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1602194915.738888",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1602168631.675233"
+        }
+    }
+]

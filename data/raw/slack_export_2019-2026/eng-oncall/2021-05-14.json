@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "acceace3-e986-39af-1933-134a97783a89",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1621003878.658462",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#90967 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b24c278d-dc32-fec1-e9de-6bcaa6c6a707",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UNPKZYBKYGA",
+        "ts": "1621005118.431276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6fec2322-4ff2-094e-1767-ef4f05c72a66",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1621011044.937179",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#45160 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dec0b469-a11d-d457-1ae1-02067f33c493",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U3EQ075NUYR",
+        "ts": "1621013382.014448",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f8ce041-67f8-a501-90e5-c4a16e8c64f8",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UT7K74ALYGQ",
+        "ts": "1621023638.082111",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fdc1b7d2-44d4-3a53-1983-5bb499b02ef0",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UAXWVBRVKW9",
+        "ts": "1621025270.494176",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f10a7946-df26-69f6-02fd-0a50ae2eaf24",
+        "type": "message",
+        "text": "rolling back v7.9.7",
+        "user": "UMXMN24FN4K",
+        "ts": "1621033081.368615",
+        "team": "T02BRNDLCV"
+    }
+]

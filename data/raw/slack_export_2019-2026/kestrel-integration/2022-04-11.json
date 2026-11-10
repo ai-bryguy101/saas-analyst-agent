@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "20edd112-b985-2611-e435-e42ed299fef2",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1649682178.789009",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "351d4b89-df14-1a3e-c0a0-6ef5dd10c611",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UV8WG09HYBP",
+        "ts": "1649693823.381568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d4f83f78-4598-3ef8-a3b8-6fbfcf559c02",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U7PFYH0YRRG",
+        "ts": "1649706163.614767",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e95c8dd0-2a77-7b5b-b9ec-69cde1da2f5f",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UT7K74ALYGQ",
+        "ts": "1649719689.218601",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "14298589-8394-ffa4-0890-de2f742d3164",
+        "type": "message",
+        "text": "AR aging is up, Watanabe Property Group Group is 90+ days",
+        "user": "UR3LDWKU006",
+        "ts": "1676993583.493563",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2f99560e-96c7-e412-a6e1-f15400f63748",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1677002824.139906",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9bd4285b-8557-80d4-306e-84e37c6e6110",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2023",
+        "user": "UQTUT2GDN85",
+        "ts": "1677006014.005451",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a03f59b-d55f-c777-cdc4-13f83da95485",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UWBW507RCA9",
+        "ts": "1677012681.062169",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7697bf17-c9fe-e939-8833-f8d845f75b1c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UH9DL28T3MH",
+        "ts": "1677013336.034047",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b55ba023-7407-cd45-d2fe-dcee37bc983b",
+        "type": "message",
+        "text": "AR aging is up, Taylor Works Ltd. is 90+ days",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1677013617.056126",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "8c7d0ec5-3512-ad3b-f1d3-81e7f7ee32f6",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1604502649.049767",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efb3b174-5f6c-1bd6-8b7f-c947d27f0587",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Lost Harbortown Manufacturing Inc. to Plinthwise on price",
+        "user": "UA3MVBJWAHX",
+        "ts": "1604508576.613189",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95d61668-4d94-8864-36e8-b3b814a2d7d1",
+        "type": "message",
+        "text": "Pinecrest Manufacturing LLC wants a discount, how far can I go?",
+        "user": "UNCGDMQATC5",
+        "ts": "1604519202.203636",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77f3b562-4204-6fa2-5d20-dc8bc3af8e3e",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UYFL6320JLT",
+        "ts": "1604532832.617154",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UYFL6320JLT",
+            "ts": "1604507909.050291"
+        }
+    },
+    {
+        "client_msg_id": "008e7b1e-39c9-172e-eb00-b1f95bda0a09",
+        "type": "message",
+        "text": "Closed Commonwealth Resorts Ltd.! 239 seats, Starter",
+        "user": "UG4ETD69L1D",
+        "ts": "1604535710.289679",
+        "team": "T02BRNDLCV"
+    }
+]

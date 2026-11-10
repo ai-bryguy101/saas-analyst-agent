@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "773f4e6b-9794-5d26-da52-c53237c586d4",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "U9SD2024Q7F",
+        "ts": "1769013508.306479",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4c50d823-918a-25fd-6ad4-5b8c6c5bc8fc",
+        "type": "message",
+        "text": "Lost Tamarack Property Group Ltd. to Plinthwise on price",
+        "user": "U9XCAUGPS1F",
+        "ts": "1769035438.909969",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05206e07-49c0-0d6d-8b20-12c616a01da9",
+        "type": "message",
+        "text": "<@U8SR98620D7> Redstone Hotels Inc. wants a discount, how far can I go?",
+        "user": "UFWAQ6E76D6",
+        "ts": "1769039711.386007",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fe38550-3616-ffbb-b0f5-00ed21b54c82",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UQTUT2GDN85",
+        "ts": "1769042894.468641",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

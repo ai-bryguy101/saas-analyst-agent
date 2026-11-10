@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "602e1581-56c8-57f4-5af6-fa6f30ec1905",
+        "type": "message",
+        "text": "rolling back v5.38.8",
+        "user": "UQTUT2GDN85",
+        "ts": "1772459007.776169",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e43ca219-7d01-182c-df99-7b08720ae0e8",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1772468350.280486",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#24484 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ece3315-51cd-f41e-d807-bb57ba6fc265",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UQTUT2GDN85",
+        "ts": "1772476483.233404",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0218f8f7-1a67-a364-f163-555e3cb9d950",
+        "type": "message",
+        "text": "rolling back v7.13.8",
+        "user": "U09CZFTHQSS",
+        "ts": "1772484565.349614",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "USW7BR7KTST"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e5d89c8-53ef-09f5-0d42-6a092f792122",
+        "type": "message",
+        "text": "deploy v8.12.3 to prod :rocket:",
+        "user": "UDCALCM1RUG",
+        "ts": "1772484572.928236",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95b7dbe5-2e70-1da3-9d43-6c0b2445b578",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1772485085.916028",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#49689 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1355700-2983-5fe5-cdf6-d6f708cd4665",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1772486901.026268",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#47516 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9f9073f-ef52-7cd4-7888-ad42579e94dc",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U0V9BPHARQX",
+        "ts": "1772488010.588614",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3c3af27c-f4c7-9dd2-4d9a-8261014f92ad",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UMDHKXLV8RH",
+        "ts": "1772489307.803971",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ecd8cf8e-2620-fb8d-eaca-192f4f85282a",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1772494785.506014",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UM2UVLXX7MZ",
+            "ts": "1772465048.692725"
+        }
+    },
+    {
+        "client_msg_id": "47b3320a-4321-e543-11f1-beb331e61ddb",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UL20M69UM76",
+        "ts": "1772498658.659635",
+        "team": "T02BRNDLCV"
+    }
+]

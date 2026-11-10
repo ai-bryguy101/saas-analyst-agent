@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6a7b9d8f-b681-aea3-2579-e4fb21dd6081",
+        "type": "message",
+        "text": "Anyone have a reference customer in Hospitality?",
+        "user": "U09CZFTHQSS",
+        "ts": "1575486529.886462",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fc643a38-8dff-d95c-3712-8c23280efeec",
+        "type": "message",
+        "text": "Gonzalez Maintenance Co Group wants a discount, how far can I go?",
+        "user": "U773RMBLF5X",
+        "ts": "1575498517.927965",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "7e4ec79a-2494-aafd-6de8-5dd4663b5e4e",
+        "type": "message",
+        "text": "Closed Redstone Facilities Management Co.! 234 seats, Pro",
+        "user": "URWNWW8QFM6",
+        "ts": "1571753068.147415",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "64e41be3-a80a-bc1f-24b6-efe2b0d2ac20",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQK194B1V43",
+        "ts": "1571768786.192749",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "daa26618-4aa5-ee13-334f-a66460c20ef6",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UX84HDPARWN",
+        "ts": "1571778952.749107",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UX84HDPARWN",
+            "ts": "1571750148.008254"
+        }
+    },
+    {
+        "client_msg_id": "7145250e-8e3d-0e0a-209f-1281a018f3ce",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U2CKCF24AEA",
+        "ts": "1571783621.216831",
+        "team": "T02BRNDLCV"
+    }
+]

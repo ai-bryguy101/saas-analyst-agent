@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "dea2b112-7500-c7e5-e910-7fac6495c8fb",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXS2WD4BYRN",
+        "ts": "1628863202.265220",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "216c3cf0-1b44-e753-fd03-817c7c112bff",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UHV2RFNY0HN",
+        "ts": "1628864310.835177",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3a23c96c-48b9-c349-fd32-027dd7ba90bd",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1628887512.493482",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#44786 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdd9f9e6-a9ac-38d2-e6c9-78a1d101a79d",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UR12Y3AZNKK",
+        "ts": "1628892922.303662",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8749006f-cccb-1584-64e2-d5bf44e4772b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1628898355.543588",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#47760 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28798650-3bac-2ff7-12eb-1fcd61e817e3",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1628899795.501055",
+        "team": "T02BRNDLCV"
+    }
+]

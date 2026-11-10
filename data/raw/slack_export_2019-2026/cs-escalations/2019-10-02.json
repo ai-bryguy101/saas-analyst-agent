@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "c06c1800-16bc-f2ba-c747-acd86dd9f610",
+        "type": "message",
+        "text": "Hawthorne Township LLC wants an exec call about the outage",
+        "user": "U5X9PNA34DU",
+        "ts": "1570027133.140984",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b87e5e90-2c4d-e2f6-7428-523963b614be",
+        "type": "message",
+        "text": "Heron Fabrication Co. wants an exec call about the outage",
+        "user": "U2CKCF24AEA",
+        "ts": "1570034573.444004",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76d80598-5c45-a360-7f75-e29fa120d4f9",
+        "type": "message",
+        "text": "Renewal risk: Blackhawk Transit Authority Co. unhappy with mobile app",
+        "user": "UE4GTX0EXPH",
+        "ts": "1570046536.851903",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "df93d6a6-e995-0e83-29d2-553c6b6feaf7",
+        "type": "message",
+        "text": "Renewal risk: Maplewood Medical Center Group unhappy with mobile app",
+        "user": "UB0YL0LKYC7",
+        "ts": "1570048113.648425",
+        "team": "T02BRNDLCV"
+    }
+]

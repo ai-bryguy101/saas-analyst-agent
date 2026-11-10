@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "c32d362c-5d95-22af-4a56-09d424b2c4c4",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U5TERVWF7JH",
+        "ts": "1671541327.926466",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d9488ac-14d7-2c4a-ed10-bc88da0e6a0b",
+        "type": "message",
+        "text": "<@UCQT1GS0C0C> Need churn list for 2021",
+        "user": "U69WX6HRQNH",
+        "ts": "1671557029.784060",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "adc29d36-8580-57bf-2fa0-e27ce25a94b7",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U7V33ZEGRET",
+        "ts": "1671558510.213809",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a14ab33c-622a-fc4b-782a-2be8b18970ce",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U0VB9M5U3TM",
+        "ts": "1671562604.425167",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f76d66c3-018a-9b1a-bbec-ba6540ed9cbe",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UT7K74ALYGQ",
+        "ts": "1671580962.160528",
+        "team": "T02BRNDLCV"
+    }
+]

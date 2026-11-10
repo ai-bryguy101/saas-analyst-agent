@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "3adf1955-59d5-6d5d-1cb5-9b60fc95a3fb",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UZACKQ1VXCH",
+        "ts": "1657286319.874856",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9fb0c6ce-35c6-57d6-b9bf-c324ebe2592c",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UMDHKXLV8RH",
+        "ts": "1657294413.075749",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a90a03e8-b23f-d691-160f-36d54a2d56ef",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UB8UH2KX2NW",
+        "ts": "1657297629.583565",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02073aca-32bc-a304-1dec-8b24332db0fa",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U9SD2024Q7F",
+        "ts": "1657301391.010027",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9SD2024Q7F",
+            "ts": "1657291281.732569"
+        }
+    },
+    {
+        "client_msg_id": "1d7337c4-503b-ffca-da29-f6085d7c7361",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UFGLBSDS2XV",
+        "ts": "1657320846.541324",
+        "team": "T02BRNDLCV"
+    }
+]

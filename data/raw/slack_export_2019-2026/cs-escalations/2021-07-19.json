@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "03031d49-9934-67c2-14c3-78ad9d325974",
+        "type": "message",
+        "text": "Renewal risk: Perez Outfitters Corp. unhappy with mobile app",
+        "user": "UV9KPNCPQJN",
+        "ts": "1626711298.793511",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eca52917-6a4a-81d4-1829-b86fc21c0509",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> Erie University Facilities Inc. asking for an SLA credit",
+        "user": "U7PFYH0YRRG",
+        "ts": "1626713614.980658",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0f0f740-10c0-f46e-6418-0a5970bc15a2",
+        "type": "message",
+        "text": "McCarthy University Facilities asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1626714281.619559",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9072f7b1-42dd-6b26-2995-e74ce84189b1",
+        "type": "message",
+        "text": "Can someone check Quarry Resorts LLC's invoice? They say they were double billed",
+        "user": "U9XCAUGPS1F",
+        "ts": "1626733748.339037",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33e790d9-d6de-27bd-3ed6-336b16b2b53c",
+        "type": "message",
+        "text": "Superior Mechanical Ltd. reporting sync failures since this morning, CSM is Femi Adeyemi",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1626736542.605399",
+        "team": "T02BRNDLCV"
+    }
+]

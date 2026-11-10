@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "86e6cce4-7d71-e661-7937-45d01c6e32b1",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U7V33ZEGRET",
+        "ts": "1769436508.923580",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb22755e-0650-5115-3544-70bcf85828fd",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UP51TVUPQU5",
+        "ts": "1769438344.828079",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51001c97-3c7f-bd7f-601b-5f91a05657a4",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1769454782.488592",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29264 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b87d15c3-c678-22c5-542e-23925d37b89f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1769472817.502141",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#50362 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

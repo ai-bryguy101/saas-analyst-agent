@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "5a0a5cb8-e8a3-09d3-10a7-017603060362",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U3KL08VJD8C",
+        "ts": "1603890800.507057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b644d349-ae69-ce9e-3680-223144896d6e",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UUFS9CP1A17",
+        "ts": "1603899958.279555",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80d56318-aff9-9a36-8aec-6351807b7f72",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UMXMN24FN4K",
+        "ts": "1603900247.788511",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "951ad66b-a328-6970-c7d9-2f1ab4bbf89e",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UPGXMWMDQNR",
+        "ts": "1603916411.191360",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f7227d45-1194-e89e-9d48-f59225d2df8c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U0E67MPWRXA",
+        "ts": "1603916638.032939",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ebc895c-bafd-c30d-da16-4d17928bc928",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UB8UH2KX2NW",
+        "ts": "1603924094.054779",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4dfbe8fc-8eaa-4454-f491-7347d599b47f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U34NH0P5TMZ",
+        "ts": "1603926424.040254",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9aca8445-e126-c53a-6a11-d9b34315e81c",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2020",
+        "user": "U0E67MPWRXA",
+        "ts": "1603927893.798490",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63de31d4-1674-1713-d10e-2daf96699eee",
+        "type": "message",
+        "text": "Cornerstone Janitorial paid by wire, applying now",
+        "user": "U3YU9TS6QYB",
+        "ts": "1603929270.433798",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f10cfaf0-2b94-9122-5d21-8118a3bc915f",
+        "type": "message",
+        "text": "Plains Works Inc. paid by wire, applying now",
+        "user": "U2CKCF24AEA",
+        "ts": "1603930823.706826",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "041adb18-03a9-7b84-cf22-beec9a5d1f5f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UKMQNTKUR4V",
+        "ts": "1603931390.516846",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "553d9e01-a1c4-6943-7ed4-b2151bb6762d",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2020",
+        "user": "UQTUT2GDN85",
+        "ts": "1603931415.612809",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e708c449-61c3-0235-0e55-6e0629aa2288",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAGQX7APZBG",
+        "ts": "1603932757.858211",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

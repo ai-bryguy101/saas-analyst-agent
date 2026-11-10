@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "0bb26246-0ca6-1a31-780b-07e258f5c29f",
+        "type": "message",
+        "text": "Can someone check Huang School District LLC's invoice? They say they were double billed",
+        "user": "UR3LDWKU006",
+        "ts": "1713877499.918985",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "077c7f3f-bafe-3999-07f0-e292c27d4cc4",
+        "type": "message",
+        "text": "Lavoie Mills reporting sync failures since this morning, CSM is Julie Yamamoto",
+        "user": "U9SD2024Q7F",
+        "ts": "1713878609.960382",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "906d3b82-72ad-fcb8-ac5f-5a966905d981",
+        "type": "message",
+        "text": "Magnolia Construction Group wants an exec call about the outage",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1713879130.984609",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8c247cd5-526c-e708-35ad-b750020b5d93",
+        "type": "message",
+        "text": "Renewal risk: Three Fabrication Co. unhappy with mobile app",
+        "user": "UC95B7VAFX0",
+        "ts": "1713893126.321331",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1713890117.964005"
+        }
+    },
+    {
+        "client_msg_id": "b5ba88ef-c064-ca88-d2f7-705bf118e485",
+        "type": "message",
+        "text": "Plains University Facilities Inc. wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1713899277.067524",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "61b63b75-44b8-7274-5c2f-74cb215bfaf8",
+        "type": "message",
+        "text": "Clearwater Health System Co. reporting sync failures since this morning, CSM is Jason Garcia",
+        "user": "UZACKQ1VXCH",
+        "ts": "1713901264.116945",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8e45635c-79fe-0de2-42fb-04ca6ea406a4",
+        "type": "message",
+        "text": "Summit Markets LLC reporting sync failures since this morning, CSM is Margaret Okonkwo-Hale",
+        "user": "UJKZ2R47YW9",
+        "ts": "1713908292.403904",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f2f12ffb-d507-5172-9125-9283c50a4630",
+        "type": "message",
+        "text": "<@UFNKJQT8PV1> Ozark College reporting sync failures since this morning, CSM is Patricia Reed",
+        "user": "UC70JNE74S7",
+        "ts": "1713908742.578026",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49243ed7-864e-a0c9-1334-1363db63911b",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> Renewal risk: Rivers Manufacturing unhappy with mobile app",
+        "user": "UFJUKVTAA1B",
+        "ts": "1713909160.244293",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d9b2a9f-a2de-e777-5b2b-08d0f0f8c59e",
+        "type": "message",
+        "text": "<@UL20M69UM76> Great Property Group Corp. reporting sync failures since this morning, CSM is Tyler Peterson",
+        "user": "UR3LDWKU006",
+        "ts": "1713916958.737399",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

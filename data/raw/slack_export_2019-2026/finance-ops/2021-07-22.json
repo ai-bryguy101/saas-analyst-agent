@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "ccdbe52d-c776-5f9c-db06-ee4e61b21596",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U8TVGALMJLQ",
+        "ts": "1626974338.490803",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8f752ff-772d-2025-7dfd-eb5a4d3bd02f",
+        "type": "message",
+        "text": "AR aging is up, Lewis Mechanical Ltd. is 90+ days",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1626979020.423451",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1626974852.603860"
+        }
+    },
+    {
+        "client_msg_id": "329e8a66-7b33-9921-aab9-11b528c50977",
+        "type": "message",
+        "text": "Tamarack Hospital Corp. paid by wire, applying now",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1626983032.919152",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e693fc12-0fdf-1808-b515-43634224c73e",
+        "type": "message",
+        "text": "Young Supply Co Co. paid by wire, applying now",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1626995659.743442",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "842c1bd5-94a3-ef3f-2d77-c46c083cb83b",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UFARBQM0LCD",
+        "ts": "1776178077.222538",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aedf49f4-5d63-44e4-7267-79c42e32bf0e",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1776203156.022760",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf21851b-9629-5ae3-0eef-7bfc4559aa17",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQXT5A6YMVH",
+        "ts": "1776214784.308528",
+        "team": "T02BRNDLCV"
+    }
+]

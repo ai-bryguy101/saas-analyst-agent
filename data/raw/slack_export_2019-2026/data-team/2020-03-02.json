@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "94ccd070-2d9e-0543-b911-b401dfd7979d",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U48TCJE75PD",
+        "ts": "1583159792.749343",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "284d6f55-81f0-d560-0355-cffa45dc5bbd",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UQXT5A6YMVH",
+        "ts": "1583168859.444078",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa63f892-2f2a-bbf5-8153-53d6078c8991",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UHV2RFNY0HN",
+        "ts": "1583169212.005532",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d4839688-8419-f136-b445-86efdd2b1743",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "U0E67MPWRXA",
+        "ts": "1583169879.184664",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a8eed3c-3fc7-7378-854f-9f3e2d670499",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U5X9PNA34DU",
+        "ts": "1583175135.032628",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "024df43c-b62e-ebff-467b-8de6e042c343",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U9V01K22TU1",
+        "ts": "1583192885.354276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eed5ff8d-9b42-f6fc-7d51-ca6ceb1bbea6",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UG4ETD69L1D",
+        "ts": "1583196088.126892",
+        "team": "T02BRNDLCV"
+    }
+]

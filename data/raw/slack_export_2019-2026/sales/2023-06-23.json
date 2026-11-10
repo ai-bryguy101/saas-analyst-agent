@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "0bf3c47c-5543-2c79-12b0-d24cd306cd25",
+        "type": "message",
+        "text": "Anyone have a reference customer in Government?",
+        "user": "UFNKJQT8PV1",
+        "ts": "1687541673.873601",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "544b1a54-3599-d104-b62d-b491acbde4e9",
+        "type": "message",
+        "text": "Lost Cornerstone Resorts Inc. to Plinthwise on price",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1687562366.172618",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UM2UVLXX7MZ",
+            "ts": "1687532864.051848"
+        }
+    },
+    {
+        "client_msg_id": "cdc748b9-1bb6-5c61-7017-7f98cc34f889",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> Pipeline review moved to 3pm",
+        "user": "UPGXMWMDQNR",
+        "ts": "1687564556.154250",
+        "team": "T02BRNDLCV"
+    }
+]

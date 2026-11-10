@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "1022a7aa-f771-2f84-72de-28ade9033db2",
+        "type": "message",
+        "text": "deploy v5.24.5 to prod :rocket:",
+        "user": "UL20M69UM76",
+        "ts": "1710165781.910140",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96942659-8270-0f3c-e2a8-3ba72607b281",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1710169189.545154",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#49628 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c9c54c2-9d45-d78a-3bd7-1c6b9752e882",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UDCALCM1RUG",
+        "ts": "1710170607.869436",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ca3b21c-9b1a-ce33-f1d9-6909ff4987d5",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UT7K74ALYGQ",
+        "ts": "1710174097.863009",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c332094-45fa-34fc-1212-ed62edb45bf2",
+        "type": "message",
+        "text": "deploy v6.28.9 to prod :rocket:",
+        "user": "URFUZYLCAEC",
+        "ts": "1710180055.740090",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8aa6558c-f2e1-d6ac-a589-9f1fb317fcf2",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UG4ETD69L1D",
+        "ts": "1710187216.150113",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6647936c-c0f8-9e2a-f3bc-6753f29adb67",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UFARBQM0LCD",
+        "ts": "1710191645.300212",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9803bab6-8037-3e89-8231-29d6658561fc",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1710194374.653078",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#34868 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f476d85a-2e2e-1709-5c27-8fb0c5c10605",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UDDBYSY4RFA",
+        "ts": "1710197699.257111",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDDBYSY4RFA",
+            "ts": "1710177113.415802"
+        }
+    },
+    {
+        "client_msg_id": "6c148ec3-8e04-9f01-e7a4-242d6ced415a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1710200850.288787",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88631 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e23b072b-2d29-3344-1a5f-ce43cdfad380",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UFARBQM0LCD",
+        "ts": "1710202424.471477",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "79080170-37c5-6eb0-fad7-511501bab2e7",
+        "type": "message",
+        "text": "deploy v8.33.5 to prod :rocket:",
+        "user": "UL8NMQFXPJR",
+        "ts": "1710203188.302911",
+        "team": "T02BRNDLCV"
+    }
+]

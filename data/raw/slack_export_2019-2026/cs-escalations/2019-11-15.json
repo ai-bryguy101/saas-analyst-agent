@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "7a3833f0-e57c-72bf-561e-b48088b4fc31",
+        "type": "message",
+        "text": "Can someone check Summit Hospitality Group Group's invoice? They say they were double billed",
+        "user": "UT9KGXWKHLB",
+        "ts": "1573823013.504653",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36117fde-2416-5dfe-5f5b-e95823bb0356",
+        "type": "message",
+        "text": "Renewal risk: Shenandoah Fabrication unhappy with mobile app",
+        "user": "UHV2RFNY0HN",
+        "ts": "1573824670.824655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37c3acb8-68eb-caea-b383-d118cf5e4f48",
+        "type": "message",
+        "text": "Crescent Hospitality Group LLC asking for an SLA credit",
+        "user": "UQK194B1V43",
+        "ts": "1573829647.909873",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "497ac465-b4d8-ad22-814f-6bf2535fea14",
+        "type": "message",
+        "text": "Can someone check Bayview Municipal Services's invoice? They say they were double billed",
+        "user": "U773RMBLF5X",
+        "ts": "1573835281.310393",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "132f990b-92bb-15ef-db2f-ca25f924f13a",
+        "type": "message",
+        "text": "Twin Construction Holdings reporting sync failures since this morning, CSM is Brandon Price",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1573837191.678263",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c60f7820-b153-0bcf-24ca-48a9e2079128",
+        "type": "message",
+        "text": "Wexford Mechanical reporting sync failures since this morning, CSM is Lorraine Whitlock",
+        "user": "U8SR98620D7",
+        "ts": "1573857265.027423",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

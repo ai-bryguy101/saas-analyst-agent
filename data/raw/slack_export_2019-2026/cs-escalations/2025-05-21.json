@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "c3765cd9-bf93-f473-840a-02ae07578ea5",
+        "type": "message",
+        "text": "Clark Property Group wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1747843564.126252",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da270265-87cd-da8f-78a7-a649998680bc",
+        "type": "message",
+        "text": "Renewal risk: Nasser School District unhappy with mobile app",
+        "user": "U22GUF0P303",
+        "ts": "1747844019.179237",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23b2b045-00ff-7507-feff-348b9785631a",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> Calloway Facilities Management, Inc. asking for an SLA credit",
+        "user": "UWUGRQ83YYM",
+        "ts": "1747851878.856317",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "305eddde-9d86-3e67-f1fa-18407fed832a",
+        "type": "message",
+        "text": "Three Health System wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1747856320.202993",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8068d939-8586-9704-bd96-6b0c2e7e1068",
+        "type": "message",
+        "text": "Can someone check Superior School District Corp.'s invoice? They say they were double billed",
+        "user": "UP51TVUPQU5",
+        "ts": "1747859201.377499",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "545bf926-da16-9f8e-e026-e9a1fa54a8ed",
+        "type": "message",
+        "text": "<@U0V9BPHARQX> Harbortown Facilities Management Inc. wants an exec call about the outage",
+        "user": "USW7BR7KTST",
+        "ts": "1747861680.738960",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "de6fc534-2cca-a2bb-ff16-7b0a5abcd232",
+        "type": "message",
+        "text": "Can someone check Watson Logistics's invoice? They say they were double billed",
+        "user": "UE4GTX0EXPH",
+        "ts": "1747864980.861144",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5893b744-f9a5-51dd-61b5-e4fbd6099a8c",
+        "type": "message",
+        "text": "Clearwater Hospital Inc. reporting sync failures since this morning, CSM is Jordan Ingleby",
+        "user": "UMXMN24FN4K",
+        "ts": "1747866852.542865",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "b9c3090a-649b-8e50-d66c-d38c9a9bc476",
+        "type": "message",
+        "text": "Cox Property Services LLC wants an exec call about the outage",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1719927707.500067",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2698e44d-2d02-5f86-9771-47787e6eea12",
+        "type": "message",
+        "text": "Can someone check Willow Maintenance Co's invoice? They say they were double billed",
+        "user": "UL20M69UM76",
+        "ts": "1719930060.959548",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "056970a2-55df-9986-8348-55efad99bbfc",
+        "type": "message",
+        "text": "Willow Health Partners LLC reporting sync failures since this morning, CSM is Aaron Flores",
+        "user": "U5HQ6U91D2E",
+        "ts": "1719938317.956832",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7b767f6f-3ea5-efaa-0e8e-d27c72118ce9",
+        "type": "message",
+        "text": "Can someone check Brookside Contracting Corp.'s invoice? They say they were double billed",
+        "user": "U9XCAUGPS1F",
+        "ts": "1719941514.950268",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7fb0eec-589a-03fd-5f93-1ba085bc69a2",
+        "type": "message",
+        "text": "Can someone check Elmhurst Hotels's invoice? They say they were double billed",
+        "user": "UQXT5A6YMVH",
+        "ts": "1719943279.838177",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b659f83-c8c1-2922-7c8b-d4715866834e",
+        "type": "message",
+        "text": "McCarthy University Facilities wants an exec call about the outage",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1719951677.825691",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8887d949-7632-6047-bda3-a9a10c5bf65e",
+        "type": "message",
+        "text": "Can someone check Oakmere Supply Co Co.'s invoice? They say they were double billed",
+        "user": "U09CZFTHQSS",
+        "ts": "1719953942.452496",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1719965881.153958"
+        }
+    },
+    {
+        "client_msg_id": "aa63ca5f-c68b-1d7d-5672-10214af9a7f4",
+        "type": "message",
+        "text": "Renewal risk: Twin Property Group Group unhappy with mobile app",
+        "user": "UV9KPNCPQJN",
+        "ts": "1719955432.732012",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UDDBYSY4RFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f763cd1-5dca-e34c-c2a7-72f7cd08bc33",
+        "type": "message",
+        "text": "Allegheny Hotels Co. asking for an SLA credit",
+        "user": "UDCALCM1RUG",
+        "ts": "1719956644.489546",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d1f5b488-ddd7-9821-de6d-46f1dffbef01",
+        "type": "message",
+        "text": "Renewal risk: Ridgeline Supply Co unhappy with mobile app",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1719962497.317504",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3db120f6-f420-c4cb-dcc7-6a9ec6b18304",
+        "type": "message",
+        "text": "Renewal risk: Young Hospitality Group Corp. unhappy with mobile app",
+        "user": "UH9DL28T3MH",
+        "ts": "1719965769.734568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "50f0a8c3-1383-26f7-0bdb-59cd373acd13",
+        "type": "message",
+        "text": "Renewal risk: Meadowlark Property Services Holdings unhappy with mobile app",
+        "user": "U5HQ6U91D2E",
+        "ts": "1719966786.313200",
+        "team": "T02BRNDLCV"
+    }
+]

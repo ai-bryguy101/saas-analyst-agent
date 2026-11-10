@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6b04905b-d39c-aed0-2796-037b84317b58",
+        "type": "message",
+        "text": "Osprey Building Services Holdings asking for an SLA credit",
+        "user": "UFARBQM0LCD",
+        "ts": "1739546266.332116",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "61aa2148-c104-4230-5b32-f77be2fabdd8",
+        "type": "message",
+        "text": "Can someone check Morales Restoration Corp.'s invoice? They say they were double billed",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1739571368.000805",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

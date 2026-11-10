@@ -1,0 +1,2513 @@
+{
+  "@odata.context": "https://graph.microsoft.example/v1.0/$metadata#teams('…')/channels('…')/messages",
+  "value": [
+    {
+      "id": "1635770949685",
+      "replyToId": null,
+      "etag": "1635770949685",
+      "messageType": "message",
+      "createdDateTime": "2021-11-01T12:49:09.685Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1635843002646",
+      "replyToId": null,
+      "etag": "1635843002646",
+      "messageType": "message",
+      "createdDateTime": "2021-11-02T08:50:02.646Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1635930171083",
+      "replyToId": null,
+      "etag": "1635930171083",
+      "messageType": "message",
+      "createdDateTime": "2021-11-03T09:02:51.083Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1636047344676",
+      "replyToId": null,
+      "etag": "1636047344676",
+      "messageType": "message",
+      "createdDateTime": "2021-11-04T17:35:44.676Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1636104748885",
+      "replyToId": null,
+      "etag": "1636104748885",
+      "messageType": "message",
+      "createdDateTime": "2021-11-05T09:32:28.885Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1636632035988",
+      "replyToId": null,
+      "etag": "1636632035988",
+      "messageType": "message",
+      "createdDateTime": "2021-11-11T12:00:35.988Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1636708177738",
+      "replyToId": null,
+      "etag": "1636708177738",
+      "messageType": "message",
+      "createdDateTime": "2021-11-12T09:09:37.738Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1636999171416",
+      "replyToId": null,
+      "etag": "1636999171416",
+      "messageType": "message",
+      "createdDateTime": "2021-11-15T17:59:31.416Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1637080443792",
+      "replyToId": null,
+      "etag": "1637080443792",
+      "messageType": "message",
+      "createdDateTime": "2021-11-16T16:34:03.792Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1637238126539",
+      "replyToId": null,
+      "etag": "1637238126539",
+      "messageType": "message",
+      "createdDateTime": "2021-11-18T12:22:06.539Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "58a83df3-09ed-e9ed-e52b-548bda70ced3",
+          "displayName": "Lars Roberts",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1637328431920",
+      "replyToId": null,
+      "etag": "1637328431920",
+      "messageType": "message",
+      "createdDateTime": "2021-11-19T13:27:11.920Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1637576768153",
+      "replyToId": null,
+      "etag": "1637576768153",
+      "messageType": "message",
+      "createdDateTime": "2021-11-22T10:26:08.153Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for November</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1637679626679",
+      "replyToId": null,
+      "etag": "1637679626679",
+      "messageType": "message",
+      "createdDateTime": "2021-11-23T15:00:26.679Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1637847963931",
+      "replyToId": null,
+      "etag": "1637847963931",
+      "messageType": "message",
+      "createdDateTime": "2021-11-25T13:46:03.931Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fa0ca65c-8d14-f35e-bf81-b442c984b264",
+          "displayName": "Carl Lockwood",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for November</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1638288730028",
+      "replyToId": null,
+      "etag": "1638288730028",
+      "messageType": "message",
+      "createdDateTime": "2021-11-30T16:12:10.028Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1638379472456",
+      "replyToId": null,
+      "etag": "1638379472456",
+      "messageType": "message",
+      "createdDateTime": "2021-12-01T17:24:32.456Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1638875119337",
+      "replyToId": null,
+      "etag": "1638875119337",
+      "messageType": "message",
+      "createdDateTime": "2021-12-07T11:05:19.337Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1639147610585",
+      "replyToId": null,
+      "etag": "1639147610585",
+      "messageType": "message",
+      "createdDateTime": "2021-12-10T14:46:50.585Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fa0ca65c-8d14-f35e-bf81-b442c984b264",
+          "displayName": "Carl Lockwood",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for December</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1639562797586",
+      "replyToId": null,
+      "etag": "1639562797586",
+      "messageType": "message",
+      "createdDateTime": "2021-12-15T10:06:37.586Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1639991685083",
+      "replyToId": null,
+      "etag": "1639991685083",
+      "messageType": "message",
+      "createdDateTime": "2021-12-20T09:14:45.083Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fa0ca65c-8d14-f35e-bf81-b442c984b264",
+          "displayName": "Carl Lockwood",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1640344850627",
+      "replyToId": null,
+      "etag": "1640344850627",
+      "messageType": "message",
+      "createdDateTime": "2021-12-24T11:20:50.627Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1640615383074",
+      "replyToId": null,
+      "etag": "1640615383074",
+      "messageType": "message",
+      "createdDateTime": "2021-12-27T14:29:43.074Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "cd60e91c-0ccd-c3fd-12ed-868a62920437",
+          "displayName": "Tomasz Kowalski",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1640686771686",
+      "replyToId": null,
+      "etag": "1640686771686",
+      "messageType": "message",
+      "createdDateTime": "2021-12-28T10:19:31.686Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "58a83df3-09ed-e9ed-e52b-548bda70ced3",
+          "displayName": "Lars Roberts",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for December</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1640775364716",
+      "replyToId": null,
+      "etag": "1640775364716",
+      "messageType": "message",
+      "createdDateTime": "2021-12-29T10:56:04.716Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "cd60e91c-0ccd-c3fd-12ed-868a62920437",
+          "displayName": "Tomasz Kowalski",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for December</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1641200843787",
+      "replyToId": null,
+      "etag": "1641200843787",
+      "messageType": "message",
+      "createdDateTime": "2022-01-03T09:07:23.787Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1641291937625",
+      "replyToId": null,
+      "etag": "1641291937625",
+      "messageType": "message",
+      "createdDateTime": "2022-01-04T10:25:37.625Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1641489786759",
+      "replyToId": null,
+      "etag": "1641489786759",
+      "messageType": "message",
+      "createdDateTime": "2022-01-06T17:23:06.759Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1641567649547",
+      "replyToId": null,
+      "etag": "1641567649547",
+      "messageType": "message",
+      "createdDateTime": "2022-01-07T15:00:49.547Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1642156121503",
+      "replyToId": null,
+      "etag": "1642156121503",
+      "messageType": "message",
+      "createdDateTime": "2022-01-14T10:28:41.503Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1642418332064",
+      "replyToId": null,
+      "etag": "1642418332064",
+      "messageType": "message",
+      "createdDateTime": "2022-01-17T11:18:52.064Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "58a83df3-09ed-e9ed-e52b-548bda70ced3",
+          "displayName": "Lars Roberts",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1642584807040",
+      "replyToId": null,
+      "etag": "1642584807040",
+      "messageType": "message",
+      "createdDateTime": "2022-01-19T09:33:27.040Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1642767175197",
+      "replyToId": null,
+      "etag": "1642767175197",
+      "messageType": "message",
+      "createdDateTime": "2022-01-21T12:12:55.197Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "8678e426-94b1-cc45-a41e-3f43f28d4f42",
+          "displayName": "Olivia Foster",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1643119918125",
+      "replyToId": null,
+      "etag": "1643119918125",
+      "messageType": "message",
+      "createdDateTime": "2022-01-25T14:11:58.125Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1643192047963",
+      "replyToId": null,
+      "etag": "1643192047963",
+      "messageType": "message",
+      "createdDateTime": "2022-01-26T10:14:07.963Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1643271587093",
+      "replyToId": null,
+      "etag": "1643271587093",
+      "messageType": "message",
+      "createdDateTime": "2022-01-27T08:19:47.093Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1643629270261",
+      "replyToId": null,
+      "etag": "1643629270261",
+      "messageType": "message",
+      "createdDateTime": "2022-01-31T11:41:10.261Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1643715927402",
+      "replyToId": null,
+      "etag": "1643715927402",
+      "messageType": "message",
+      "createdDateTime": "2022-02-01T11:45:27.402Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1643891256835",
+      "replyToId": null,
+      "etag": "1643891256835",
+      "messageType": "message",
+      "createdDateTime": "2022-02-03T12:27:36.835Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1644342384291",
+      "replyToId": null,
+      "etag": "1644342384291",
+      "messageType": "message",
+      "createdDateTime": "2022-02-08T17:46:24.291Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1644406185857",
+      "replyToId": null,
+      "etag": "1644406185857",
+      "messageType": "message",
+      "createdDateTime": "2022-02-09T11:29:45.857Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1644491928810",
+      "replyToId": null,
+      "etag": "1644491928810",
+      "messageType": "message",
+      "createdDateTime": "2022-02-10T11:18:48.810Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1644833001517",
+      "replyToId": null,
+      "messageType": "message",
+      "createdDateTime": "2022-02-14T10:03:21.517Z",
+      "importance": "high",
+      "locale": "en-gb",
+      "subject": "Lantern GA date",
+      "from": {
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<div><p>Right, it's locked: <strong>Lantern GA is 3/4</strong> &#127881; Release notes will go out on the day. Pricing stays at &pound;316/month for UK tenants.</p><p><at id=\"0\">Tomasz Kowalski</at> please confirm the US side can flip the flag that morning.</p></div>"
+      },
+      "attachments": [],
+      "mentions": [
+        {
+          "id": 0,
+          "mentionText": "Tomasz Kowalski",
+          "mentioned": {
+            "user": {
+              "id": "cd60e91c-0ccd-c3fd-12ed-868a62920437",
+              "displayName": "Tomasz Kowalski"
+            }
+          }
+        }
+      ],
+      "reactions": [
+        {
+          "reactionType": "like",
+          "createdDateTime": "2022-02-14T10:05:00Z",
+          "user": {
+            "user": {
+              "id": "cd60e91c-0ccd-c3fd-12ed-868a62920437"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "1644999699277",
+      "replyToId": null,
+      "etag": "1644999699277",
+      "messageType": "message",
+      "createdDateTime": "2022-02-16T08:21:39.277Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1645089683330",
+      "replyToId": null,
+      "etag": "1645089683330",
+      "messageType": "message",
+      "createdDateTime": "2022-02-17T09:21:23.330Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1645543822152",
+      "replyToId": null,
+      "etag": "1645543822152",
+      "messageType": "message",
+      "createdDateTime": "2022-02-22T15:30:22.152Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1645721582572",
+      "replyToId": null,
+      "etag": "1645721582572",
+      "messageType": "message",
+      "createdDateTime": "2022-02-24T16:53:02.572Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1646052386093",
+      "replyToId": null,
+      "etag": "1646052386093",
+      "messageType": "message",
+      "createdDateTime": "2022-02-28T12:46:26.093Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1646211980258",
+      "replyToId": null,
+      "etag": "1646211980258",
+      "messageType": "message",
+      "createdDateTime": "2022-03-02T09:06:20.258Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1646400828756",
+      "replyToId": null,
+      "etag": "1646400828756",
+      "messageType": "message",
+      "createdDateTime": "2022-03-04T13:33:48.756Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1646819336002",
+      "replyToId": null,
+      "etag": "1646819336002",
+      "messageType": "message",
+      "createdDateTime": "2022-03-09T09:48:56.002Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "cd60e91c-0ccd-c3fd-12ed-868a62920437",
+          "displayName": "Tomasz Kowalski",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1646995366285",
+      "replyToId": null,
+      "etag": "1646995366285",
+      "messageType": "message",
+      "createdDateTime": "2022-03-11T10:42:46.285Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for March</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1647593668156",
+      "replyToId": null,
+      "etag": "1647593668156",
+      "messageType": "message",
+      "createdDateTime": "2022-03-18T08:54:28.156Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for March</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1647876594031",
+      "replyToId": null,
+      "etag": "1647876594031",
+      "messageType": "message",
+      "createdDateTime": "2022-03-21T15:29:54.031Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1647945810937",
+      "replyToId": null,
+      "etag": "1647945810937",
+      "messageType": "message",
+      "createdDateTime": "2022-03-22T10:43:30.937Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1648023569411",
+      "replyToId": null,
+      "etag": "1648023569411",
+      "messageType": "message",
+      "createdDateTime": "2022-03-23T08:19:29.411Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fa0ca65c-8d14-f35e-bf81-b442c984b264",
+          "displayName": "Carl Lockwood",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1648221226022",
+      "replyToId": null,
+      "etag": "1648221226022",
+      "messageType": "message",
+      "createdDateTime": "2022-03-25T15:13:46.022Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1648475368653",
+      "replyToId": null,
+      "etag": "1648475368653",
+      "messageType": "message",
+      "createdDateTime": "2022-03-28T13:49:28.653Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1648654764590",
+      "replyToId": null,
+      "etag": "1648654764590",
+      "messageType": "message",
+      "createdDateTime": "2022-03-30T15:39:24.590Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1648747560587",
+      "replyToId": null,
+      "etag": "1648747560587",
+      "messageType": "message",
+      "createdDateTime": "2022-03-31T17:26:00.587Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649172805827",
+      "replyToId": null,
+      "etag": "1649172805827",
+      "messageType": "message",
+      "createdDateTime": "2022-04-05T15:33:25.827Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "8678e426-94b1-cc45-a41e-3f43f28d4f42",
+          "displayName": "Olivia Foster",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649262499692",
+      "replyToId": null,
+      "etag": "1649262499692",
+      "messageType": "message",
+      "createdDateTime": "2022-04-06T16:28:19.692Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649411137610",
+      "replyToId": null,
+      "etag": "1649411137610",
+      "messageType": "message",
+      "createdDateTime": "2022-04-08T09:45:37.610Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "f0a7b29e-07c2-0b98-ca93-7172520b57f1",
+          "displayName": "Noor Haddad",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649664607517",
+      "replyToId": null,
+      "etag": "1649664607517",
+      "messageType": "message",
+      "createdDateTime": "2022-04-11T08:10:07.517Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649782672347",
+      "replyToId": null,
+      "etag": "1649782672347",
+      "messageType": "message",
+      "createdDateTime": "2022-04-12T16:57:52.347Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649857617588",
+      "replyToId": null,
+      "etag": "1649857617588",
+      "messageType": "message",
+      "createdDateTime": "2022-04-13T13:46:57.588Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>SSO migration is done for the UK tenants</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1649947208718",
+      "replyToId": null,
+      "etag": "1649947208718",
+      "messageType": "message",
+      "createdDateTime": "2022-04-14T14:40:08.718Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "cd60e91c-0ccd-c3fd-12ed-868a62920437",
+          "displayName": "Tomasz Kowalski",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1650448665663",
+      "replyToId": null,
+      "etag": "1650448665663",
+      "messageType": "message",
+      "createdDateTime": "2022-04-20T09:57:45.663Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1650644699434",
+      "replyToId": null,
+      "etag": "1650644699434",
+      "messageType": "message",
+      "createdDateTime": "2022-04-22T16:24:59.434Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fa0ca65c-8d14-f35e-bf81-b442c984b264",
+          "displayName": "Carl Lockwood",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1651150455353",
+      "replyToId": null,
+      "etag": "1651150455353",
+      "messageType": "message",
+      "createdDateTime": "2022-04-28T12:54:15.353Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1651514110226",
+      "replyToId": null,
+      "etag": "1651514110226",
+      "messageType": "message",
+      "createdDateTime": "2022-05-02T17:55:10.226Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fa0ca65c-8d14-f35e-bf81-b442c984b264",
+          "displayName": "Carl Lockwood",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1651587438601",
+      "replyToId": null,
+      "etag": "1651587438601",
+      "messageType": "message",
+      "createdDateTime": "2022-05-03T14:17:18.601Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1651669087248",
+      "replyToId": null,
+      "etag": "1651669087248",
+      "messageType": "message",
+      "createdDateTime": "2022-05-04T12:58:07.248Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1651847920698",
+      "replyToId": null,
+      "etag": "1651847920698",
+      "messageType": "message",
+      "createdDateTime": "2022-05-06T14:38:40.698Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for May</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1652440799556",
+      "replyToId": null,
+      "etag": "1652440799556",
+      "messageType": "message",
+      "createdDateTime": "2022-05-13T11:19:59.556Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "8678e426-94b1-cc45-a41e-3f43f28d4f42",
+          "displayName": "Olivia Foster",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1652723281463",
+      "replyToId": null,
+      "etag": "1652723281463",
+      "messageType": "message",
+      "createdDateTime": "2022-05-16T17:48:01.463Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for May</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1652978338389",
+      "replyToId": null,
+      "etag": "1652978338389",
+      "messageType": "message",
+      "createdDateTime": "2022-05-19T16:38:58.389Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1653057740854",
+      "replyToId": null,
+      "etag": "1653057740854",
+      "messageType": "message",
+      "createdDateTime": "2022-05-20T14:42:20.854Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for May</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1653401065514",
+      "replyToId": null,
+      "etag": "1653401065514",
+      "messageType": "message",
+      "createdDateTime": "2022-05-24T14:04:25.514Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Can we move the Brindle sync to Thursday?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1653567082773",
+      "replyToId": null,
+      "etag": "1653567082773",
+      "messageType": "message",
+      "createdDateTime": "2022-05-26T12:11:22.773Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for May</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1653672086399",
+      "replyToId": null,
+      "etag": "1653672086399",
+      "messageType": "message",
+      "createdDateTime": "2022-05-27T17:21:26.399Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "58a83df3-09ed-e9ed-e52b-548bda70ced3",
+          "displayName": "Lars Roberts",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1654006686956",
+      "replyToId": null,
+      "etag": "1654006686956",
+      "messageType": "message",
+      "createdDateTime": "2022-05-31T14:18:06.956Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6d7d1049-fb5a-e773-eb21-02d9a4f7f18e",
+          "displayName": "Andrea Penhallow",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1654089910786",
+      "replyToId": null,
+      "etag": "1654089910786",
+      "messageType": "message",
+      "createdDateTime": "2022-06-01T13:25:10.786Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "346aba8e-f557-cd81-fcea-c85c6a041d85",
+          "displayName": "Bjorn Wright",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>VAT return figures attached</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1654517831561",
+      "replyToId": null,
+      "etag": "1654517831561",
+      "messageType": "message",
+      "createdDateTime": "2022-06-06T12:17:11.561Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Who has the GBP price list?</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1654767575863",
+      "replyToId": null,
+      "etag": "1654767575863",
+      "messageType": "message",
+      "createdDateTime": "2022-06-09T09:39:35.863Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Morning all, standup notes in the OneNote</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1654869235600",
+      "replyToId": null,
+      "etag": "1654869235600",
+      "messageType": "message",
+      "createdDateTime": "2022-06-10T13:53:55.600Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "fdbcd806-f933-c1aa-32f5-b7c111d32554",
+          "displayName": "James Hughes",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Xero export done for June</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1655108727223",
+      "replyToId": null,
+      "etag": "1655108727223",
+      "messageType": "message",
+      "createdDateTime": "2022-06-13T08:25:27.223Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "6b88614a-769c-15e4-8b29-f309efcc38e3",
+          "displayName": "Jordan Turner",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1655472346058",
+      "replyToId": null,
+      "etag": "1655472346058",
+      "messageType": "message",
+      "createdDateTime": "2022-06-17T13:25:46.058Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "5805e0cb-c916-a67a-a43e-ae0eb5f58898",
+          "displayName": "Tyler Peterson",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Leeds office closed Monday (bank holiday)</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1656500924205",
+      "replyToId": null,
+      "etag": "1656500924205",
+      "messageType": "message",
+      "createdDateTime": "2022-06-29T11:08:44.205Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    },
+    {
+      "id": "1656590807387",
+      "replyToId": null,
+      "etag": "1656590807387",
+      "messageType": "message",
+      "createdDateTime": "2022-06-30T12:06:47.387Z",
+      "lastModifiedDateTime": null,
+      "deletedDateTime": null,
+      "subject": null,
+      "importance": "normal",
+      "locale": "en-us",
+      "from": {
+        "application": null,
+        "device": null,
+        "user": {
+          "id": "1fbb28e9-6aee-44c7-8301-d7365809c667",
+          "displayName": "Bronwen Llewellyn",
+          "userIdentityType": "aadUser"
+        }
+      },
+      "body": {
+        "contentType": "html",
+        "content": "<p>Lantern demo went well with the board</p>"
+      },
+      "attachments": [],
+      "mentions": [],
+      "reactions": []
+    }
+  ]
+}

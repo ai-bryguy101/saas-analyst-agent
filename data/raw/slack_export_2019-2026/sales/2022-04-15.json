@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "082ad930-1c00-f1c6-397a-d9752cece277",
+        "type": "message",
+        "text": "Closed Pueblo Markets Inc.! 237 seats, Pro",
+        "user": "UFJUKVTAA1B",
+        "ts": "1650028534.802776",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1650040965.972464"
+        }
+    },
+    {
+        "client_msg_id": "e101a447-5117-4ca1-5b3c-567466b0bd2d",
+        "type": "message",
+        "text": "Closed Clearwater Resorts Corp.! 87 seats, Pro",
+        "user": "U8SR98620D7",
+        "ts": "1650044455.286570",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8553529f-dc89-f5f2-0fab-63a5e40f3254",
+        "type": "message",
+        "text": "Closed Lee Fabrication! 363 seats, Pro",
+        "user": "UFNKJQT8PV1",
+        "ts": "1650050619.555093",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFGLBSDS2XV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb694b8e-188c-905d-58cf-1fd849fcd67b",
+        "type": "message",
+        "text": "Hargreaves Distribution Holdings wants a discount, how far can I go?",
+        "user": "UYR8E48FJ62",
+        "ts": "1650054333.818295",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a927d0d7-8d14-f3d0-4ff1-6cd1ed576145",
+        "type": "message",
+        "text": "Three Academy wants a discount, how far can I go?",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1650057309.171565",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1ee89ff-140f-3103-e571-82243758d06b",
+        "type": "message",
+        "text": "Crescent Contracting Inc. wants a discount, how far can I go?",
+        "user": "UBHB6GTB73U",
+        "ts": "1650064136.586914",
+        "team": "T02BRNDLCV"
+    }
+]

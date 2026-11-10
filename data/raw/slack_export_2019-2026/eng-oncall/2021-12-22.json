@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "621a1acf-5dcb-c759-8bf6-057dc2e0c773",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> postmortem doc for yesterday is up",
+        "user": "UNFVCYNZT6K",
+        "ts": "1640193215.461238",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53c19698-9125-512a-05db-171923c38d0b",
+        "type": "message",
+        "text": "deploy v9.12.5 to prod :rocket:",
+        "user": "UJKZ2R47YW9",
+        "ts": "1640203062.379259",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad49981f-aeb6-ffdf-70ce-8a0889b76c44",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1640219308.219245",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#31691 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

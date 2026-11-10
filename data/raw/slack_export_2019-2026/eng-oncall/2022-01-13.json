@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "0554ea7e-3aad-dfa3-8757-ad33d7d929f5",
+        "type": "message",
+        "text": "deploy v9.1.9 to prod :rocket:",
+        "user": "UPHFQAHDPSK",
+        "ts": "1642100879.691874",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b5d301fc-8131-46ee-863f-13460727f1f8",
+        "type": "message",
+        "text": "deploy v6.20.8 to prod :rocket:",
+        "user": "U5X9PNA34DU",
+        "ts": "1642101234.193684",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb8e786e-41bf-6126-c82f-0f180691fde9",
+        "type": "message",
+        "text": "<@UUDLJ7GDXKE> rolling back v7.38.0",
+        "user": "U5HQ6U91D2E",
+        "ts": "1642102715.196341",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5HQ6U91D2E",
+            "ts": "1642079357.904334"
+        }
+    }
+]

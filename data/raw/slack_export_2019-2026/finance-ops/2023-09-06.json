@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "d02f5b7d-135d-45b2-b048-8c0bcf4db98b",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UR12Y3AZNKK",
+        "ts": "1694005494.804034",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "531f5d71-71bf-e7fd-37b9-428649187371",
+        "type": "message",
+        "text": "Tidewater Manufacturing paid by wire, applying now",
+        "user": "U69WX6HRQNH",
+        "ts": "1694022546.377822",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

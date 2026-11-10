@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "f92bd1f6-1068-5015-c0e6-57a102ccbf9b",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2019",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1570453328.713920",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b22b68c6-c66d-10a6-0e1b-5bb24833ebd7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1570466034.984098",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cf4b39e-5d27-a643-7ce1-1540cb735c59",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U09CZFTHQSS",
+        "ts": "1570485531.039256",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

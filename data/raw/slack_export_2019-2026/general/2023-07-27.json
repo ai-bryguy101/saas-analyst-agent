@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "730a16a9-d88c-c982-44b8-2c999bcf5e36",
+        "type": "message",
+        "text": "Welcome Callum Ross to the Engineering team!",
+        "user": "UH9DL28T3MH",
+        "ts": "1690476221.777562",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7378987a-38c4-9581-6a10-8acac0165bf2",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UV8WG09HYBP",
+        "ts": "1690502611.612067",
+        "team": "T02BRNDLCV"
+    }
+]

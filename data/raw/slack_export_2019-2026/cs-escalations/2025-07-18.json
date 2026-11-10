@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "f964e150-5786-ef8e-4906-26c92192e31c",
+        "type": "message",
+        "text": "Riverbend Hospital Corp. wants an exec call about the outage",
+        "user": "UVQRW5SQSEL",
+        "ts": "1752854131.611350",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4a8776e-563b-4204-2031-f37a9c228bed",
+        "type": "message",
+        "text": "Cornerstone Public Works asking for an SLA credit",
+        "user": "UFNKJQT8PV1",
+        "ts": "1752877744.637164",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

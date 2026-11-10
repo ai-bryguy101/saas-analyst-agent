@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "15b994e9-99c2-3ff6-5405-76464e6a8c8b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1702647123.064666",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#78399 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "965f9480-ff38-c388-873a-912700b2321b",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U9Y2KF0S90E",
+        "ts": "1702648959.009977",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fb66050-2a90-c4f1-6b35-f50fc2f27004",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1702664370.440545",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#58191 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa541a9e-49db-1291-b032-92bf7b5fe97a",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1702672472.817515",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "742d9c02-5575-d317-fd43-1853dfaf558d",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> deploy v8.7.2 to prod :rocket:",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1702687517.240709",
+        "team": "T02BRNDLCV"
+    }
+]

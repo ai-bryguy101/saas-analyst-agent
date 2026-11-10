@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "a09c515b-ad20-1989-0ab1-115b7b3459b4",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Mesa Public Works wants an exec call about the outage",
+        "user": "URFUZYLCAEC",
+        "ts": "1777901159.406524",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b1c82802-7f21-ec9c-ae72-4352d580fcc1",
+        "type": "message",
+        "text": "Can someone check Riverbend Homes Ltd.'s invoice? They say they were double billed",
+        "user": "UH9DL28T3MH",
+        "ts": "1777907120.348773",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27752d1a-0cf5-7eb9-acac-7bab718e4201",
+        "type": "message",
+        "text": "Can someone check Lindenwood Restoration Corp.'s invoice? They say they were double billed",
+        "user": "UL8NMQFXPJR",
+        "ts": "1777927275.341704",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ebe1c77a-86d9-7e55-8018-3178f461da56",
+        "type": "message",
+        "text": "Lakes Construction Inc. wants an exec call about the outage",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1777931356.404951",
+        "team": "T02BRNDLCV"
+    }
+]

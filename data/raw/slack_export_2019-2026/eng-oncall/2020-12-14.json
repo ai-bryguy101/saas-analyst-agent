@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f83e8f3a-1d08-0d11-cc6c-1fb387fa73fd",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U0E67MPWRXA",
+        "ts": "1607952616.055826",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd50fcbd-8768-33cf-b781-f54d9d89c33b",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UP51TVUPQU5",
+        "ts": "1607958908.051118",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f5b76b2-750d-15c7-09f4-a6cff3ac4f68",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U0E67MPWRXA",
+        "ts": "1607967450.011747",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

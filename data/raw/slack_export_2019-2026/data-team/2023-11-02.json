@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "94853ce1-1ca0-0c6c-e008-bbc90a23b824",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UFNKJQT8PV1",
+        "ts": "1698940407.814172",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a0a1e9c8-4a64-a741-24d2-1cc86c10760e",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U34NH0P5TMZ",
+        "ts": "1698940657.465395",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

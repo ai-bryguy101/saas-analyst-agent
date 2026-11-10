@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "bb689b21-9095-ba11-a285-24cbc01bd907",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2019",
+        "user": "U3NZE1N3PYZ",
+        "ts": "1569424402.821411",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3NZE1N3PYZ",
+            "ts": "1569458979.130259"
+        }
+    },
+    {
+        "client_msg_id": "e02dce95-1840-9af5-ad25-bec6454e7611",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDCALCM1RUG",
+        "ts": "1569437755.751665",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b33845df-03df-718f-74f8-6e93800d163b",
+        "type": "message",
+        "text": "AR aging is up, Granite Health Partners is 90+ days",
+        "user": "U773RMBLF5X",
+        "ts": "1569452653.286854",
+        "team": "T02BRNDLCV"
+    }
+]

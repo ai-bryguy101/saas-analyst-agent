@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "9071f127-9ca4-c520-a5b4-5888ded8d020",
+        "type": "message",
+        "text": "AR aging is up, Copperfield Markets Holdings is 90+ days",
+        "user": "U0E67MPWRXA",
+        "ts": "1652106753.336371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2ba37f57-51a2-3620-dbaf-eff6a76c399a",
+        "type": "message",
+        "text": "Brown Janitorial Ltd. paid by wire, applying now",
+        "user": "UXETPKNK8MV",
+        "ts": "1652122019.235883",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe022401-36a7-88a5-e624-b0a6d20086e9",
+        "type": "message",
+        "text": "FX rates loaded for May 2022",
+        "user": "U34NH0P5TMZ",
+        "ts": "1652132588.517406",
+        "team": "T02BRNDLCV"
+    }
+]

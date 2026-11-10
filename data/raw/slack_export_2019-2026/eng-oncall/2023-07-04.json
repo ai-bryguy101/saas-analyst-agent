@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "e6b87835-86af-3e94-efd6-672bc37fee5e",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UGPRJ4K947R",
+        "ts": "1688483918.995143",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UGPRJ4K947R",
+            "ts": "1688488969.479324"
+        }
+    },
+    {
+        "client_msg_id": "db60b6f7-f206-17d5-9359-d356a1fe60ee",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> rolling back v5.33.6",
+        "user": "U09CZFTHQSS",
+        "ts": "1688493687.828853",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1688496518.321488"
+        }
+    },
+    {
+        "client_msg_id": "3e3f5ddc-9e23-7feb-b87c-640a59d97f4a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1688518544.862767",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#86271 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "7d314b6a-bc3d-b187-6382-0b0620ca02b5",
+        "type": "message",
+        "text": "Can someone check Wexford Hotels LLC's invoice? They say they were double billed",
+        "user": "UR12Y3AZNKK",
+        "ts": "1632760516.510922",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4df7a4df-ce0a-a351-8bd6-71aa302c13da",
+        "type": "message",
+        "text": "Sycamore Township Co. asking for an SLA credit",
+        "user": "UPHFQAHDPSK",
+        "ts": "1632776080.825383",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b43480e-01c6-1209-fe70-7a6b4144cd79",
+        "type": "message",
+        "text": "Can someone check Miami Property Services Inc.'s invoice? They say they were double billed",
+        "user": "UFNKJQT8PV1",
+        "ts": "1632783831.548645",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c904290a-9fce-4c95-89ff-9228c9a60a9d",
+        "type": "message",
+        "text": "Renewal risk: Lakes Hotels Inc. unhappy with mobile app",
+        "user": "UV8WG09HYBP",
+        "ts": "1632785730.397310",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWBW507RCA9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "87a3a03d-b58a-f5af-8342-42d7a8de8a57",
+        "type": "message",
+        "text": "Frontier Janitorial Group wants an exec call about the outage",
+        "user": "UB8UH2KX2NW",
+        "ts": "1719842792.885161",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff700efd-5ddc-95f3-6b24-070f6e037d6b",
+        "type": "message",
+        "text": "Magnolia Township LLC wants an exec call about the outage",
+        "user": "U5X9PNA34DU",
+        "ts": "1719843286.311576",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9411cf2d-23a9-b1de-1f9e-a43f604e1a90",
+        "type": "message",
+        "text": "Can someone check Goodenough Township's invoice? They say they were double billed",
+        "user": "UAHZYQG5URJ",
+        "ts": "1719850396.159872",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d46e815-dcd7-12b5-6e08-7f6a9b8d568c",
+        "type": "message",
+        "text": "Can someone check Cook Works Inc.'s invoice? They say they were double billed",
+        "user": "UMYYLUTXG9R",
+        "ts": "1719854226.047696",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30d855eb-490d-6630-ef4a-65569aecacaa",
+        "type": "message",
+        "text": "Can someone check Clearwater Manufacturing's invoice? They say they were double billed",
+        "user": "UYFL6320JLT",
+        "ts": "1719854612.949581",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60702cd6-a20b-17db-c69d-eb0e436ff3c5",
+        "type": "message",
+        "text": "Rivers Unified Schools Holdings asking for an SLA credit",
+        "user": "UFARBQM0LCD",
+        "ts": "1719874535.497424",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "54d1c3a3-7625-2de8-0984-8552e123c8c3",
+        "type": "message",
+        "text": "Eastlake Mechanical wants an exec call about the outage",
+        "user": "U9Y2KF0S90E",
+        "ts": "1719881264.513442",
+        "team": "T02BRNDLCV"
+    }
+]

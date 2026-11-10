@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "47bfea80-11e9-257c-18c3-64efe2cf7a01",
+        "type": "message",
+        "text": "AR aging is up, Cedar Logistics Co. is 90+ days",
+        "user": "UA3MVBJWAHX",
+        "ts": "1675689226.720601",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "907eec62-978a-0eaf-62f3-81f9286e4527",
+        "type": "message",
+        "text": "AR aging is up, Twin Suites Co. is 90+ days",
+        "user": "U0E67MPWRXA",
+        "ts": "1675716037.509353",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78a4a0d2-7055-43d4-8551-b1342d212c6d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U48TCJE75PD",
+        "ts": "1675723811.511843",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "03495cbf-1d56-136e-9011-284d1dc690f9",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9SD2024Q7F",
+        "ts": "1675730016.192746",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

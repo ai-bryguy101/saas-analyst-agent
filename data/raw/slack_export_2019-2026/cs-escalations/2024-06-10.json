@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "5f69fdc8-57dc-9748-d311-05f7f6fb351f",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Blackhawk Clinics reporting sync failures since this morning, CSM is Janice Mendoza",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1718025707.666839",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac9df981-aa39-e264-aab6-09271cfac6db",
+        "type": "message",
+        "text": "Shenandoah University Facilities reporting sync failures since this morning, CSM is Renata Vance",
+        "user": "UR3LDWKU006",
+        "ts": "1718044182.042330",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4e59fe9e-eac2-78ef-d4de-9d4b60b63b98",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Twin Academy Holdings asking for an SLA credit",
+        "user": "UXVNE61TTLN",
+        "ts": "1718051534.932609",
+        "team": "T02BRNDLCV"
+    }
+]

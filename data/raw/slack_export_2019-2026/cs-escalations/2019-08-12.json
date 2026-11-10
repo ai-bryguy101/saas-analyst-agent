@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "f7873655-bff5-31d3-100d-56144da45417",
+        "type": "message",
+        "text": "Can someone check Iyer Academy Group's invoice? They say they were double billed",
+        "user": "UWU9WG7ECGY",
+        "ts": "1565617253.990174",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0624b333-d2a1-4ec4-09bc-02aa5712fb0f",
+        "type": "message",
+        "text": "Thornbury Works Group wants an exec call about the outage",
+        "user": "UGPRJ4K947R",
+        "ts": "1565619010.749283",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UGPRJ4K947R",
+            "ts": "1565645202.974781"
+        }
+    },
+    {
+        "client_msg_id": "8d2125d1-f7cf-7c2f-abe5-128df40d0685",
+        "type": "message",
+        "text": "Rahman Mechanical Corp. wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1565627377.920688",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3NZE1N3PYZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16046c5d-3b4e-1f5b-050d-3f4c69c87b07",
+        "type": "message",
+        "text": "Bennett Public Works Inc. reporting sync failures since this morning, CSM is Omar Kim",
+        "user": "U5DYUQUF95P",
+        "ts": "1565630794.370711",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b24b53a7-3548-0a94-9420-16cb85a87c16",
+        "type": "message",
+        "text": "Renewal risk: Copperfield Warehousing unhappy with mobile app",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1565633957.021961",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f1cf05a7-2f1f-22f7-2325-99d3ebdf73cf",
+        "type": "message",
+        "text": "<@U94ETEKNM26> Marrow Mechanical wants an exec call about the outage",
+        "user": "U0E67MPWRXA",
+        "ts": "1565650181.413709",
+        "team": "T02BRNDLCV"
+    }
+]

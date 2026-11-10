@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "f714edee-5212-c0ec-24d0-3dbd38692120",
+        "type": "message",
+        "text": "Fitzgerald Property Services Corp. asking for an SLA credit",
+        "user": "UYR8E48FJ62",
+        "ts": "1611151072.911377",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UYR8E48FJ62",
+            "ts": "1611186147.754120"
+        }
+    },
+    {
+        "client_msg_id": "14ee9d73-8ae0-0d9d-7def-57ae4bb181e0",
+        "type": "message",
+        "text": "Quarry Municipal Services reporting sync failures since this morning, CSM is Gabriel Morgan",
+        "user": "UQTUT2GDN85",
+        "ts": "1611159225.495022",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af67a1ac-c0d0-62f3-e79c-c18d8c9c29da",
+        "type": "message",
+        "text": "Cumberland Builders Group asking for an SLA credit",
+        "user": "UVQRW5SQSEL",
+        "ts": "1611173612.390302",
+        "team": "T02BRNDLCV"
+    }
+]

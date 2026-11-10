@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "4db1cd0f-ee56-9171-07d4-938eebdea00d",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Welcome Nicole Johansson to the Customer Success team!",
+        "user": "URFUZYLCAEC",
+        "ts": "1657724584.031065",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "155ad3e1-93a3-caba-2d77-ac6dbe60e01f",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UYR8E48FJ62",
+        "ts": "1657727921.142270",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

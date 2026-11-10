@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "3a5df0ed-5409-f899-0b31-80adf05358fd",
+        "type": "message",
+        "text": "Renewal risk: Valley Building Services Co. unhappy with mobile app",
+        "user": "U34NH0P5TMZ",
+        "ts": "1667833284.193023",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "29acf6b3-cc23-e58d-146a-d56d96cc516d",
+        "type": "message",
+        "text": "Silverleaf Retail Group asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1667838143.796151",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaf70daa-53cf-494b-94a7-8eb1ed16c4f3",
+        "type": "message",
+        "text": "Can someone check Wabash Fabrication Ltd.'s invoice? They say they were double billed",
+        "user": "UJKZ2R47YW9",
+        "ts": "1667848453.750400",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

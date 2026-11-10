@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "29b9379e-2384-56ba-d61a-37d2b54c01e1",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> happy friday",
+        "user": "UQK194B1V43",
+        "ts": "1737120062.894969",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af0aa6e0-6ecb-acf5-487a-d26229bec3f1",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U8SR98620D7",
+        "ts": "1737131003.725393",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6148f768-4025-0ce2-fafa-69794a369fca",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1737141047.587566",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "edb6e716-f04f-09ea-6b1f-6899c7c37326",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UP51TVUPQU5",
+        "ts": "1737156204.414569",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UP51TVUPQU5",
+            "ts": "1737121281.932339"
+        }
+    }
+]

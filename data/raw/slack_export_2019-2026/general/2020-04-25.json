@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "9328eddd-0dd7-a1bd-a205-08334113304c",
+        "type": "message",
+        "text": "Welcome Ines Delacroix to the Operations team!",
+        "user": "UMXMN24FN4K",
+        "ts": "1587827317.157977",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "df2354c5-95aa-ca80-eff7-5fa3336e392d",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "U0E67MPWRXA",
+        "ts": "1587827682.359539",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f2d9afe1-9a1f-bfd7-4363-9d839fcf0b99",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U3YU9TS6QYB",
+        "ts": "1587831144.926204",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "782248bb-e935-d2f0-d39b-d27dec46682f",
+        "type": "message",
+        "text": "<@UZACKQ1VXCH> Welcome Joe Halvorsen to the Engineering team!",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1587832880.605213",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "604c200d-cd04-bc5a-57b6-7249f6f81883",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U09CZFTHQSS",
+        "ts": "1587839836.473424",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2ebd54b9-19d4-bdce-a984-e884b5768413",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UL8NMQFXPJR",
+        "ts": "1587854534.080455",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5d95b0c-2276-91cf-f46a-428d0e67ef79",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UMDHKXLV8RH",
+        "ts": "1587857630.039115",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMDHKXLV8RH",
+            "ts": "1587824425.872095"
+        }
+    },
+    {
+        "client_msg_id": "f0e78fee-8383-600c-b97c-b1bc873af125",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UNPKZYBKYGA",
+        "ts": "1587860476.406978",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "50a85a14-9fef-aa6a-e596-3bf493175388",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UR3LDWKU006",
+        "ts": "1587861694.999203",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

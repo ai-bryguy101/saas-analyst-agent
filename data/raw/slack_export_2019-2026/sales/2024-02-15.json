@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "4e7bd6b7-4982-a2b2-c3a8-2768e60c8cc4",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1708003575.057027",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "ed1cc524-b2d9-e6cb-3e78-cdd65b29dd5e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "UH9DL28T3MH",
+        "ts": "1708004381.626187",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae21dd8a-1ef6-13b5-9437-baaad9ef4cee",
+        "type": "message",
+        "text": "Closed Lakeshore School District Ltd.! 164 seats, Starter",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1708007098.684594",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U6TBCUVSYPZ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1708014498.140508"
+        }
+    },
+    {
+        "client_msg_id": "5eb6072a-f3e4-277e-f812-3ce81a79e988",
+        "type": "message",
+        "text": "Closed Penhallow College! 226 seats, Pro",
+        "user": "U0E67MPWRXA",
+        "ts": "1708009136.845655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "de12e9ea-dcb9-62fd-419f-5e3a95754047",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "U22GUF0P303",
+        "ts": "1708029352.485886",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb3a72b1-97ad-c241-64f7-b8b0f25fbb0e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "U9V01K22TU1",
+        "ts": "1708033722.063359",
+        "team": "T02BRNDLCV"
+    }
+]

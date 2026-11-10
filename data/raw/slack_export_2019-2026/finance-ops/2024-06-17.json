@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "2fb8e52f-a8ee-ec83-de29-967114bc636d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UGPRJ4K947R",
+        "ts": "1718630452.454914",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4931cbd5-65ba-1b8c-f1c1-89d5d1d5979e",
+        "type": "message",
+        "text": "Foxglove Industries paid by wire, applying now",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1718668709.461223",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1718664196.039880"
+        }
+    }
+]

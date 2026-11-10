@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "3c0c258e-eb85-bf7f-2184-286040a7e1e5",
+        "type": "message",
+        "text": "Closed Blackwood Supply Co! 292 seats, Pro",
+        "user": "UE4GTX0EXPH",
+        "ts": "1775055009.359276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "981fd9cf-c2c7-61f4-be44-a70545640fda",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1775061756.315598",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d19f815-b47b-c138-bbc1-b474eb7beac3",
+        "type": "message",
+        "text": "Harbortown Property Group wants a discount, how far can I go?",
+        "user": "UG4ETD69L1D",
+        "ts": "1775088295.594123",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

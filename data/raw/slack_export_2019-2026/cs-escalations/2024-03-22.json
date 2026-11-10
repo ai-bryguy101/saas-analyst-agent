@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "f6c2cd34-52ba-db74-0293-7ecd755ad52a",
+        "type": "message",
+        "text": "Blackhawk Construction LLC reporting sync failures since this morning, CSM is Ines Johansson",
+        "user": "UQTUT2GDN85",
+        "ts": "1711114384.789683",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dedb4625-aefa-3961-d547-f6a28a925114",
+        "type": "message",
+        "text": "Johansson Contracting reporting sync failures since this morning, CSM is Callum MacLeod",
+        "user": "UJKZ2R47YW9",
+        "ts": "1711118881.649160",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a334b309-db5b-ad7a-913e-85dc5926d51a",
+        "type": "message",
+        "text": "Okafor Retail Group asking for an SLA credit",
+        "user": "U7PFYH0YRRG",
+        "ts": "1711124719.759581",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e16f661-90a9-b057-91be-ea8d10b1dfb1",
+        "type": "message",
+        "text": "Perez School District Holdings wants an exec call about the outage",
+        "user": "UXETPKNK8MV",
+        "ts": "1711126477.217131",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXETPKNK8MV",
+            "ts": "1711144850.523702"
+        }
+    },
+    {
+        "client_msg_id": "4299e5f7-f103-a176-91d0-a60ff0cdf8f0",
+        "type": "message",
+        "text": "Can someone check Phillips Contracting Co.'s invoice? They say they were double billed",
+        "user": "UHV2RFNY0HN",
+        "ts": "1711144161.464748",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "ab65aad1-8450-9f32-266d-f98c33b0c7ae",
+        "type": "message",
+        "text": "Liberty University Facilities Inc. asking for an SLA credit",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1576605718.662558",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UDM784MTBQ7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cd2413f-cf69-4ac5-e13b-92319b2a8a98",
+        "type": "message",
+        "text": "Foxglove Industries asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1576617292.698517",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "270c2f92-b5d7-c771-2876-d9b96e39aaff",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Valley Logistics asking for an SLA credit",
+        "user": "UGPRJ4K947R",
+        "ts": "1576629050.895725",
+        "team": "T02BRNDLCV"
+    }
+]

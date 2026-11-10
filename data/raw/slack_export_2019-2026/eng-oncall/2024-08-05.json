@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "0724a56b-570e-d1d5-158e-ece554073be0",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U2LMMLL4F31",
+        "ts": "1722869309.383141",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee106d36-bfa6-f586-a009-4a4b6884b36b",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UP51TVUPQU5",
+        "ts": "1722874432.278698",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9c4a7c9-68c2-dd93-7871-6ec933077151",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1722877535.200964",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#50037 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f662a82f-80f6-c849-f406-212d4e935da4",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1722888193.133482",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#10270 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98665013-58f9-90d4-abb5-939231649ab9",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> rolling back v5.38.7",
+        "user": "UFQYM82M1LX",
+        "ts": "1722891662.940672",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "2c340f76-b942-0ea0-de72-23b8291520c6",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UPGXMWMDQNR",
+        "ts": "1742999156.014050",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0246becd-e290-98cb-8fa2-4b25a777acd5",
+        "type": "message",
+        "text": "<@U9V01K22TU1> PagerDuty: high error rate on api-gw",
+        "user": "UZJU9N8CY2T",
+        "ts": "1743000045.717541",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28bb7fa4-a963-8a44-85d5-2cafed78e692",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UR3LDWKU006",
+        "ts": "1743006419.125348",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "189be2a0-6675-fbdd-c212-c634fa5b3cee",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1743008350.993042",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#56480 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "013b429b-052c-d7b4-9956-f797dd11803f",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UMDHKXLV8RH",
+        "ts": "1743012884.143320",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f0ce800-7426-c3b6-d73b-bd16c8886e9d",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1743015701.878318",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#53028 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab147fab-17fd-8d49-ce91-1ab383e830e4",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> cert renewal for *.brindlecove.example done",
+        "user": "U69WX6HRQNH",
+        "ts": "1743020911.532670",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60110096-4eb4-826e-65b4-b222d784319d",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U5HQ6U91D2E",
+        "ts": "1743021160.530039",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83d977b0-3d67-aa52-1dc5-535af17c205f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1743029044.591756",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d791ac66-d21f-cdfa-6af8-62216ae57590",
+        "type": "message",
+        "text": "<@U5X9PNA34DU> who owns the cron for nightly exports?",
+        "user": "UR3LDWKU006",
+        "ts": "1743032306.455978",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a20028ed-43d9-fc21-cce5-15b468d448a0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1743034532.997293",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#38894 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

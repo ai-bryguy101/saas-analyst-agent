@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "1c42e8c5-9e3b-75d4-d536-e09aa2fa38e1",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1718111918.177145",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4629334e-235a-e885-cbd2-f3d0c5594591",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Q2 kickoff deck is in the drive",
+        "user": "UT7K74ALYGQ",
+        "ts": "1718120381.848867",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c1e45b5-dc5b-f8c5-e5ed-a028fe7987e2",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UC70JNE74S7",
+        "ts": "1718122394.714806",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b35ccb7d-1a83-d3db-ea12-88c567ff06b7",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U1YEVCXATA8",
+        "ts": "1718131362.998221",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2d34f33-080a-8954-0ffc-2881b1ddba53",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UL8NMQFXPJR",
+        "ts": "1718139291.512885",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "683a6a55-0333-ed93-22e9-7bd8a993f923",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UDCALCM1RUG",
+        "ts": "1718143074.303165",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec3d1d74-dc34-e49e-0a6d-ed239d424e1f",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UPGXMWMDQNR",
+        "ts": "1718147130.436820",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a71ba0f6-593f-d3e6-eab1-cdac6a99e8fc",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UL20M69UM76",
+        "ts": "1718150736.770646",
+        "team": "T02BRNDLCV"
+    }
+]

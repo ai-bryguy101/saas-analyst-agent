@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "a7f26dda-1061-3f07-fa1e-3d1f451cc495",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1625150106.025120",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ef953cb2-9778-880f-4bc6-25e7833f5a7a",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U48TCJE75PD",
+        "ts": "1625150313.601127",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "883fd98c-3a7d-e701-4b28-ba1050646461",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1625156068.221065",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "752fba90-9cdf-958d-9720-bb1001671235",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UGPRJ4K947R",
+        "ts": "1625157268.246648",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "030739c7-9cf5-43b3-19cd-fa425bb6bbf1",
+        "type": "message",
+        "text": "Closed Myers Health System! 295 seats, Pro",
+        "user": "UC95B7VAFX0",
+        "ts": "1625159827.773559",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1625161208.677136"
+        }
+    },
+    {
+        "client_msg_id": "34a367ab-bb28-64ce-562e-0934d92dcb22",
+        "type": "message",
+        "text": "Heron Restoration Inc. wants a discount, how far can I go?",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1625166107.326839",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39bce8e6-548a-c004-4ea1-d9e6d520e3af",
+        "type": "message",
+        "text": "Lost Prairie Construction Inc. to Plinthwise on price",
+        "user": "U9XCAUGPS1F",
+        "ts": "1625166625.700531",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1bf735b9-0423-ad7f-9233-0cdd3e32b323",
+        "type": "message",
+        "text": "Nguyen Health Partners LLC wants a discount, how far can I go?",
+        "user": "U8SR98620D7",
+        "ts": "1625177208.364935",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "016a55e7-aeeb-43b0-0b3f-9dbfe4f12f9f",
+        "type": "message",
+        "text": "Closed Rivers Academy Holdings! 46 seats, Pro",
+        "user": "UXS2WD4BYRN",
+        "ts": "1625178369.945838",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFGLBSDS2XV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b832f7c-44c3-a322-1351-ea5aa70bd66c",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1625178988.252399",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0a55a518-f187-3b72-2c76-213172579341",
+        "type": "message",
+        "text": "Closed Silverleaf Freight LLC! 36 seats, Starter",
+        "user": "UH9DL28T3MH",
+        "ts": "1625187152.776655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "08d136fc-55c9-c37b-d5b8-0637178ae83c",
+        "type": "message",
+        "text": "Blackhawk Resorts Inc. wants a discount, how far can I go?",
+        "user": "UP51TVUPQU5",
+        "ts": "1625187419.193774",
+        "team": "T02BRNDLCV"
+    }
+]

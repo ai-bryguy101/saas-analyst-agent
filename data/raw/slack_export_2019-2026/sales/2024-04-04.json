@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "57130040-f7a2-4c28-75d9-ffafd9f03420",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "UL20M69UM76",
+        "ts": "1712235790.343548",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1652127f-518b-d64b-3905-96930b5aa97b",
+        "type": "message",
+        "text": "Closed White Facilities Management! 62 seats, Pro",
+        "user": "UQXT5A6YMVH",
+        "ts": "1712243885.185809",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05d73f9a-eeb7-eaf6-f1e6-dcbf6cf355dd",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U2LMMLL4F31",
+        "ts": "1712246572.739976",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9315d506-60da-397a-3a4a-66440b55ea4e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "U2LMMLL4F31",
+        "ts": "1712251129.843237",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2LMMLL4F31",
+            "ts": "1712268260.306765"
+        }
+    },
+    {
+        "client_msg_id": "97ba6545-12e6-71d0-f35d-b6d3fbfd48d3",
+        "type": "message",
+        "text": "Maplewood University Facilities Holdings wants a discount, how far can I go?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1712256645.467912",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "923ac5f9-2699-3c7a-2abc-b875e6c55713",
+        "type": "message",
+        "text": "Scioto School District wants a discount, how far can I go?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1712262519.727619",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "85bafc82-6644-75f4-5d3f-e285d365b29f",
+        "type": "message",
+        "text": "Closed Scioto Medical Center! 10 seats, Pro",
+        "user": "UHV2RFNY0HN",
+        "ts": "1712275302.539651",
+        "team": "T02BRNDLCV"
+    }
+]

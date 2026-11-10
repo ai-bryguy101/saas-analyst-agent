@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "01ab7ff7-3792-2d55-6510-b846c28fb458",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> Blackwood Manufacturing Ltd. wants a discount, how far can I go?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1710173691.474806",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4cd6ef4-cc37-8a77-c6b5-ad64a0774094",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1710198702.397166",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

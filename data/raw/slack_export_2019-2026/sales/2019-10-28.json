@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "f2aa3aa6-1053-e934-3f1c-c53f2373aa45",
+        "type": "message",
+        "text": "Tillamook Facilities Management Inc. wants a discount, how far can I go?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1572268527.215056",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "34c90f64-ac61-93d5-0cae-46c649d816af",
+        "type": "message",
+        "text": "Ravenwood Markets Inc. wants a discount, how far can I go?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1572269647.045675",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a1b64443-51f3-27ea-32c6-3cf02f094604",
+        "type": "message",
+        "text": "Lost Thornbury Realty Management Corp. to Plinthwise on price",
+        "user": "UA3MVBJWAHX",
+        "ts": "1572274264.635419",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82c5ae30-f5da-5e0a-db3d-4d988a28a0ce",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UUFS9CP1A17",
+        "ts": "1572306885.063272",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6eb08339-dd94-617c-aca7-a1794b809b05",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UXETPKNK8MV",
+        "ts": "1572307035.770510",
+        "team": "T02BRNDLCV"
+    }
+]

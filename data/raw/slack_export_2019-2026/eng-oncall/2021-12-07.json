@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "4349dd6e-6259-5d0f-be2a-198b72d1e33a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1638884809.695498",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88355 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd8b58e2-f541-8df1-b1f3-2eaf014e0f0d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5X9PNA34DU",
+        "ts": "1638905814.419931",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d1f8c495-4d86-cda9-b4b2-206987db41e3",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UL20M69UM76",
+        "ts": "1638914645.250941",
+        "team": "T02BRNDLCV"
+    }
+]

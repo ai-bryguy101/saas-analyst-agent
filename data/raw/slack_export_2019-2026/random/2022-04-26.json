@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "04a8663d-00e5-a208-e1ad-49ceafb9eb05",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UAXWVBRVKW9",
+        "ts": "1650982885.867432",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2d126456-1a0c-1643-4e34-8aeb3472fc01",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UQXT5A6YMVH",
+        "ts": "1650995127.260726",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4f71deb-c3cd-0cc3-dd12-d24375497b47",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1651009784.462473",
+        "team": "T02BRNDLCV"
+    }
+]

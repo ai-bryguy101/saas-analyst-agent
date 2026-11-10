@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "3fc97afd-eef9-68aa-f0b2-d5692406a265",
+        "type": "message",
+        "text": "Sierra Works Holdings wants an exec call about the outage",
+        "user": "UP51TVUPQU5",
+        "ts": "1793192754.341689",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c4d2d325-ce6d-e0d7-5793-58eb8e1a1557",
+        "type": "message",
+        "text": "Can someone check Cedar Janitorial Inc.'s invoice? They say they were double billed",
+        "user": "U0E67MPWRXA",
+        "ts": "1793195706.076063",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67eeb6bd-6b30-2e29-5c02-5fce1911f7f8",
+        "type": "message",
+        "text": "Brookside Mills Ltd. wants an exec call about the outage",
+        "user": "U8SR98620D7",
+        "ts": "1793196029.467634",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "88c42b86-57ce-2a01-6ed5-220f54876b0f",
+        "type": "message",
+        "text": "Renewal risk: Rivers Contracting Ltd. unhappy with mobile app",
+        "user": "U9XCAUGPS1F",
+        "ts": "1793198553.380143",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "640d7183-d2e1-248a-aae2-9b1b7464ae6b",
+        "type": "message",
+        "text": "Scioto Resorts Co. wants an exec call about the outage",
+        "user": "UVQRW5SQSEL",
+        "ts": "1793200012.389423",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "069bd944-a72a-31c1-8d85-488b53efeb5f",
+        "type": "message",
+        "text": "Renewal risk: Penhallow Hospital Co. unhappy with mobile app",
+        "user": "U34NH0P5TMZ",
+        "ts": "1793204731.079279",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cdec7cb1-6216-f1c0-50f7-9e7662b45dae",
+        "type": "message",
+        "text": "Tri-County Properties Holdings wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1793204962.356416",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b74b0ec4-4866-083a-789f-5b406d96fddb",
+        "type": "message",
+        "text": "<@UVRFQ9LWEVK> Price-Jones Properties LLC asking for an SLA credit",
+        "user": "UPGXMWMDQNR",
+        "ts": "1793206105.157015",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "79e59a9a-4bdc-de6b-cdfa-861e98ba67be",
+        "type": "message",
+        "text": "Renewal risk: Cascade School District Ltd. unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1793213504.069726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff8dd715-f77c-dfe5-1993-3a18fb3b473d",
+        "type": "message",
+        "text": "Renewal risk: Brookside Mills Ltd. unhappy with mobile app",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1793228146.265763",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8dd64f9e-0345-2899-e483-5e9652306c54",
+        "type": "message",
+        "text": "Can someone check Calloway Supply Co's invoice? They say they were double billed",
+        "user": "UP51TVUPQU5",
+        "ts": "1793230380.821938",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UP51TVUPQU5",
+            "ts": "1793212620.166004"
+        }
+    },
+    {
+        "client_msg_id": "e7fa5a56-1694-1e47-890e-dfdf71af3484",
+        "type": "message",
+        "text": "Renewal risk: Cedar Outfitters Co. unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1793231384.242299",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFWAQ6E76D6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c00f636-2213-266e-46d2-f9ed2a8a6358",
+        "type": "message",
+        "text": "Bailey Hotels asking for an SLA credit",
+        "user": "UH9DL28T3MH",
+        "ts": "1793233268.617640",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

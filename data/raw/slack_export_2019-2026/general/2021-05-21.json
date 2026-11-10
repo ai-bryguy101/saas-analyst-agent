@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "9e09cfac-344c-13b2-0b9f-c538469475c1",
+        "type": "message",
+        "text": "Welcome Andrew Bailey to the Executive team!",
+        "user": "U0V9BPHARQX",
+        "ts": "1621610774.011500",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd19c849-96f5-65d9-4d0e-81c827fc573e",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UZACKQ1VXCH",
+        "ts": "1621613865.600210",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

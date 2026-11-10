@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "2a927fcd-268e-c221-abee-47a9da7f8cf0",
+        "type": "message",
+        "text": "Renewal risk: Southport Property Group unhappy with mobile app",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1591021628.021326",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60c42174-3d22-bc88-ec8a-ea5629780347",
+        "type": "message",
+        "text": "Westbrook Contracting Ltd. reporting sync failures since this morning, CSM is Abigail Fenwick",
+        "user": "U48TCJE75PD",
+        "ts": "1591056000.525884",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1591033306.783111"
+        }
+    },
+    {
+        "client_msg_id": "d4d7f94d-4280-b77f-ee37-cdcbc5112c1e",
+        "type": "message",
+        "text": "Renewal risk: Harris University Facilities Inc. unhappy with mobile app",
+        "user": "UV9GDKGY32C",
+        "ts": "1591057420.022055",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

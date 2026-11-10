@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "cd6bb65d-0162-3df9-cb6c-da6aa3eca276",
+        "type": "message",
+        "text": "AR aging is up, Yarrow Industries LLC is 90+ days",
+        "user": "URWNWW8QFM6",
+        "ts": "1576157198.124145",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "649b395f-0d68-881f-41d8-e059d5bbfa9f",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U22GUF0P303",
+        "ts": "1576184451.581006",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

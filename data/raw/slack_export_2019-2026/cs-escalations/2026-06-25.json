@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "f1f95f17-670c-a7d2-8d4d-2dc1190a379b",
+        "type": "message",
+        "text": "Erie Public Works LLC reporting sync failures since this morning, CSM is Carl Lockwood",
+        "user": "U5DYUQUF95P",
+        "ts": "1782401126.201932",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57928b4c-8d28-5da7-60d6-84939c66c437",
+        "type": "message",
+        "text": "Superior Restoration Co. asking for an SLA credit",
+        "user": "UYFL6320JLT",
+        "ts": "1782405295.042396",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07b50896-9d42-178b-52d2-d4596c87b9e9",
+        "type": "message",
+        "text": "Can someone check White Residential's invoice? They say they were double billed",
+        "user": "UJQY3Q26RVW",
+        "ts": "1782415673.382478",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJQY3Q26RVW",
+            "ts": "1782397764.943147"
+        }
+    },
+    {
+        "client_msg_id": "4bdda713-0a04-59e5-bd68-1500aa0aec75",
+        "type": "message",
+        "text": "Hargreaves Retail Group Ltd. wants an exec call about the outage",
+        "user": "U5HQ6U91D2E",
+        "ts": "1782422746.170037",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d10d2990-1b43-0371-6856-fdbcbd0df5fb",
+        "type": "message",
+        "text": "<@UFJUKVTAA1B> Pueblo Property Group asking for an SLA credit",
+        "user": "UMYYLUTXG9R",
+        "ts": "1782429564.594886",
+        "team": "T02BRNDLCV"
+    }
+]

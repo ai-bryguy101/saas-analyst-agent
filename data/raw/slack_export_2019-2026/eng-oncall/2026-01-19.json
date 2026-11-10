@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "345e8aa7-ea5f-c79c-b43e-f03d428b22a8",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UJKZ2R47YW9",
+        "ts": "1768836795.734669",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a207e51c-b626-718c-5002-a58a5bb87a5d",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1768837827.290922",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#21762 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09fcb093-7b38-06c0-513d-6cf8f88c6d0f",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXXA9L8HH83",
+        "ts": "1768867754.721715",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "71b60033-ffb3-3639-1e67-c8c10fbc14c0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1768868274.364674",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#54270 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

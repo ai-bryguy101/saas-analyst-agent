@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "45e8cf7d-d168-edb9-bd77-6fc471d8f4be",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1780406608.509613",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#72769 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b341be34-684b-e335-7338-f82c05956d85",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U8SR98620D7",
+        "ts": "1780428152.797032",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9e8792ed-891e-ebc7-cc08-4223a3d4de03",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1780428196.317693",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#57560 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efe0381b-077a-ba9b-f1b0-d72fdbf949e5",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U773RMBLF5X",
+        "ts": "1780442603.450490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf0561be-d08e-2c44-253b-d0a11a20e63d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U3EQ075NUYR",
+        "ts": "1780446731.216195",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b520e65-9b2a-a7d8-44dc-ee82de0fc64d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U69WX6HRQNH",
+        "ts": "1780447157.900937",
+        "team": "T02BRNDLCV"
+    }
+]

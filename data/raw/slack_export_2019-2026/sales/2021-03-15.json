@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "a48326ba-39e7-7e2d-15d5-7b23ce33b55e",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Ostrander Stores Holdings wants a discount, how far can I go?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1615843653.913404",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c399fcf6-c731-eb77-e157-f23e883755d4",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UGPRJ4K947R",
+        "ts": "1615846737.510063",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "215c17d5-75d1-0aab-91b6-d38f5fc3720d",
+        "type": "message",
+        "text": "Closed Tidewater Public Works LLC! 254 seats, Starter",
+        "user": "UNCGDMQATC5",
+        "ts": "1615852697.032351",
+        "team": "T02BRNDLCV"
+    }
+]

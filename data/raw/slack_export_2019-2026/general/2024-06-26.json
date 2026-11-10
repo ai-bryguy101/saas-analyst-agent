@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "343b3075-d404-3001-f863-ee46175f4316",
+        "type": "message",
+        "text": "Welcome Lars Roberts to the Sales team!",
+        "user": "UX84HDPARWN",
+        "ts": "1719422472.206335",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "036f8f1c-9b6f-6182-fb10-3f4c7ce3652b",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UC95B7VAFX0",
+        "ts": "1719430196.204678",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70e53318-594f-0695-7ca8-c631d6d70d3b",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1719432891.932672",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cc81bc6-0544-0539-505a-9a27c35a591b",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UB8UH2KX2NW",
+        "ts": "1719444408.379687",
+        "team": "T02BRNDLCV"
+    }
+]

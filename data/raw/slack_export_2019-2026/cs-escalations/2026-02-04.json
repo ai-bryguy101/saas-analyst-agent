@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "383ef789-c6f3-72db-ad66-9d04edae6df6",
+        "type": "message",
+        "text": "Hawthorne Stores Inc. asking for an SLA credit",
+        "user": "U22GUF0P303",
+        "ts": "1770225409.897395",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "382d4b22-d7ec-d159-9fc3-c44328234a93",
+        "type": "message",
+        "text": "Can someone check Copperfield Homes Inc.'s invoice? They say they were double billed",
+        "user": "UYR8E48FJ62",
+        "ts": "1770226937.671367",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2a32551-71a5-f342-11ca-62cd557c5d86",
+        "type": "message",
+        "text": "Thornbury Properties Inc. wants an exec call about the outage",
+        "user": "U7V33ZEGRET",
+        "ts": "1770231689.886230",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c33d624-e552-a142-80df-a7bb52fdeb70",
+        "type": "message",
+        "text": "<@UYFL6320JLT> Johansson Suites asking for an SLA credit",
+        "user": "UPGXMWMDQNR",
+        "ts": "1770233693.852197",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d93e2a14-4561-eedb-f11a-71ec49b6f354",
+        "type": "message",
+        "text": "Can someone check Yarrow Transit Authority's invoice? They say they were double billed",
+        "user": "U8SR98620D7",
+        "ts": "1770237222.355769",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f81737aa-a39a-36d8-8c2c-c7beb84aee46",
+        "type": "message",
+        "text": "Boateng Township reporting sync failures since this morning, CSM is Jordan Turner",
+        "user": "UYR8E48FJ62",
+        "ts": "1770243182.240605",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UYR8E48FJ62",
+            "ts": "1770221129.016909"
+        }
+    }
+]

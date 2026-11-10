@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "97b33a1c-2e95-a3bb-1c38-9dc68fac9c3b",
+        "type": "message",
+        "text": "Closed Brookside Building Services Co.! 218 seats, Enterprise",
+        "user": "UWUGRQ83YYM",
+        "ts": "1773160569.921369",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7dd46eba-a52f-c06e-68a3-77a120806df7",
+        "type": "message",
+        "text": "Closed Fairhaven Builders Group! 19 seats, Starter",
+        "user": "UR12Y3AZNKK",
+        "ts": "1773167254.657353",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54aec4c1-2e2d-16e3-787f-c511fb07a5b5",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1773169561.131452",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5800c539-8c6c-e589-694d-7f9eceb7b09a",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1773170140.043461",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UP8JCWGGNJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "acb564bf-363e-6748-7032-89c7a8d38562",
+        "type": "message",
+        "text": "Lost Ironwood Supply Co Corp. to Plinthwise on price",
+        "user": "UL8NMQFXPJR",
+        "ts": "1773173796.551289",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UNKFW783RHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0093c1de-1523-a6ab-33b2-8c7a2335edcd",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "URWNWW8QFM6",
+        "ts": "1773177336.613153",
+        "team": "T02BRNDLCV"
+    }
+]

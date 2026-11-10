@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "95d98b4f-87f2-def2-76de-84854e20bc1c",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFGLBSDS2XV",
+        "ts": "1626118489.542231",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6099d438-52b7-4129-bcdc-f69c3ae8baa0",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFARBQM0LCD",
+        "ts": "1626128363.158390",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

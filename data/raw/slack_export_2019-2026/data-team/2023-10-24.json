@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "4753e915-a46c-71fa-6b74-fba511fa53b2",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UDCALCM1RUG",
+        "ts": "1698160781.918002",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8c28fdd4-0ebd-b43a-5100-fa43e2b86d78",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U9XCAUGPS1F",
+        "ts": "1698162714.132087",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f8e727e1-7e81-9fe0-634b-d927774d9731",
+        "type": "message",
+        "text": "Need churn list for 2022",
+        "user": "U9Y2KF0S90E",
+        "ts": "1698175758.655222",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e1986b5-deba-9022-ec65-5cb16d0002b7",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UGPRJ4K947R",
+        "ts": "1698176400.114910",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adfefae7-029d-d3f7-34f6-1d78ca37495f",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UJRKGMQPU2R",
+        "ts": "1698184478.872475",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "15c83c4d-ee54-f28f-c180-917c968a5966",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UX84HDPARWN",
+        "ts": "1698186048.250313",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "b6d01918-649c-1681-0630-aeabdd713726",
+        "type": "message",
+        "text": "Ridgeline Stores Ltd. wants a discount, how far can I go?",
+        "user": "UV9GDKGY32C",
+        "ts": "1611933774.981445",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70882089-fa52-908d-10f7-b1ed9de343cc",
+        "type": "message",
+        "text": "Lost Eastlake Facilities Management to Plinthwise on price",
+        "user": "U9U3DZUVA3L",
+        "ts": "1611947651.745109",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9U3DZUVA3L",
+            "ts": "1611940264.970883"
+        }
+    }
+]

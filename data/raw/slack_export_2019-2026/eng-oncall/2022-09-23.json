@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "d3648e8e-9ec8-c7a4-4bf8-9725fca494e6",
+        "type": "message",
+        "text": "rolling back v9.30.6",
+        "user": "U0VB9M5U3TM",
+        "ts": "1663946330.926978",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7d4a340d-5d2d-dac3-640e-d0cc53375d10",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> postmortem doc for yesterday is up",
+        "user": "U5HQ6U91D2E",
+        "ts": "1663954045.207849",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bbc8111b-1386-317c-daee-2ddd3538d626",
+        "type": "message",
+        "text": "<@U22GUF0P303> postmortem doc for yesterday is up",
+        "user": "UXVNE61TTLN",
+        "ts": "1663960744.672039",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7f91b385-2725-4fa8-6fb0-ac5f6cd67f42",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> PagerDuty: high error rate on api-gw",
+        "user": "UWBW507RCA9",
+        "ts": "1663968377.432028",
+        "team": "T02BRNDLCV"
+    }
+]

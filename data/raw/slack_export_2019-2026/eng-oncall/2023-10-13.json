@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "aa6a1887-bb7b-dff3-6a0f-17e7df6a2b60",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UJKZ2R47YW9",
+        "ts": "1697211747.627496",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c407f66-331f-8a77-aa33-2e6e610dd485",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1697213750.508149",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#98650 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb6ad4c3-6e9f-a3f5-c9b2-fb04175046f3",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UQXT5A6YMVH",
+        "ts": "1697243414.037670",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "efa14f34-2c3d-ae54-0649-b41032bfc9ee",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UC95B7VAFX0",
+        "ts": "1697243626.100042",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad94b827-59f5-fe13-8ef8-a59ffb85d8b2",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1697245008.394540",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#75421 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

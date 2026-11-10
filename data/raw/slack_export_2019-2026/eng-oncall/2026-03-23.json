@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "00d65619-d7a0-5824-bdf9-eb7bb2fc09c4",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> postmortem doc for yesterday is up",
+        "user": "UGPRJ4K947R",
+        "ts": "1774276897.980913",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "136661c4-424c-d300-94d9-d0f1de64539b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1774287630.795796",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#40075 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11259010-ee88-55e3-222e-c6736f8d4ff1",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UMXMN24FN4K",
+        "ts": "1774291424.516240",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "605e67db-ecb3-e94f-17f1-7b367b0239f0",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> who owns the cron for nightly exports?",
+        "user": "UFNKJQT8PV1",
+        "ts": "1774291690.485466",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abd345bc-9e80-2683-eed1-fc26fcb4c47b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1774306901.711000",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#87565 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

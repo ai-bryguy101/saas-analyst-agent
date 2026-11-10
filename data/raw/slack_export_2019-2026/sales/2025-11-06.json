@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "ec2c3b9e-00c5-3399-b831-7ba245786438",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UA3MVBJWAHX",
+        "ts": "1762456040.786783",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "98220773-879f-b82b-b334-98762a02913e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1762461857.670740",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7f62149-a0b9-4d93-79b2-d66c98b0b102",
+        "type": "message",
+        "text": "Closed Frontier Academy Corp.! 386 seats, Pro",
+        "user": "U8SR98620D7",
+        "ts": "1762462996.817380",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "198f0a5c-ec16-0551-0ec5-85ffd1b70da6",
+        "type": "message",
+        "text": "<@UXXA9L8HH83> Closed Bluewater College LLC! 71 seats, Pro",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1762469749.770548",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b30a4903-5588-be4c-12fb-8fc885333977",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UQTUT2GDN85",
+        "ts": "1762476800.372663",
+        "team": "T02BRNDLCV"
+    }
+]

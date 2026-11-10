@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "b2003201-c7be-b2cf-1f1b-28446bde6213",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UL8NMQFXPJR",
+        "ts": "1647263870.988148",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "caf77bf8-0562-681d-a216-4832aac243ec",
+        "type": "message",
+        "text": "rolling back v8.25.1",
+        "user": "UPHFQAHDPSK",
+        "ts": "1647286438.877900",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16825a48-122d-15c2-23b6-9520f439838e",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U0V9BPHARQX",
+        "ts": "1647290740.391419",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "a931912e-cc6e-4f4f-cc7e-1d9eadf9c944",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UHV2RFNY0HN",
+        "ts": "1702654471.494588",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "35acddec-1f22-5c04-79ef-a22e393a8b03",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2023",
+        "user": "U0E67MPWRXA",
+        "ts": "1702659225.573613",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "35d8db38-d0f8-221c-df54-46c7b5f2ccd9",
+        "type": "message",
+        "text": "Heritage Builders paid by wire, applying now",
+        "user": "UR12Y3AZNKK",
+        "ts": "1702680287.423476",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

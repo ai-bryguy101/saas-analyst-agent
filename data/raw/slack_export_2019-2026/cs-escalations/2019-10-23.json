@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "71c05919-afc7-09fa-7f7e-e01f385aae2d",
+        "type": "message",
+        "text": "Quarry Municipal Services asking for an SLA credit",
+        "user": "U2CKCF24AEA",
+        "ts": "1571840014.991463",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc437938-f6c3-9078-19fa-4168fc77600f",
+        "type": "message",
+        "text": "<@UTLU2ZXMLEL> Tillamook College Holdings asking for an SLA credit",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1571844561.111557",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9b2769d-21dd-3eea-2829-b420f2fec478",
+        "type": "message",
+        "text": "Redstone Freight Corp. asking for an SLA credit",
+        "user": "UG4ETD69L1D",
+        "ts": "1571845826.050937",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UG4ETD69L1D",
+            "ts": "1571848882.397513"
+        }
+    },
+    {
+        "client_msg_id": "7e76648e-1489-60df-9526-68e73f373d5d",
+        "type": "message",
+        "text": "Stonebridge Logistics LLC reporting sync failures since this morning, CSM is Anthony Ellsworth",
+        "user": "UE4GTX0EXPH",
+        "ts": "1571866002.997205",
+        "team": "T02BRNDLCV"
+    }
+]

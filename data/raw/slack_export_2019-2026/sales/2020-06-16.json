@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "9792165a-e84b-0f1c-b8ec-7381022f7c87",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UL20M69UM76",
+        "ts": "1592318801.338939",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "224d43f6-65bd-2446-e4e6-78b114d8d03b",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UZACKQ1VXCH",
+        "ts": "1592326029.951659",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "952ed349-2aec-c797-ea8e-9d0da1c79fa6",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Anyone have a reference customer in Property Management?",
+        "user": "UNCGDMQATC5",
+        "ts": "1592347002.031603",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

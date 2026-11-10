@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "ad271e14-fb65-5332-c5f3-9d041c0dc1e6",
+        "type": "message",
+        "text": "Pioneer Janitorial Group wants an exec call about the outage",
+        "user": "UKMQNTKUR4V",
+        "ts": "1607961144.797632",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dd211e3d-7add-c99d-6ebf-02ba3819b41f",
+        "type": "message",
+        "text": "Lakeshore Homes Corp. reporting sync failures since this morning, CSM is Priya Raghunathan",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1607964223.947675",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63ed1efc-c411-4310-97d0-07925ef9e22b",
+        "type": "message",
+        "text": "Copperfield Retail Group Holdings wants an exec call about the outage",
+        "user": "UMDHKXLV8RH",
+        "ts": "1607966510.841758",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bc852d2-1d2f-8d5f-a504-c47b9e32f8ba",
+        "type": "message",
+        "text": "Renewal risk: Gatehouse Inns Group unhappy with mobile app",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1607966874.752221",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1607952700.506787"
+        }
+    },
+    {
+        "client_msg_id": "e328fe48-e019-bab0-2d9d-919e96cfafe9",
+        "type": "message",
+        "text": "Can someone check Osprey Works's invoice? They say they were double billed",
+        "user": "U5X9PNA34DU",
+        "ts": "1607974363.007568",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5X9PNA34DU",
+            "ts": "1607980651.188636"
+        }
+    },
+    {
+        "client_msg_id": "576c4d13-ee0c-a497-8ba0-24d704b9ed8b",
+        "type": "message",
+        "text": "Kestrel Fabrication Co. wants an exec call about the outage",
+        "user": "UFARBQM0LCD",
+        "ts": "1607979905.692766",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad746dfc-9540-e257-d5f4-de82baf65a81",
+        "type": "message",
+        "text": "Hernandez Couriers Co. wants an exec call about the outage",
+        "user": "UB8UH2KX2NW",
+        "ts": "1607983129.765035",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3128fd2b-e091-96a9-80bc-331b0b256763",
+        "type": "message",
+        "text": "Renewal risk: Keystone Mechanical Holdings unhappy with mobile app",
+        "user": "UYR8E48FJ62",
+        "ts": "1607983874.529762",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1450f2db-69cb-7e9c-5800-f82fdfbb79f5",
+        "type": "message",
+        "text": "Sycamore Distribution reporting sync failures since this morning, CSM is Kathryn Lavoie",
+        "user": "UGPRJ4K947R",
+        "ts": "1607984382.952727",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02c72c89-b1ed-0e7a-0bd3-4c1d20f33ab0",
+        "type": "message",
+        "text": "Can someone check Ozark Works Holdings's invoice? They say they were double billed",
+        "user": "UUFS9CP1A17",
+        "ts": "1607993405.289837",
+        "team": "T02BRNDLCV"
+    }
+]

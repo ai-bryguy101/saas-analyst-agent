@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "a3e8ea1f-cb50-99fc-824c-9b1fb6d85d1b",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UR12Y3AZNKK",
+        "ts": "1662393017.206448",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aaf890c0-c3e9-9f89-aa8d-932fe1232fd5",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> rolling back v6.12.6",
+        "user": "UGPRJ4K947R",
+        "ts": "1662406049.861765",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5fb20852-3595-5a9d-455c-3f8113cf92fa",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1662414609.031046",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#73532 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "3cd3ef81-e6fb-e0fa-09d2-f82acfa8741a",
+        "type": "message",
+        "text": "Murphy School District Inc. asking for an SLA credit",
+        "user": "UR12Y3AZNKK",
+        "ts": "1688401937.419743",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1ffa2162-df97-7664-e221-f5bad480663d",
+        "type": "message",
+        "text": "Can someone check Liberty Homes Co.'s invoice? They say they were double billed",
+        "user": "UNFVCYNZT6K",
+        "ts": "1688412151.896962",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05291ba8-2d33-92bc-cbfc-ac1380aa0556",
+        "type": "message",
+        "text": "Can someone check Tillamook Logistics Inc.'s invoice? They say they were double billed",
+        "user": "UAHZYQG5URJ",
+        "ts": "1688419857.294759",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "924184f2-531e-5319-9557-a9a3f39122c4",
+        "type": "message",
+        "text": "Can someone check Wexford Couriers Ltd.'s invoice? They say they were double billed",
+        "user": "U5X9PNA34DU",
+        "ts": "1688420800.326814",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7a0723d-8fa3-7862-25e6-10358002243b",
+        "type": "message",
+        "text": "Jessop Facilities Management Group asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1688421176.162147",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "058499af-2a6e-c833-e7a1-0bd4a95fb673",
+        "type": "message",
+        "text": "Gatehouse Public Works Holdings asking for an SLA credit",
+        "user": "U0E67MPWRXA",
+        "ts": "1688421522.693805",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c280903e-4d80-a84d-8975-30bec45e18bf",
+        "type": "message",
+        "text": "Renewal risk: Cumberland Hospital Corp. unhappy with mobile app",
+        "user": "UFJUKVTAA1B",
+        "ts": "1688421958.594173",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6cfe9eac-c351-0ca6-92e2-a59aa56cb97b",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Can someone check Ashford Supply Co's invoice? They say they were double billed",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1688422224.794411",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9ebfb9a8-320c-61b5-04f5-ed0ec4f3dbcd",
+        "type": "message",
+        "text": "Renewal risk: Patriot Public Works Co. unhappy with mobile app",
+        "user": "UVQRW5SQSEL",
+        "ts": "1688423642.931704",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5bb1cba0-70a1-01d0-2ad3-bd38538156f7",
+        "type": "message",
+        "text": "Wabash Health Partners Inc. wants an exec call about the outage",
+        "user": "UH9DL28T3MH",
+        "ts": "1688427108.305135",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ced1bf5d-7429-c878-ed17-8c1e26332614",
+        "type": "message",
+        "text": "<@UE49ET7WGNU> Wilson Suites reporting sync failures since this morning, CSM is Hamid Roberts",
+        "user": "UWUGRQ83YYM",
+        "ts": "1688431758.145647",
+        "team": "T02BRNDLCV"
+    }
+]

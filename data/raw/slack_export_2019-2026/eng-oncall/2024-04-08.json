@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "9062fe89-3e16-9426-5cf5-4747ab772ed3",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1712595750.593682",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#25463 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d32fb6d-997c-2981-f6b0-717296eff202",
+        "type": "message",
+        "text": "rolling back v7.24.9",
+        "user": "UQXT5A6YMVH",
+        "ts": "1712613734.170967",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c795e8eb-7813-6ecd-d469-0ed16d62b82c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1712616503.542359",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#56774 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

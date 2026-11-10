@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.5.54, for debian-linux-gnu (x86_64)
 --
--- Host: ledger-db01.int.brindlecove.com    Database: ledger_prod
+-- Host: ledger-db01.int.brindlecove.example    Database: ledger_prod
 -- ------------------------------------------------------
 -- Server version	5.5.54-0ubuntu0.14.04.1-log
 

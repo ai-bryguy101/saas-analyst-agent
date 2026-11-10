@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "42e71983-8a93-4865-f633-6934bfa41ccd",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UWUGRQ83YYM",
+        "ts": "1698939323.879157",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UWUGRQ83YYM",
+            "ts": "1698931464.135431"
+        }
+    },
+    {
+        "client_msg_id": "94a2fc20-aa1e-b8f7-eee8-e6ddcd0a02e9",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2023",
+        "user": "UJQY3Q26RVW",
+        "ts": "1698952384.944735",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "881ee14d-566e-821f-f03f-3b15e73d52a0",
+        "type": "message",
+        "text": "Abernathy Works LLC paid by wire, applying now",
+        "user": "UXS2WD4BYRN",
+        "ts": "1698961088.004431",
+        "team": "T02BRNDLCV"
+    }
+]

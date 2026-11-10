@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "f3e8643b-18ca-6478-e7fb-30514b20a989",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2024",
+        "user": "UVQRW5SQSEL",
+        "ts": "1729779804.059697",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cb91116f-c632-d493-e545-30032bc01884",
+        "type": "message",
+        "text": "AR aging is up, Lee Medical Center is 90+ days",
+        "user": "U48TCJE75PD",
+        "ts": "1729798426.789800",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99fe848f-2cd7-00e2-d3d3-4520fb543b30",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFULM18ZBQ6",
+        "ts": "1729814759.146501",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0eee6b0e-262a-b15e-ce30-1c457e83c50c",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1729816165.317372",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

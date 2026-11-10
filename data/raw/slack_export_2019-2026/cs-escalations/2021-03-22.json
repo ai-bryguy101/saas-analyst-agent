@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "d9540004-3ad4-9249-e867-6e172e39eb47",
+        "type": "message",
+        "text": "Northgate Suites Inc. reporting sync failures since this morning, CSM is Brenda Rogers",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1616448220.816554",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2349f30-040e-607d-0832-6f5080e05f4c",
+        "type": "message",
+        "text": "Renewal risk: Sierra Retail Group unhappy with mobile app",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1616449067.663290",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7dd70259-24de-3154-c3ed-518cae1ac9d1",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> Can someone check Lefebvre Retail Group's invoice? They say they were double billed",
+        "user": "UDCALCM1RUG",
+        "ts": "1616458993.646504",
+        "team": "T02BRNDLCV"
+    }
+]

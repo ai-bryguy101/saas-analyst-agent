@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "228f0c6a-15ea-163d-5d13-7cf8fe813094",
+        "type": "message",
+        "text": "<@U8SR98620D7> Can someone check Bayview Property Group Group's invoice? They say they were double billed",
+        "user": "U69WX6HRQNH",
+        "ts": "1600884836.788237",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9988a65-17a1-ef10-019b-bfa2bc52cf8f",
+        "type": "message",
+        "text": "Gagnon Warehousing Co. reporting sync failures since this morning, CSM is Ines Johansson",
+        "user": "U3YU9TS6QYB",
+        "ts": "1600884961.814515",
+        "team": "T02BRNDLCV"
+    }
+]

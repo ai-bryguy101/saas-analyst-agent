@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "dcc0d4f9-c0e1-aadc-220c-500852b17f1e",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> replica lag on db-03 again",
+        "user": "U8SR98620D7",
+        "ts": "1699364053.100960",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a3a606c-8767-fa4d-4e5d-c61bc0154d9f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1699364669.424223",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#82491 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "668e8a9e-22b3-d6eb-057c-212c47f3aabe",
+        "type": "message",
+        "text": "rolling back v5.29.6",
+        "user": "U3EQ075NUYR",
+        "ts": "1699365805.684444",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05866283-4bbd-d120-4ec8-87e7f0d029f9",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> PagerDuty: high error rate on api-gw",
+        "user": "UAGQX7APZBG",
+        "ts": "1699366179.430069",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "356579ee-5ced-1b28-bcbf-cd17252b630e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1699371474.814367",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#46076 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c8833b0-c5d7-b7a0-5f5a-157a90b77f32",
+        "type": "message",
+        "text": "deploy v6.23.5 to prod :rocket:",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1699389088.434215",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U1YEVCXATA8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fcadcfe-a487-9298-9b95-357e59e832f0",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> PagerDuty: high error rate on api-gw",
+        "user": "UDDBYSY4RFA",
+        "ts": "1699390422.345820",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b71c1c1-ed2e-ebf4-3007-aa3ac9c21cb3",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1699393328.604581",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#35758 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

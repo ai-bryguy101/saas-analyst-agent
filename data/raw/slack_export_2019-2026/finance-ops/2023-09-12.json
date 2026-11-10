@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "af5c9866-e7fe-8667-79f4-417fed8b2131",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1694526958.074997",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "26097d27-b7ae-d07c-d61b-de89e04761c9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UCQT1GS0C0C",
+        "ts": "1694529196.046353",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62eddf0d-d176-d32f-bad1-8b360dba0eb8",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U22GUF0P303",
+        "ts": "1694535478.598042",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d8f49f20-a06b-0cc9-eccf-e527512e3e67",
+        "type": "message",
+        "text": "<@UX84HDPARWN> FX rates loaded for Sep 2023",
+        "user": "UAXWVBRVKW9",
+        "ts": "1694536441.684464",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "7a401340-6dc6-cb61-f202-1b7e54a97b90",
+        "type": "message",
+        "text": "Pioneer Contracting Corp. reporting sync failures since this morning, CSM is Vincent Dubois",
+        "user": "UXS2WD4BYRN",
+        "ts": "1590165796.933885",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e7f5cea8-7d4c-1ff2-55e2-1002aa8c9285",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Morgan Public Works Co. reporting sync failures since this morning, CSM is Ryan Iyer",
+        "user": "UR3LDWKU006",
+        "ts": "1590170003.521299",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68073a57-3490-bbe0-f31e-c7f42cdd4b95",
+        "type": "message",
+        "text": "Morgan Inns Inc. wants an exec call about the outage",
+        "user": "U5DYUQUF95P",
+        "ts": "1590176750.125860",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6230927-9f2d-314e-dbbf-d437ddb13a61",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> MacLeod Residential Holdings wants an exec call about the outage",
+        "user": "UBHB6GTB73U",
+        "ts": "1590176925.991407",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f3be7dbe-c101-d1ea-d19c-2b4e5550e8c9",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Lakeshore Construction Inc. wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1590180017.560029",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5493a00-5965-7022-d6f4-e5b87cbb5783",
+        "type": "message",
+        "text": "Kestrel Contracting wants an exec call about the outage",
+        "user": "UC95B7VAFX0",
+        "ts": "1590183878.603567",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d254e765-ffa6-8725-84c0-b4502a19856c",
+        "type": "message",
+        "text": "Renewal risk: Millbrook College LLC unhappy with mobile app",
+        "user": "U9XCAUGPS1F",
+        "ts": "1590191274.638481",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "1ef7127c-380e-28ce-c3c0-786ce4848c9c",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1599086539.025880",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1df0625a-d388-3bd5-7044-ff048091f16f",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1599090413.503675",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56a304d0-f430-4aca-3bd3-2619513b2e80",
+        "type": "message",
+        "text": "Watson Logistics paid by wire, applying now",
+        "user": "UDCALCM1RUG",
+        "ts": "1599094125.605462",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

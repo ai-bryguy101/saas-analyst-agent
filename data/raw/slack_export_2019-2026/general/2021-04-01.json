@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "64a3e361-22a4-1db8-5eae-7ac708fefe07",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UZACKQ1VXCH",
+        "ts": "1617287840.655400",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d6e8059-31df-ad16-bc97-ca5ba2e22e8e",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UAHZYQG5URJ",
+        "ts": "1617301656.896127",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2e6e42d4-653d-2fc7-db15-e52452a28fa9",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U5DYUQUF95P",
+        "ts": "1617322392.448867",
+        "team": "T02BRNDLCV"
+    }
+]

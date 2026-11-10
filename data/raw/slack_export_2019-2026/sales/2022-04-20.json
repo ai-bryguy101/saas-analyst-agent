@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "746e3145-73fb-c41c-fea0-3ee2338dcaf9",
+        "type": "message",
+        "text": "Lost Bennett Transit Authority Inc. to Plinthwise on price",
+        "user": "U0V9BPHARQX",
+        "ts": "1650470348.345457",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54e10212-7c7e-ffb0-ec4b-6fc37358e1ce",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1650474374.109710",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a059f59c-3095-d590-612c-1b68d54dd837",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1650479526.167315",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "759da047-0cf4-c184-b944-c10e6891df2b",
+        "type": "message",
+        "text": "Closed Ironwood Maintenance Co! 171 seats, Pro",
+        "user": "UWU9WG7ECGY",
+        "ts": "1650488907.704987",
+        "team": "T02BRNDLCV"
+    }
+]

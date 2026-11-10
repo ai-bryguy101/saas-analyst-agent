@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "63fadc98-d69a-a79e-e2fb-3c8cdd8d3b23",
+        "type": "message",
+        "text": "Millbrook Public Works asking for an SLA credit",
+        "user": "U9Y2KF0S90E",
+        "ts": "1605717534.545386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "881b9310-7e50-0652-d2a2-8df22545bdad",
+        "type": "message",
+        "text": "Renewal risk: Rogers Janitorial Holdings unhappy with mobile app",
+        "user": "UZACKQ1VXCH",
+        "ts": "1605733929.505333",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UB0YL0LKYC7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93d38a99-ea19-882b-39b8-3a1a30af8edd",
+        "type": "message",
+        "text": "Quarry Manufacturing asking for an SLA credit",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1605735941.182185",
+        "team": "T02BRNDLCV"
+    }
+]

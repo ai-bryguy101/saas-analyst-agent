@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "64c6310f-af98-24c3-b2e6-b220850a90bf",
+        "type": "message",
+        "text": "AR aging is up, Northgate Property Services is 90+ days",
+        "user": "U9XCAUGPS1F",
+        "ts": "1602697132.615483",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93f59189-94fe-e74f-c8b0-0e297c638e34",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U22GUF0P303",
+        "ts": "1602698424.966837",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d2a8c1e-52c1-1d55-9921-8b504f67ee42",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2020",
+        "user": "UB8UH2KX2NW",
+        "ts": "1602715728.225829",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "7e6d4bec-3669-f726-790f-5b63c243ffa0",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UJQY3Q26RVW",
+        "ts": "1758897167.555297",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14f88e02-014d-6572-27da-559e1adeda72",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UC95B7VAFX0",
+        "ts": "1758899211.487198",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1758924832.486695"
+        }
+    },
+    {
+        "client_msg_id": "1295ae98-4dcf-dcb7-ed13-205f90b69e54",
+        "type": "message",
+        "text": "AR aging is up, Dubois Inns Holdings is 90+ days",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1758908555.575249",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eb5a59f6-ad2b-6eaa-6dee-f34e69cf8f9b",
+        "type": "message",
+        "text": "Saguaro Logistics paid by wire, applying now",
+        "user": "UMXMN24FN4K",
+        "ts": "1758926429.420015",
+        "team": "T02BRNDLCV"
+    }
+]

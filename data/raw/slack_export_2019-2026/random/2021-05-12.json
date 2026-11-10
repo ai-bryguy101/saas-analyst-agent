@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "9129f685-9a00-68ef-369e-a8a491b918a3",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1620825324.303496",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b93a7df-3cd2-4ca7-21a2-97cc0db10d3e",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UFARBQM0LCD",
+        "ts": "1620829560.292901",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFARBQM0LCD",
+            "ts": "1620862254.799029"
+        }
+    }
+]

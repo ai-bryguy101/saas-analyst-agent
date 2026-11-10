@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "dd211967-f5c0-952b-5d27-9eb7f7675b8a",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1695301545.352174",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dc91f61d-e838-4085-83b1-ea5f164582a2",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U9V01K22TU1",
+        "ts": "1695308323.378366",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ddaa4a5-caa9-ea9f-6ebf-68c54a98807a",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1695314407.496763",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bc374bfd-975c-bff8-cdb2-5a9da6c26e88",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1695323428.729970",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd8fb120-5320-b539-817a-fc33b34dc5a8",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1695335684.682180",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "081e3a4c-5544-b827-0d0b-aad1fb89eaae",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "U2CKCF24AEA",
+        "ts": "1695337893.878760",
+        "team": "T02BRNDLCV"
+    }
+]

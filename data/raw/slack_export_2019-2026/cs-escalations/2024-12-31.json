@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "af5802af-1c39-cc6f-0877-abd873ef6107",
+        "type": "message",
+        "text": "Can someone check Lefebvre Retail Group's invoice? They say they were double billed",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1735668646.188002",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UP8JCWGGNJ4",
+            "ts": "1735664808.062921"
+        }
+    },
+    {
+        "client_msg_id": "ad9f4521-64ca-5705-a164-c3f05d34fdf0",
+        "type": "message",
+        "text": "Can someone check Fenwick Mechanical LLC's invoice? They say they were double billed",
+        "user": "UH9DL28T3MH",
+        "ts": "1735672121.716262",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6ceb1bc-6451-b109-01ac-c5549f6c74cb",
+        "type": "message",
+        "text": "Frontier Transit Authority Holdings wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1735683956.353515",
+        "team": "T02BRNDLCV"
+    }
+]

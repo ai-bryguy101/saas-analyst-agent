@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "f214db86-69ef-dd8e-9beb-175fcf2db38d",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U9U3DZUVA3L",
+        "ts": "1629466029.305692",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "354700a3-1249-3bfe-89e5-ad45ccf4b664",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1629476283.113713",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf8aa5e8-397d-2e0e-f176-8ef7802266e5",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> Xero export is the source of truth until April",
+        "user": "U2CKCF24AEA",
+        "ts": "1629479364.575167",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "533e36a6-d1ac-d6ce-76ae-65dfcfd00562",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U0V9BPHARQX",
+        "ts": "1629504945.854031",
+        "team": "T02BRNDLCV"
+    }
+]

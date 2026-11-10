@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "e92f7edd-b478-4b94-92d7-9d842458be9e",
+        "type": "message",
+        "text": "Can someone check Bluewater Couriers Ltd.'s invoice? They say they were double billed",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1561987509.722393",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56781481-9284-c41b-2c0e-cd88fa90dd17",
+        "type": "message",
+        "text": "<@UTLU2ZXMLEL> Can someone check Northgate Industries Holdings's invoice? They say they were double billed",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1562008236.018558",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f568f95d-ca39-cd0c-fca6-341706a068ef",
+        "type": "message",
+        "text": "Saguaro Property Services Corp. asking for an SLA credit",
+        "user": "UJQ9E01DWPS",
+        "ts": "1562008669.944947",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "274d4e35-17e7-7263-a06c-44209210dd01",
+        "type": "message",
+        "text": "Granite Homes Inc. reporting sync failures since this morning, CSM is Tomasz Kowalski",
+        "user": "UMDHKXLV8RH",
+        "ts": "1562009619.777919",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d18ea14a-5b0c-e95b-c3da-788c4f5d705e",
+        "type": "message",
+        "text": "Meadowlark Distribution Ltd. asking for an SLA credit",
+        "user": "UQXT5A6YMVH",
+        "ts": "1562015633.415897",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e5d802c-5fb1-9833-62ad-426670bf06ba",
+        "type": "message",
+        "text": "Eastlake College reporting sync failures since this morning, CSM is Nicole Johansson",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1562018666.197209",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d3bcca2-acc3-163c-c7ed-55d19df0acfe",
+        "type": "message",
+        "text": "Can someone check Lakeshore Realty Management Co.'s invoice? They say they were double billed",
+        "user": "UX84HDPARWN",
+        "ts": "1562022021.171362",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "9f6c0699-e93e-0d1b-4252-81993279a351",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U5DYUQUF95P",
+        "ts": "1762267057.857910",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad2e5da2-f490-d9fa-49b9-8179bace2a92",
+        "type": "message",
+        "text": "AR aging is up, Shenandoah Residential Inc. is 90+ days",
+        "user": "U2LMMLL4F31",
+        "ts": "1762287183.679607",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38f5922a-d625-1a58-887c-96b9ceeab73e",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> AR aging is up, Sierra Homes LLC is 90+ days",
+        "user": "UJQY3Q26RVW",
+        "ts": "1762291772.373089",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5efcfaef-3843-ac78-43a0-b27a40309505",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U8SR98620D7",
+        "ts": "1762292104.866007",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c01460cb-4763-5468-bce4-9e9b436a484a",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1762293289.063627",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d632e663-c783-ee88-00a6-5419b66bc25a",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2025",
+        "user": "UX84HDPARWN",
+        "ts": "1762295334.893028",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03618145-9714-fb4f-c39f-7939745d1211",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2025",
+        "user": "UZACKQ1VXCH",
+        "ts": "1762297190.056177",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43bb2180-b639-86b3-573d-5857172a1365",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UX84HDPARWN",
+        "ts": "1762297241.988720",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "75379278-f8e0-f1ae-a9de-81661df9047b",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UYR8E48FJ62",
+        "ts": "1762301214.566567",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "adddf215-27e5-a086-5a77-a6b70f4f071c",
+        "type": "message",
+        "text": "Tri-County Homes Corp. paid by wire, applying now",
+        "user": "U9SD2024Q7F",
+        "ts": "1762301581.552408",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "734b35c6-e764-3a04-f1e6-16991aa43cae",
+        "type": "message",
+        "text": "Lantern Clinics Inc. paid by wire, applying now",
+        "user": "UX84HDPARWN",
+        "ts": "1762302275.228766",
+        "team": "T02BRNDLCV"
+    }
+]

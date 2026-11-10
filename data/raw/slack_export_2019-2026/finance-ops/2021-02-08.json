@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "f6dae43f-b290-28d0-3ce2-20539cd53645",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1612795290.164139",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a1bed82a-e649-df1e-ac62-5b1a11bf4f06",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U9V01K22TU1",
+        "ts": "1612803386.338203",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "815d8fac-93dc-40fb-9a47-7b9792be7725",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UYR8E48FJ62",
+        "ts": "1612806901.821794",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2da535ba-19ea-c7a5-aea2-cde887b68534",
+        "type": "message",
+        "text": "Lockwood Manufacturing Co. paid by wire, applying now",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1612807404.305661",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "813de032-0783-8195-f38b-f1d465b1c838",
+        "type": "message",
+        "text": "AR aging is up, Maplewood University Facilities Holdings is 90+ days",
+        "user": "UH9DL28T3MH",
+        "ts": "1612808559.895017",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60cb206c-34d7-dda5-6a4d-95c1ec9a9201",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "U9V01K22TU1",
+        "ts": "1612809472.462941",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1612800013.223718"
+        }
+    },
+    {
+        "client_msg_id": "bd2b8792-6464-4568-51df-cd8ce5f6f7b9",
+        "type": "message",
+        "text": "Hargreaves Health System paid by wire, applying now",
+        "user": "UQK194B1V43",
+        "ts": "1612810868.719981",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1f44cc8b-0213-5d9f-ca9e-9e8065485bd7",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "U34NH0P5TMZ",
+        "ts": "1612812986.946137",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c039b3b6-604d-c664-f382-5ab16ae30e9c",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1612822567.876858",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eb83c9ba-a3f3-26ad-29e7-0a435e5052df",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "UQK194B1V43",
+        "ts": "1612830805.015432",
+        "team": "T02BRNDLCV"
+    }
+]

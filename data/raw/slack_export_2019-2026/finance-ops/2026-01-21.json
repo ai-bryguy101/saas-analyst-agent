@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "d95e93e1-ea88-b506-09ac-333c1e207458",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UH9DL28T3MH",
+        "ts": "1769011096.332514",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1aadd97a-a58b-bfca-a753-d6f65c35eaf1",
+        "type": "message",
+        "text": "Murphy School District Inc. paid by wire, applying now",
+        "user": "UWU9WG7ECGY",
+        "ts": "1769018216.771193",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2232b0b7-a20f-dcf0-bfd1-eb8351c3e66c",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2026",
+        "user": "U09CZFTHQSS",
+        "ts": "1769038178.867765",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16778678-1f1d-5ec0-40cd-ed4b2fe0b5bc",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2026",
+        "user": "U8SR98620D7",
+        "ts": "1769040821.243974",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

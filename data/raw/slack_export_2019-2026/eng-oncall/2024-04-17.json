@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "d774fdfe-bd89-bf77-8d7e-88707d5aeedf",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UDDBYSY4RFA",
+        "ts": "1713365317.732036",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46d0ce20-180c-17f6-41d1-9918c1f41c87",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> deploy v8.38.5 to prod :rocket:",
+        "user": "U5X9PNA34DU",
+        "ts": "1713374554.094553",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a3d958f-0ef8-4cde-a6c7-9d9c5f54cae7",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> rolling back v9.28.8",
+        "user": "UHV2RFNY0HN",
+        "ts": "1713376794.214831",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "91b516f1-0d4e-485f-46cc-0958473583c3",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXVNE61TTLN",
+        "ts": "1713389693.374715",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a46c8b34-053a-aebf-70c3-f2e252ad392a",
+        "type": "message",
+        "text": "rolling back v5.11.4",
+        "user": "U9V01K22TU1",
+        "ts": "1713394766.340153",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fab3afe9-297c-6bdd-8aa2-1c109841a1d3",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U1YEVCXATA8",
+        "ts": "1713395135.638857",
+        "team": "T02BRNDLCV"
+    }
+]

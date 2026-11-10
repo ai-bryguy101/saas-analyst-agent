@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "d36911d3-a2df-6834-8600-90954fc989bc",
+        "type": "message",
+        "text": "deploy v8.37.4 to prod :rocket:",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1753449554.238428",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ebd140a-bd88-1d3e-9f37-d26c37a8dce3",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "URFUZYLCAEC",
+        "ts": "1753463479.826506",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99a55110-32df-2558-5a93-05d683abe5b2",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1753464698.160122",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#55427 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bcf9f2d-f63f-324e-bb9a-e441bb32bda4",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UXS2WD4BYRN",
+        "ts": "1753486717.661572",
+        "team": "T02BRNDLCV"
+    }
+]

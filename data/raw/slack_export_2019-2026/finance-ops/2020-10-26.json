@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "51bb2500-31ce-9b26-5c92-7b63b2cdbf66",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UL20M69UM76",
+        "ts": "1603724173.177584",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9ac830d0-b121-cc4f-b262-eb9fe9fbc219",
+        "type": "message",
+        "text": "AR aging is up, Cornerstone Medical Center Ltd. is 90+ days",
+        "user": "UKMQNTKUR4V",
+        "ts": "1603724527.125195",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c89af2d-d352-5e38-81b6-76c555c998bd",
+        "type": "message",
+        "text": "Taylor Markets Inc. paid by wire, applying now",
+        "user": "UL8NMQFXPJR",
+        "ts": "1603725280.354335",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

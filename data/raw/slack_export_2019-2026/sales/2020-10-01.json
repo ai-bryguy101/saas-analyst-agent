@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "8d6bde9a-1a8f-189d-8f21-3621f91d95fc",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "U0E67MPWRXA",
+        "ts": "1601569734.977023",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "057ffd79-cf02-5d16-ba44-be426898b8e2",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UBK8V2J099L",
+        "ts": "1601573593.727390",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0540bcee-29d2-3703-a6a7-ad01272b610a",
+        "type": "message",
+        "text": "Closed Pioneer Warehousing Co.! 351 seats, Pro",
+        "user": "UMXMN24FN4K",
+        "ts": "1601578765.012020",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

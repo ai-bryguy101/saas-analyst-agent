@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "a16075df-ccd0-3204-7d87-9b8b3578ade7",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1721752748.006622",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d4e187d-80ab-6261-791d-abd1ff8a5f07",
+        "type": "message",
+        "text": "Welcome Minh Ruiz to the Engineering team!",
+        "user": "UFARBQM0LCD",
+        "ts": "1721760098.307785",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9839755f-e283-be2a-9fc7-4b56c1bf61d3",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U5HQ6U91D2E",
+        "ts": "1721779127.083844",
+        "team": "T02BRNDLCV"
+    }
+]

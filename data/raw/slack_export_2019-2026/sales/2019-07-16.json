@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "b6431f21-409e-1a7d-fcef-6a5318bd5a6b",
+        "type": "message",
+        "text": "Closed Copperfield Building Services Group! 23 seats, Starter",
+        "user": "UMDHKXLV8RH",
+        "ts": "1563307228.143628",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5c9d9a9-bd0d-5620-f52e-3eaaa390f393",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UNCGDMQATC5",
+        "ts": "1563323010.302167",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ab470b7-5c1f-6149-4751-cf98a7f594aa",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U3YU9TS6QYB",
+        "ts": "1563323925.390473",
+        "team": "T02BRNDLCV"
+    }
+]

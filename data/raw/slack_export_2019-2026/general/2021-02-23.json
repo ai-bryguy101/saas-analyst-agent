@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "9c1c9a1f-ce09-6d7c-5811-cfca1db60dfc",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U09CZFTHQSS",
+        "ts": "1614086872.465269",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "de630743-86d4-b37c-6c5d-9fed45bfd612",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UV9GDKGY32C",
+        "ts": "1614099952.152016",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04a917ef-f1df-8e84-f3a0-73285f21073e",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UFARBQM0LCD",
+        "ts": "1614105517.526540",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFARBQM0LCD",
+            "ts": "1614123931.173733"
+        }
+    }
+]

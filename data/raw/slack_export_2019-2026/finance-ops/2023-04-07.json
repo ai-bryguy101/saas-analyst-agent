@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "2d81ea23-1dfc-3914-c411-e5ba42473d0c",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U2CKCF24AEA",
+        "ts": "1680881560.134890",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U6TBCUVSYPZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6018d31c-98be-d6c8-0413-8cab343f5f0f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UA3MVBJWAHX",
+        "ts": "1680889157.821142",
+        "team": "T02BRNDLCV"
+    }
+]

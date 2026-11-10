@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "16ab308d-2c78-5063-0437-5f2720e29a51",
+        "type": "message",
+        "text": "Wilson Industries Inc. reporting sync failures since this morning, CSM is Kathleen Jackson",
+        "user": "UMDHKXLV8RH",
+        "ts": "1596126914.660155",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "386acb26-07d5-bed0-c128-8a0868184d2d",
+        "type": "message",
+        "text": "Can someone check Great Freight's invoice? They say they were double billed",
+        "user": "UKMQNTKUR4V",
+        "ts": "1596127513.301220",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "00326e96-80e0-ac36-6188-097ca634bbca",
+        "type": "message",
+        "text": "Can someone check Heritage Markets's invoice? They say they were double billed",
+        "user": "U9SD2024Q7F",
+        "ts": "1596130645.725195",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e35ae16-0609-6928-0b92-2436bb70567c",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Renewal risk: Lewis Warehousing Corp. unhappy with mobile app",
+        "user": "U34NH0P5TMZ",
+        "ts": "1596132389.560455",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21b9cd8d-c298-1109-4625-61221d9c59a9",
+        "type": "message",
+        "text": "<@UBK8V2J099L> Can someone check Morris Realty Management Co.'s invoice? They say they were double billed",
+        "user": "UFJUKVTAA1B",
+        "ts": "1596132764.027591",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1596152588.299515"
+        }
+    },
+    {
+        "client_msg_id": "19f89023-4110-7676-26b9-d4542eb0c9dd",
+        "type": "message",
+        "text": "Twin Township wants an exec call about the outage",
+        "user": "URFUZYLCAEC",
+        "ts": "1596138486.741194",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67d32c5d-f79f-dab8-bee6-156abb4e5fd0",
+        "type": "message",
+        "text": "Renewal risk: Lindenwood Warehousing LLC unhappy with mobile app",
+        "user": "U3KL08VJD8C",
+        "ts": "1596144986.798337",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "443fcf6f-538c-54c7-7f21-4e7117b01af5",
+        "type": "message",
+        "text": "Renewal risk: Tidewater Suites Group unhappy with mobile app",
+        "user": "U2CKCF24AEA",
+        "ts": "1596148450.009678",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec0c6d17-bcc0-b7c6-72b3-4244e330cb51",
+        "type": "message",
+        "text": "Lakeshore Retail Group Co. reporting sync failures since this morning, CSM is Joyce Okonkwo-Hale",
+        "user": "UR3LDWKU006",
+        "ts": "1596157022.411202",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

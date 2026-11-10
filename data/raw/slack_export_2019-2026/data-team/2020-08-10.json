@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "83c782c1-c9bf-e998-320a-eebfbef58352",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U0E67MPWRXA",
+        "ts": "1597064859.678319",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "437088d9-4ce5-c101-b7a1-23c8e5364099",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "U9U3DZUVA3L",
+        "ts": "1597075130.414740",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9U3DZUVA3L",
+            "ts": "1597075801.367975"
+        }
+    },
+    {
+        "client_msg_id": "8b4505d6-2507-d083-5e73-82534a7a12a6",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1597082257.889768",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d56d71b6-db41-7f0b-acaf-23979ec74c27",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "U5DYUQUF95P",
+        "ts": "1597095601.336194",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e54bbb1a-6706-b607-7bb8-2585817a4a47",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UG4ETD69L1D",
+        "ts": "1597103492.189086",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3925c5a0-fd9a-1a6d-ff53-607aafad7703",
+        "type": "message",
+        "text": "<@UNCGDMQATC5> Can I get ARR by region for the board?",
+        "user": "U8TVGALMJLQ",
+        "ts": "1597107242.541710",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "7d396680-cc12-796a-7231-9e840d6b50bb",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1645036093.080399",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0cdd2a96-1022-2f13-f5da-cc9d23e7475d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1645039289.269346",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3720697-745e-e0e3-077c-d50f3dfa9d5b",
+        "type": "message",
+        "text": "Scott Clinics Ltd. paid by wire, applying now",
+        "user": "U0VB9M5U3TM",
+        "ts": "1645040257.414198",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0VB9M5U3TM",
+            "ts": "1645048010.386111"
+        }
+    },
+    {
+        "client_msg_id": "529f94c1-e912-6299-b852-1c15cbacab15",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U69WX6HRQNH",
+        "ts": "1645053676.776124",
+        "team": "T02BRNDLCV"
+    }
+]

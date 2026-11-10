@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "bcf1be2d-05c7-b2a4-4c32-e1cb81a39237",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> AR aging is up, Tamarack Property Group Ltd. is 90+ days",
+        "user": "U7PFYH0YRRG",
+        "ts": "1666965112.585334",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d66ab574-3e0c-9a59-2e02-d4bb94a2f7f3",
+        "type": "message",
+        "text": "<@UTLU2ZXMLEL> FX rates loaded for Oct 2022",
+        "user": "U0V9BPHARQX",
+        "ts": "1666970254.611345",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "572e794e-2065-8f57-8b55-263151f4326d",
+        "type": "message",
+        "text": "AR aging is up, Bayou Supply Co Co. is 90+ days",
+        "user": "UAGQX7APZBG",
+        "ts": "1666970492.070224",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UAGQX7APZBG",
+            "ts": "1666987486.952818"
+        }
+    },
+    {
+        "client_msg_id": "17fbc237-a672-b520-1aa5-8c8fac0dcc60",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UMXMN24FN4K",
+        "ts": "1666973729.873025",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b83a1839-7a02-b37b-cc6c-3ff2fc148eea",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1666979928.785171",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d73f3e3d-cbcf-c662-f134-5fe402b20b42",
+        "type": "message",
+        "text": "<@UYFL6320JLT> Month-end close starts tomorrow",
+        "user": "UV9KPNCPQJN",
+        "ts": "1667002107.043620",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cbc62923-e5af-9937-b55c-454e9eb4ad08",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UHV2RFNY0HN",
+        "ts": "1667002933.116571",
+        "team": "T02BRNDLCV"
+    }
+]

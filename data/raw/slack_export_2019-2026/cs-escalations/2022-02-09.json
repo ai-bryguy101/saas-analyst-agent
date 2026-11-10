@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "bbb8c5e9-479e-3a25-0443-b3948715219e",
+        "type": "message",
+        "text": "Perez Logistics Corp. asking for an SLA credit",
+        "user": "UJKZ2R47YW9",
+        "ts": "1644414493.147400",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "72b93c30-20b9-525c-2be6-c5e4000b4907",
+        "type": "message",
+        "text": "Osprey Stores Inc. reporting sync failures since this morning, CSM is Femi Adeyemi",
+        "user": "UT7K74ALYGQ",
+        "ts": "1644436165.124626",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e4738e77-8fb3-d59f-edf7-b0b2add12db9",
+        "type": "message",
+        "text": "Delacroix Mills LLC wants an exec call about the outage",
+        "user": "U5TERVWF7JH",
+        "ts": "1644445995.168793",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2adb8f7-ead1-00ac-10f1-bd72a609af06",
+        "type": "message",
+        "text": "Can someone check Collins Building Services Corp.'s invoice? They say they were double billed",
+        "user": "UXXA9L8HH83",
+        "ts": "1644447740.953226",
+        "team": "T02BRNDLCV"
+    }
+]

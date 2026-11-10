@@ -1,0 +1,28 @@
+[
+    {
+        "client_msg_id": "d9533295-f394-0b41-80b1-8619f270d250",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1738081664.585660",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#35657 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed37b736-97a1-532c-b151-ecb79959f63e",
+        "type": "message",
+        "text": "deploy v9.39.0 to prod :rocket:",
+        "user": "UHV2RFNY0HN",
+        "ts": "1738105095.055571",
+        "team": "T02BRNDLCV"
+    }
+]

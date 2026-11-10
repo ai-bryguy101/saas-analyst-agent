@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "1e27e5a6-3bd9-37dc-f72d-ca9efc09aa50",
+        "type": "message",
+        "text": "Welcome Renata Takahashi to the Executive team!",
+        "user": "UXETPKNK8MV",
+        "ts": "1664553139.296787",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df62c1a0-8b49-a6d7-5963-1eefeaa2bea6",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U2CKCF24AEA",
+        "ts": "1664553713.482846",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07d6c551-108e-a4dc-9a37-9bb5d07cee16",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UL20M69UM76",
+        "ts": "1664584595.893696",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

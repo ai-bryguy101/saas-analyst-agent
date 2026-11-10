@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "8e0b5764-ea22-6e00-c8f2-6f50acb736f6",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQTUT2GDN85",
+        "ts": "1621265165.507859",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UV9GDKGY32C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e118da9a-0742-5236-9da7-5b1f1cf8c33f",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UWU9WG7ECGY",
+        "ts": "1621266460.245578",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f4ff9902-441a-9b76-ef3d-93f207549c77",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1621267174.049605",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "6199aa25-c596-53ea-a5f0-5eff37789ec3",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U3KL08VJD8C",
+        "ts": "1621274749.541451",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ebb0db4b-8d6f-25f0-0cf5-c1dbf4ea8445",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UA3MVBJWAHX",
+        "ts": "1621294243.167814",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7d036a13-fe29-96b5-40ef-a9a384ba1105",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UDCALCM1RUG",
+        "ts": "1621294425.808654",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abb2fa1e-a004-d91d-17cb-5987a37686fa",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UL20M69UM76",
+        "ts": "1621295976.819225",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f7d22803-c300-fa10-afe8-d6da94ee9b0d",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U5DYUQUF95P",
+        "ts": "1621296834.267017",
+        "team": "T02BRNDLCV"
+    }
+]

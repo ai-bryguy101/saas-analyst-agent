@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "904e634f-f85a-5712-47fc-6b69c4aa0fd9",
+        "type": "message",
+        "text": "Tanaka Unified Schools wants an exec call about the outage",
+        "user": "USW7BR7KTST",
+        "ts": "1766499772.624026",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eb04a4eb-51ad-16a4-085a-8c7da0dac387",
+        "type": "message",
+        "text": "Can someone check Delacroix Mills LLC's invoice? They say they were double billed",
+        "user": "UNKFW783RHY",
+        "ts": "1766504391.699575",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2279eb5-847a-b115-be25-c4ea90dd94de",
+        "type": "message",
+        "text": "Phillips Health Partners reporting sync failures since this morning, CSM is Priya Raghunathan",
+        "user": "UX84HDPARWN",
+        "ts": "1766510406.949044",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "159f200a-824d-5d29-2f45-a381a4e34520",
+        "type": "message",
+        "text": "McCarthy University Facilities wants an exec call about the outage",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1766513259.959521",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "705fef53-14e3-56aa-3aa8-ec3f24d26b5d",
+        "type": "message",
+        "text": "Flores Health Partners asking for an SLA credit",
+        "user": "UYR8E48FJ62",
+        "ts": "1766520633.689899",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0aa960db-c34a-dc63-97b7-6ffdf8df5c46",
+        "type": "message",
+        "text": "Heron Resorts Ltd. reporting sync failures since this morning, CSM is Samantha Baker",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1766521263.745785",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1766509508.691077"
+        }
+    },
+    {
+        "client_msg_id": "835c14fd-4362-f58a-328a-c6d9869313d0",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Renewal risk: Willow Realty Management unhappy with mobile app",
+        "user": "USW7BR7KTST",
+        "ts": "1766529513.463230",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee584f8b-84a9-68b0-0285-3c9a9e516c5b",
+        "type": "message",
+        "text": "Can someone check Rogers Construction Co.'s invoice? They say they were double billed",
+        "user": "UGPRJ4K947R",
+        "ts": "1766531789.563373",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UGPRJ4K947R",
+            "ts": "1766515509.050899"
+        }
+    },
+    {
+        "client_msg_id": "f85768ed-e22d-cd2c-3f35-75e05feb5ad5",
+        "type": "message",
+        "text": "<@U22GUF0P303> Wexford Inns wants an exec call about the outage",
+        "user": "UQTUT2GDN85",
+        "ts": "1766533549.011273",
+        "team": "T02BRNDLCV"
+    }
+]

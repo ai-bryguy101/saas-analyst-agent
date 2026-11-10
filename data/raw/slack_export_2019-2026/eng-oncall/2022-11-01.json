@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "f5f732f4-ad41-6d4e-3cd7-3dbd2d06853b",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UH9DL28T3MH",
+        "ts": "1667327364.117113",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6625ee5f-cf02-0c94-f997-e90e3f96e5d0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1667337773.171095",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#79694 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

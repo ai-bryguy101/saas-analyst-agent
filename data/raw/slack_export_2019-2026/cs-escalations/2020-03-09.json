@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "6933ee07-4678-1c0b-d6cc-a44993de449a",
+        "type": "message",
+        "text": "Tidewater Works LLC wants an exec call about the outage",
+        "user": "UAGQX7APZBG",
+        "ts": "1583772051.413186",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c68d3041-c207-1337-cabe-069d4991ecfb",
+        "type": "message",
+        "text": "Northgate Builders LLC wants an exec call about the outage",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1583777101.507766",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5c97e09-9293-f661-d40e-d274fdfb2c1e",
+        "type": "message",
+        "text": "Gonzalez Janitorial Holdings reporting sync failures since this morning, CSM is Etienne Gagnon",
+        "user": "U3YU9TS6QYB",
+        "ts": "1583796852.522536",
+        "team": "T02BRNDLCV"
+    }
+]

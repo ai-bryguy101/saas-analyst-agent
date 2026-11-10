@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "582f4cfa-f806-3ed8-ae2d-0f57f6f8c5b6",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UQXT5A6YMVH",
+        "ts": "1604670898.559386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86612ca5-8e46-7b77-8ce7-34827e6cf4e9",
+        "type": "message",
+        "text": "AR aging is up, Southport University Facilities Ltd. is 90+ days",
+        "user": "UE4GTX0EXPH",
+        "ts": "1604671936.950654",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "79a76524-25e4-0731-0845-9f9c95b89c9f",
+        "type": "message",
+        "text": "AR aging is up, Crescent Janitorial is 90+ days",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1604681159.399981",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1f8dbf75-d2d1-f211-1ca5-b7024c7e7fb6",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UR12Y3AZNKK",
+        "ts": "1604688435.447414",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d87697e2-f21a-fce1-8035-91c749859dc9",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Month-end close starts tomorrow",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1604689084.096774",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "59d8fac4-543a-f554-c5ba-b45c4d87feb1",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2020",
+        "user": "UMXMN24FN4K",
+        "ts": "1604689359.243087",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f584a779-7083-a9e1-fc93-6161df7f81db",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UB8UH2KX2NW",
+        "ts": "1604689762.261280",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42bbc1a6-d0c3-341a-a875-a17256cccb24",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1604691637.987742",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70c8a9cf-5fba-c5e6-845b-9a522df40973",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U09CZFTHQSS",
+        "ts": "1604691851.545656",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ddc377b1-1efe-821a-a628-2bf67a3c6d88",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UB8UH2KX2NW",
+        "ts": "1604702125.100128",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f88ffe37-f849-dab1-c810-8cc185d29f96",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1604702203.898462",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "221fbc61-2c7c-231f-03b0-6225333d8684",
+        "type": "message",
+        "text": "<@U7PFYH0YRRG> Month-end close starts tomorrow",
+        "user": "UE4GTX0EXPH",
+        "ts": "1604706607.986739",
+        "team": "T02BRNDLCV"
+    }
+]

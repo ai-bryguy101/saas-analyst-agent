@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "a8254559-ffd5-19af-056b-1978c5e426da",
+        "type": "message",
+        "text": "Scioto Outfitters wants an exec call about the outage",
+        "user": "U48TCJE75PD",
+        "ts": "1743776774.339933",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0b20c745-87e3-abc8-1648-39748a38f9cf",
+        "type": "message",
+        "text": "Can someone check Martinez Realty Management's invoice? They say they were double billed",
+        "user": "UL20M69UM76",
+        "ts": "1743777602.838842",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "812d1e31-e732-3841-e437-4bba465976bd",
+        "type": "message",
+        "text": "<@UYR8E48FJ62> Bailey Restoration LLC wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1743785256.732405",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e276fe9c-7757-5a38-feab-75188b2ee262",
+        "type": "message",
+        "text": "McCarthy College Ltd. asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1743787464.081536",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c01a824a-ac42-1f03-4cd0-828cce7d1e8b",
+        "type": "message",
+        "text": "Renewal risk: Commonwealth Resorts Ltd. unhappy with mobile app",
+        "user": "U5X9PNA34DU",
+        "ts": "1743793455.114575",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96e67db8-a5cb-94b6-cd78-ffa5a04c743f",
+        "type": "message",
+        "text": "Saguaro Property Services Corp. reporting sync failures since this morning, CSM is Genevieve Sanders",
+        "user": "UHV2RFNY0HN",
+        "ts": "1743794934.343420",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d1f8bb98-22eb-2295-0743-2c1e4c1232ad",
+        "type": "message",
+        "text": "Fairhaven Distribution asking for an SLA credit",
+        "user": "UNFVCYNZT6K",
+        "ts": "1743799665.864206",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UNFVCYNZT6K",
+            "ts": "1743780861.615244"
+        }
+    },
+    {
+        "client_msg_id": "1e209264-a5f1-8795-59e4-6c59d9f1ac1b",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> Wabash Township asking for an SLA credit",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1743800956.406583",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19f2ad9e-80a1-6fb9-a6b4-b8bac47ca9ac",
+        "type": "message",
+        "text": "Hughes Maintenance Co asking for an SLA credit",
+        "user": "UB8UH2KX2NW",
+        "ts": "1743802785.289463",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0da2d09-9c94-7a8b-9be1-fa2a0fcc42b7",
+        "type": "message",
+        "text": "Union Mechanical Corp. reporting sync failures since this morning, CSM is Abigail Fenwick",
+        "user": "UFNKJQT8PV1",
+        "ts": "1743803501.846752",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFNKJQT8PV1",
+            "ts": "1743812447.792236"
+        }
+    },
+    {
+        "client_msg_id": "058c78f2-2de6-b1bb-8a66-414222bc698a",
+        "type": "message",
+        "text": "Watson Property Group Corp. reporting sync failures since this morning, CSM is Lars Roberts",
+        "user": "UNKFW783RHY",
+        "ts": "1743807297.877291",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6020bdf0-d6d0-83d6-6afb-290e19e876ce",
+        "type": "message",
+        "text": "Copperfield Fabrication Inc. asking for an SLA credit",
+        "user": "U3YU9TS6QYB",
+        "ts": "1743807307.763231",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "709de125-0347-cbbd-98e2-9b44af8f4aa7",
+        "type": "message",
+        "text": "Renewal risk: Bluewater College LLC unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1743807463.087992",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a54bfe24-9251-6b11-4ee6-67ac06151128",
+        "type": "message",
+        "text": "Renewal risk: Saginaw Facilities Management unhappy with mobile app",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1743808702.429295",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c8694ed-57f3-8f50-9ce5-3e0c479eb9e1",
+        "type": "message",
+        "text": "Keystone Industries reporting sync failures since this morning, CSM is Robert Gomez",
+        "user": "UHV2RFNY0HN",
+        "ts": "1743809193.518105",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

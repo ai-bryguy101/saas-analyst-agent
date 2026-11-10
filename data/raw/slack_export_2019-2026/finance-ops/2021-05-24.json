@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "bf1a6836-fd64-f952-e12b-7a2d647a4215",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1621871528.216120",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "759089ca-b688-8fdd-2dc7-ff10e8eef770",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1621897611.921276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6fe1408c-c401-e463-e804-eef28aaa36c1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U5TERVWF7JH",
+        "ts": "1621898554.336882",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84ffcf21-21be-942f-8208-9f4adf9b86de",
+        "type": "message",
+        "text": "Jessop Facilities Management Group paid by wire, applying now",
+        "user": "UUFS9CP1A17",
+        "ts": "1621900758.412386",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

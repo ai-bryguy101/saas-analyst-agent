@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "591afba7-4ac8-dd9b-0848-6cdc0ed13f70",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UT9KGXWKHLB",
+        "ts": "1731677858.607211",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "11c14983-4a67-8de4-8fe7-13853b90cdaa",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "U48TCJE75PD",
+        "ts": "1731678080.291234",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83ef6a45-5ce2-839f-e77b-eb48b12d7f4d",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UPHFQAHDPSK",
+        "ts": "1731696225.370163",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e81000c9-90b7-fa20-690f-2cb7cbd7a2f1",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "UV9KPNCPQJN",
+        "ts": "1731702133.784915",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UV9KPNCPQJN",
+            "ts": "1731712479.876521"
+        }
+    },
+    {
+        "client_msg_id": "1c9a1215-de82-a99f-efe6-2112f513d22c",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> Can I get ARR by region for the board?",
+        "user": "U9V01K22TU1",
+        "ts": "1731703122.855045",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "41a5fa1e-a230-6df0-2367-4085fed8c11f",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "UE49ET7WGNU",
+        "ts": "1731704417.309989",
+        "team": "T02BRNDLCV"
+    }
+]

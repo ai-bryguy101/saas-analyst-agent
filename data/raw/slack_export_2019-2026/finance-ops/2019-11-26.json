@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "85c6b1d9-a0e2-36a6-d7e7-46e6e8c9c2cc",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UCQT1GS0C0C",
+        "ts": "1574773744.303612",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7476ffb-3276-a253-6602-fef07fe485c6",
+        "type": "message",
+        "text": "<@U9U3DZUVA3L> Month-end close starts tomorrow",
+        "user": "UJQ9E01DWPS",
+        "ts": "1574775209.190767",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJQ9E01DWPS",
+            "ts": "1574792208.499158"
+        }
+    },
+    {
+        "client_msg_id": "47be19a4-3068-fe84-cce6-5ddda8aaa5aa",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1574805721.794994",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "113f6463-2268-2d16-db87-6a4675ea7377",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UXXA9L8HH83",
+        "ts": "1574810592.637536",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

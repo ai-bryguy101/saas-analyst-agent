@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "4a1d42ef-6e9c-c75f-ed96-f15cf47e117d",
+        "type": "message",
+        "text": "Delacroix Transit Authority asking for an SLA credit",
+        "user": "UH9DL28T3MH",
+        "ts": "1696255206.545644",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d528fd37-57f3-5899-8178-b0699adf286a",
+        "type": "message",
+        "text": "Lee Residential asking for an SLA credit",
+        "user": "UDCALCM1RUG",
+        "ts": "1696269793.138900",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8b623e3-0545-becf-cafe-185b25f76275",
+        "type": "message",
+        "text": "Blackhawk Building Services Holdings asking for an SLA credit",
+        "user": "UXXA9L8HH83",
+        "ts": "1696273304.182967",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4f820417-e36a-c5fc-93ef-e4134610de9d",
+        "type": "message",
+        "text": "Saginaw Janitorial Inc. reporting sync failures since this morning, CSM is Joseph Reed",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1696283871.839564",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cf54773-eb5f-c966-3d00-eea3463e0940",
+        "type": "message",
+        "text": "Bluewater Suites Inc. wants an exec call about the outage",
+        "user": "U3EQ075NUYR",
+        "ts": "1696292843.879525",
+        "team": "T02BRNDLCV"
+    }
+]

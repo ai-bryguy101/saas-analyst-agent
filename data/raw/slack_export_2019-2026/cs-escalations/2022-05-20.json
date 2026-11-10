@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "172ab250-dd67-cc8b-0d55-39c38f0f7616",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Can someone check Mesa University Facilities Group's invoice? They say they were double billed",
+        "user": "UJQY3Q26RVW",
+        "ts": "1653052553.109449",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a196277f-d15d-6716-23e6-ad0d458d7341",
+        "type": "message",
+        "text": "Clearwater Health Partners reporting sync failures since this morning, CSM is Peter Pham",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1653057574.234734",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "13bced1b-68b8-e974-0e9d-a57493fe9285",
+        "type": "message",
+        "text": "Mendoza Janitorial asking for an SLA credit",
+        "user": "U7PFYH0YRRG",
+        "ts": "1653063691.308333",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "395938b2-4cbf-060d-1ad4-73d6d9c75eaa",
+        "type": "message",
+        "text": "Renewal risk: Ostrander Public Works Inc. unhappy with mobile app",
+        "user": "UMXMN24FN4K",
+        "ts": "1653092806.260317",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

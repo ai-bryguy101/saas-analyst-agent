@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "d592c1c0-3625-e711-26b1-a0e7fa969413",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> replica lag on db-03 again",
+        "user": "UWUGRQ83YYM",
+        "ts": "1760121206.876598",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a367a02-7c35-39dd-bd72-5e3455576c9c",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UR12Y3AZNKK",
+        "ts": "1760131855.994766",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "39dccfaa-dbdd-ca7b-0838-66576e4d51d0",
+        "type": "message",
+        "text": "<@UXS2WD4BYRN> replica lag on db-03 again",
+        "user": "U9SD2024Q7F",
+        "ts": "1760135959.058397",
+        "team": "T02BRNDLCV"
+    }
+]

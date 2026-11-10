@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "30004f56-3cb2-668a-6781-d83451954d98",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UJRKGMQPU2R",
+        "ts": "1596213441.231577",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b56ce2e4-8ac1-6e96-de93-9ea5aadbf228",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UG4ETD69L1D",
+        "ts": "1596214272.628896",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UG4ETD69L1D",
+            "ts": "1596212042.105663"
+        }
+    },
+    {
+        "client_msg_id": "aa7ffde2-8b27-5b5b-08f0-1b8a38eaa82b",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1596220338.773419",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "a803669f-1ec3-886b-de50-78d0a8df4db8",
+        "type": "message",
+        "text": "Watson Freight paid by wire, applying now",
+        "user": "UMYYLUTXG9R",
+        "ts": "1650287281.339938",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9c7b7ce0-2389-8961-e91b-4f5f7932214b",
+        "type": "message",
+        "text": "Rivers Manufacturing paid by wire, applying now",
+        "user": "UYR8E48FJ62",
+        "ts": "1650296896.563615",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "59dea51c-55bc-ab29-7d66-dc1383d6e287",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UC95B7VAFX0",
+        "ts": "1650301549.208964",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4f0a57b-02f7-edf8-4d91-c8083b88e96f",
+        "type": "message",
+        "text": "AR aging is up, Summit Warehousing LLC is 90+ days",
+        "user": "UWBW507RCA9",
+        "ts": "1650306522.160436",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93e80c25-75eb-d6da-05d9-5c89a0788280",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2022",
+        "user": "U48TCJE75PD",
+        "ts": "1650306890.478484",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b3cd62c5-a36b-d99a-cc20-5625b82bb0d6",
+        "type": "message",
+        "text": "<@UGPRJ4K947R> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1650309020.643748",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "facd29b4-b5b7-369b-7dc0-658f7ce189b1",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2022",
+        "user": "UYFL6320JLT",
+        "ts": "1650313899.239149",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "28b268e0-dda8-f1e3-2169-09de844a0868",
+        "type": "message",
+        "text": "AR aging is up, Saginaw Janitorial Inc. is 90+ days",
+        "user": "UL20M69UM76",
+        "ts": "1650323593.829668",
+        "team": "T02BRNDLCV"
+    }
+]

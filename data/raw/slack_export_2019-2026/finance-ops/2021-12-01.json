@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "97f1f7a2-36d9-9718-6e4b-2ca7e98b1636",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UP51TVUPQU5",
+        "ts": "1638366571.793352",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "45a7bc44-f7e6-9420-e717-a3e60d9b5f53",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U5DYUQUF95P",
+        "ts": "1638367317.463636",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0df4ffd2-71db-e6c6-191c-4f00245dca85",
+        "type": "message",
+        "text": "Garcia Contracting LLC paid by wire, applying now",
+        "user": "U7V33ZEGRET",
+        "ts": "1638369315.833018",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "701da981-d8ad-e52f-8fa6-3c8355d521af",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2021",
+        "user": "UNCGDMQATC5",
+        "ts": "1638372236.650303",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4346a4db-57b8-e698-0add-5f4340fada5e",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U0VB9M5U3TM",
+        "ts": "1638375414.342691",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0VB9M5U3TM",
+            "ts": "1638375020.282588"
+        }
+    },
+    {
+        "client_msg_id": "d1187e95-356e-578d-5948-36a14873dbe6",
+        "type": "message",
+        "text": "AR aging is up, Bouchard Manufacturing Group is 90+ days",
+        "user": "U9V01K22TU1",
+        "ts": "1638377209.141724",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dbbed0fb-e5bf-aa02-0034-e33355b5ab4f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UV8WG09HYBP",
+        "ts": "1638381421.854229",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6caf0f5f-62ed-50c9-ac25-d586607d87c5",
+        "type": "message",
+        "text": "AR aging is up, Tamarack Facilities Management Inc. is 90+ days",
+        "user": "UUFS9CP1A17",
+        "ts": "1638389580.535673",
+        "team": "T02BRNDLCV"
+    }
+]

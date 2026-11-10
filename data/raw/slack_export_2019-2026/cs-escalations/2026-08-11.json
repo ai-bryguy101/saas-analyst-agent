@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "42aeb15c-1dfd-f96c-b179-c39269164331",
+        "type": "message",
+        "text": "Tri-County Industries Holdings wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1786455231.368050",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14c5f7fe-7bf7-6293-aa4e-e8669d111fbd",
+        "type": "message",
+        "text": "Cox Property Services LLC reporting sync failures since this morning, CSM is Patricia Reed",
+        "user": "UQK194B1V43",
+        "ts": "1786464514.210473",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0c67663-4ab3-6d55-39c1-860dc510067f",
+        "type": "message",
+        "text": "Can someone check Gray Inns's invoice? They say they were double billed",
+        "user": "UPHFQAHDPSK",
+        "ts": "1786469969.977938",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UDDBYSY4RFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2497f142-9956-6669-d328-bb1cea66617f",
+        "type": "message",
+        "text": "Beacon Unified Schools Group reporting sync failures since this morning, CSM is Ngozi Jones",
+        "user": "U2LMMLL4F31",
+        "ts": "1786471470.875991",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a731a82-e4ae-a1d0-efac-520a1abf38db",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> Renewal risk: Patriot Hotels unhappy with mobile app",
+        "user": "UL8NMQFXPJR",
+        "ts": "1786471919.332305",
+        "team": "T02BRNDLCV"
+    }
+]

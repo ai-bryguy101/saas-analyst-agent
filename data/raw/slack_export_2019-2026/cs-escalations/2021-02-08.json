@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "17cab4e8-dc64-57a2-e94e-f4728b69fed5",
+        "type": "message",
+        "text": "Bayou Building Services wants an exec call about the outage",
+        "user": "UUFS9CP1A17",
+        "ts": "1612794979.288701",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a57807f-5f37-6b99-2001-420677582d42",
+        "type": "message",
+        "text": "Tamarack Manufacturing Corp. reporting sync failures since this morning, CSM is Joyce Okonkwo-Hale",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1612804544.238317",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fcadc929-db5d-5d65-0c5d-0a269faf5554",
+        "type": "message",
+        "text": "Can someone check Marrow Markets Corp.'s invoice? They say they were double billed",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1612812709.551559",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "519d22ae-2b4a-66b9-dfc2-fdbd4dfcd2b4",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Tanaka Property Group Corp. reporting sync failures since this morning, CSM is Margaret Roberts",
+        "user": "UQXT5A6YMVH",
+        "ts": "1612816644.104244",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9645e568-cc25-9f70-029b-634640da7a4d",
+        "type": "message",
+        "text": "Can someone check Redstone Retail Group Co.'s invoice? They say they were double billed",
+        "user": "UH9DL28T3MH",
+        "ts": "1612824369.647097",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "88a17b2e-32b7-bcf0-5901-3574e9ef2837",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Renewal risk: Yamamoto Medical Center Corp. unhappy with mobile app",
+        "user": "UG4ETD69L1D",
+        "ts": "1612825734.290243",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a2c4d317-c2fb-5ade-d94c-4804b3ddb838",
+        "type": "message",
+        "text": "Can someone check Sycamore Manufacturing Corp.'s invoice? They say they were double billed",
+        "user": "U09CZFTHQSS",
+        "ts": "1612831996.687883",
+        "team": "T02BRNDLCV"
+    }
+]

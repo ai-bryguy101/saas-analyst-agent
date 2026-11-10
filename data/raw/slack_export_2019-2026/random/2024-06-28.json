@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "251e56c2-c32f-44f5-7e3a-f0c5272e4ba3",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UAXWVBRVKW9",
+        "ts": "1719580647.373885",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b09ab5e-d1be-7b9f-b006-2d65a0caf091",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UXS2WD4BYRN",
+        "ts": "1719595271.918376",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fca1f355-bf80-ed1b-3bb1-45374a701da2",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UZJU9N8CY2T",
+        "ts": "1719604822.365184",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UZJU9N8CY2T",
+            "ts": "1719610841.762140"
+        }
+    },
+    {
+        "client_msg_id": "cccc91f9-7ee3-aaa3-43ee-b7f9db6ef676",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1719614948.894018",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

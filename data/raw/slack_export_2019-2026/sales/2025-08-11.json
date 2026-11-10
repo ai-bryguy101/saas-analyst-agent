@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "fb4b740d-e536-8ff7-43a9-14e1a894cb2d",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "U0E67MPWRXA",
+        "ts": "1754924933.981771",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7775a6bd-4db0-9eeb-8ea2-710393574591",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Pipeline review moved to 3pm",
+        "user": "UMXMN24FN4K",
+        "ts": "1754934814.295195",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5214a6bc-2061-114d-57a2-2697e0a302fe",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> O'Brien Clinics wants a discount, how far can I go?",
+        "user": "UC95B7VAFX0",
+        "ts": "1754957212.556883",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

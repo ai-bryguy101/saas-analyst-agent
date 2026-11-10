@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "ea3096e4-9877-7d8f-5434-f94eb72b98cf",
+        "type": "message",
+        "text": "Can someone check Quarry Works's invoice? They say they were double billed",
+        "user": "UR12Y3AZNKK",
+        "ts": "1648040789.186632",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33da5d8b-7d86-e075-cb61-3218a4c45b76",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Ramirez University Facilities Co. asking for an SLA credit",
+        "user": "UFNKJQT8PV1",
+        "ts": "1648053155.045851",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0fa93e2-3d49-3e95-6440-7b1a98aff20f",
+        "type": "message",
+        "text": "Pueblo Properties Ltd. wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1648057570.823855",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c3fca73f-69eb-ffed-f3d0-37480baad7ef",
+        "type": "message",
+        "text": "Cornerstone Resorts Inc. asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1648066132.383198",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3da4df5b-ca4a-ebb2-e329-3396a0f5a0e8",
+        "type": "message",
+        "text": "Bluewater Retail Group Group reporting sync failures since this morning, CSM is Margaret Okonkwo-Hale",
+        "user": "UHV2RFNY0HN",
+        "ts": "1648076605.852859",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7febb923-d16c-219a-305c-dc4e08fbbb65",
+        "type": "message",
+        "text": "Ward University Facilities asking for an SLA credit",
+        "user": "URWNWW8QFM6",
+        "ts": "1648078471.696651",
+        "team": "T02BRNDLCV"
+    }
+]

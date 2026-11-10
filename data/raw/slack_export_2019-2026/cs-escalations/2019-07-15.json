@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "e16f9eb1-8db7-f6b9-8197-f4940515cc3f",
+        "type": "message",
+        "text": "Ellsworth Medical Center reporting sync failures since this morning, CSM is Patricia Reed",
+        "user": "U22GUF0P303",
+        "ts": "1563198001.605209",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5cc1e2ad-f09e-1d98-a4b4-72b6c79f6424",
+        "type": "message",
+        "text": "Mitchell Mechanical Group asking for an SLA credit",
+        "user": "UFJUKVTAA1B",
+        "ts": "1563203954.901836",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8812b54c-b2f7-5e82-4a1a-27ab89bbcc7f",
+        "type": "message",
+        "text": "Can someone check Osprey School District Group's invoice? They say they were double billed",
+        "user": "UKMQNTKUR4V",
+        "ts": "1563206295.109197",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ef077acd-6a36-21d9-ce78-ea4c09f0de1c",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> Morgan Unified Schools Corp. reporting sync failures since this morning, CSM is Amara Brown",
+        "user": "UGUNVSC71NZ",
+        "ts": "1563207135.311700",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0ad16ac-5271-e5b7-1b26-a660a8c9fb42",
+        "type": "message",
+        "text": "Renewal risk: Allen School District unhappy with mobile app",
+        "user": "U3YU9TS6QYB",
+        "ts": "1563230426.370345",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "client_msg_id": "782a378f-f6c4-c634-8cae-5212f0bd371f",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1730226037.054737",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "db1b9ef0-ea21-eb5b-4d1e-a1ffe91e5759",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1730236795.256645",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    }
+]

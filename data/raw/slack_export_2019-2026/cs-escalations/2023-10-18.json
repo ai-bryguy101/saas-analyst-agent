@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "db502433-cf43-9fb7-b336-c07f5c84993a",
+        "type": "message",
+        "text": "Ashford Supply Co asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1697646937.833085",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b277c06a-8950-4919-58d0-ecbf55d1c017",
+        "type": "message",
+        "text": "Gatehouse Residential Ltd. reporting sync failures since this morning, CSM is Desmond McCarthy",
+        "user": "UB8UH2KX2NW",
+        "ts": "1697657874.114102",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

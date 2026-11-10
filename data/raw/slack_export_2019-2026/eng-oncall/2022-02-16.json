@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "f66a5160-cd63-43a5-c97c-2c9064102e31",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UGPRJ4K947R",
+        "ts": "1645022232.065915",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "271b9e93-616a-0b7a-c91b-d62fec6843d8",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U09CZFTHQSS",
+        "ts": "1645028105.520380",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "183ead9c-7b4a-7b91-c923-8d050e5ab7c4",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> replica lag on db-03 again",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1645035955.289354",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70773c55-193b-227f-baad-652f4a9c1bde",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UNCGDMQATC5",
+        "ts": "1645047726.989219",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a80671d-a42f-ce58-cf15-e267c6f24965",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1645053652.672423",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#89913 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

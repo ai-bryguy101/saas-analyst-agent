@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "a7a6d57f-52ef-5340-2f45-2990f98813d1",
+        "type": "message",
+        "text": "Hargreaves Distribution Holdings reporting sync failures since this morning, CSM is Vincent Dubois",
+        "user": "UQTUT2GDN85",
+        "ts": "1631651010.600586",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a945d4dc-fe46-d11c-c199-f8fcd786ef69",
+        "type": "message",
+        "text": "Can someone check Fitzgerald Suites Inc.'s invoice? They say they were double billed",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1631651839.697189",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b8f01f5-c256-a94b-48ba-2321707739b7",
+        "type": "message",
+        "text": "Patel School District asking for an SLA credit",
+        "user": "UZJU9N8CY2T",
+        "ts": "1631667451.316233",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -135,7 +135,7 @@ def write_text(path: Path, text: str, encoding: str = "utf-8", newline: str = "\
     path.parent.mkdir(parents=True, exist_ok=True)
     data = text.replace("\n", newline).encode(encoding, errors="replace")
     if bom:
-        data = b"\xef\xbb\xbf" + data
+        data = {"utf-16-le": b"\xff\xfe", "utf-16-be": b"\xfe\xff"}.get(encoding.lower(), b"\xef\xbb\xbf") + data
     path.write_bytes(data)
 
 
@@ -217,3 +217,47 @@ def normalize_office_files(root):
                 zi.compress_type = zipfile.ZIP_DEFLATED
                 zi.external_attr = 0o600 << 16
                 z.writestr(zi, items_by_name[i.filename])
+
+
+# --------------------------------------------------------------------------- archives (reproducible)
+def zip_bytes(entries, when=(2019, 10, 30, 17, 5, 0)) -> bytes:
+    """entries: list of (path_in_zip, bytes[, (y,m,d,H,M,S)]). Fixed timestamps, stable order."""
+    import zipfile
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as z:
+        for e in entries:
+            name, data = e[0], e[1]
+            zi = zipfile.ZipInfo(name, date_time=e[2] if len(e) > 2 else when)
+            zi.compress_type = zipfile.ZIP_DEFLATED
+            zi.external_attr = 0o644 << 16
+            z.writestr(zi, data)
+    return buf.getvalue()
+
+
+def targz_bytes(entries, mtime=FIXED_MTIME) -> bytes:
+    import tarfile
+    raw = io.BytesIO()
+    with tarfile.open(fileobj=raw, mode="w", format=tarfile.USTAR_FORMAT) as t:
+        for name, data in entries:
+            ti = tarfile.TarInfo(name)
+            ti.size, ti.mtime, ti.mode, ti.uname, ti.gname = len(data), mtime, 0o644, "www-data", "www-data"
+            t.addfile(ti, io.BytesIO(data))
+    out = io.BytesIO()
+    with gzip.GzipFile(filename="", mode="wb", fileobj=out, mtime=0) as g:
+        g.write(raw.getvalue())
+    return out.getvalue()
+
+
+def write_gz_bytes(path: Path, data: bytes):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    buf = io.BytesIO()
+    with gzip.GzipFile(filename="", mode="wb", fileobj=buf, mtime=0, compresslevel=6) as g:
+        g.write(data)
+    path.write_bytes(buf.getvalue())
+
+
+def add_fact(world, fact: dict):
+    """Round-2 modules plant their own golden facts here; golden.write_golden appends them."""
+    if not hasattr(world, "extra_facts"):
+        world.extra_facts = []
+    world.extra_facts = [f for f in world.extra_facts if f["id"] != fact["id"]] + [fact]

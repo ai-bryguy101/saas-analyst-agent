@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "17e76c14-a276-be55-d800-2cd58e77e052",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U3EQ075NUYR",
+        "ts": "1595000952.113987",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "58cf02ba-023d-225a-159d-ffe24d362a91",
+        "type": "message",
+        "text": "Welcome Marguerite Carter to the Executive team!",
+        "user": "UGPRJ4K947R",
+        "ts": "1595017315.027225",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1267130-9449-3f27-ef93-f59e01d44203",
+        "type": "message",
+        "text": "Welcome Femi Adeyemi to the Support team!",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1595024163.482945",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e463e22-dc59-0348-eb77-3314f4d28e3d",
+        "type": "message",
+        "text": "<@UR3LDWKU006> Benefits enrollment closes Friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1595025003.167895",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42b6be5f-8ac0-1f8d-1148-d612975fcf1d",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UT9KGXWKHLB",
+        "ts": "1595025589.352519",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6bc3af0f-b15c-da88-9755-3146bdd784e7",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1595026495.618162",
+        "team": "T02BRNDLCV"
+    }
+]

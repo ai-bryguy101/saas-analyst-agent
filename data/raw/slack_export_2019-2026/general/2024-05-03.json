@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0d03f398-f021-2f50-fea2-5d320b369bb7",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UJKZ2R47YW9",
+        "ts": "1714752862.049563",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a2bd2ee0-8dca-7461-5036-c09c47c5765a",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1714754601.217926",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c58f476-b019-2324-11b1-1499f911bdd7",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> Q2 kickoff deck is in the drive",
+        "user": "UNFVCYNZT6K",
+        "ts": "1714761984.131165",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "e3accc1a-ffd3-d430-bdb8-c1978c1cb125",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UX84HDPARWN",
+        "ts": "1614361475.545771",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a4cf178-b617-a9da-eabb-e25560f60d9b",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UXS2WD4BYRN",
+        "ts": "1614378644.356567",
+        "team": "T02BRNDLCV"
+    }
+]

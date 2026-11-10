@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "87463f2b-e498-ace0-7825-7b3dc45d710a",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1633439433.279511",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "54378192-d267-f621-8362-bf2c738aa15f",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UL20M69UM76",
+        "ts": "1633447019.918638",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aae91f8d-2547-1907-0a7c-dd42b38c8df1",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UQK194B1V43",
+        "ts": "1633454800.213584",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "952c97cc-86da-697a-9451-b7550e404d5e",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFJUKVTAA1B",
+        "ts": "1633455848.351982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05c75d28-31b9-9c15-d61f-a1556feb4457",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1633457895.015399",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "71573619-a2d3-b431-6275-e368df5cc506",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U5DYUQUF95P",
+        "ts": "1633472869.576565",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36043b2e-c47a-34db-f2a7-64b174861a35",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "U773RMBLF5X",
+        "ts": "1633473571.251511",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe0bc69b-79fa-6227-9f27-90497d6d7b36",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1633478916.456437",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e7a6986d-a903-3a0a-fe81-6dcaafc23fbc",
+        "type": "message",
+        "text": "<@U22GUF0P303> Can I get ARR by region for the board?",
+        "user": "UQK194B1V43",
+        "ts": "1633481001.971654",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "494394d7-a494-fcde-2caf-8c90c8af05e0",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UBHB6GTB73U",
+        "ts": "1633481624.543859",
+        "team": "T02BRNDLCV"
+    }
+]

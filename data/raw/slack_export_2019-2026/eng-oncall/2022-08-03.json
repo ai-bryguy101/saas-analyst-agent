@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "30d75e90-7187-7bf5-5222-a849ded0adb2",
+        "type": "message",
+        "text": "rolling back v9.4.2",
+        "user": "UQK194B1V43",
+        "ts": "1659533405.240503",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0aa31927-4dfa-fafb-b590-c5fd40f8f849",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UYR8E48FJ62",
+        "ts": "1659536634.252259",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ceab5d6-9d7e-9ab1-4ac5-15719c8ec965",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UJQY3Q26RVW",
+        "ts": "1659537443.454136",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c668dcc2-ac8a-08d7-7b5d-fea45b6756ae",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1659537677.978453",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#67847 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb6af04a-12ef-add7-6d16-c513e6920cf6",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1659540468.763517",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#58971 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7538eb9b-201c-8649-9ea8-afff9e580549",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U0E67MPWRXA",
+        "ts": "1659560151.177873",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fb483265-5114-c5f9-dd4e-2ec6bb50a225",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UJKZ2R47YW9",
+        "ts": "1659564944.103222",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a9d9bacd-29e6-8818-bc52-ebedc6f792c5",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UT7K74ALYGQ",
+        "ts": "1659567786.566326",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dc222914-c940-e561-8f37-74a4dd9a4f75",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXVNE61TTLN",
+        "ts": "1659568233.390233",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec9ad177-6c87-986a-234e-a7d7cf197af4",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFULM18ZBQ6",
+        "ts": "1659569374.267817",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bfb02c89-af78-65d4-c0f2-4a0e907de463",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3YU9TS6QYB",
+        "ts": "1659571305.527575",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68653473-de2e-9951-20dc-0d85a44fea3d",
+        "type": "message",
+        "text": "rolling back v9.5.5",
+        "user": "UUFS9CP1A17",
+        "ts": "1659574594.310026",
+        "team": "T02BRNDLCV"
+    }
+]

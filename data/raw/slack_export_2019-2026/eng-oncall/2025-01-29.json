@@ -1,0 +1,28 @@
+[
+    {
+        "client_msg_id": "693c32de-76dd-94fd-4c5f-3c4f6aa9c5d4",
+        "type": "message",
+        "text": "rolling back v5.25.8",
+        "user": "UT7K74ALYGQ",
+        "ts": "1738184336.352872",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ddae7435-845c-8109-218e-bd51e8ea06d7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1738198261.956554",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#20137 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

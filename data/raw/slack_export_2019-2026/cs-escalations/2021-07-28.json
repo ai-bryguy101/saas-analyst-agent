@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "3f92ce0e-b1de-4ece-bedd-c8e1431f9796",
+        "type": "message",
+        "text": "Renewal risk: Ironwood Health System Inc. unhappy with mobile app",
+        "user": "UXVNE61TTLN",
+        "ts": "1627479656.780456",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e98b3d77-0d4d-81e5-d641-cb09ea7b1160",
+        "type": "message",
+        "text": "Can someone check Moore Janitorial LLC's invoice? They say they were double billed",
+        "user": "UAXWVBRVKW9",
+        "ts": "1627492451.748343",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12bb1880-6c3e-bcad-d5a7-734b2bf0e1bc",
+        "type": "message",
+        "text": "Renewal risk: Harbortown County Facilities unhappy with mobile app",
+        "user": "UYFL6320JLT",
+        "ts": "1627499592.387123",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e02d161d-d96a-9adc-bb6a-e7c5ca9516e6",
+        "type": "message",
+        "text": "Renewal risk: Willow Health Partners LLC unhappy with mobile app",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1627510736.724332",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWLZTMJ6YM7",
+            "ts": "1627506189.047406"
+        }
+    },
+    {
+        "client_msg_id": "440068a3-f8e1-269b-b7cb-099449c3fb44",
+        "type": "message",
+        "text": "Thornbury Industries wants an exec call about the outage",
+        "user": "UPGXMWMDQNR",
+        "ts": "1627512807.303189",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "67315586-828d-1c22-4654-efea18c681c5",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UHV2RFNY0HN",
+        "ts": "1704300511.246230",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "589367bc-2e44-341f-9e2a-be41d15b3cc1",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> Dashboard refresh failed overnight",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1704304675.362070",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4956c79-c24b-70d5-a86b-6f128b63c622",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFULM18ZBQ6",
+        "ts": "1704315928.660310",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07a7dc99-e21b-20cc-255c-67383c1f5df9",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U5DYUQUF95P",
+        "ts": "1704316462.957165",
+        "team": "T02BRNDLCV"
+    }
+]

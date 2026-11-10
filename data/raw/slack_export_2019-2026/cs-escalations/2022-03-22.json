@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "109bf5cc-4bbe-5ac5-1bea-daf56f94c953",
+        "type": "message",
+        "text": "Great Mechanical Co. wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1647964006.996585",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7992bc7c-9e96-9f07-bd13-8a98241512b2",
+        "type": "message",
+        "text": "Ramos Logistics asking for an SLA credit",
+        "user": "UC95B7VAFX0",
+        "ts": "1647967348.794845",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e31ea159-c714-0c9f-f12a-671c67d1d241",
+        "type": "message",
+        "text": "Ostrander Couriers Group wants an exec call about the outage",
+        "user": "U9V01K22TU1",
+        "ts": "1647979154.021132",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec725996-1a96-9e6e-4b5c-49425c1acbbe",
+        "type": "message",
+        "text": "Tri-County Stores Ltd. asking for an SLA credit",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1647990802.877463",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55bd5224-7593-a5ff-2727-ab729956f159",
+        "type": "message",
+        "text": "Saguaro Academy asking for an SLA credit",
+        "user": "U69WX6HRQNH",
+        "ts": "1647991966.930550",
+        "team": "T02BRNDLCV"
+    }
+]

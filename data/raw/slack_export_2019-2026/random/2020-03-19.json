@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "bb5e3101-132a-9453-eb44-3ce96996a193",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U9Y2KF0S90E",
+        "ts": "1584644100.664213",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6dc7a9f2-824e-53d1-7283-e87acac0eebe",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1584648262.309260",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81324ab0-0c2b-597f-d516-70ed5cc255d0",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> happy friday",
+        "user": "UC95B7VAFX0",
+        "ts": "1584655518.949694",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1584663728.697817"
+        }
+    }
+]

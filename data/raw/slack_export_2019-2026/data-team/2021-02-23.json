@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "877fa6c6-f163-cca8-a85f-e226d1e85123",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1614091273.311792",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8a38695-4d9d-9bac-cda8-bb09ccdc61cb",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1614100356.771787",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "a815c26a-1038-8a46-a325-91c66b7f0a17",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U8SR98620D7",
+        "ts": "1614126584.854277",
+        "team": "T02BRNDLCV"
+    }
+]

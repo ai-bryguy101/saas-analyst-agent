@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "6fe166a7-a7e9-ac24-ce5f-c246cc4a5094",
+        "type": "message",
+        "text": "Marrow Freight asking for an SLA credit",
+        "user": "URFUZYLCAEC",
+        "ts": "1767275356.537914",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c0085284-f88d-8f6e-4113-f9e0c1356b89",
+        "type": "message",
+        "text": "<@U5X9PNA34DU> Can someone check Lopez Municipal Services Inc.'s invoice? They say they were double billed",
+        "user": "UYR8E48FJ62",
+        "ts": "1767277109.260916",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85fd71eb-a548-e87a-3648-730192fb9369",
+        "type": "message",
+        "text": "Keystone Industries reporting sync failures since this morning, CSM is Ryan Moore",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1767281842.695518",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "228e87de-9cb5-c9a5-c3b8-7e949d0d85b6",
+        "type": "message",
+        "text": "<@UFARBQM0LCD> Can someone check Bluewater Builders Inc.'s invoice? They say they were double billed",
+        "user": "U5X9PNA34DU",
+        "ts": "1767292978.962641",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14b8b954-7f45-969f-bcf5-668ac00d3985",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> Elmhurst Hotels reporting sync failures since this morning, CSM is Charlotte Park",
+        "user": "UMDHKXLV8RH",
+        "ts": "1767293074.769962",
+        "team": "T02BRNDLCV"
+    }
+]

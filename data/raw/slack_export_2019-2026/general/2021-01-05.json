@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "8aae9044-d13c-2ee3-df63-7661e871379a",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UQK194B1V43",
+        "ts": "1609856797.202847",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a684de3-a7be-9a56-6aec-66d9bfe56637",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U5X9PNA34DU",
+        "ts": "1609876382.627138",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U5X9PNA34DU",
+            "ts": "1609871393.529064"
+        }
+    }
+]

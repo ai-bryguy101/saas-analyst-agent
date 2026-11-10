@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "02461f5c-0be9-b6d4-9e35-b5cc0d01981f",
+        "type": "message",
+        "text": "<@U8SR98620D7> Events schema changed again (tenant_id vs account_id)",
+        "user": "UE4GTX0EXPH",
+        "ts": "1611673562.818202",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "097cd9fe-afe1-8278-2d3b-18dcee77f7e1",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UCQT1GS0C0C",
+        "ts": "1611677816.604997",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd4e1414-777d-a819-cb46-57907e83ff2b",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UV9KPNCPQJN",
+        "ts": "1611678511.400546",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e6cca2ee-1c77-1c64-be74-00cf7181ef95",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UCQT1GS0C0C",
+        "ts": "1611699974.219453",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5TERVWF7JH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7aaea96f-64cc-6e97-a738-90bbe7943225",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1611702114.802844",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

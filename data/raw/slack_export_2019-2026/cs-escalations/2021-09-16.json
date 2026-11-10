@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "4e12dfbd-b7f5-2eae-89a0-96d467a5eaa7",
+        "type": "message",
+        "text": "Highland Facilities Management Inc. reporting sync failures since this morning, CSM is Kathleen Martinez",
+        "user": "U9V01K22TU1",
+        "ts": "1631802306.501950",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83137755-5808-9cdc-8320-60838f3dc65e",
+        "type": "message",
+        "text": "Can someone check Huron Supply Co Holdings's invoice? They say they were double billed",
+        "user": "URWNWW8QFM6",
+        "ts": "1631803875.536164",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "URWNWW8QFM6",
+            "ts": "1631797877.086232"
+        }
+    },
+    {
+        "client_msg_id": "01142491-371b-f7a4-e66b-0352e01ea3f8",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> Renewal risk: Three Couriers unhappy with mobile app",
+        "user": "UZACKQ1VXCH",
+        "ts": "1631806670.503511",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "29d44de0-4ba5-4682-6cc4-f48102105bfa",
+        "type": "message",
+        "text": "Renewal risk: Erie Logistics Co. unhappy with mobile app",
+        "user": "U5TERVWF7JH",
+        "ts": "1631810487.714846",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fe9aaa33-1c76-c29b-97b9-84129402b005",
+        "type": "message",
+        "text": "Wexford School District Co. asking for an SLA credit",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1631810567.370283",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "00f9195d-0255-dd01-8b6c-7a28fd4ffb9c",
+        "type": "message",
+        "text": "Yarrow Couriers Holdings asking for an SLA credit",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1631822042.452651",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c91393d8-0d45-59ef-edf4-cc4467a8dbb1",
+        "type": "message",
+        "text": "Osprey Township Corp. wants an exec call about the outage",
+        "user": "UT9KGXWKHLB",
+        "ts": "1631840083.979813",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "da5594a6-d065-fde1-639f-76e5f384d6e8",
+        "type": "message",
+        "text": "Can someone check Ozark Public Works Ltd.'s invoice? They say they were double billed",
+        "user": "UXXA9L8HH83",
+        "ts": "1589979789.867601",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7247b610-70c1-0701-1f20-58cdf99cb130",
+        "type": "message",
+        "text": "Can someone check Wang Township Group's invoice? They say they were double billed",
+        "user": "URFUZYLCAEC",
+        "ts": "1589988728.948469",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "URFUZYLCAEC",
+            "ts": "1589988267.477960"
+        }
+    },
+    {
+        "client_msg_id": "53555f98-1c68-91f5-327f-a4d7b5f86d56",
+        "type": "message",
+        "text": "Saguaro Medical Center reporting sync failures since this morning, CSM is Pamela Gray",
+        "user": "UBK8V2J099L",
+        "ts": "1590001626.620139",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a29f7afe-6d06-6baa-8153-2863491eb244",
+        "type": "message",
+        "text": "Renewal risk: Cedar Maintenance Co unhappy with mobile app",
+        "user": "UX84HDPARWN",
+        "ts": "1590007791.441592",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83420cab-2ce2-e9d5-926e-4e3a9383ebdd",
+        "type": "message",
+        "text": "Osprey Supply Co wants an exec call about the outage",
+        "user": "UT9KGXWKHLB",
+        "ts": "1590009438.755691",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fab06c8f-4b31-8d1e-17ca-1e91cd41ef82",
+        "type": "message",
+        "text": "Crescent School District asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1590010528.535681",
+        "team": "T02BRNDLCV"
+    }
+]

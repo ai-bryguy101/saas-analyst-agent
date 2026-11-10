@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "43088c8d-c3f6-40e4-72f6-4dbf830833fe",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UAGQX7APZBG",
+        "ts": "1752693632.986267",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f614ab62-7fd0-867a-ddca-ec6209d1306a",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFJUKVTAA1B",
+        "ts": "1752700269.138867",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3a9619bb-bae4-fe7e-ed5c-07ac4ddca006",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UAGQX7APZBG",
+        "ts": "1752703453.119473",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aecb56e-23e4-2ad8-062c-da2468bbc1d6",
+        "type": "message",
+        "text": "Need churn list for 2024",
+        "user": "UQK194B1V43",
+        "ts": "1752709330.757662",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

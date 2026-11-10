@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "6c130272-8bc6-f5d7-5ad0-ac1fe1abd169",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1766502328.630283",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c6536b5-1fbe-2f79-f4db-89a30be05289",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQXT5A6YMVH",
+        "ts": "1766511930.789074",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd8c0bec-56a8-d5bc-ed47-04d3ad954fde",
+        "type": "message",
+        "text": "Lost Copperfield Hospital Ltd. to Plinthwise on price",
+        "user": "U9SD2024Q7F",
+        "ts": "1766521806.348227",
+        "team": "T02BRNDLCV"
+    }
+]

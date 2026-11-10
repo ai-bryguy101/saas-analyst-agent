@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "01e05c34-79d0-1ecc-7d8d-ccae6c2c81e8",
+        "type": "message",
+        "text": "rolling back v6.27.5",
+        "user": "UKMQNTKUR4V",
+        "ts": "1607434163.056517",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da002ca9-bbbe-fcb3-cc1e-d14241399102",
+        "type": "message",
+        "text": "deploy v7.15.8 to prod :rocket:",
+        "user": "UFJUKVTAA1B",
+        "ts": "1607445839.107236",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c7a6c14d-1e20-7ac1-6f8c-e38e1601a35c",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1607467458.259158",
+        "team": "T02BRNDLCV"
+    }
+]

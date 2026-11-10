@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "93019964-3996-0e96-d650-b584811c04ca",
+        "type": "message",
+        "text": "Frontier Clinics wants an exec call about the outage",
+        "user": "UNCGDMQATC5",
+        "ts": "1645019447.652790",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0954ccc9-d27d-9768-1b1c-5869251dc0c7",
+        "type": "message",
+        "text": "Green Contracting LLC asking for an SLA credit",
+        "user": "UPGXMWMDQNR",
+        "ts": "1645021982.834833",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5d71efbf-3016-2d2b-8c0c-1a70097228bf",
+        "type": "message",
+        "text": "Tran Maintenance Co asking for an SLA credit",
+        "user": "UR12Y3AZNKK",
+        "ts": "1645023859.310594",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e2ce27d2-fd46-61f7-d297-8f6e562767eb",
+        "type": "message",
+        "text": "Summit Warehousing LLC reporting sync failures since this morning, CSM is Nicholas Tanaka",
+        "user": "UAHZYQG5URJ",
+        "ts": "1645025464.803941",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "61bc93a0-d809-b11a-06e3-68b4766a23ab",
+        "type": "message",
+        "text": "Wabash Inns Inc. reporting sync failures since this morning, CSM is Christina Fenwick",
+        "user": "UVQRW5SQSEL",
+        "ts": "1645026357.798674",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7be07f03-7565-ee8a-6201-d4be4de13c85",
+        "type": "message",
+        "text": "Renewal risk: Liberty Properties Group unhappy with mobile app",
+        "user": "UBHB6GTB73U",
+        "ts": "1645036213.641268",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1984193e-ad79-e564-fdc6-ad0d2d3d7eb0",
+        "type": "message",
+        "text": "Tillamook Homes Ltd. asking for an SLA credit",
+        "user": "UMXMN24FN4K",
+        "ts": "1645043568.839653",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b56502a0-3945-e072-7a40-7548ddbf927f",
+        "type": "message",
+        "text": "Can someone check Riverbend Couriers Group's invoice? They say they were double billed",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1645056473.076133",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "de580c25-bd2c-2793-2aa3-6505555c425b",
+        "type": "message",
+        "text": "Brookside Supply Co LLC asking for an SLA credit",
+        "user": "U3EQ075NUYR",
+        "ts": "1645057784.212316",
+        "team": "T02BRNDLCV"
+    }
+]

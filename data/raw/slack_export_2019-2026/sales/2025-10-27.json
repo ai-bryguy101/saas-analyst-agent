@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "d5a4bc82-fb00-2ae2-6f65-fc4dacb2f8b6",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UG4ETD69L1D",
+        "ts": "1761580281.035369",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c7f8ddb-578f-8171-c203-bf877b90d0af",
+        "type": "message",
+        "text": "Allegheny School District wants a discount, how far can I go?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1761587173.838136",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19a23bbd-222c-30a7-326f-634497a1bbe1",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "UNKFW783RHY",
+        "ts": "1761589492.054088",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "418afbce-1e28-bff1-f12e-5b7fc245f0e7",
+        "type": "message",
+        "text": "Lost Ravenwood Mills Group to Plinthwise on price",
+        "user": "UBHB6GTB73U",
+        "ts": "1761611281.485249",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6880b4aa-18ce-a1d9-8281-c892a9495060",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U3YU9TS6QYB",
+        "ts": "1660919472.485403",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "75dbd4bd-5075-1b0e-9fc3-6f9fec1182a7",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U773RMBLF5X",
+        "ts": "1660954938.181245",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

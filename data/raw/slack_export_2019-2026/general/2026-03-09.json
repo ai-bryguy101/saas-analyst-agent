@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "9c765f68-e2ca-af82-14c5-8881fbe45498",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Q1 kickoff deck is in the drive",
+        "user": "UR3LDWKU006",
+        "ts": "1773063995.936556",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40e1826a-8c4c-4137-6597-6c15f9835448",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U22GUF0P303",
+        "ts": "1773068309.694629",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d6eb32cf-7d60-0e29-00f7-cfa9e16e5fc3",
+        "type": "message",
+        "text": "Welcome Kathleen Martinez to the Executive team!",
+        "user": "UXETPKNK8MV",
+        "ts": "1773080641.783395",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "771b348d-a1e2-f594-d1c5-15998dc027eb",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UAGQX7APZBG",
+        "ts": "1773103440.313516",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "e8ffb793-e6b7-2247-5346-156bc8d011f7",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U0E67MPWRXA",
+        "ts": "1623680999.904890",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c2c8782-2b71-d475-5c34-e896eae83a9c",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UNFVCYNZT6K",
+        "ts": "1623684878.561623",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "162ea890-bc3a-7a02-713f-654c2f69ae39",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U773RMBLF5X",
+        "ts": "1623693730.767977",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b5f4d9e0-c4dd-dfa0-b4e4-5b8839bbb63d",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1623710753.939577",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "772192d5-410f-d324-f705-b461b099834a",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> the parking lot is flooded lol",
+        "user": "UFGLBSDS2XV",
+        "ts": "1623715021.077082",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a47b127d-e7d0-addd-532f-4c331051683b",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1623715209.281990",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4dc4bd67-e77b-8067-8319-e3fc2fc66d34",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UYFL6320JLT",
+        "ts": "1623717306.966997",
+        "team": "T02BRNDLCV"
+    }
+]

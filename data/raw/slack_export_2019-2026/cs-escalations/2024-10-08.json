@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "5464f2e8-2865-d7c3-8647-47bd916d0106",
+        "type": "message",
+        "text": "Redstone Mechanical asking for an SLA credit",
+        "user": "U9Y2KF0S90E",
+        "ts": "1728405963.128090",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e3f62ca2-c7cb-07d5-29d9-9d27d736985a",
+        "type": "message",
+        "text": "Cascade Industries Ltd. wants an exec call about the outage",
+        "user": "UJKZ2R47YW9",
+        "ts": "1728406058.757327",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d66d3ad-c907-dc66-c405-9be2e0eaa0b2",
+        "type": "message",
+        "text": "Can someone check O'Connor Outfitters LLC's invoice? They say they were double billed",
+        "user": "UL20M69UM76",
+        "ts": "1728411449.896158",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "866ef023-c857-d15d-33c0-c722c164bdbb",
+        "type": "message",
+        "text": "Can someone check Pinecrest Property Services Inc.'s invoice? They say they were double billed",
+        "user": "U5X9PNA34DU",
+        "ts": "1728421317.932457",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "665011ad-4fab-3340-9cf7-62186223b47f",
+        "type": "message",
+        "text": "Can someone check Lavoie Unified Schools's invoice? They say they were double billed",
+        "user": "UNFVCYNZT6K",
+        "ts": "1728426975.075059",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4fe43a7-8d88-9d63-28fd-9bbe422a58bb",
+        "type": "message",
+        "text": "Renewal risk: Shenandoah Inns Co. unhappy with mobile app",
+        "user": "UH9DL28T3MH",
+        "ts": "1728432893.090305",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42aedc36-6069-b57e-7c16-a72eead0fdbf",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> Can someone check Martin Realty Management Ltd.'s invoice? They say they were double billed",
+        "user": "UFJUKVTAA1B",
+        "ts": "1728433822.402861",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

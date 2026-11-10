@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "02812e17-d7a7-e288-b583-7423948758ab",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1690290592.855859",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f194c3ce-a29e-f5e5-3afd-1e508fcafa92",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2023",
+        "user": "UE4GTX0EXPH",
+        "ts": "1690298884.320836",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "246bd4e0-87be-41f9-f661-03437f76d53e",
+        "type": "message",
+        "text": "<@UGPRJ4K947R> FX rates loaded for Jul 2023",
+        "user": "UE4GTX0EXPH",
+        "ts": "1690309466.154518",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fe65c53-f2b9-629e-eb50-abc959da0382",
+        "type": "message",
+        "text": "AR aging is up, Keystone Contracting is 90+ days",
+        "user": "UT7K74ALYGQ",
+        "ts": "1690331083.123095",
+        "team": "T02BRNDLCV"
+    }
+]

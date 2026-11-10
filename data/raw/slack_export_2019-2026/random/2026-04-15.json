@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "185dfa11-97fb-f4ca-4d59-f8719a1cd488",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UHV2RFNY0HN",
+        "ts": "1776275623.635880",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ef0695e-d02d-75df-f874-5091142c0f81",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UT9KGXWKHLB",
+        "ts": "1776277991.677511",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67ccdcb8-3f28-deb7-9f63-4930a4b3cc2c",
+        "type": "message",
+        "text": "<@UFWAQ6E76D6> the parking lot is flooded lol",
+        "user": "UUFS9CP1A17",
+        "ts": "1776279186.761394",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4e27c060-dc8c-ce09-3c8c-8923ab714677",
+        "type": "message",
+        "text": "<@UVRFQ9LWEVK> who's watching the game tonight",
+        "user": "UHV2RFNY0HN",
+        "ts": "1776280553.420781",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UHV2RFNY0HN",
+            "ts": "1776266495.968349"
+        }
+    },
+    {
+        "client_msg_id": "d8a9175d-ff92-95f6-dd42-66233faa83a8",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UVX5HCR5MMD",
+        "ts": "1776289549.641964",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "098fc19d-db50-a05a-8913-5b63798e0602",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1776300301.578361",
+        "team": "T02BRNDLCV"
+    }
+]

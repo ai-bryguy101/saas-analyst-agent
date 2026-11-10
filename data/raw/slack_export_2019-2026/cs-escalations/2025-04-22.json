@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "270d8d88-689a-baa1-f3e0-c6a5d02d5a1a",
+        "type": "message",
+        "text": "Can someone check Bayou Construction Co.'s invoice? They say they were double billed",
+        "user": "UDDBYSY4RFA",
+        "ts": "1745328361.318340",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1e49295e-70e3-b02e-a769-f6e393a85389",
+        "type": "message",
+        "text": "Kestrel Industries asking for an SLA credit",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1745348923.333727",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d7230325-131c-12a6-232a-4bea6aede6c4",
+        "type": "message",
+        "text": "Johnson Works wants an exec call about the outage",
+        "user": "U2CKCF24AEA",
+        "ts": "1745351519.770725",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7cfa9382-8d81-68ee-4e7e-7b44e1007e59",
+        "type": "message",
+        "text": "<@UZACKQ1VXCH> Lindenwood School District wants an exec call about the outage",
+        "user": "UMXMN24FN4K",
+        "ts": "1745352793.229123",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "52c50d1d-381d-c9f0-a8bf-c32c9df50905",
+        "type": "message",
+        "text": "Alvarez Logistics Holdings wants an exec call about the outage",
+        "user": "UXXA9L8HH83",
+        "ts": "1745357197.821714",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d4cabf45-3353-819c-904a-cda959f2f00e",
+        "type": "message",
+        "text": "Can someone check Calloway Contracting's invoice? They say they were double billed",
+        "user": "UPGXMWMDQNR",
+        "ts": "1745362215.014701",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5bfa797-2d84-3386-d7fd-669bf0eaa23f",
+        "type": "message",
+        "text": "Elmhurst Stores Holdings wants an exec call about the outage",
+        "user": "UL20M69UM76",
+        "ts": "1745364264.312593",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "de4a255e-e28a-4608-e793-762c4ff66c9e",
+        "type": "message",
+        "text": "Eastlake Facilities Management asking for an SLA credit",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1745368672.078639",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95546a8d-f053-0c22-de90-fbd1d28febfc",
+        "type": "message",
+        "text": "Can someone check Smith Supply Co Inc.'s invoice? They say they were double billed",
+        "user": "UFQYM82M1LX",
+        "ts": "1745369473.177308",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

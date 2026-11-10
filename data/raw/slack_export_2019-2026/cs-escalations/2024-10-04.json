@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "3de5dc6a-07b7-3079-e608-c41485b54dbb",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Quillfeather Municipal Services reporting sync failures since this morning, CSM is Katherine Cartwright",
+        "user": "U5DYUQUF95P",
+        "ts": "1728047051.569873",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08e6256e-27a8-38e0-7343-f06d8dbad147",
+        "type": "message",
+        "text": "Can someone check Valley Markets Inc.'s invoice? They say they were double billed",
+        "user": "UJRKGMQPU2R",
+        "ts": "1728080324.861306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "13df06f0-48e4-dad6-ac21-4458769b45b6",
+        "type": "message",
+        "text": "Morgan Unified Schools Corp. wants an exec call about the outage",
+        "user": "UYFL6320JLT",
+        "ts": "1728082121.784730",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5da698a5-4d5b-b449-cc59-8c8c9b2e6d2b",
+        "type": "message",
+        "text": "Pioneer Stores Inc. asking for an SLA credit",
+        "user": "U9SD2024Q7F",
+        "ts": "1728088731.036233",
+        "team": "T02BRNDLCV"
+    }
+]

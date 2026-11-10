@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "7309f5d9-eafb-faf9-8e7c-ef71a1041fe1",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UMXMN24FN4K",
+        "ts": "1778073117.819202",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5d79888b-44e7-13f5-38c7-f925afb5711b",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1778079707.924058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae7e3402-93b1-0ff6-619b-cf4c88bf60d7",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UPGXMWMDQNR",
+        "ts": "1778084699.767658",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c1067bf-104f-dc00-1fa2-54afacd51185",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1778099534.830311",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9b5b73f2-c75f-49e8-ab5b-fadd9f76f22e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1778110270.978740",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "29249e4c-349f-b474-02c1-5160828bd529",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQTUT2GDN85",
+        "ts": "1778110300.402853",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b314d41-ac4d-f51a-0eae-37ce67600746",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UFWAQ6E76D6",
+        "ts": "1778110584.031025",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

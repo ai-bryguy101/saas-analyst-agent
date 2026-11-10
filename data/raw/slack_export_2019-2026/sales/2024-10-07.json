@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "69828145-9126-40d6-3bd4-2af2c4f971f1",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UL20M69UM76",
+        "ts": "1728306395.696690",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2640d54-fd63-27c9-4eb8-3f2c1f6a3e87",
+        "type": "message",
+        "text": "<@UE49ET7WGNU> Lost Ozark Warehousing Co. to Plinthwise on price",
+        "user": "U3EQ075NUYR",
+        "ts": "1728309360.202209",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5bd030da-3977-360a-3cc3-206fc639b196",
+        "type": "message",
+        "text": "Hughes Mechanical Holdings wants a discount, how far can I go?",
+        "user": "UVX5HCR5MMD",
+        "ts": "1728314361.869502",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a103abb3-f080-d943-26a1-1597bc0d4dfa",
+        "type": "message",
+        "text": "<@UFWAQ6E76D6> Anyone have a reference customer in Education?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1728348805.690448",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UZ5KFZLKVGN",
+            "ts": "1728340020.841320"
+        }
+    }
+]

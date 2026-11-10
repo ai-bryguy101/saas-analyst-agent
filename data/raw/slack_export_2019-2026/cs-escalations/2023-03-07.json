@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "fc30e6e3-ce27-c494-f1b6-d77e5b351599",
+        "type": "message",
+        "text": "Stewart Fabrication Co. asking for an SLA credit",
+        "user": "UFULM18ZBQ6",
+        "ts": "1678215889.167700",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFULM18ZBQ6",
+            "ts": "1678236106.917960"
+        }
+    },
+    {
+        "client_msg_id": "4ba4c66b-94ef-d9fb-323d-d35518e46d28",
+        "type": "message",
+        "text": "Renewal risk: Alvarez Property Group Inc. unhappy with mobile app",
+        "user": "UHV2RFNY0HN",
+        "ts": "1678232600.701050",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c26bb0a-8e30-a2a6-c9ed-ae2863e08f6d",
+        "type": "message",
+        "text": "Renewal risk: Beacon Property Services unhappy with mobile app",
+        "user": "U8SR98620D7",
+        "ts": "1678235046.326540",
+        "team": "T02BRNDLCV"
+    }
+]

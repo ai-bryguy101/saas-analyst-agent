@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "ac2fa5b6-9723-dd66-6298-6738a9b7f60d",
+        "type": "message",
+        "text": "<@UQK194B1V43> replica lag on db-03 again",
+        "user": "UAHZYQG5URJ",
+        "ts": "1726060746.603366",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecd446f3-52bd-2f0f-cadd-211f58e9f65f",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UFARBQM0LCD",
+        "ts": "1726067857.301456",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFARBQM0LCD",
+            "ts": "1726063893.674069"
+        }
+    },
+    {
+        "client_msg_id": "b9db3b22-c04c-92f4-4a29-d036b9d850eb",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1726089039.732794",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#55420 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

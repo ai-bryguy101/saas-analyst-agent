@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "115bb8b9-9951-40e7-9f75-c6f104a2d97b",
+        "type": "message",
+        "text": "Welcome Chidi Gutierrez to the Engineering team!",
+        "user": "U69WX6HRQNH",
+        "ts": "1747665569.655570",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25c231df-9437-ace1-dd83-2e52fd345292",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "URWNWW8QFM6",
+        "ts": "1747692658.210612",
+        "team": "T02BRNDLCV"
+    }
+]

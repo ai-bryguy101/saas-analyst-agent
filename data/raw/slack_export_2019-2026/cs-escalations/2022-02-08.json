@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "29d69ae9-cd05-c147-5502-300276bd409a",
+        "type": "message",
+        "text": "Keystone Maintenance Co asking for an SLA credit",
+        "user": "UG4ETD69L1D",
+        "ts": "1644347645.391117",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6df42611-8106-99ab-69a3-254329b6855a",
+        "type": "message",
+        "text": "Bluewater Realty Management Corp. reporting sync failures since this morning, CSM is Dennis Boateng",
+        "user": "U0V9BPHARQX",
+        "ts": "1644353928.792821",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8f6b721-daba-c337-acb3-c4857813b1c9",
+        "type": "message",
+        "text": "Can someone check Rivers Maintenance Co Holdings's invoice? They say they were double billed",
+        "user": "U34NH0P5TMZ",
+        "ts": "1644368189.508464",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "cd03730b-9411-f46d-004b-1e357f16c69c",
+        "type": "message",
+        "text": "Kestrel Inns Corp. asking for an SLA credit",
+        "user": "UVQRW5SQSEL",
+        "ts": "1783715364.474362",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3224a6e6-6a59-f139-4c8d-833795e3fd54",
+        "type": "message",
+        "text": "Renewal risk: Fairhaven Construction Group unhappy with mobile app",
+        "user": "UC95B7VAFX0",
+        "ts": "1783719586.527492",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b42411c9-b214-f9b9-3327-69bfc4b1a1d7",
+        "type": "message",
+        "text": "<@UUDLJ7GDXKE> Can someone check Saguaro Manufacturing Holdings's invoice? They say they were double billed",
+        "user": "UQTUT2GDN85",
+        "ts": "1783726671.636759",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55154959-2e21-043e-e0ae-f5b6d67f24f5",
+        "type": "message",
+        "text": "Superior Outfitters asking for an SLA credit",
+        "user": "UMDHKXLV8RH",
+        "ts": "1783731394.890542",
+        "team": "T02BRNDLCV"
+    }
+]

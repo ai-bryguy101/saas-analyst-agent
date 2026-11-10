@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "20839575-5a88-5cdd-343e-7ee7689b31e0",
+        "type": "message",
+        "text": "Heritage Maintenance Co paid by wire, applying now",
+        "user": "UV9KPNCPQJN",
+        "ts": "1717679332.397788",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81846a78-c8bc-082f-2236-c9155be36f2c",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2024",
+        "user": "U69WX6HRQNH",
+        "ts": "1717692973.265243",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "85477b95-f8de-9540-0335-e10f31d15cb9",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1717698388.029931",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6265125a-2625-90aa-4e90-abb7961de8b4",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U2LMMLL4F31",
+        "ts": "1717706187.608235",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2LMMLL4F31",
+            "ts": "1717716122.728462"
+        }
+    },
+    {
+        "client_msg_id": "4dac061c-182e-65f8-2306-7a40c8720b02",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U9V01K22TU1",
+        "ts": "1717709224.711837",
+        "team": "T02BRNDLCV"
+    }
+]

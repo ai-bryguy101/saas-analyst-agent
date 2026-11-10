@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "976bf09e-8ec5-c16c-6037-452fa5509525",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1741611655.018266",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "7357e1c4-f1dc-7c8a-ea6a-f7f770abfb94",
+        "type": "message",
+        "text": "<@UP8JCWGGNJ4> Pipeline review moved to 3pm",
+        "user": "UJKZ2R47YW9",
+        "ts": "1741612472.580249",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b8f1194-f496-4e49-82a8-55cbbd1ed6fa",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Pricing question: does Starter include Dispatch?",
+        "user": "UVX5HCR5MMD",
+        "ts": "1741618302.100554",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c030bc1f-aa7d-a817-1689-b84d67ba30f9",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UG4ETD69L1D",
+        "ts": "1741620763.558599",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "686f5f66-a363-aedb-0d17-9ddae72993c6",
+        "type": "message",
+        "text": "Closed Rivers Academy Holdings! 83 seats, Pro",
+        "user": "UMXMN24FN4K",
+        "ts": "1741635171.776872",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33894064-daf8-98ef-a554-c0cba739e4e3",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1741644157.020038",
+        "team": "T02BRNDLCV"
+    }
+]

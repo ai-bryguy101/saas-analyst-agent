@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "f6b25bf6-0496-6b49-2354-a0c532506cd5",
+        "type": "message",
+        "text": "Tri-County Public Works wants an exec call about the outage",
+        "user": "UYR8E48FJ62",
+        "ts": "1639576781.782785",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9013e5c3-c809-5ec6-c4b1-204ecaffb9a0",
+        "type": "message",
+        "text": "Renewal risk: Bouchard Properties Inc. unhappy with mobile app",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1639580616.819979",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d80a9ce5-d789-aa42-1077-68cfb93701bf",
+        "type": "message",
+        "text": "Heritage Works Co. reporting sync failures since this morning, CSM is Jason Garcia",
+        "user": "UXVNE61TTLN",
+        "ts": "1639585919.987565",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fde1061d-1c36-b3e3-db5f-7a679431fbd8",
+        "type": "message",
+        "text": "<@UXXA9L8HH83> Foxglove Janitorial Holdings reporting sync failures since this morning, CSM is David Martin",
+        "user": "U5TERVWF7JH",
+        "ts": "1639588143.529574",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7a3cc53-2a4f-2426-e8aa-30796765cb85",
+        "type": "message",
+        "text": "Rivers Maintenance Co Holdings wants an exec call about the outage",
+        "user": "UXS2WD4BYRN",
+        "ts": "1639595030.326184",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "390dcd2c-8687-2ac0-f82f-ec47d13e1837",
+        "type": "message",
+        "text": "Calloway Couriers wants an exec call about the outage",
+        "user": "U09CZFTHQSS",
+        "ts": "1639614732.680343",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

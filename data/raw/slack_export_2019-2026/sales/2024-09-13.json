@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "ad83fed3-44be-544f-f12b-a9f1a54aa1ab",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UBHB6GTB73U",
+        "ts": "1726236205.729480",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cc216950-a05d-1a33-4fb6-c841822c5acf",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U0E67MPWRXA",
+        "ts": "1726252199.600279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

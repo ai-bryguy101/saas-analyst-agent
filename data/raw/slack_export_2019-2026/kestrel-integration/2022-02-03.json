@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "12653909-77c6-a967-0afe-e3ea028298bb",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1643919320.564166",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93f97f02-ea10-66ea-51e5-3d85035f7f37",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1643919990.526530",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7dd010de-dd0a-ed12-f6a9-ff0616556cd9",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "U9Y2KF0S90E",
+        "ts": "1643921142.762760",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

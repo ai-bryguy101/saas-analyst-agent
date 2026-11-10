@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "1685010d-941c-499f-53f4-0ebbc890f3e1",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U9Y2KF0S90E",
+        "ts": "1566830641.995173",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "699dcc99-b232-49e5-3850-3b194ec84722",
+        "type": "message",
+        "text": "AR aging is up, Ironwood Freight Inc. is 90+ days",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1566844263.681846",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3b60a5e5-bac6-c98a-c058-f03094d792c5",
+        "type": "message",
+        "text": "Tidewater Manufacturing paid by wire, applying now",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1566850830.975805",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UZ1V8XFMW0J",
+            "ts": "1566858394.267654"
+        }
+    }
+]

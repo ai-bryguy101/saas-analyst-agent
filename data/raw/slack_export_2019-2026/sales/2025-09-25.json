@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "f40c5981-7c2d-a1f3-864e-6b39fb7a63fe",
+        "type": "message",
+        "text": "Yarrow Homes Ltd. wants a discount, how far can I go?",
+        "user": "U09CZFTHQSS",
+        "ts": "1758805509.322748",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32df9c65-1822-d3fc-95c8-fceb2dd1815f",
+        "type": "message",
+        "text": "Closed Prairie Works! 397 seats, Starter",
+        "user": "UT7K74ALYGQ",
+        "ts": "1758806067.459435",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e618e3a6-45dd-e55d-d093-12161b2e530f",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3EQ075NUYR",
+        "ts": "1758807379.373110",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "611096f2-b9f4-49c0-21e3-e8bde9096f41",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UL8NMQFXPJR",
+        "ts": "1758807904.869280",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "994d1843-87e5-1869-90f2-d51097badad4",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "UXXA9L8HH83",
+        "ts": "1758816441.750506",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "734d09fe-c81a-775b-47f7-c42081812834",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> Lost Hargreaves Distribution Holdings to Plinthwise on price",
+        "user": "UR3LDWKU006",
+        "ts": "1758825834.732937",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "064f6d2e-73b9-15bd-700f-67da8dc6edbe",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1758838589.900115",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUDLJ7GDXKE",
+            "ts": "1758813276.721087"
+        }
+    },
+    {
+        "client_msg_id": "dea248ce-2579-1880-1762-5dd92dbe9a55",
+        "type": "message",
+        "text": "Lost Sierra Public Works Ltd. to Plinthwise on price",
+        "user": "U2LMMLL4F31",
+        "ts": "1758847632.797599",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "ce5704ba-9253-fc52-9c98-2d0ed9216d26",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U22GUF0P303",
+        "ts": "1568644102.847388",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5670a70-8f04-8f14-a5ec-81fb0f231d52",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UHV2RFNY0HN",
+        "ts": "1568651145.292796",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

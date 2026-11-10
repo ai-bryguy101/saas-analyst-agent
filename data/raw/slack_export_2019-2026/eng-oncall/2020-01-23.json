@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "c733bb9c-f5ac-0907-49f4-eb07da5ce2ec",
+        "type": "message",
+        "text": "deploy v6.15.4 to prod :rocket:",
+        "user": "U9XCAUGPS1F",
+        "ts": "1579790715.005124",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a531625e-504f-cb1f-65bc-cca6404e4c62",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> cert renewal for *.brindlecove.example done",
+        "user": "UXETPKNK8MV",
+        "ts": "1579803842.860784",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c7bf12e9-445f-d6ff-1c5a-ad4986ff59b1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1579803851.180378",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#61904 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b880c66b-f13b-acd3-54f1-577b1284132d",
+        "type": "message",
+        "text": "deploy v9.22.6 to prod :rocket:",
+        "user": "U48TCJE75PD",
+        "ts": "1579822662.116020",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

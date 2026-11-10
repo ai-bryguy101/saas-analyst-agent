@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "93d0caff-7a46-8557-ac9d-eba3a3f00dba",
+        "type": "message",
+        "text": "Lost Juniper Contracting to Plinthwise on price",
+        "user": "U5DYUQUF95P",
+        "ts": "1734375109.415984",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ef1e470-4369-92df-ae88-9fd0abdb3d46",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UJQY3Q26RVW",
+        "ts": "1734382173.393166",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

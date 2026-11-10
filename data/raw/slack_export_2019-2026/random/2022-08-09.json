@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "171a677c-07cf-a7d1-b61b-a26758b91a39",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMDHKXLV8RH",
+        "ts": "1660075826.950179",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25a3ce15-31fd-0e88-41f5-6c4948a02e4c",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UJKZ2R47YW9",
+        "ts": "1660092039.759754",
+        "team": "T02BRNDLCV"
+    }
+]

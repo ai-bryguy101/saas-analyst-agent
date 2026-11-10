@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "91beb8ae-7660-3f1f-673a-d800cde5b78d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1681937139.723763",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f0d3d28-7d70-5c17-9743-04b27aee502c",
+        "type": "message",
+        "text": "Wood Clinics paid by wire, applying now",
+        "user": "UMYYLUTXG9R",
+        "ts": "1681938914.444242",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b820607-828c-768f-512c-348906b6c72b",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UYFL6320JLT",
+        "ts": "1681940413.759823",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UYFL6320JLT",
+            "ts": "1681949070.921466"
+        }
+    },
+    {
+        "client_msg_id": "e6524e92-058f-4975-1d17-685cedc4aa05",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1681951397.298287",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

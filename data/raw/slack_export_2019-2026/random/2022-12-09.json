@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "aed5b5ad-e62d-cef6-5995-7594df7a4748",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UV8WG09HYBP",
+        "ts": "1670603747.418531",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "91a8ee10-9bbf-1d00-1e91-75d670a65f49",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "URFUZYLCAEC",
+        "ts": "1670615382.076828",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "086063b7-5e4e-ed8c-e806-c95fa9befb98",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2026",
+        "user": "U9Y2KF0S90E",
+        "ts": "1773761362.674660",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9dc1472d-571b-33c5-224a-8ef3ebb80d53",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1773764554.909843",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a18d122d-209d-2629-8d42-59834d953416",
+        "type": "message",
+        "text": "AR aging is up, Nelson School District is 90+ days",
+        "user": "UAXWVBRVKW9",
+        "ts": "1773769437.527235",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d28ec366-3ffd-c0c6-e7d0-f415e5ed27b1",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQTUT2GDN85",
+        "ts": "1773782766.751246",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccb5bd31-08eb-06eb-bed9-835686beda9d",
+        "type": "message",
+        "text": "AR aging is up, Sanchez Building Services Co. is 90+ days",
+        "user": "UXXA9L8HH83",
+        "ts": "1773786509.513874",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0bcdeae-a3b3-555a-49fc-cebd5275119b",
+        "type": "message",
+        "text": "AR aging is up, Bluewater Clinics Inc. is 90+ days",
+        "user": "UDDBYSY4RFA",
+        "ts": "1773792855.971042",
+        "team": "T02BRNDLCV"
+    }
+]

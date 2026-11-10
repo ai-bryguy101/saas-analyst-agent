@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "86dbfbb2-4dc7-a518-478c-dcce4802b218",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UXS2WD4BYRN",
+        "ts": "1716904831.213940",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "078fc1db-a1cb-4021-83d6-4cfb0523f6d1",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UZACKQ1VXCH",
+        "ts": "1716905018.301025",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95178ce4-a276-6e88-2eb9-c6a8eba8b753",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U0V9BPHARQX",
+        "ts": "1716905540.530526",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a033bee1-3660-9a60-1305-ce2652aab1bd",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Benefits enrollment closes Friday",
+        "user": "UXETPKNK8MV",
+        "ts": "1716908984.103276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fb1eddf-a3e8-68d9-5369-25bfe2bae7ed",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UDDBYSY4RFA",
+        "ts": "1716911404.742125",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d532c8e-eace-97e8-babc-dc2a794e0540",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U34NH0P5TMZ",
+        "ts": "1716911944.406280",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4a632efc-bc6f-8471-9ed9-ee6821645fdb",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UMXMN24FN4K",
+        "ts": "1716919091.030640",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "b1420af2-7a1e-59a8-c596-8649f880643c",
+        "type": "message",
+        "text": "Anchor Hospital Co. asking for an SLA credit",
+        "user": "UFARBQM0LCD",
+        "ts": "1583931884.603839",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5d0f261a-07cb-310a-f786-e26340398de2",
+        "type": "message",
+        "text": "Renewal risk: Elmhurst Municipal Services unhappy with mobile app",
+        "user": "UE4GTX0EXPH",
+        "ts": "1583939583.385581",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4310a947-2bd5-3552-b57a-e23ba08548ae",
+        "type": "message",
+        "text": "Can someone check Northgate Inns's invoice? They say they were double billed",
+        "user": "UX84HDPARWN",
+        "ts": "1583957012.240313",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c084b1ca-9930-aaa5-46c9-fabc83e93b99",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Kestrel Transit Authority reporting sync failures since this morning, CSM is Andrew Bailey",
+        "user": "UQK194B1V43",
+        "ts": "1583957283.893011",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60ae736a-63bc-e521-9ed1-5d264bcc542f",
+        "type": "message",
+        "text": "Wilson Industries Inc. asking for an SLA credit",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1583959000.877205",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "97b7f47b-fdfc-b742-de80-6f977d4b4659",
+        "type": "message",
+        "text": "Can someone check Great Hospitality Group Inc.'s invoice? They say they were double billed",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1583968034.427239",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "10b7c74c-5697-b66d-e2ad-58c833aa194f",
+        "type": "message",
+        "text": "Shenandoah Warehousing Co. reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1583968531.289921",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2fc62112-4051-8330-6381-43ddf42b574a",
+        "type": "message",
+        "text": "Can someone check Ashford Industries's invoice? They say they were double billed",
+        "user": "UUFS9CP1A17",
+        "ts": "1583972369.328635",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "cc760510-6c47-e259-4612-50e8548b4fe1",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "U5DYUQUF95P",
+        "ts": "1651671133.573134",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4faab6dc-7459-9965-e4ba-c8c94ca91452",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U0E67MPWRXA",
+        "ts": "1651691146.021146",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1651683129.066652"
+        }
+    }
+]

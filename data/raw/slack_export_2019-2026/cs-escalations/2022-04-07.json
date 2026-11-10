@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "a65c978a-f82f-5ebd-2e9e-215a1acf5120",
+        "type": "message",
+        "text": "Juniper Contracting reporting sync failures since this morning, CSM is Betty Nowak",
+        "user": "UFARBQM0LCD",
+        "ts": "1649349364.421331",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5087b573-3e89-a44e-c318-c652833fb706",
+        "type": "message",
+        "text": "Tidewater Building Services wants an exec call about the outage",
+        "user": "UFARBQM0LCD",
+        "ts": "1649349849.858343",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b59ab0e-8ab2-4715-07da-9d30c3f409bc",
+        "type": "message",
+        "text": "White Health System wants an exec call about the outage",
+        "user": "UP51TVUPQU5",
+        "ts": "1649359079.683522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d737b01b-4b82-072d-4f9b-18574382ae11",
+        "type": "message",
+        "text": "Prairie Freight Corp. reporting sync failures since this morning, CSM is Olivia Foster",
+        "user": "U773RMBLF5X",
+        "ts": "1649366160.344126",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b5a1c9c4-1131-e2d7-84b7-2cb9d27ac36b",
+        "type": "message",
+        "text": "Renewal risk: Patriot Hospital Co. unhappy with mobile app",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1649366172.750115",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee097131-a4f3-c2fa-5314-6ca17c11ea6e",
+        "type": "message",
+        "text": "Bayou Medical Center asking for an SLA credit",
+        "user": "U9SD2024Q7F",
+        "ts": "1649373815.273973",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a2133545-f51f-a38e-5383-a068471d07ea",
+        "type": "message",
+        "text": "Renewal risk: Oakmere Residential Inc. unhappy with mobile app",
+        "user": "UAHZYQG5URJ",
+        "ts": "1649374055.799948",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6fe19c81-0ba3-5d5a-825b-84909c51541e",
+        "type": "message",
+        "text": "Wood Clinics asking for an SLA credit",
+        "user": "UPGXMWMDQNR",
+        "ts": "1649377852.923516",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "7498abeb-0a47-45c2-a0b4-49dcb7175d50",
+        "type": "message",
+        "text": "<@U22GUF0P303> Chavez Health System Co. asking for an SLA credit",
+        "user": "UT9KGXWKHLB",
+        "ts": "1592399395.566605",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ada76642-bbdc-0583-b913-e5b7bd04a591",
+        "type": "message",
+        "text": "Bayou Retail Group Ltd. reporting sync failures since this morning, CSM is Betty Nowak",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1592401803.561453",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed949160-5119-fb8b-0ba4-698f3b172852",
+        "type": "message",
+        "text": "Erie Industries Co. wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1592402454.078833",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0dd736b4-7f70-80e8-a37c-2d4b0bfe58bb",
+        "type": "message",
+        "text": "Valley Transit Authority Corp. reporting sync failures since this morning, CSM is Frances Robinson",
+        "user": "UMDHKXLV8RH",
+        "ts": "1592403895.496547",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "98faa36a-3339-0cae-b9f4-49633eb9f2d4",
+        "type": "message",
+        "text": "Wexford Works reporting sync failures since this morning, CSM is Lorraine Whitlock",
+        "user": "UYR8E48FJ62",
+        "ts": "1592425750.265422",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7380ba65-f6fb-4917-85c9-f9262e6c1939",
+        "type": "message",
+        "text": "<@UZACKQ1VXCH> Harbortown County Facilities wants an exec call about the outage",
+        "user": "UQTUT2GDN85",
+        "ts": "1592427441.402469",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6cf8e863-68d7-c699-d834-95d38539eaa8",
+        "type": "message",
+        "text": "Renewal risk: Penhallow Hospital Co. unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1592436016.542948",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UB0YL0LKYC7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "315f6af0-f603-c4db-2652-b71b92d0ff15",
+        "type": "message",
+        "text": "Jones Warehousing wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1592441257.512188",
+        "team": "T02BRNDLCV"
+    }
+]

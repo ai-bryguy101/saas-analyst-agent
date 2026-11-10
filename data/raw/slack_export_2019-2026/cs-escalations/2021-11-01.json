@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "765da5a5-1133-cd01-cce7-f024e951a3d0",
+        "type": "message",
+        "text": "Liberty Public Works LLC asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1635776278.192767",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U773RMBLF5X",
+            "ts": "1635772418.108027"
+        }
+    },
+    {
+        "client_msg_id": "5c22d78b-b886-aa35-4c03-c62cc12cdc71",
+        "type": "message",
+        "text": "Valley Property Group Inc. reporting sync failures since this morning, CSM is Walter Ortiz",
+        "user": "UAXWVBRVKW9",
+        "ts": "1635780055.219039",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c59df149-7271-043a-770e-f3a9fb89010e",
+        "type": "message",
+        "text": "Lindenwood Properties Co. reporting sync failures since this morning, CSM is Betty Nowak",
+        "user": "UVQRW5SQSEL",
+        "ts": "1635785381.983108",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d95c2bdb-db73-df45-a334-6f11c905d4ee",
+        "type": "message",
+        "text": "Halvorsen County Facilities Group reporting sync failures since this morning, CSM is Lars Roberts",
+        "user": "UNFVCYNZT6K",
+        "ts": "1635788395.483340",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6656c600-1767-406f-efa8-00fdc42c7520",
+        "type": "message",
+        "text": "Ruiz Janitorial Ltd. reporting sync failures since this morning, CSM is Olivia Foster",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1635788483.120457",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UVRFQ9LWEVK",
+            "ts": "1635776235.533854"
+        }
+    },
+    {
+        "client_msg_id": "fa9bb532-753e-7439-ccc7-e9d6a47f41ea",
+        "type": "message",
+        "text": "Foxglove Logistics Holdings asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1635792177.274693",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bbdb5783-43cc-080e-b429-916044fa28a9",
+        "type": "message",
+        "text": "Saginaw Fabrication Ltd. reporting sync failures since this morning, CSM is Peter Bennett",
+        "user": "U0E67MPWRXA",
+        "ts": "1635797180.887900",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae09120a-cb72-afee-0371-bc2e58e573fa",
+        "type": "message",
+        "text": "Jimenez Academy reporting sync failures since this morning, CSM is Joe Halvorsen",
+        "user": "UNCGDMQATC5",
+        "ts": "1635800730.428684",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52443839-ef4c-92bb-6d22-1d42bd62b4b4",
+        "type": "message",
+        "text": "Lantern Janitorial Co. reporting sync failures since this morning, CSM is Janice Cook",
+        "user": "UMDHKXLV8RH",
+        "ts": "1635800743.772192",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9346aa31-6107-89f9-5ffd-4950fabcaa80",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Ravenwood Distribution Ltd. asking for an SLA credit",
+        "user": "UMYYLUTXG9R",
+        "ts": "1635801452.505810",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "15cb2188-4d24-c706-a9dc-06d2787480b2",
+        "type": "message",
+        "text": "<@UYR8E48FJ62> Renewal risk: Pueblo Property Group unhappy with mobile app",
+        "user": "UFULM18ZBQ6",
+        "ts": "1635802709.330062",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5840663f-eb08-65db-eeec-0e0bb1ec6963",
+        "type": "message",
+        "text": "Can someone check Patriot Academy's invoice? They say they were double billed",
+        "user": "UWBW507RCA9",
+        "ts": "1635805925.550638",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "102db20f-1b43-afff-4959-7335c3b40765",
+        "type": "message",
+        "text": "Millbrook Property Group asking for an SLA credit",
+        "user": "UWU9WG7ECGY",
+        "ts": "1635810130.025969",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0aa2687c-9367-c0eb-d843-4ba9e0a9da91",
+        "type": "message",
+        "text": "Riverbend County Facilities Holdings wants an exec call about the outage",
+        "user": "UL20M69UM76",
+        "ts": "1635814593.358886",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "3dd91006-0a1e-6447-3513-eda122af16b2",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> postmortem doc for yesterday is up",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1721063927.030078",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe8b730f-e001-16a5-1842-fe3463832662",
+        "type": "message",
+        "text": "deploy v7.11.7 to prod :rocket:",
+        "user": "UVX5HCR5MMD",
+        "ts": "1721067043.028507",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e4ae8f40-2efb-edbc-7b1b-0ddde4e4b18a",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> postmortem doc for yesterday is up",
+        "user": "U5HQ6U91D2E",
+        "ts": "1721078296.006075",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "b30cf779-879a-3dab-6e3e-eca5f75c972a",
+        "type": "message",
+        "text": "<@UWLZTMJ6YM7> Magnolia Township LLC wants a discount, how far can I go?",
+        "user": "UCQT1GS0C0C",
+        "ts": "1692623885.746170",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "224b20c2-d72e-fae0-721d-fb714264398c",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "U69WX6HRQNH",
+        "ts": "1692634017.519921",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U69WX6HRQNH",
+            "ts": "1692654283.653097"
+        }
+    },
+    {
+        "client_msg_id": "f111afeb-c3c0-2601-bdb0-4f79b6c30b6e",
+        "type": "message",
+        "text": "Southport Property Services wants a discount, how far can I go?",
+        "user": "UAGQX7APZBG",
+        "ts": "1692636193.018711",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8b838ed-533b-1a81-a48a-b499c175e95e",
+        "type": "message",
+        "text": "Lost Wexford Retail Group Ltd. to Plinthwise on price",
+        "user": "U3DBR7QKZWE",
+        "ts": "1692640871.543304",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ca5010e0-8e33-781c-267f-f513965cf146",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UWUGRQ83YYM",
+        "ts": "1692645209.349928",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWUGRQ83YYM",
+            "ts": "1692652348.054056"
+        }
+    },
+    {
+        "client_msg_id": "21c0f059-2ac5-9097-33c9-f18aa8a766cc",
+        "type": "message",
+        "text": "Closed Gatehouse Industries Group! 288 seats, Starter",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1692647723.916489",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1915fe61-d101-080e-cbfd-e67e6d18ea63",
+        "type": "message",
+        "text": "Closed Lakeshore Township Holdings! 75 seats, Pro",
+        "user": "U2LMMLL4F31",
+        "ts": "1692663762.834312",
+        "team": "T02BRNDLCV"
+    }
+]

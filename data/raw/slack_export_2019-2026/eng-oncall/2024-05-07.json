@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "db01612a-7e4b-0528-5fd3-5809d47df7c9",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1715104945.435054",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#60609 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b7b2636-8bbf-1ea7-af8d-ee555cf3c87e",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> cert renewal for *.brindlecove.example done",
+        "user": "UC95B7VAFX0",
+        "ts": "1715117380.918979",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

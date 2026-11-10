@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "092e063f-5062-4cf8-f052-e76f0e021c8f",
+        "type": "message",
+        "text": "Brookside Contracting Corp. wants an exec call about the outage",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1662478868.138325",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "65247589-edfc-72fb-9b3c-0f8a5643281f",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Cedar Mills LLC asking for an SLA credit",
+        "user": "UAHZYQG5URJ",
+        "ts": "1662500084.145579",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

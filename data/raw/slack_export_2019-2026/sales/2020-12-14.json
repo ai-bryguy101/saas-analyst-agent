@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "6d432258-5f92-2170-061d-98feae4f094d",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1607955075.318287",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63e3a67b-458d-f599-72f4-ba0c000bfdbb",
+        "type": "message",
+        "text": "Closed Mesa Property Group Group! 159 seats, Starter",
+        "user": "U9U3DZUVA3L",
+        "ts": "1607955826.416314",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "138db266-6975-6786-2a98-c267185b5771",
+        "type": "message",
+        "text": "Closed Redstone School District! 160 seats, Pro",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1607966230.015863",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd3406a0-5567-d200-fe20-9745af2e4264",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UYR8E48FJ62",
+        "ts": "1607991261.577977",
+        "team": "T02BRNDLCV"
+    }
+]

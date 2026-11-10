@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "8a3ce1f5-9892-a6fa-caab-c42706591a7a",
+        "type": "message",
+        "text": "rolling back v9.35.5",
+        "user": "U34NH0P5TMZ",
+        "ts": "1786633565.754580",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7512dcc3-8977-2c32-c363-e54e733b2f4c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1786633898.042044",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#56361 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4fcaee2-eaf9-cbc6-98a9-76eb05e1277f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1786635753.096209",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88769 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd1e6c2a-cf91-60e7-1dfd-7cfd6b253ddd",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> rolling back v6.5.0",
+        "user": "U0E67MPWRXA",
+        "ts": "1786635777.892113",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5da88ec7-a9af-bba8-213c-55d79067c651",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UL20M69UM76",
+        "ts": "1786641904.631561",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6aada00d-c0dd-589a-8c04-dbe7a31092a3",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UE49ET7WGNU",
+        "ts": "1786644277.261108",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "add03cd9-7dee-0c0e-b1db-a978895a9ae7",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UT7K74ALYGQ",
+        "ts": "1786648978.119378",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8fff396c-a681-0219-7617-9381e5078689",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> cert renewal for *.brindlecove.example done",
+        "user": "UE49ET7WGNU",
+        "ts": "1786652455.746206",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e387bfd0-bf79-9546-a4ad-1259a6811914",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1786655275.615888",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#90775 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbe5b9be-1c0c-5ba5-9c26-eba8f2fbb0f6",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1786664261.809951",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#99932 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

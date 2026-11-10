@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "d91accf4-65be-b406-7b5f-77ca439be998",
+        "type": "message",
+        "text": "Lindenwood Hospital Ltd. reporting sync failures since this morning, CSM is Ines Johansson",
+        "user": "U7PFYH0YRRG",
+        "ts": "1685642888.956147",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dd930eca-a4d4-7670-b312-85b6293884df",
+        "type": "message",
+        "text": "Renewal risk: Osprey Resorts Inc. unhappy with mobile app",
+        "user": "UQXT5A6YMVH",
+        "ts": "1685644402.603890",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9c40c8c5-48d3-dd0e-1180-2f1d86e271cc",
+        "type": "message",
+        "text": "Ward Supply Co Co. reporting sync failures since this morning, CSM is Alan Carter",
+        "user": "UVQRW5SQSEL",
+        "ts": "1685655311.889005",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e99e2aa-a740-a387-314c-7b375a7872d6",
+        "type": "message",
+        "text": "Lefebvre Retail Group wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1685660075.568239",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ea37320d-040a-f751-bc14-54324af8e3e8",
+        "type": "message",
+        "text": "Crescent Works LLC wants an exec call about the outage",
+        "user": "U48TCJE75PD",
+        "ts": "1685667258.010591",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

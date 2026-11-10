@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "108a9f8b-c166-40f6-789e-8193bb0ae5e2",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1710946103.856886",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#80264 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8871d9b-b133-e7e9-ab52-796c52d3565a",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1710962102.264209",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d0253df-92fa-8f60-36f9-36381fb73192",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> rolling back v7.10.4",
+        "user": "U2LMMLL4F31",
+        "ts": "1710963426.896661",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21a25594-e3c3-69ca-30a6-fb5014d75b7a",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UV9KPNCPQJN",
+        "ts": "1710969780.141818",
+        "team": "T02BRNDLCV"
+    }
+]

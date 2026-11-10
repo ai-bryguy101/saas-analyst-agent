@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "827517a5-af9f-f538-bb72-1f39ff592e98",
+        "type": "message",
+        "text": "Cooper Contracting Holdings wants a discount, how far can I go?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1792596504.450950",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0813db04-20a2-c56a-129c-a2b04ab01c88",
+        "type": "message",
+        "text": "Lost Lakes Realty Management to Plinthwise on price",
+        "user": "UBHB6GTB73U",
+        "ts": "1792603837.986476",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9cb9c6ab-42ab-d81a-212b-1e39f3e1252b",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1792610069.691619",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

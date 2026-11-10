@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "05611fc6-583a-8379-4938-b482dd586dcb",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Pricing question: does Starter include Dispatch?",
+        "user": "UE49ET7WGNU",
+        "ts": "1667406788.307665",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07433f83-d2d5-f1aa-47d7-ebb79251881a",
+        "type": "message",
+        "text": "Beacon Public Works Corp. wants a discount, how far can I go?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1667417514.358966",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46186c18-175c-1ee2-68f0-a55311479ed8",
+        "type": "message",
+        "text": "Heron Mills Group wants a discount, how far can I go?",
+        "user": "UAGQX7APZBG",
+        "ts": "1667418192.162306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77bbcaba-85e8-2118-1db4-93f297db2f23",
+        "type": "message",
+        "text": "Smith Hospital LLC wants a discount, how far can I go?",
+        "user": "UC95B7VAFX0",
+        "ts": "1667422234.776886",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1667412178.284362"
+        }
+    },
+    {
+        "client_msg_id": "ba9319b9-3210-5847-8175-dce6ac53f31c",
+        "type": "message",
+        "text": "Yarrow Suites Holdings wants a discount, how far can I go?",
+        "user": "UQXT5A6YMVH",
+        "ts": "1667430877.813494",
+        "team": "T02BRNDLCV"
+    }
+]

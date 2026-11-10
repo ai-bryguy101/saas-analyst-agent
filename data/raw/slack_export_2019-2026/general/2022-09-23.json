@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "a2c5ab0b-29be-8473-be80-0bcef43a1bc2",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1663941722.317281",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "331d4fd7-9056-b62d-9cff-d5520e134238",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U7PFYH0YRRG",
+        "ts": "1663948129.988619",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e3f0a451-1797-4b3b-b113-9a5add15be4f",
+        "type": "message",
+        "text": "<@UCQT1GS0C0C> Welcome Tomasz Kowalski to the Sales team!",
+        "user": "U2LMMLL4F31",
+        "ts": "1663957274.800325",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "38149689-132a-501f-9b43-1c53df79a25c",
+        "type": "message",
+        "text": "Welcome Frank Quillfeather to the Support team!",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1663969854.374358",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "598d0b97-9815-7452-9480-d7bfa54e0bb8",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U69WX6HRQNH",
+        "ts": "1715195120.436780",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "136776c4-9543-9e25-55e6-2422a4c9a351",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U5X9PNA34DU",
+        "ts": "1715195445.023808",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

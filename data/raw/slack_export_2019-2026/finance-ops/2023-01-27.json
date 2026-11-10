@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "b0cb8e9e-f5fa-13ac-b61c-a818fbbf123b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U7V33ZEGRET",
+        "ts": "1674846426.265256",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e48c44bf-186f-d653-0321-f7db0a940286",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2023",
+        "user": "UZJU9N8CY2T",
+        "ts": "1674860684.508721",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

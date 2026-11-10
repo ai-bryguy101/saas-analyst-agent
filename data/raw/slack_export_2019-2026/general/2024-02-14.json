@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "fb23a0a2-bae8-8d67-8ebf-1ddd35a72006",
+        "type": "message",
+        "text": "Welcome Robert Gomez to the Sales team!",
+        "user": "UL20M69UM76",
+        "ts": "1707929189.214516",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1aa73a7e-0f59-831c-6d47-0242a23b3711",
+        "type": "message",
+        "text": "Welcome Walter Ortiz to the Sales team!",
+        "user": "UFJUKVTAA1B",
+        "ts": "1707934427.296405",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a372468-24b4-8b00-9818-257ea626b2d2",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UXETPKNK8MV",
+        "ts": "1707937418.220106",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f0ab5b5-9acc-61dd-c1f4-d44d131fec31",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UFNKJQT8PV1",
+        "ts": "1707940353.788686",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "811983a5-8e8a-0b63-63ea-4f34c2622443",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UFJUKVTAA1B",
+        "ts": "1707941510.579863",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9fffa9ed-9305-2b2f-24be-3aef43afabbd",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UMDHKXLV8RH",
+        "ts": "1707946078.213822",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a579f5aa-0839-554e-2346-4ebedacd66ec",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U3EQ075NUYR",
+        "ts": "1707953896.967394",
+        "team": "T02BRNDLCV"
+    }
+]

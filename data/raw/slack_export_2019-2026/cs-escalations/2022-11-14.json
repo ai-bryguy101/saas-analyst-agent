@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "3ca28717-f9b2-0c6b-ac8e-535c5e08b426",
+        "type": "message",
+        "text": "Can someone check Campbell Academy's invoice? They say they were double billed",
+        "user": "UMDHKXLV8RH",
+        "ts": "1668442475.526874",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "493b4d0d-aa55-214f-6c46-5dbd365b559a",
+        "type": "message",
+        "text": "Southport Mills Holdings wants an exec call about the outage",
+        "user": "U22GUF0P303",
+        "ts": "1668455461.249776",
+        "team": "T02BRNDLCV"
+    }
+]

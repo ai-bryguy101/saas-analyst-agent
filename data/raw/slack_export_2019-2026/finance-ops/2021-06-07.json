@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "4eddd917-5f23-d7ab-bf9f-ec20870a2c53",
+        "type": "message",
+        "text": "AR aging is up, Crescent School District is 90+ days",
+        "user": "UNCGDMQATC5",
+        "ts": "1623075218.714375",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b2a51045-d41f-b552-3a46-a697cd4fd29a",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2021",
+        "user": "UFNKJQT8PV1",
+        "ts": "1623089629.585883",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63707207-14ac-a912-c908-1f6df1d1de4e",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UE49ET7WGNU",
+        "ts": "1623095514.357925",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5c49bb2-8a24-6017-91ee-8d547022d269",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UJKZ2R47YW9",
+        "ts": "1623103953.287018",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af7459aa-875c-f39f-3d50-92ab54f0b1cf",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2021",
+        "user": "UNPKZYBKYGA",
+        "ts": "1623110022.579624",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6e084a1-985c-c06e-a8ab-47cd63bc7947",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U5DYUQUF95P",
+        "ts": "1623110760.547844",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "92dcd466-f965-f77c-d63c-f12effe7a791",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U773RMBLF5X",
+        "ts": "1623111221.944492",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38646145-1ced-98b6-989d-81034fe8c44f",
+        "type": "message",
+        "text": "Saguaro Property Services Corp. paid by wire, applying now",
+        "user": "UUFS9CP1A17",
+        "ts": "1623111576.487464",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "client_msg_id": "38aa6157-b326-d771-b8cd-694abe113a4e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1771511694.082010",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#66777 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7cfcfea7-9e5d-e776-1328-2ee33f0c14b8",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U0V9BPHARQX",
+        "ts": "1771535791.036638",
+        "team": "T02BRNDLCV"
+    }
+]

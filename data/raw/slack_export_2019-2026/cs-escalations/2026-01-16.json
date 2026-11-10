@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "ef1056ae-deb5-6d4b-a6ba-3e5efc20bfe3",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> Renewal risk: Huron Warehousing unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1768577239.122527",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5ee40aac-2a55-f922-e54f-7d0c747704ce",
+        "type": "message",
+        "text": "Meadowlark Public Works Co. reporting sync failures since this morning, CSM is Brenda Rogers",
+        "user": "UJKZ2R47YW9",
+        "ts": "1768581580.854190",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21228b8b-987b-7b09-b05e-d1b788083145",
+        "type": "message",
+        "text": "Ingleby Medical Center Co. wants an exec call about the outage",
+        "user": "UR12Y3AZNKK",
+        "ts": "1768582897.761529",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "81bc5ba7-d753-2329-c9a2-ddea4651e90b",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Oakmere Supply Co Co. reporting sync failures since this morning, CSM is Christina Haddad",
+        "user": "UMXMN24FN4K",
+        "ts": "1768584035.477911",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f3003c79-9f16-6158-96a3-1b5e8530be7f",
+        "type": "message",
+        "text": "Can someone check Tidewater Warehousing Holdings's invoice? They say they were double billed",
+        "user": "UYFL6320JLT",
+        "ts": "1768590491.937536",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UYFL6320JLT",
+            "ts": "1768595016.058679"
+        }
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "b4a3c72d-5828-96ef-d0d1-a2ced0f611f7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U09CZFTHQSS",
+        "ts": "1774966776.957794",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ebde20a3-a1b9-8b06-1afe-e83f55895e35",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UR12Y3AZNKK",
+        "ts": "1774969059.399888",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9dec5d4-d559-6be2-3a5b-3905972174ca",
+        "type": "message",
+        "text": "Clearwater Restoration paid by wire, applying now",
+        "user": "UL8NMQFXPJR",
+        "ts": "1774983119.373467",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "745f7928-69a2-ff04-9dcb-e3ecf000973f",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2026",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1774990737.090157",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5824b226-06c3-aeb3-fe67-7953e496ae1f",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UH9DL28T3MH",
+        "ts": "1774990817.185208",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e783962-bed4-a6e2-946d-070e89818628",
+        "type": "message",
+        "text": "AR aging is up, Hawthorne Realty Management Co. is 90+ days",
+        "user": "UR3LDWKU006",
+        "ts": "1774992692.739047",
+        "team": "T02BRNDLCV"
+    }
+]

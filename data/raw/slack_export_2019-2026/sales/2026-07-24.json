@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "a8646251-249a-0c3a-6794-8d89096cd626",
+        "type": "message",
+        "text": "Anyone have a reference customer in Government?",
+        "user": "U09CZFTHQSS",
+        "ts": "1784900679.251788",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49f22b48-913a-bd97-0b9b-1d2d5131dc4c",
+        "type": "message",
+        "text": "Great Contracting Group wants a discount, how far can I go?",
+        "user": "U2CKCF24AEA",
+        "ts": "1784904580.807222",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fb5bb45c-db40-17f3-e3b8-8a05582e4299",
+        "type": "message",
+        "text": "Liberty Hotels Corp. wants a discount, how far can I go?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1784911104.840742",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53b9c40b-aab6-c063-0be4-b340f2dadc31",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1784935164.520834",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

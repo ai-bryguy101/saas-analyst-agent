@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "c78e5540-abce-8429-1a3b-34d846fc4065",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U9Y2KF0S90E",
+        "ts": "1656600384.960434",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9Y2KF0S90E",
+            "ts": "1656600673.689173"
+        }
+    },
+    {
+        "client_msg_id": "b8bde826-c496-49ef-dd98-9fe321a73069",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UC70JNE74S7",
+        "ts": "1656601366.451591",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07ffc638-24d0-75f0-84c2-dd11588cba2e",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U5HQ6U91D2E",
+        "ts": "1656603224.467276",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5HQ6U91D2E",
+            "ts": "1656625671.768948"
+        }
+    },
+    {
+        "client_msg_id": "e1e308f1-29a5-49d2-3f88-e7f221078a74",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1656605189.827256",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3438926-66f8-4632-1d00-4c78d9408385",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UNPKZYBKYGA",
+        "ts": "1656605626.183293",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60d3792b-6c25-8fb5-21e7-0460fc7f8911",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UWU9WG7ECGY",
+        "ts": "1656612885.239176",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7374defb-4f60-0b60-5315-2b1fb7fcfa22",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> Office wifi is back up",
+        "user": "UB8UH2KX2NW",
+        "ts": "1656629810.561066",
+        "team": "T02BRNDLCV"
+    }
+]

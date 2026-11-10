@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "a3ac2cc4-aeb5-6e0b-bf60-40bc0ef66ce3",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "URFUZYLCAEC",
+        "ts": "1737562547.313279",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd87b860-eb63-e431-43b3-42085c65a420",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1737574124.054275",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#82574 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a637d6f-6071-5273-c0f7-bbd000cc1ef7",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UA3MVBJWAHX",
+        "ts": "1737577489.104806",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "87442c40-9a51-9c96-f2df-17be2a5de61e",
+        "type": "message",
+        "text": "deploy v6.6.7 to prod :rocket:",
+        "user": "UJKZ2R47YW9",
+        "ts": "1737578024.759271",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f569cd8e-0e22-53eb-7c8f-2bf971673c9e",
+        "type": "message",
+        "text": "deploy v8.10.8 to prod :rocket:",
+        "user": "UR3LDWKU006",
+        "ts": "1737581595.274846",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "223d83fc-bd71-b81f-c642-f9376e73f0b2",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> PagerDuty: high error rate on api-gw",
+        "user": "UWU9WG7ECGY",
+        "ts": "1737583714.988476",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1737557828.375871"
+        }
+    },
+    {
+        "client_msg_id": "44eab6dd-b8bd-f75b-8a4a-1e01ef46ee1d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1737586757.430697",
+        "team": "T02BRNDLCV"
+    }
+]

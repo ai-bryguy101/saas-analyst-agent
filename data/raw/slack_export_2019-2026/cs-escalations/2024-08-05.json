@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "7dd80ca3-2601-f4c5-dcb7-cbea2fe2c35f",
+        "type": "message",
+        "text": "Fenwick Markets Holdings wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1722876118.580171",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "17494295-ac8d-b21a-5715-865512e26de3",
+        "type": "message",
+        "text": "Wabash Markets Corp. asking for an SLA credit",
+        "user": "UG4ETD69L1D",
+        "ts": "1722880448.125092",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aface538-c84b-50c6-eb31-27612e1e2374",
+        "type": "message",
+        "text": "Bluewater Manufacturing Ltd. wants an exec call about the outage",
+        "user": "U22GUF0P303",
+        "ts": "1722881590.218464",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "121583f7-13a1-14ef-341b-e7d33779eb14",
+        "type": "message",
+        "text": "Can someone check Harbortown Fabrication's invoice? They say they were double billed",
+        "user": "UQLM603293J",
+        "ts": "1722892312.839493",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93ef4233-4f67-04b0-1b3b-71795ca4bc1b",
+        "type": "message",
+        "text": "Carter Outfitters asking for an SLA credit",
+        "user": "URFUZYLCAEC",
+        "ts": "1722901287.374644",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "47286915-1f3a-06a3-b524-2e5f77bce9a2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3YU9TS6QYB",
+        "ts": "1770665213.739273",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "250e633c-4d31-3b82-ab33-79303325512c",
+        "type": "message",
+        "text": "Stonebridge University Facilities Co. paid by wire, applying now",
+        "user": "URFUZYLCAEC",
+        "ts": "1770674281.656612",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e204e9c-8633-e8e3-3663-ca713eaae31d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UG4ETD69L1D",
+        "ts": "1770678669.314000",
+        "team": "T02BRNDLCV"
+    }
+]

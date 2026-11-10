@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "b3d782cb-1a0d-96b2-a3a2-121c9f3cb6e9",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UXETPKNK8MV",
+        "ts": "1752502489.846946",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b38bf08c-800a-6cbf-67a8-018fa9d364c7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1752523772.064588",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#43715 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e16a6503-9b77-c1a5-00c5-4bc7a71e4416",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1752524549.906160",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "817ef45b-517c-c474-f3df-b5a552bc57c0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1752526260.334850",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#31662 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ce07a12-3fa4-5c40-72e8-b3f36bea4f7a",
+        "type": "message",
+        "text": "deploy v8.36.9 to prod :rocket:",
+        "user": "UR12Y3AZNKK",
+        "ts": "1752535280.924207",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e452fa55-8324-355d-bd2e-e4cd84c3ce20",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3EQ075NUYR",
+        "ts": "1752535688.276297",
+        "team": "T02BRNDLCV"
+    }
+]

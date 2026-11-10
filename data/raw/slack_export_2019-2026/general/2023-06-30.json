@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "11e4fd33-07b2-54f1-2017-2db5b8cb3c56",
+        "type": "message",
+        "text": "Welcome Andrea Penhallow to the Sales team!",
+        "user": "U8TVGALMJLQ",
+        "ts": "1688133133.822231",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U8TVGALMJLQ",
+            "ts": "1688169330.682335"
+        }
+    },
+    {
+        "client_msg_id": "3d1777b0-cb65-2254-20eb-a9f60f141959",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Benefits enrollment closes Friday",
+        "user": "UE49ET7WGNU",
+        "ts": "1688137505.502558",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95fcf88b-fb80-29f0-442f-2dfc3341bc26",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UGPRJ4K947R",
+        "ts": "1688139570.854328",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e4bd7502-57f8-5fec-3ec7-a4b1c2e467ad",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1688152621.548264",
+        "team": "T02BRNDLCV"
+    }
+]

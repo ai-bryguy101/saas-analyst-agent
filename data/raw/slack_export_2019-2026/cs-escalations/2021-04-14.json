@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "a9936995-8f75-b342-6ac2-76551c3c5b85",
+        "type": "message",
+        "text": "Fairweather Builders Group wants an exec call about the outage",
+        "user": "U69WX6HRQNH",
+        "ts": "1618420844.689085",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1da56832-fc51-0fd6-3393-a909f2af9bbc",
+        "type": "message",
+        "text": "Halvorsen Builders LLC asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1618425143.236584",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f02befe9-ca38-de07-2c33-9344cbdb0be8",
+        "type": "message",
+        "text": "Renewal risk: Great Fabrication Ltd. unhappy with mobile app",
+        "user": "UWBW507RCA9",
+        "ts": "1618443722.428562",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

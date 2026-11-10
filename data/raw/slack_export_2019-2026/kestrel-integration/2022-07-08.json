@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "70e6195c-e46d-3615-665f-0f141c5d4c6c",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UE4GTX0EXPH",
+        "ts": "1657287302.322298",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a09853e8-b907-f82c-8eb4-7466003bfe60",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U22GUF0P303",
+        "ts": "1657290713.310653",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "784b1e66-cdc4-6001-a95d-7919b944a20d",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UR3LDWKU006",
+        "ts": "1657303398.784315",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3DBR7QKZWE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

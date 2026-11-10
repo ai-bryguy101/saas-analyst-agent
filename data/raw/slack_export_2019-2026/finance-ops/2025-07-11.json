@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "671ca787-d66a-7d54-fb83-5abf058a4354",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1752250158.137316",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac416b0b-3e35-e508-598b-51880eae2895",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFWAQ6E76D6",
+        "ts": "1752254069.073647",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82ca534f-61e0-6f2b-443e-2e7fc8054078",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Cox Hotels paid by wire, applying now",
+        "user": "U48TCJE75PD",
+        "ts": "1752269555.721879",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

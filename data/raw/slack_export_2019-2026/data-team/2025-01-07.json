@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "c0fc5665-0c76-2370-b1fe-df28ff4670a7",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Events schema changed again (tenant_id vs account_id)",
+        "user": "U773RMBLF5X",
+        "ts": "1736260723.844045",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4694e08-ea01-99cc-63b0-ef4d11663f8a",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UG4ETD69L1D",
+        "ts": "1736271160.687565",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52316b65-2dc2-4a6a-e7a4-aa91bad9f545",
+        "type": "message",
+        "text": "<@U0V9BPHARQX> Dashboard refresh failed overnight",
+        "user": "URFUZYLCAEC",
+        "ts": "1736293055.206272",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "cfc76670-9695-4f20-3381-5c6ebabad404",
+        "type": "message",
+        "text": "Halvorsen Mills Co. wants an exec call about the outage",
+        "user": "UFULM18ZBQ6",
+        "ts": "1642689315.710663",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c142d452-2247-25c2-6d3c-ab8e3fa2eecf",
+        "type": "message",
+        "text": "<@UWUGRQ83YYM> Superior Contracting LLC asking for an SLA credit",
+        "user": "UNCGDMQATC5",
+        "ts": "1642711217.278071",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fe9017c-55de-9796-2e8d-f3a8ce37f032",
+        "type": "message",
+        "text": "Bluewater Supply Co Inc. reporting sync failures since this morning, CSM is Hamid Roberts",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1642714260.620962",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6039592f-9521-c941-dbe7-cf64c23afcb5",
+        "type": "message",
+        "text": "Johansson Academy Ltd. reporting sync failures since this morning, CSM is Ines Johansson",
+        "user": "UMDHKXLV8RH",
+        "ts": "1642716048.852945",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f82a6c0f-5626-19f7-71fa-c5c50f6fe609",
+        "type": "message",
+        "text": "Fairhaven Warehousing Co. reporting sync failures since this morning, CSM is Abigail Fenwick",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1642716630.054864",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "189f3535-8b53-795a-6012-3c6d3eb817d2",
+        "type": "message",
+        "text": "Bayou Hotels LLC wants an exec call about the outage",
+        "user": "UNCGDMQATC5",
+        "ts": "1642724876.296891",
+        "team": "T02BRNDLCV"
+    }
+]

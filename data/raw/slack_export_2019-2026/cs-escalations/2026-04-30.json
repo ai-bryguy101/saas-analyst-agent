@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "1b7b6a34-cd72-5f22-8182-80eec989ddc1",
+        "type": "message",
+        "text": "Whitlock Properties reporting sync failures since this morning, CSM is Ngozi Lefebvre",
+        "user": "U9SD2024Q7F",
+        "ts": "1777565528.972035",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9SD2024Q7F",
+            "ts": "1777584468.964257"
+        }
+    },
+    {
+        "client_msg_id": "171a6ea0-2728-c104-4d7f-01dfd532efd9",
+        "type": "message",
+        "text": "Renewal risk: Byrne Distribution unhappy with mobile app",
+        "user": "U5DYUQUF95P",
+        "ts": "1777583882.617865",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5DYUQUF95P",
+            "ts": "1777569368.585089"
+        }
+    },
+    {
+        "client_msg_id": "fffff284-88f3-040a-3e35-b839ed02b18e",
+        "type": "message",
+        "text": "Maplewood University Facilities Holdings wants an exec call about the outage",
+        "user": "U09CZFTHQSS",
+        "ts": "1777587563.625327",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

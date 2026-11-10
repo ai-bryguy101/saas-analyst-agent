@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "26b628ea-4bd8-cfa5-ef9b-d32718fa5188",
+        "type": "message",
+        "text": "<@UJQ9E01DWPS> Welcome Shirley Price-Jones to the Customer Success team!",
+        "user": "UAHZYQG5URJ",
+        "ts": "1570627136.532545",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6d47997-5e4a-c0a4-8b8d-8ac1f144ea18",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "U69WX6HRQNH",
+        "ts": "1570629463.897302",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "595ce91a-5c73-23fa-9e4e-8e4ed90dfda3",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UV9GDKGY32C",
+        "ts": "1570635095.842365",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b02b73d-3d6c-a33e-870b-2f1e5badf244",
+        "type": "message",
+        "text": "<@U8SR98620D7> Office wifi is back up",
+        "user": "UXETPKNK8MV",
+        "ts": "1570636756.777040",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXETPKNK8MV",
+            "ts": "1570651451.238537"
+        }
+    },
+    {
+        "client_msg_id": "fa7eea83-81f9-9069-27b2-398ff14868cc",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> Q4 kickoff deck is in the drive",
+        "user": "UXETPKNK8MV",
+        "ts": "1570640654.007957",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d0bad0e-381c-f548-4f3c-565cd35b73fb",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1570648550.273808",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5643ec35-933a-ebe6-dd03-0345018565f8",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1570656601.361878",
+        "team": "T02BRNDLCV"
+    }
+]

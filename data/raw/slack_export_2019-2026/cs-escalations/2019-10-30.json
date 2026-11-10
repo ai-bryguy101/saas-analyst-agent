@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "f32f9acd-aa55-1557-9163-d4f3beaa9bb5",
+        "type": "message",
+        "text": "Fairhaven Transit Authority Ltd. reporting sync failures since this morning, CSM is Ashley Walker",
+        "user": "UL20M69UM76",
+        "ts": "1572441101.850640",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f98ea8b3-13a4-2dee-91c9-bffc7fda8a47",
+        "type": "message",
+        "text": "Can someone check Pueblo Public Works Ltd.'s invoice? They say they were double billed",
+        "user": "UYFL6320JLT",
+        "ts": "1572447993.354010",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60e70515-7766-61fa-f01c-0ea2b9dc515b",
+        "type": "message",
+        "text": "Pioneer Hospitality Group LLC wants an exec call about the outage",
+        "user": "UT7K74ALYGQ",
+        "ts": "1572451446.840025",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4a4969ce-6b20-b91b-43c3-0d73abfd6ed2",
+        "type": "message",
+        "text": "<@UXXA9L8HH83> Ashford Hotels LLC asking for an SLA credit",
+        "user": "UGUNVSC71NZ",
+        "ts": "1572451755.981391",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce233dea-0ef4-86dc-9171-4b147ec7d50c",
+        "type": "message",
+        "text": "Can someone check Beacon Retail Group Inc.'s invoice? They say they were double billed",
+        "user": "UB8UH2KX2NW",
+        "ts": "1572465700.841500",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

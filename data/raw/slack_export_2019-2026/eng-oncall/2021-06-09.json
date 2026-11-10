@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "89122278-c057-2ed8-606f-51c55b644503",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UAGQX7APZBG",
+        "ts": "1623244790.387522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "582698a6-dafa-aa9b-b67d-919286e00d21",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1623255057.280664",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#44316 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ef161b1-f00d-f5ce-8a04-5b521d0ad3dd",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UP51TVUPQU5",
+        "ts": "1623255194.014016",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "298a9af9-e85a-8d6c-40a9-106f01e6d0fc",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1623255986.155294",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#16243 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03b973c3-174e-a613-0671-c04deea32699",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1623256546.296915",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#37965 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eac1bcd9-4faa-33df-427b-3cb5881fb32c",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UMXMN24FN4K",
+        "ts": "1623261793.925403",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9ff8cfd4-71a8-205f-d923-05b8791a4d96",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UX84HDPARWN",
+        "ts": "1623263868.712723",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78702f16-cb43-ea97-0be8-f37f2a44a093",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "URWNWW8QFM6",
+        "ts": "1623264296.751733",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42db5b9c-169a-14a1-b69b-ef8d41fcd539",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UVX5HCR5MMD",
+        "ts": "1623279320.358618",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dabb6667-afeb-1d06-e94d-970ec12cdea8",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5X9PNA34DU",
+        "ts": "1623284062.786633",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fe137b2-76e6-0818-9dd6-a6370fd877bb",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1623284579.960124",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#44102 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "7aece062-17fe-0536-463c-1da5b296b411",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3YU9TS6QYB",
+        "ts": "1623790902.460731",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02e17fc9-7bc9-0f1e-f6f0-4505d939d92c",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3EQ075NUYR",
+        "ts": "1623794521.667099",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59f5b059-304d-e9ac-d6d8-629a55553a4b",
+        "type": "message",
+        "text": "Abernathy Medical Center paid by wire, applying now",
+        "user": "UL20M69UM76",
+        "ts": "1623794608.209668",
+        "team": "T02BRNDLCV"
+    }
+]

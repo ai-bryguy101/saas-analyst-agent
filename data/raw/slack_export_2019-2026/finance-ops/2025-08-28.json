@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "f4c19b1d-9cc7-8c6f-4676-b8a57c7b6c63",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UX84HDPARWN",
+        "ts": "1756389036.402422",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80bf6432-a242-50b1-d83e-ceb31729baf5",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMXMN24FN4K",
+        "ts": "1756417007.761094",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09725008-0fd0-87e9-5da6-66952891cde7",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2025",
+        "user": "UR12Y3AZNKK",
+        "ts": "1756418774.394407",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18a9b669-8567-cc50-4bc8-c0a67447791a",
+        "type": "message",
+        "text": "AR aging is up, Tillamook Unified Schools is 90+ days",
+        "user": "UWU9WG7ECGY",
+        "ts": "1756422286.060230",
+        "team": "T02BRNDLCV"
+    }
+]

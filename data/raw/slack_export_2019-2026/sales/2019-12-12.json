@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "76c4f93f-4043-da4a-7ba8-ffb3b76a0755",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1576162779.885161",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "4fd8ae37-7e53-2ab9-1775-9b29492778a4",
+        "type": "message",
+        "text": "Anyone have a reference customer in Facilities Services?",
+        "user": "UQK194B1V43",
+        "ts": "1576185513.264904",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQK194B1V43",
+            "ts": "1576168258.896952"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1934f832-8767-9087-47a0-4292e845d1d7",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFWAQ6E76D6",
+        "ts": "1784812241.366395",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4470db39-80ba-1437-5080-9354003c7392",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1784848664.750509",
+        "team": "T02BRNDLCV"
+    }
+]

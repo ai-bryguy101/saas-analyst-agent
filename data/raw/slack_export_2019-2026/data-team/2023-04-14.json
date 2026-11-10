@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "5780a6a2-5762-e998-9f47-6a0d26e29025",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UR3LDWKU006",
+        "ts": "1681483310.189883",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a619c57-d495-1c37-034b-5be1d2f913cd",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UWBW507RCA9",
+        "ts": "1681487560.079616",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "85d11d19-dbf0-b989-d75c-013ed1828886",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U8TVGALMJLQ",
+        "ts": "1681507684.083757",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e041b01-e785-bc55-3abb-64b697d04688",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UT9KGXWKHLB",
+        "ts": "1681515613.763445",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6a326a00-8c58-35ac-c71b-1d7d5d00594e",
+        "type": "message",
+        "text": "Need churn list for 2022",
+        "user": "UCQT1GS0C0C",
+        "ts": "1681519004.733457",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UCQT1GS0C0C",
+            "ts": "1681516834.859803"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "a2e824cb-9e02-1a06-4b1d-6259383fef60",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UDDBYSY4RFA",
+        "ts": "1700571808.666312",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02b604a1-7357-20b9-a448-ae0110139e67",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U7V33ZEGRET",
+        "ts": "1700580477.449923",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc6f1a0d-0f11-fe96-27c9-d18db42a7876",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U8SR98620D7",
+        "ts": "1700590067.790965",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3fbf2fb-9a2e-4839-10c0-d332f224d281",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "U9Y2KF0S90E",
+        "ts": "1700593032.971842",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45b9f0b9-4196-e47e-30ad-b1f47bbaeb8a",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U7PFYH0YRRG",
+        "ts": "1700602536.788112",
+        "team": "T02BRNDLCV"
+    }
+]

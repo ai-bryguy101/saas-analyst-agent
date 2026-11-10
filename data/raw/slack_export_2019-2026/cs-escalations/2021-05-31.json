@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "08b8c6cf-056c-4d41-e1e0-e7b91cba07c6",
+        "type": "message",
+        "text": "Vance Fabrication reporting sync failures since this morning, CSM is Kathleen Jackson",
+        "user": "UPGXMWMDQNR",
+        "ts": "1622468257.607040",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2be2ae7e-9c5b-0a26-5a79-7c33a8a6ebf1",
+        "type": "message",
+        "text": "Byrne Distribution reporting sync failures since this morning, CSM is Andrew Bailey",
+        "user": "UWBW507RCA9",
+        "ts": "1622502746.043352",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV9GDKGY32C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73da3a4c-a8c2-044e-7781-b879d3baac48",
+        "type": "message",
+        "text": "Can someone check Fenwick Realty Management's invoice? They say they were double billed",
+        "user": "UAGQX7APZBG",
+        "ts": "1622503184.450057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2cb45c05-0458-8e00-fbfa-60078190d34e",
+        "type": "message",
+        "text": "Heron Mills Group wants an exec call about the outage",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1622504086.147035",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "91e04ce3-26b0-8084-9ad6-3af39c75ef98",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U9V01K22TU1",
+        "ts": "1719237132.585885",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1719271503.944918"
+        }
+    },
+    {
+        "client_msg_id": "61775277-cd02-9e34-7079-bffebfd08cd5",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UWU9WG7ECGY",
+        "ts": "1719237896.193144",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UC70JNE74S7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfaf1e77-6ddc-2fc0-3d4a-114b0b30b9c7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1719259041.188845",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#79345 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "812e161a-121f-b3a9-2dd5-aec841f4fea1",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U773RMBLF5X",
+        "ts": "1719265879.903817",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1565d85c-6e99-1ee5-1155-3e6d00f6082f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1719269820.597180",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#54481 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

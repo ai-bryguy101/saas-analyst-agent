@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "59ad8992-e639-2270-4489-09d3207defd4",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UA3MVBJWAHX",
+        "ts": "1756302160.608810",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d679c976-5de8-3b84-bb56-da0ab2a0f0cb",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQTUT2GDN85",
+        "ts": "1756307409.176879",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "90c4978c-d2bb-1ef4-6efa-5397a9587b77",
+        "type": "message",
+        "text": "Lost Magnolia Residential LLC to Plinthwise on price",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1756310868.546989",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UP8JCWGGNJ4",
+            "ts": "1756301465.172739"
+        }
+    },
+    {
+        "client_msg_id": "e3ba4b62-c1d8-f216-3c9d-8756cae140f3",
+        "type": "message",
+        "text": "Lost Silverleaf Builders Inc. to Plinthwise on price",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1756312799.438766",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3fb40186-8258-a6ab-a50f-53f6c2db4b18",
+        "type": "message",
+        "text": "Kestrel Warehousing Group wants a discount, how far can I go?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1756324193.854098",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0a1c6910-9a71-a8f8-031e-8a2aa657c786",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Pricing question: does Pro include Dispatch?",
+        "user": "UWU9WG7ECGY",
+        "ts": "1756332948.973090",
+        "team": "T02BRNDLCV"
+    }
+]

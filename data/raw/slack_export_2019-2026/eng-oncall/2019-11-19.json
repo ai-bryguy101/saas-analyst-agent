@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "368fe516-8168-10cf-d6f9-419fcd8a4011",
+        "type": "message",
+        "text": "rolling back v7.0.2",
+        "user": "UVQRW5SQSEL",
+        "ts": "1574184954.645975",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2196e3b8-2e65-2cf8-68fb-ee5c5e3254dc",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1574186830.092635",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3033b4fa-f523-6960-d3f9-0da86b56c497",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UG4ETD69L1D",
+        "ts": "1574187894.212836",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cae03647-3c04-467a-981b-621c541ca352",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3YU9TS6QYB",
+        "ts": "1574188591.761319",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd9c8f6a-535c-dc30-e06a-6cd9fe5c30c5",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U9V01K22TU1",
+        "ts": "1574205818.624402",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "236e02cd-1ba0-b06e-7e42-36c0f47234b6",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXETPKNK8MV",
+        "ts": "1574208516.306394",
+        "team": "T02BRNDLCV"
+    }
+]

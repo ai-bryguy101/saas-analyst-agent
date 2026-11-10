@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "5ff66049-ec84-9d10-8bd8-1505e2b435fb",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2021",
+        "user": "UV9GDKGY32C",
+        "ts": "1630676002.365913",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb82044c-88a6-62c0-2415-9aa1fe80a3b3",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> AR aging is up, Saguaro Suites Co. is 90+ days",
+        "user": "UXETPKNK8MV",
+        "ts": "1630691009.566635",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "98a22634-0343-0216-cb11-0f607b0c38e9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UE4GTX0EXPH",
+        "ts": "1630698372.027136",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e11eca43-28d8-f101-e66b-77bf73b7d81e",
+        "type": "message",
+        "text": "AR aging is up, Clearwater University Facilities Holdings is 90+ days",
+        "user": "U8TVGALMJLQ",
+        "ts": "1630715912.235559",
+        "team": "T02BRNDLCV"
+    }
+]

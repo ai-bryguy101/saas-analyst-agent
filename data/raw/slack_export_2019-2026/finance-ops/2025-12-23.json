@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "9e2eab94-9baf-e507-dbf2-f562081b8fbe",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2025",
+        "user": "UH9DL28T3MH",
+        "ts": "1766500382.737151",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d7dcb12-363f-96a9-fbed-0186df2669d6",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UJKZ2R47YW9",
+        "ts": "1766515550.588386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "13fad3bf-c98e-dbc5-9337-587f207283d5",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXXA9L8HH83",
+        "ts": "1766518241.911734",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b74cdff-7819-2764-f7aa-daa10b18f0a9",
+        "type": "message",
+        "text": "AR aging is up, Lakeshore Distribution Co. is 90+ days",
+        "user": "UB8UH2KX2NW",
+        "ts": "1766533416.668927",
+        "team": "T02BRNDLCV"
+    }
+]

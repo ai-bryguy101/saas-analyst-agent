@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "d2b224c1-1b4c-5dd1-5ab9-eef59c9a853a",
+        "type": "message",
+        "text": "Heron Inns paid by wire, applying now",
+        "user": "UE49ET7WGNU",
+        "ts": "1755868126.408374",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c953e99c-4f15-313a-efab-305f25e0b0f8",
+        "type": "message",
+        "text": "AR aging is up, Scott Manufacturing Co. is 90+ days",
+        "user": "U22GUF0P303",
+        "ts": "1755874122.262556",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a90e42e-9ada-d3c1-ecef-a57b9520fcd5",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UHV2RFNY0HN",
+        "ts": "1755895368.963434",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a286fb6-4e65-ff22-dbed-50ef64585bba",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1755896875.251421",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "65ad5dde-ae11-72f4-9d83-2de5885bd43c",
+        "type": "message",
+        "text": "Wabash Builders Inc. paid by wire, applying now",
+        "user": "UB8UH2KX2NW",
+        "ts": "1755900742.270922",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

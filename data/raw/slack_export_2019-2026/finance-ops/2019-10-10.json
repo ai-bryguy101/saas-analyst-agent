@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "90fb5461-1acc-5761-7e90-c51f31234333",
+        "type": "message",
+        "text": "Morales Clinics LLC paid by wire, applying now",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1570713203.235687",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e261316-0545-a4e1-6ec6-3021fa47fc14",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U3KL08VJD8C",
+        "ts": "1570714263.573806",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c204943-5988-600f-6f59-242d982bb548",
+        "type": "message",
+        "text": "Stonebridge Properties LLC paid by wire, applying now",
+        "user": "U69WX6HRQNH",
+        "ts": "1570729801.319138",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

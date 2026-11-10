@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "a7c53b3c-a3d3-3e55-c606-aed363202eb1",
+        "type": "message",
+        "text": "Can someone check Kingsley Property Services's invoice? They say they were double billed",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1623939640.335392",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5dd0abc1-8d33-dabc-fb24-705db1d996a0",
+        "type": "message",
+        "text": "Miami Markets Inc. asking for an SLA credit",
+        "user": "UXVNE61TTLN",
+        "ts": "1623939820.107822",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eaef551a-e2fc-ff0b-24b7-73364a16a273",
+        "type": "message",
+        "text": "Renewal risk: Gatehouse Builders Group unhappy with mobile app",
+        "user": "UA3MVBJWAHX",
+        "ts": "1623941318.039814",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3fa5c4fc-56bd-e371-d882-faff8b586ec7",
+        "type": "message",
+        "text": "Lakeshore Distribution Co. reporting sync failures since this morning, CSM is Kathleen Jackson",
+        "user": "UUFS9CP1A17",
+        "ts": "1623946986.775438",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2a6dcf4-63be-5542-3bd1-3de69edb794b",
+        "type": "message",
+        "text": "Renewal risk: Yarrow Mechanical unhappy with mobile app",
+        "user": "UFARBQM0LCD",
+        "ts": "1623952267.865637",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9bdd5de5-6587-0a4f-d085-4fa9426a3e00",
+        "type": "message",
+        "text": "Renewal risk: Shenandoah Warehousing Co. unhappy with mobile app",
+        "user": "U8SR98620D7",
+        "ts": "1623958875.867868",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6a8b379-5715-5475-ac25-4949abfb15f5",
+        "type": "message",
+        "text": "Kestrel Inns Corp. asking for an SLA credit",
+        "user": "U0V9BPHARQX",
+        "ts": "1623969633.695869",
+        "team": "T02BRNDLCV"
+    }
+]

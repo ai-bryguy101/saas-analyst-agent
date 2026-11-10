@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "d010a3e0-7419-3039-f239-a74b5d7c6553",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U9U3DZUVA3L",
+        "ts": "1605035953.759078",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "34089727-b935-8a94-f4d0-b31f36bef6a4",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UBHB6GTB73U",
+        "ts": "1605053672.122839",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

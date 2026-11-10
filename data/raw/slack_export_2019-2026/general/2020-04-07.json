@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "57b7fa68-a45d-be4d-73ff-eca6af5f0fb5",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1586283555.756232",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b00d3aa6-608b-8d3a-d957-a75b5004d867",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U5DYUQUF95P",
+        "ts": "1586301721.589202",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ae9e0a1-1609-6e83-fc37-e7cc02a23af1",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> Benefits enrollment closes Friday",
+        "user": "U9Y2KF0S90E",
+        "ts": "1586302480.003206",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

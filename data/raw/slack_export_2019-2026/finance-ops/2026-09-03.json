@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "4a455531-70ab-d50d-4af2-07b32758f9f1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U69WX6HRQNH",
+        "ts": "1788472051.996917",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "41198910-07f0-ba5c-a987-fa8fcc9617a7",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2026",
+        "user": "UC95B7VAFX0",
+        "ts": "1788473892.319763",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7f1e2e0d-3cc9-1869-7019-e3d91559c30d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1788478907.935994",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

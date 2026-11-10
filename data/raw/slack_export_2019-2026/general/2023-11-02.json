@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "06403f5e-89f7-ce30-6e67-a2e53c66b399",
+        "type": "message",
+        "text": "<@UE49ET7WGNU> Welcome Lorraine Whitlock to the Sales team!",
+        "user": "U5DYUQUF95P",
+        "ts": "1698933262.699584",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5DYUQUF95P",
+            "ts": "1698966622.452760"
+        }
+    },
+    {
+        "client_msg_id": "fa568149-a8fa-08f8-a96e-f30c9cfdf0d8",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UR12Y3AZNKK",
+        "ts": "1698934253.003893",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b5457b00-57f5-ee0a-3a9a-d227f8b6c383",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UE4GTX0EXPH",
+        "ts": "1698954742.719280",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

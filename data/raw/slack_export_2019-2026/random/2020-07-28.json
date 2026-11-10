@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6d51158d-4fa1-e4eb-0a6b-8345baefab28",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U22GUF0P303",
+        "ts": "1595956486.628948",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34099310-1497-cdd2-c06e-95a78b2fb92c",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UVQRW5SQSEL",
+        "ts": "1595971811.704165",
+        "team": "T02BRNDLCV"
+    }
+]

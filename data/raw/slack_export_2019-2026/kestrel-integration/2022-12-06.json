@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "5acdfea0-4b40-365b-d2ae-9db067f68fdb",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U3DBR7QKZWE",
+        "ts": "1670333860.661268",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6001f20-7767-cb6a-3134-2442d828f44d",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UNFVCYNZT6K",
+        "ts": "1670353244.369769",
+        "team": "T02BRNDLCV"
+    }
+]

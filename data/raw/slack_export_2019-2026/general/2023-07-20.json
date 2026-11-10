@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "68af5f28-015a-5939-6104-35eaf1bc669d",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UWBW507RCA9",
+        "ts": "1689865341.101204",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed25c306-e6ab-ceeb-ef0a-fda099f7169b",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U5X9PNA34DU",
+        "ts": "1689867409.810576",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f74e308e-bb58-7421-eddb-2074f0dd91a8",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UXS2WD4BYRN",
+        "ts": "1689874375.695154",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXS2WD4BYRN",
+            "ts": "1689879737.491418"
+        }
+    },
+    {
+        "client_msg_id": "de6b6d16-9378-6991-2f42-758dbd8d2766",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UYR8E48FJ62",
+        "ts": "1689874533.582454",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee8b4edf-6409-c67f-ecb6-ac15278f96af",
+        "type": "message",
+        "text": "Welcome Bjorn Wright to the Sales team!",
+        "user": "UL20M69UM76",
+        "ts": "1689881700.481942",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "321b0c76-af51-00e5-759b-ed9cc7bc4621",
+        "type": "message",
+        "text": "Welcome Lauren Park to the Engineering team!",
+        "user": "UV9KPNCPQJN",
+        "ts": "1689883054.317757",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "45d835e6-5ae6-53ea-0ca8-5ee8621e723e",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UPGXMWMDQNR",
+        "ts": "1689886423.151939",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98fc0c85-06d8-a029-09ad-955e5333d066",
+        "type": "message",
+        "text": "<@UWBW507RCA9> Welcome Amara Brown to the Engineering team!",
+        "user": "UVQRW5SQSEL",
+        "ts": "1689895375.720560",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1616aaf9-89de-d3e7-9451-328946769556",
+        "type": "message",
+        "text": "Welcome Peter Pham to the Finance team!",
+        "user": "UA3MVBJWAHX",
+        "ts": "1689897418.440201",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d0ef125-999a-18a8-54af-0604526f86b4",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U3YU9TS6QYB",
+        "ts": "1689899664.371307",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "1c24d831-4c35-7c96-89e8-b57fa26378b8",
+        "type": "message",
+        "text": "<@UFWAQ6E76D6> Ostrander Couriers Group reporting sync failures since this morning, CSM is Jason Garcia",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1789048094.814823",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "20fab2f5-a883-40db-ff63-83921eb87f38",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Can someone check Vance Suites LLC's invoice? They say they were double billed",
+        "user": "UXXA9L8HH83",
+        "ts": "1789059465.886113",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eb2e5d8e-eaa6-c7b2-2d7b-930cf9af5e27",
+        "type": "message",
+        "text": "Nowak Construction asking for an SLA credit",
+        "user": "U3YU9TS6QYB",
+        "ts": "1789065677.601397",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dba86e0-a53b-459a-d5c9-67b0c4d855b2",
+        "type": "message",
+        "text": "Can someone check Patel Health Partners Co.'s invoice? They say they were double billed",
+        "user": "UJQY3Q26RVW",
+        "ts": "1789075651.161197",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45baabe6-83a9-0f88-60e8-d14e3101140d",
+        "type": "message",
+        "text": "Ostrander Industries Corp. reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "UBHB6GTB73U",
+        "ts": "1789076175.915636",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "032a4d9a-7382-63a5-82e3-3f31d358b7f0",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Fairhaven Warehousing Co. wants an exec call about the outage",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1789086436.121921",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UL7VFDJEZ2W",
+            "ts": "1789070044.992826"
+        }
+    }
+]

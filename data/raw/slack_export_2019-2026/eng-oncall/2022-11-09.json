@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "1fb039e8-be6d-ebe4-9cbd-0a9218e7bfbb",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> replica lag on db-03 again",
+        "user": "UYFL6320JLT",
+        "ts": "1668000737.882984",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "55997c01-6f02-26e2-1534-4ef4b6e4fcaf",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1668015704.362340",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d072df6b-9e95-d4de-0dec-9137331ba110",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFJUKVTAA1B",
+        "ts": "1668037307.944510",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9e9ea684-6338-f44c-9911-2833de84f9f3",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1668038927.709074",
+        "team": "T02BRNDLCV"
+    }
+]

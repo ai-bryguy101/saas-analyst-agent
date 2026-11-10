@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "fe9027af-12a9-2208-7e3b-773cfbef9062",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> postmortem doc for yesterday is up",
+        "user": "UMXMN24FN4K",
+        "ts": "1783083799.372649",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f4b9ea7-f893-decb-d5be-b17bca1fd2bf",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1783085885.370956",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#16495 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5aa7b903-8144-ba42-011f-76dd63a63867",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1783086015.079697",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#14742 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65f5ede4-f742-93c7-2884-96abbdbc904e",
+        "type": "message",
+        "text": "<@U22GUF0P303> postmortem doc for yesterday is up",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1783087974.157750",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bc4a402-0b54-b098-d7ba-d81502caf76c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1783093060.113745",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#15295 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d79f0735-0598-7ad6-6ee8-9ae247371392",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U2CKCF24AEA",
+        "ts": "1783113561.818305",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3bc3e7d9-298b-88b1-105e-41720d9d66a5",
+        "type": "message",
+        "text": "rolling back v6.9.5",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1783114047.718252",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21b26d5f-af80-70a4-b399-58d3562b428e",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UXXA9L8HH83",
+        "ts": "1783114577.170412",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "acf124a8-44ee-1b16-3399-864c4ae502b6",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> replica lag on db-03 again",
+        "user": "UQTUT2GDN85",
+        "ts": "1783120668.374877",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

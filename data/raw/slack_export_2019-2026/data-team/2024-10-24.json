@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "eab8b6a3-b93c-aba2-18c4-435d7a7c45b3",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U2CKCF24AEA",
+        "ts": "1729776040.933853",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2CKCF24AEA",
+            "ts": "1729782215.578891"
+        }
+    },
+    {
+        "client_msg_id": "4c888d05-37cb-5090-889d-d45c83141430",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UYR8E48FJ62",
+        "ts": "1729791190.809687",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3c06359e-0ddd-dd39-d682-1b6910980044",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1729793440.094326",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fa909e0-8a0e-a5aa-c346-67fd8609011d",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Need churn list for 2023",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1729798355.619927",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ecb605f8-3bb8-7d89-8d8b-fb69ed83f7d3",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UC95B7VAFX0",
+        "ts": "1729807118.834982",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

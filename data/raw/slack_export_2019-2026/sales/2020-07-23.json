@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "c4036029-c427-8f21-f517-0a5d093ffb0d",
+        "type": "message",
+        "text": "Osprey Supply Co wants a discount, how far can I go?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1595516647.957216",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95715026-feb1-a354-e2a4-634729e60a0f",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UV9GDKGY32C",
+        "ts": "1595527948.568556",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dbffd431-5b11-c78b-eb00-153f0bdbe138",
+        "type": "message",
+        "text": "Closed Byrne Resorts Holdings! 146 seats, Pro",
+        "user": "UP51TVUPQU5",
+        "ts": "1595546765.644160",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04e23e8a-0c2d-b001-ea1a-5c29d7ef03ab",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U0E67MPWRXA",
+        "ts": "1595551671.020531",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "5e8c79a0-3869-85d7-5716-decb03c30898",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U22GUF0P303",
+        "ts": "1586196854.620089",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac530b30-7602-304e-dfc4-3c50ae82e4f9",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UMDHKXLV8RH",
+        "ts": "1586197636.876008",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "febdbb89-963f-48f2-04f2-f441d7ce3c20",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2020",
+        "user": "UC95B7VAFX0",
+        "ts": "1586206271.098612",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c57c528a-6852-f581-f3c3-89fc0f13fc26",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2020",
+        "user": "U5X9PNA34DU",
+        "ts": "1586218058.249782",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

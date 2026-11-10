@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "cff51b8b-f74a-5003-3c8f-d2a1170e4090",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UV9GDKGY32C",
+        "ts": "1600180060.173173",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f2290801-65da-dd11-a606-06a54458a0fa",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9SD2024Q7F",
+        "ts": "1600185876.054286",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a6b3a0b-0a75-dabb-9e52-628e267dcae0",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXXA9L8HH83",
+        "ts": "1600188092.971835",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d66bc52-d1e2-c29f-a9d2-b7b4fefcf056",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UGPRJ4K947R",
+        "ts": "1600190003.895674",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2256c003-f360-d2dc-8f7f-5e3c89050a2f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UCQT1GS0C0C",
+        "ts": "1600201529.203609",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1014ea15-5240-4d62-56ca-782e0bd5d49d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1600205242.613802",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66a6a6b3-9767-8bb8-e33d-9badfeeb017e",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U9V01K22TU1",
+        "ts": "1600206245.055237",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21d3c0e2-1ccc-1bc4-58c3-0b7fca68e8ca",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAGQX7APZBG",
+        "ts": "1600208457.405641",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "734a133a-63c9-715e-255c-7801cf6ec2b5",
+        "type": "message",
+        "text": "AR aging is up, Great Clinics is 90+ days",
+        "user": "UXS2WD4BYRN",
+        "ts": "1600217965.824570",
+        "team": "T02BRNDLCV"
+    }
+]

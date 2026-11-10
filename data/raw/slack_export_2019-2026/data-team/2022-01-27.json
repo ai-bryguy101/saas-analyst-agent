@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "a8f2df20-5d6d-fa55-acf6-504e15f39502",
+        "type": "message",
+        "text": "<@U3DBR7QKZWE> Events schema changed again (tenant_id vs account_id)",
+        "user": "URWNWW8QFM6",
+        "ts": "1643289192.754671",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ced4e3ee-9059-d625-9ca0-55a0172b7f34",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U09CZFTHQSS",
+        "ts": "1643299931.927167",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b8100a2-45fa-5ccc-786c-ddd62f266884",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "UYR8E48FJ62",
+        "ts": "1643310501.346931",
+        "team": "T02BRNDLCV"
+    }
+]

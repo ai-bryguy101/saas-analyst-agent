@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "98eb79f5-2a90-bbf9-87f6-3a996df8851a",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2024",
+        "user": "UJRKGMQPU2R",
+        "ts": "1709561298.396017",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0424ded6-1b8e-c015-727f-481667664b97",
+        "type": "message",
+        "text": "AR aging is up, Ostrander Facilities Management LLC is 90+ days",
+        "user": "UAHZYQG5URJ",
+        "ts": "1709568481.534119",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3de9b125-1360-ccce-a5b3-0e67aded990d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1709568805.291952",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

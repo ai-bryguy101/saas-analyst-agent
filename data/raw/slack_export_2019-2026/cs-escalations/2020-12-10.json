@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "fe5911ab-a9d8-fb02-4d3a-0b2aca78344a",
+        "type": "message",
+        "text": "Magnolia Janitorial Ltd. reporting sync failures since this morning, CSM is Ryan Iyer",
+        "user": "UVQRW5SQSEL",
+        "ts": "1607606644.021999",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e32cf95d-9e52-f5ec-188e-e72168d43f15",
+        "type": "message",
+        "text": "Can someone check Ironwood Health System Inc.'s invoice? They say they were double billed",
+        "user": "U5TERVWF7JH",
+        "ts": "1607625696.163184",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9748d5e1-558f-009c-5b44-b95c0dfebc17",
+        "type": "message",
+        "text": "Zhang Supply Co Inc. wants an exec call about the outage",
+        "user": "UQTUT2GDN85",
+        "ts": "1607626735.320578",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9cfa4a2-8b95-318b-109c-c4d8946020b7",
+        "type": "message",
+        "text": "Can someone check Lakes University Facilities Corp.'s invoice? They say they were double billed",
+        "user": "U69WX6HRQNH",
+        "ts": "1607630445.039153",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e049ddf0-c695-1388-c838-cb47a5a4e79a",
+        "type": "message",
+        "text": "Kowalski Hotels wants an exec call about the outage",
+        "user": "UE4GTX0EXPH",
+        "ts": "1607636073.118031",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eeb86cb6-0886-aa21-1044-ea24b047219d",
+        "type": "message",
+        "text": "Renewal risk: Harris Building Services Holdings unhappy with mobile app",
+        "user": "U9V01K22TU1",
+        "ts": "1607639225.061936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2434fe59-2a5f-4c10-3b91-ea31c9a9b744",
+        "type": "message",
+        "text": "<@U48TCJE75PD> Renewal risk: Jackson University Facilities Corp. unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1607640396.585467",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9a08e2f8-7816-b451-7b2f-f776db8545d1",
+        "type": "message",
+        "text": "Yarrow Academy asking for an SLA credit",
+        "user": "U5TERVWF7JH",
+        "ts": "1607642022.659262",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcd5ba02-a48c-584e-b5d6-cb2690d02e77",
+        "type": "message",
+        "text": "Penhallow Maintenance Co Co. wants an exec call about the outage",
+        "user": "UDCALCM1RUG",
+        "ts": "1607644065.068967",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDCALCM1RUG",
+            "ts": "1607642087.408991"
+        }
+    }
+]

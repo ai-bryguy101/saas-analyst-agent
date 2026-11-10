@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1cbf1aca-fd0c-cfd5-b1cf-868a950bacd5",
+        "type": "message",
+        "text": "Copperfield Retail Group Holdings reporting sync failures since this morning, CSM is Donald MacLeod",
+        "user": "UB8UH2KX2NW",
+        "ts": "1589820821.766002",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dcabd24e-0d14-5e26-7d94-ec67219c2016",
+        "type": "message",
+        "text": "Thomas Building Services Ltd. asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1589836069.199466",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "e92bd1fe-9ad7-422e-3a75-c3bf2c433f91",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> Saginaw Facilities Management wants an exec call about the outage",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1626271865.373414",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "781c573b-6411-1caa-0348-0373d390e45e",
+        "type": "message",
+        "text": "Can someone check Northgate Restoration LLC's invoice? They say they were double billed",
+        "user": "U0V9BPHARQX",
+        "ts": "1626275310.205828",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f95c157a-0ff7-2a7f-9790-fbf7cc9fdb52",
+        "type": "message",
+        "text": "Jessop Construction Inc. wants an exec call about the outage",
+        "user": "U0E67MPWRXA",
+        "ts": "1626288370.365205",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6987a0ed-84a7-556e-c8e4-189f04c2b6e3",
+        "type": "message",
+        "text": "Prairie Builders Inc. wants an exec call about the outage",
+        "user": "U9U3DZUVA3L",
+        "ts": "1626302250.640410",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

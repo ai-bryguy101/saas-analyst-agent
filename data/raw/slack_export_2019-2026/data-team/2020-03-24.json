@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "87b874ea-a1fe-9672-a9a9-f879e721a8c1",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UXETPKNK8MV",
+        "ts": "1585056758.563727",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4d515a8-74ea-de66-70f3-060a79a74431",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> Events schema changed again (tenant_id vs account_id)",
+        "user": "U94ETEKNM26",
+        "ts": "1585070462.438255",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3b8e107b-111d-ca66-e3d1-eee4998424e0",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1585084893.359028",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b2caf02-c87a-aebe-188f-0d3ce8844ac3",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1585085796.036086",
+        "team": "T02BRNDLCV"
+    }
+]

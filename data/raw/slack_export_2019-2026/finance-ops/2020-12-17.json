@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "df01781a-4c2e-761e-40a0-dba5ed9105ad",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2020",
+        "user": "UGPRJ4K947R",
+        "ts": "1608231025.408533",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04713d27-8c66-2893-2eeb-6cd18b5f35aa",
+        "type": "message",
+        "text": "AR aging is up, Eastlake Mechanical is 90+ days",
+        "user": "UE49ET7WGNU",
+        "ts": "1608237641.017330",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca4ba645-1716-387a-2798-3ca6d68b6892",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAXWVBRVKW9",
+        "ts": "1608240027.787027",
+        "team": "T02BRNDLCV"
+    }
+]

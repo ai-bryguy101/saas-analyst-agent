@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "05fb0efe-f9e3-bc89-d3f7-8ccb26dbaa2f",
+        "type": "message",
+        "text": "Great Freight paid by wire, applying now",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1652799732.109198",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d588705-ef2c-ea1e-88cb-5520e6b9980d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAGQX7APZBG",
+        "ts": "1652832181.596198",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

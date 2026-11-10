@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "0c8b6d97-2e90-986d-6d62-2e3a55df1a42",
+        "type": "message",
+        "text": "Hernandez Janitorial Group wants an exec call about the outage",
+        "user": "UZACKQ1VXCH",
+        "ts": "1684860926.851141",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b99a8dc5-f94c-bcf7-23c1-c5e5d9a0e7a0",
+        "type": "message",
+        "text": "Lindqvist Supply Co asking for an SLA credit",
+        "user": "UFGLBSDS2XV",
+        "ts": "1684861792.774911",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9cffc997-8aa1-8419-2eb7-b63b1bb12fd7",
+        "type": "message",
+        "text": "Taylor School District Holdings asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1684865396.980069",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXETPKNK8MV",
+            "ts": "1684889879.191501"
+        }
+    },
+    {
+        "client_msg_id": "6498fc6b-ff6a-fb0e-74d9-115b90a87e8f",
+        "type": "message",
+        "text": "Patriot Township Corp. asking for an SLA credit",
+        "user": "UXXA9L8HH83",
+        "ts": "1684868315.685760",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2759aa78-0bb8-be43-dc05-a8a3618268da",
+        "type": "message",
+        "text": "<@U7PFYH0YRRG> Gatehouse Residential Ltd. asking for an SLA credit",
+        "user": "U5TERVWF7JH",
+        "ts": "1684870843.333195",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51a21ba9-ce94-c3af-3c44-368a8a96e6e2",
+        "type": "message",
+        "text": "Foxglove Health System asking for an SLA credit",
+        "user": "UAGQX7APZBG",
+        "ts": "1684879520.662802",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c0379cda-319e-9572-561a-391ce575c382",
+        "type": "message",
+        "text": "Bayview Maintenance Co wants an exec call about the outage",
+        "user": "UVQRW5SQSEL",
+        "ts": "1684884119.021563",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a6f4fb3-7904-3100-619d-1dbcf94a64c8",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Can someone check Rahman Resorts's invoice? They say they were double billed",
+        "user": "U3DBR7QKZWE",
+        "ts": "1684884921.990983",
+        "team": "T02BRNDLCV"
+    }
+]

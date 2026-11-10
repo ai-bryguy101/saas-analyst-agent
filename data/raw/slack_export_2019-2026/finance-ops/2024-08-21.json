@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "0c8e69a4-051a-010c-2bc7-d94c111b802b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3EQ075NUYR",
+        "ts": "1724253299.234085",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afd74eac-e7af-1d28-29e9-83e7857ef861",
+        "type": "message",
+        "text": "<@UNKFW783RHY> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U8SR98620D7",
+        "ts": "1724262087.696835",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99b20d56-6337-718d-76da-a12cfba3225b",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> FX rates loaded for Aug 2024",
+        "user": "UFARBQM0LCD",
+        "ts": "1724272900.310455",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

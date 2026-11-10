@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "c85d9c1f-7d2c-4b6d-63e4-153e12d6ca5b",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UVX5HCR5MMD",
+        "ts": "1679517146.748738",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "730a50c4-335a-8d44-a068-671d9791f09e",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U34NH0P5TMZ",
+        "ts": "1679523415.877824",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

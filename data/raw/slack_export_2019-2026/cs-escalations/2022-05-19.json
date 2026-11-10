@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "d776bc12-d3ee-e7df-8d7d-25bb73b4a24a",
+        "type": "message",
+        "text": "Twin Academy Holdings asking for an SLA credit",
+        "user": "UAXWVBRVKW9",
+        "ts": "1652982481.754466",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3DBR7QKZWE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "062a479f-8300-b48c-bc9b-ac7fe86964f7",
+        "type": "message",
+        "text": "<@U8SR98620D7> Zhang Township Corp. asking for an SLA credit",
+        "user": "UCQT1GS0C0C",
+        "ts": "1652984384.068826",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "407e0ac5-c7ad-c087-a0b5-1cfeb4caa789",
+        "type": "message",
+        "text": "Shenandoah Health Partners wants an exec call about the outage",
+        "user": "U8TVGALMJLQ",
+        "ts": "1652987725.064103",
+        "team": "T02BRNDLCV"
+    }
+]

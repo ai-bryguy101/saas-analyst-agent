@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "cd1cb0b5-9052-95f7-ce70-d9a1a49e8548",
+        "type": "message",
+        "text": "<@UBK8V2J099L> Can someone check Cornerstone Resorts Inc.'s invoice? They say they were double billed",
+        "user": "U09CZFTHQSS",
+        "ts": "1600179139.351880",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "38788798-6cab-85aa-3dae-de6f8996c328",
+        "type": "message",
+        "text": "Erie University Facilities Inc. asking for an SLA credit",
+        "user": "URFUZYLCAEC",
+        "ts": "1600180110.204845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "64ecc8f2-b21a-7483-f599-b162c9c39c51",
+        "type": "message",
+        "text": "Renewal risk: Shenandoah Inns Co. unhappy with mobile app",
+        "user": "UQXT5A6YMVH",
+        "ts": "1600187764.107196",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c06c6bc7-6667-d111-7c9a-d857602e6049",
+        "type": "message",
+        "text": "Thompson Janitorial Group reporting sync failures since this morning, CSM is Donald MacLeod",
+        "user": "U5TERVWF7JH",
+        "ts": "1600212170.415373",
+        "team": "T02BRNDLCV"
+    }
+]

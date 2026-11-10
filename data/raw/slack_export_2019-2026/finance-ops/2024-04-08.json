@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e00428b9-cd5a-985c-f308-55dfd265b952",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAGQX7APZBG",
+        "ts": "1712581572.890390",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14c63f69-05ae-5705-4f32-64f1f37ed0d0",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2024",
+        "user": "UL20M69UM76",
+        "ts": "1712587650.367814",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "105b61cb-b392-19dc-5f56-618cc93750a9",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U3KL08VJD8C",
+        "ts": "1712614624.941574",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

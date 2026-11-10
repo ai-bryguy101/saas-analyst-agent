@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "b015dd0b-cfc0-dbf3-570a-0bda05a7af60",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U9Y2KF0S90E",
+        "ts": "1614778559.254246",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33d08d02-8ff9-3bb6-62f4-fe42534fccb7",
+        "type": "message",
+        "text": "<@UGPRJ4K947R> rolling back v9.34.2",
+        "user": "UB8UH2KX2NW",
+        "ts": "1614792945.331720",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f2e0423-34e3-d4db-e412-88f509d6323f",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UXXA9L8HH83",
+        "ts": "1614795046.546659",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed107843-5b46-6853-2ed9-131e1fad8c56",
+        "type": "message",
+        "text": "deploy v8.6.6 to prod :rocket:",
+        "user": "U22GUF0P303",
+        "ts": "1614802730.659287",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "52fa1a78-9dfb-9419-c8c6-5e614fdb8062",
+        "type": "message",
+        "text": "rolling back v7.35.3",
+        "user": "UB8UH2KX2NW",
+        "ts": "1614810452.674209",
+        "team": "T02BRNDLCV"
+    }
+]

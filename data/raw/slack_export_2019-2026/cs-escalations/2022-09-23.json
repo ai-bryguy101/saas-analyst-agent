@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "4876735d-780b-0239-efbc-c7c7ebbaa484",
+        "type": "message",
+        "text": "Renewal risk: Tidewater Logistics Co. unhappy with mobile app",
+        "user": "U3KL08VJD8C",
+        "ts": "1663946609.440248",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5074f921-5a5d-781a-cf42-3a6af63a7c35",
+        "type": "message",
+        "text": "Pioneer Resorts Corp. asking for an SLA credit",
+        "user": "UA3MVBJWAHX",
+        "ts": "1663947788.727922",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6419746d-1f75-d200-5f3a-3177688657df",
+        "type": "message",
+        "text": "Mesa Outfitters wants an exec call about the outage",
+        "user": "UXETPKNK8MV",
+        "ts": "1663951387.539321",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c1b2cb8-7436-43c0-33ce-0d19f6d3af82",
+        "type": "message",
+        "text": "<@U5TERVWF7JH> Can someone check Westbrook Retail Group Holdings's invoice? They say they were double billed",
+        "user": "UT9KGXWKHLB",
+        "ts": "1663958347.838083",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9a3074c-0342-ca6f-d182-a528df05cfe0",
+        "type": "message",
+        "text": "Commonwealth Hospital LLC reporting sync failures since this morning, CSM is Janice Mendoza",
+        "user": "U9SD2024Q7F",
+        "ts": "1663961948.863660",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9SD2024Q7F",
+            "ts": "1663969375.052324"
+        }
+    },
+    {
+        "client_msg_id": "b81bce54-657f-73c7-a1f8-9308a1c7e95c",
+        "type": "message",
+        "text": "Scioto Supply Co Holdings asking for an SLA credit",
+        "user": "U9XCAUGPS1F",
+        "ts": "1663968770.472838",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

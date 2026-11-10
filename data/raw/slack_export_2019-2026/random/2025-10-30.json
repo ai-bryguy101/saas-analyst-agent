@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "5c7c89e6-04a6-22e5-1b61-0101cfaebee6",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> the parking lot is flooded lol",
+        "user": "UVX5HCR5MMD",
+        "ts": "1761863125.601817",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0d23db0-8fa1-6ffe-8b78-89b0fab8fde3",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U3KL08VJD8C",
+        "ts": "1761868452.102597",
+        "team": "T02BRNDLCV"
+    }
+]

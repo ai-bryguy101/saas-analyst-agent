@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "bce87078-2d8b-5e6f-86ff-1f2c33f1b2dd",
+        "type": "message",
+        "text": "Renewal risk: Venkatesan Freight Co. unhappy with mobile app",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1579619023.276105",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c8d4834d-100e-38d7-e271-209336380065",
+        "type": "message",
+        "text": "Millbrook Mechanical Inc. wants an exec call about the outage",
+        "user": "U9U3DZUVA3L",
+        "ts": "1579635252.339988",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ee3dcd0-0189-bc0d-c942-15472ca30c2e",
+        "type": "message",
+        "text": "Yamamoto Fabrication Co. wants an exec call about the outage",
+        "user": "URWNWW8QFM6",
+        "ts": "1579636035.950734",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "d0b57ae8-ad6b-e16d-7e86-0e5efdc7e02d",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2026",
+        "user": "UA3MVBJWAHX",
+        "ts": "1786111194.806687",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6242f1a2-77d4-ee21-b8ad-27b779174ff2",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMXMN24FN4K",
+        "ts": "1786120896.617939",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMXMN24FN4K",
+            "ts": "1786112293.377975"
+        }
+    },
+    {
+        "client_msg_id": "57301f4c-a687-2025-3fcb-6f04a669b4ed",
+        "type": "message",
+        "text": "Moore Hotels LLC paid by wire, applying now",
+        "user": "URFUZYLCAEC",
+        "ts": "1786127594.178595",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "91844b7e-f69e-c59a-a2bc-32cb924b3f12",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1573134106.418864",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10972d01-eb4e-4bb2-a738-0524961cbd94",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2019",
+        "user": "U2CKCF24AEA",
+        "ts": "1573152295.718746",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bbfcdadb-ba46-43db-7ae3-658a7c85f36f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFJUKVTAA1B",
+        "ts": "1573163392.551632",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4401595a-d6a6-eec8-8dd8-0c08ad051d45",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U22GUF0P303",
+        "ts": "1573163727.660310",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "38b93bc5-715e-7959-3098-818b33809405",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> GBP invoices migrating next sprint",
+        "user": "U3DBR7QKZWE",
+        "ts": "1653319495.532736",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee079137-62af-47ea-d6cb-1d2cae8cc533",
+        "type": "message",
+        "text": "<@UTLU2ZXMLEL> Kestrel SSO cutover tonight",
+        "user": "U7V33ZEGRET",
+        "ts": "1653322106.986767",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49417a29-7363-7059-3038-a45748db7275",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "U3EQ075NUYR",
+        "ts": "1653325109.948845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9d446f32-3565-ee7d-cfe9-088c06116a3c",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UUFS9CP1A17",
+        "ts": "1653337747.476896",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfb3bf85-9ea2-ae7e-54f7-32f38e222be6",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U773RMBLF5X",
+        "ts": "1653339037.758993",
+        "team": "T02BRNDLCV"
+    }
+]

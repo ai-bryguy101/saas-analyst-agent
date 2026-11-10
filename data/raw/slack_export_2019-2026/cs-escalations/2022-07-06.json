@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "8a76d5e4-8358-4007-0d4d-4ef509cbf7bb",
+        "type": "message",
+        "text": "Renewal risk: Mitchell Supply Co LLC unhappy with mobile app",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1657114103.653027",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16cb2e40-aef2-9a00-7d2c-0b8423a9cfe3",
+        "type": "message",
+        "text": "Murphy Health Partners Co. reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1657123884.979486",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U4DHNBQWUVZ",
+            "ts": "1657121491.574102"
+        }
+    },
+    {
+        "client_msg_id": "e2d7c97d-c26d-950f-5a0a-c89bc7562c15",
+        "type": "message",
+        "text": "Great Property Group Corp. wants an exec call about the outage",
+        "user": "U9XCAUGPS1F",
+        "ts": "1657125770.518368",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "92c96f6a-eab1-7b4f-223c-bbff0cb2e692",
+        "type": "message",
+        "text": "Wexford Builders Inc. wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1657126677.457560",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "44b7b725-f640-1654-923c-8ce67aaea50a",
+        "type": "message",
+        "text": "Tidewater Properties reporting sync failures since this morning, CSM is Tyler Scott",
+        "user": "U5X9PNA34DU",
+        "ts": "1657144823.919265",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9c0f52bf-4ec5-e65e-f787-e09d4c5a4825",
+        "type": "message",
+        "text": "Muskingum Hotels Holdings reporting sync failures since this morning, CSM is Ngozi Pelletier",
+        "user": "UR12Y3AZNKK",
+        "ts": "1657146182.518310",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6980ae5-6a07-2d35-6364-ac8e70da959e",
+        "type": "message",
+        "text": "Osprey Freight wants an exec call about the outage",
+        "user": "U2LMMLL4F31",
+        "ts": "1657155012.958687",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f61ec50d-2329-f9b4-9c3e-badd5dca78fd",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U34NH0P5TMZ",
+        "ts": "1720203128.324233",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7a9938a-6c22-ff5f-9b92-3bd68da7c636",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "U09CZFTHQSS",
+        "ts": "1720213962.009984",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "443f6282-f42c-faa4-fe34-0b3c0aab82e8",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "URWNWW8QFM6",
+        "ts": "1720223201.423269",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

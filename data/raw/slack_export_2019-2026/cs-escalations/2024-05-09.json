@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "a1b73898-0efa-5f4b-808e-dba32bc246e2",
+        "type": "message",
+        "text": "Abernathy Medical Center reporting sync failures since this morning, CSM is Renata Takahashi",
+        "user": "U0E67MPWRXA",
+        "ts": "1715270093.840568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6c8ed87-33e4-d75b-21e7-d784c4ff7748",
+        "type": "message",
+        "text": "Renewal risk: Pinecrest Restoration unhappy with mobile app",
+        "user": "UB8UH2KX2NW",
+        "ts": "1715272888.076383",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f33840d-383a-ceda-c5cb-7aa3528199a2",
+        "type": "message",
+        "text": "Lakes Health System LLC reporting sync failures since this morning, CSM is Priya Raghunathan",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1715276455.187827",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84e21764-60d7-385a-dc5f-4cd766ec049c",
+        "type": "message",
+        "text": "Tidewater Homes Co. asking for an SLA credit",
+        "user": "UAXWVBRVKW9",
+        "ts": "1715279327.324767",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "638d41a8-834e-f254-43ba-8589f9558d25",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Can someone check Bayou Outfitters Inc.'s invoice? They say they were double billed",
+        "user": "URFUZYLCAEC",
+        "ts": "1715293719.103951",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09752ac0-7e60-37c8-dfed-b35f4bc88b83",
+        "type": "message",
+        "text": "Yarrow Restoration Holdings wants an exec call about the outage",
+        "user": "UE4GTX0EXPH",
+        "ts": "1715297917.337195",
+        "team": "T02BRNDLCV"
+    }
+]

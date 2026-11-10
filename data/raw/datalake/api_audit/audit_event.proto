@@ -1,0 +1,16 @@
+syntax = "proto3";
+package bc.audit.v1;
+
+// Written by api-gateway. One file per month, each message prefixed by its
+// length as a varint (writeDelimitedTo). Timestamps are UTC epoch millis.
+message AuditEvent {
+  int64  ts_ms       = 1;
+  string actor_id    = 2;   // Okta user id (00u...), or "svc:<name>" for service accounts
+  string method      = 3;
+  string path        = 4;   // templated path, query string stripped
+  uint32 status      = 5;
+  string src_ip      = 6;   // last hop; office NAT is 203.0.113.0/24
+  uint64 resp_bytes  = 7;
+  string request_id  = 8;
+  string user_agent  = 9;   // added 2025-06; absent before
+}

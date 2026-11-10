@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "46ef3050-ee41-2d22-877d-8d9e3290b3ca",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UP51TVUPQU5",
+        "ts": "1602616143.491585",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93f200b3-5eac-4250-e4b0-e3a471fc8fd8",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UE4GTX0EXPH",
+        "ts": "1602623141.145867",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UE4GTX0EXPH",
+            "ts": "1602619141.881755"
+        }
+    },
+    {
+        "client_msg_id": "6cc5c032-88dc-6002-725c-d343e141eb40",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1602623255.394284",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWLZTMJ6YM7",
+            "ts": "1602624565.874032"
+        }
+    },
+    {
+        "client_msg_id": "c18f4140-1c6e-0c77-3780-62ba262344a0",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2020",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1602629122.069795",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed91a851-4473-5c7a-8996-c3db9dca41fe",
+        "type": "message",
+        "text": "FX rates loaded for Oct 2020",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1602629635.625298",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40c45b90-e7f6-14db-bdfe-674e61b1b6bc",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U2CKCF24AEA",
+        "ts": "1602635307.636015",
+        "team": "T02BRNDLCV"
+    }
+]

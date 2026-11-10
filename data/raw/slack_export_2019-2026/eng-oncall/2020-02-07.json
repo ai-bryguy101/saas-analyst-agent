@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "8e5f70a5-787e-c5e5-bb78-2019fc59f44e",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UYFL6320JLT",
+        "ts": "1581085876.164661",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d13cd571-cf1b-91e3-d6fe-dade6146d13d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UT9KGXWKHLB",
+        "ts": "1581089295.294208",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fbedf781-d8a8-fa6a-8171-0f7e2f02ef19",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1581094152.286111",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#15367 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18a9300a-475a-a6a2-f644-ea03ba029e9f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1581094292.089252",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#11884 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61a51c32-d02b-f1a5-6cf1-902bd82fa7aa",
+        "type": "message",
+        "text": "rolling back v7.35.3",
+        "user": "UMDHKXLV8RH",
+        "ts": "1581101509.722468",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f250ef60-d90d-fc33-f488-4d957121ab16",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U8TVGALMJLQ",
+        "ts": "1581101660.694327",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1d57c069-ec97-f749-d848-fbc884a7689a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1581105900.628129",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#82049 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec699921-e9f9-11b4-41f8-452aba456a19",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U3EQ075NUYR",
+        "ts": "1581106771.469797",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74ef1fb7-f7fb-31cf-da0d-7f04404e1763",
+        "type": "message",
+        "text": "<@UJQ9E01DWPS> who owns the cron for nightly exports?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1581113914.348235",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "282d976c-c700-3473-172b-95316c3e6ed0",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U3YU9TS6QYB",
+        "ts": "1581114376.765405",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "903df641-d05e-c8b7-49bf-7aea35b98189",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U5X9PNA34DU",
+        "ts": "1581117314.801354",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3da7bb04-98fe-4689-2a66-04e22adfddc0",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UYFL6320JLT",
+        "ts": "1581117573.505303",
+        "team": "T02BRNDLCV"
+    }
+]

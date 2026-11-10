@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "b12dd75d-0877-7d9e-2158-c393410f4297",
+        "type": "message",
+        "text": "Superior Mechanical Ltd. wants an exec call about the outage",
+        "user": "UAGQX7APZBG",
+        "ts": "1701350912.133719",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09d906a4-9da7-f1db-5c51-85f12602e483",
+        "type": "message",
+        "text": "Tri-County Logistics Corp. wants an exec call about the outage",
+        "user": "UJKZ2R47YW9",
+        "ts": "1701359508.490243",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0616dd6f-73a1-3270-6400-acd5937e6cbf",
+        "type": "message",
+        "text": "<@U7PFYH0YRRG> Pinecrest County Facilities Holdings asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1701365427.447114",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c174e217-f186-589f-a6e2-ff538ad30b87",
+        "type": "message",
+        "text": "Saguaro Retail Group reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1701371432.466272",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c7543052-7918-ba56-1dc0-73184017035e",
+        "type": "message",
+        "text": "Ashford Unified Schools Inc. reporting sync failures since this morning, CSM is Renata Esposito",
+        "user": "UQLM603293J",
+        "ts": "1701372524.577915",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "217b41ca-868a-5d54-e322-4c8cac420b85",
+        "type": "message",
+        "text": "Kingsley Municipal Services Group asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1701372998.314177",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUFS9CP1A17",
+            "ts": "1701351804.472549"
+        }
+    },
+    {
+        "client_msg_id": "d1d1b535-5a5e-2cf9-9257-dc63b3045f59",
+        "type": "message",
+        "text": "Stonebridge Mills Inc. asking for an SLA credit",
+        "user": "U22GUF0P303",
+        "ts": "1701380847.451708",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

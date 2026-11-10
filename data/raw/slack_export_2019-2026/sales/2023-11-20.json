@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "abc1eba0-9eea-9e50-2e4c-5c2240d28c35",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1700492200.153797",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c16d4596-75b0-276b-527d-13630bd04feb",
+        "type": "message",
+        "text": "Closed Pelletier Maintenance Co Group! 283 seats, Starter",
+        "user": "U9XCAUGPS1F",
+        "ts": "1700512211.951699",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

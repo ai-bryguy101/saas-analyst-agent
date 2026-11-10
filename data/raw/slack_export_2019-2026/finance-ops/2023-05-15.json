@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "e3c28b7a-59dd-cca0-be1c-3aaa34771b92",
+        "type": "message",
+        "text": "Muskingum Property Group paid by wire, applying now",
+        "user": "UDCALCM1RUG",
+        "ts": "1684157154.981363",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30e06691-7810-814a-5197-2e4fa071f3b1",
+        "type": "message",
+        "text": "AR aging is up, Tillamook Distribution Corp. is 90+ days",
+        "user": "UMYYLUTXG9R",
+        "ts": "1684181905.181709",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "135cc4db-58a8-74c6-14dd-308831e50cd8",
+        "type": "message",
+        "text": "Sandpiper Property Services Ltd. paid by wire, applying now",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1684187650.972493",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

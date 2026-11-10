@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "f70ad36c-0610-af7b-0cf6-fee78e2b3c42",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UB8UH2KX2NW",
+        "ts": "1603979696.673563",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dcb74dce-5c31-1c01-80a2-cd0b5be347e0",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1603979845.468111",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f5aea177-ea78-467c-12e9-677bafe4cc9d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UE4GTX0EXPH",
+        "ts": "1603990606.577807",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82ab4c5f-41ec-2692-8a93-f9a368168f3f",
+        "type": "message",
+        "text": "AR aging is up, Pueblo Hospitality Group is 90+ days",
+        "user": "UPGXMWMDQNR",
+        "ts": "1603998884.730510",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "daa4d3e9-8a87-e8f1-1f45-f915129028d1",
+        "type": "message",
+        "text": "Twin Property Group Group paid by wire, applying now",
+        "user": "UG4ETD69L1D",
+        "ts": "1604000140.484235",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4a8190dc-0e98-55e8-9788-c74caf0739da",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Nelson Industries Inc. paid by wire, applying now",
+        "user": "UH9DL28T3MH",
+        "ts": "1604008815.582844",
+        "team": "T02BRNDLCV"
+    }
+]

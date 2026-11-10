@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "e4b47a99-c5f5-5dcd-4f07-5056dd06a2d9",
+        "type": "message",
+        "text": "Renewal risk: Clearwater Builders Group unhappy with mobile app",
+        "user": "UPGXMWMDQNR",
+        "ts": "1730907619.792918",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37fb030a-b42c-d672-4f8b-70235dbd627d",
+        "type": "message",
+        "text": "Vance Suites LLC wants an exec call about the outage",
+        "user": "UV9KPNCPQJN",
+        "ts": "1730910282.862279",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70238b60-b88f-2a51-cd22-4d6a57d211c8",
+        "type": "message",
+        "text": "Clearwater Hotels Holdings reporting sync failures since this morning, CSM is Anthony Ellsworth",
+        "user": "UYFL6320JLT",
+        "ts": "1730911965.859487",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "73496318-cce2-fa69-02eb-5241fef59beb",
+        "type": "message",
+        "text": "Renewal risk: Superior Mills LLC unhappy with mobile app",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1730920876.512134",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

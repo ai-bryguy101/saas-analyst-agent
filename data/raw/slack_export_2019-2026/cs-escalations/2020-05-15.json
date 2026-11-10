@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "47cac25f-ef4f-77a0-e68c-778edb3a8b90",
+        "type": "message",
+        "text": "Pueblo College Inc. wants an exec call about the outage",
+        "user": "U9SD2024Q7F",
+        "ts": "1589549975.365225",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6a454b23-9107-99ee-33f9-3de34026986d",
+        "type": "message",
+        "text": "Renewal risk: Wabash Township unhappy with mobile app",
+        "user": "UZACKQ1VXCH",
+        "ts": "1589557071.847724",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86d7c92f-029d-0248-4f27-a0b85a0fb244",
+        "type": "message",
+        "text": "Renewal risk: Heritage Resorts Corp. unhappy with mobile app",
+        "user": "U8SR98620D7",
+        "ts": "1589560796.115633",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6651c88e-ba76-9179-fca7-111fdfb6593a",
+        "type": "message",
+        "text": "Can someone check Cornerstone Construction's invoice? They say they were double billed",
+        "user": "UR12Y3AZNKK",
+        "ts": "1589561764.771585",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UR12Y3AZNKK",
+            "ts": "1589585622.299892"
+        }
+    },
+    {
+        "client_msg_id": "1cb2b9a6-8741-a7e5-f086-f3fa8b15cd61",
+        "type": "message",
+        "text": "Renewal risk: Saginaw Inns LLC unhappy with mobile app",
+        "user": "UPHFQAHDPSK",
+        "ts": "1589568137.549699",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "607d051a-0a60-97ed-d4aa-82b410b6f218",
+        "type": "message",
+        "text": "<@UNCGDMQATC5> Kestrel Transit Authority reporting sync failures since this morning, CSM is Brian Calloway",
+        "user": "U3EQ075NUYR",
+        "ts": "1589575727.358089",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "939a2503-269c-99ac-8c91-b33f6189613c",
+        "type": "message",
+        "text": "Can someone check Ortiz Works Corp.'s invoice? They say they were double billed",
+        "user": "UV9GDKGY32C",
+        "ts": "1589580871.657116",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "fd867553-31bf-2430-8a21-7e1d7d3f8f81",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U34NH0P5TMZ",
+        "ts": "1676577604.479381",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b78d6120-1474-a281-5bc8-7a817d9a06f2",
+        "type": "message",
+        "text": "Closed Foxglove Maintenance Co Inc.! 287 seats, Starter",
+        "user": "U2CKCF24AEA",
+        "ts": "1676589255.872446",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

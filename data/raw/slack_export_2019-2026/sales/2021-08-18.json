@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e5a26b94-48cb-9c9d-2b66-badb7779edbb",
+        "type": "message",
+        "text": "Ironwood Transit Authority LLC wants a discount, how far can I go?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1629292808.228630",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e3cb782-6402-18ce-11f3-6464d4f2a00f",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1629301860.498437",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "598e6e3f-6651-77a0-23b5-b765c4d58229",
+        "type": "message",
+        "text": "Closed Goodenough Township! 392 seats, Enterprise",
+        "user": "U69WX6HRQNH",
+        "ts": "1629321609.864534",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

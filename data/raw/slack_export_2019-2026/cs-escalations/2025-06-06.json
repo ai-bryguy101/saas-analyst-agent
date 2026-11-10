@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "70a1e476-b667-4091-66ef-2c39a2aef32e",
+        "type": "message",
+        "text": "Can someone check Foxglove Janitorial Holdings's invoice? They say they were double billed",
+        "user": "U9XCAUGPS1F",
+        "ts": "1749237398.610906",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f7b71b5c-f439-9a7e-17b7-fccc426ad3f3",
+        "type": "message",
+        "text": "Tillamook Homes Ltd. asking for an SLA credit",
+        "user": "U22GUF0P303",
+        "ts": "1749238980.176376",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bafe1185-e3c6-10d3-a222-902e8053eecc",
+        "type": "message",
+        "text": "Green Maintenance Co Co. wants an exec call about the outage",
+        "user": "U22GUF0P303",
+        "ts": "1749249070.327213",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "321baa65-2a47-25ce-281b-436da015cb92",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Quarry Manufacturing asking for an SLA credit",
+        "user": "UGPRJ4K947R",
+        "ts": "1749254316.027937",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b945c41-a526-b80c-a69f-793f5a59d10c",
+        "type": "message",
+        "text": "<@U3EQ075NUYR> Ostrander Resorts Ltd. wants an exec call about the outage",
+        "user": "UX84HDPARWN",
+        "ts": "1749255368.479083",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

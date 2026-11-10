@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "99a221d4-d929-3327-b21d-797773596d2b",
+        "type": "message",
+        "text": "Carter Building Services Holdings asking for an SLA credit",
+        "user": "UV9KPNCPQJN",
+        "ts": "1733763068.274853",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "062dbc35-38bd-7f9b-6601-e5c7a974cb14",
+        "type": "message",
+        "text": "Robinson Markets asking for an SLA credit",
+        "user": "UG4ETD69L1D",
+        "ts": "1733763236.157387",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da50320a-0f42-01b0-ea3d-b49b99790673",
+        "type": "message",
+        "text": "Cedar Maintenance Co asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1733768479.889634",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2e536883-2234-6440-4672-5090980843e6",
+        "type": "message",
+        "text": "<@U8SR98620D7> Harris University Facilities Inc. reporting sync failures since this morning, CSM is Minh Ruiz",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1733778267.335758",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f384659-7548-0ca8-67cc-e9cf1d2fc6ef",
+        "type": "message",
+        "text": "Lee Hospitality Group Inc. wants an exec call about the outage",
+        "user": "UDCALCM1RUG",
+        "ts": "1733786399.999170",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

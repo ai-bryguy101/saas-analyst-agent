@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "8dcb49df-4d23-004c-f681-934bf4d41d9e",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1663853239.762663",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eee29515-f442-f335-ca78-bdf3aacd46d7",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1663878998.006756",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

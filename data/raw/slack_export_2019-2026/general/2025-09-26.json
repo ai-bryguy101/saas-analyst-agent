@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "1def5708-c86d-ee27-e338-e8f38cc2ff0c",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UDCALCM1RUG",
+        "ts": "1758906600.999962",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b59e0b3-b65c-765b-df71-e04a07b3175e",
+        "type": "message",
+        "text": "Welcome Samantha Baker to the Sales team!",
+        "user": "USW7BR7KTST",
+        "ts": "1758908023.006771",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21df64aa-6fbc-b09c-0050-37a91c642a68",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UMYYLUTXG9R",
+        "ts": "1758933829.196172",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

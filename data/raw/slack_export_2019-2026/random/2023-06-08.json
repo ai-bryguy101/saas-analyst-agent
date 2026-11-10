@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "b05b231f-eab9-41a9-5e21-6fbabab9a6b3",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMXMN24FN4K",
+        "ts": "1686251220.626752",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f2cd3cf7-da3d-dc33-8548-745007797277",
+        "type": "message",
+        "text": "<@U7PFYH0YRRG> the parking lot is flooded lol",
+        "user": "U5X9PNA34DU",
+        "ts": "1686253514.556495",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6bac211-7511-62f3-cefb-d7f36e35eed0",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1686260217.601787",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdf18777-4ae7-bc81-2dfb-c8534fee94a8",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> happy friday",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1686270710.504768",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "829ad234-507b-2d7d-173b-55c1cf4235c5",
+        "type": "message",
+        "text": "<@U22GUF0P303> rolling back v8.37.2",
+        "user": "UNFVCYNZT6K",
+        "ts": "1661176492.733016",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2bc1a340-b325-1408-88fa-12be5c2afa43",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1661195005.653776",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7d5963ef-aa41-d6c9-7c9f-f0598f88bf76",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> replica lag on db-03 again",
+        "user": "UFJUKVTAA1B",
+        "ts": "1661206781.643260",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9491ec13-c998-483c-f02f-694c47139cf9",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> postmortem doc for yesterday is up",
+        "user": "U9V01K22TU1",
+        "ts": "1661208298.345698",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9d36c5a1-aca6-507d-b6fb-84b0ffc8d2e0",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXETPKNK8MV",
+        "ts": "1661209935.854809",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d47da127-3ebb-76f9-5ea2-a0013aa4a39d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UV8WG09HYBP",
+        "ts": "1661215836.823911",
+        "team": "T02BRNDLCV"
+    }
+]

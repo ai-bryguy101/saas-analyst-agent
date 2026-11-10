@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "a26f5536-e24d-d616-1dbb-163683439bed",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UC95B7VAFX0",
+        "ts": "1701349702.405190",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "923c75ad-b433-a6ea-5531-9d6a99b5cf01",
+        "type": "message",
+        "text": "Lost Lakeshore Realty Management Co. to Plinthwise on price",
+        "user": "UC70JNE74S7",
+        "ts": "1701351495.271696",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "142b2ef3-26d4-8773-4a03-147e377b1387",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UGPRJ4K947R",
+        "ts": "1701355455.818055",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ed70445-f30f-f484-304f-4ef0f2b03bab",
+        "type": "message",
+        "text": "Erie Hospitality Group Ltd. wants a discount, how far can I go?",
+        "user": "UXETPKNK8MV",
+        "ts": "1701364106.688819",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "543b8fa2-8748-5e76-0b3b-160c5bb628d4",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1701366146.957193",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dcf89847-1fd1-ed17-c645-e511b8c41651",
+        "type": "message",
+        "text": "Saginaw Realty Management wants a discount, how far can I go?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1701375657.301749",
+        "team": "T02BRNDLCV"
+    }
+]

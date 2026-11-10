@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6855f1ec-9fba-9258-0778-ecb57a75abc7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UT7K74ALYGQ",
+        "ts": "1727812960.562130",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "673c32c7-a180-edbb-8214-3975d6bebbfd",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> FX rates loaded for Oct 2024",
+        "user": "U2CKCF24AEA",
+        "ts": "1727826252.319264",
+        "team": "T02BRNDLCV"
+    }
+]

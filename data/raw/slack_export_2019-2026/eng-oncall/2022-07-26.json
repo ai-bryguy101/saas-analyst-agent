@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "36008f62-c6f0-8f59-c7ff-62743e8ede19",
+        "type": "message",
+        "text": "<@UWLZTMJ6YM7> who owns the cron for nightly exports?",
+        "user": "UC95B7VAFX0",
+        "ts": "1658840449.376653",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14612cc6-a294-1d86-49cc-6b4ebd92ecb8",
+        "type": "message",
+        "text": "deploy v6.27.9 to prod :rocket:",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1658847151.972637",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e002babf-bd55-8e10-b92a-e9fa950f4624",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UG4ETD69L1D",
+        "ts": "1658847791.708279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a050922f-fa78-baad-7495-c72bb21ab059",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UNPKZYBKYGA",
+        "ts": "1658859347.669420",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65331492-0cd2-745b-2795-529027d0c146",
+        "type": "message",
+        "text": "rolling back v7.21.5",
+        "user": "U5X9PNA34DU",
+        "ts": "1658871442.256755",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5X9PNA34DU",
+            "ts": "1658865470.555505"
+        }
+    },
+    {
+        "client_msg_id": "c3cfbc70-2007-e68f-a154-939d574f2b43",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> replica lag on db-03 again",
+        "user": "UZACKQ1VXCH",
+        "ts": "1658871805.304269",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a05eab2-eeb4-bc78-522b-28ac3abe7d4a",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U34NH0P5TMZ",
+        "ts": "1658880509.985037",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3369d4dd-e656-067f-f1a9-18ca65f7c340",
+        "type": "message",
+        "text": "<@U8TVGALMJLQ> who owns the cron for nightly exports?",
+        "user": "UX84HDPARWN",
+        "ts": "1658882980.950807",
+        "team": "T02BRNDLCV"
+    }
+]

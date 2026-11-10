@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "ad358a28-e92f-683d-9b8e-1bd2a22c7c7f",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UQXT5A6YMVH",
+        "ts": "1603213482.777140",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70372e9f-99e8-5146-83ea-6de30a33c181",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U3YU9TS6QYB",
+        "ts": "1603213503.386285",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fe4d54c7-a43b-17aa-a399-df9c505c411f",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U48TCJE75PD",
+        "ts": "1603222897.771392",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UV9GDKGY32C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c75c3bbf-135c-35c5-faeb-a97ba2642831",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UKMQNTKUR4V",
+        "ts": "1603226732.158626",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ecbcf213-aa36-d14b-2bac-e915726a0ed0",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UNPKZYBKYGA",
+        "ts": "1603228492.175126",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f36fbc7b-57e3-30c2-20a9-eba8b4658800",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UA3MVBJWAHX",
+        "ts": "1603230655.193093",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f6e94251-d551-1aac-b2bd-572c8eb0dae2",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1603236150.037083",
+        "team": "T02BRNDLCV"
+    }
+]

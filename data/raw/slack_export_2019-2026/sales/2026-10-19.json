@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e61a27cf-ea55-b92a-b283-a8b6efb87123",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "UR12Y3AZNKK",
+        "ts": "1792415568.823176",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "db83fc8d-0ed7-975d-b1de-6a596cedd2cb",
+        "type": "message",
+        "text": "Anyone have a reference customer in Retail?",
+        "user": "UGPRJ4K947R",
+        "ts": "1792427754.329361",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "baba041d-08e7-106e-cba4-3b219b85babb",
+        "type": "message",
+        "text": "Clark County Facilities Holdings wants a discount, how far can I go?",
+        "user": "UG4ETD69L1D",
+        "ts": "1792437761.005417",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "4fedf4d9-e711-7a7e-3cb2-5ada176e0855",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UX84HDPARWN",
+        "ts": "1587043842.209614",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b4f06d0-2c8a-4aa8-29aa-7cf75237296b",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U48TCJE75PD",
+        "ts": "1587044291.464320",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ee71150-5a78-e7e0-a803-6258026c926b",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UCQT1GS0C0C",
+        "ts": "1587051765.716458",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c7aeb417-a020-452e-ae6a-c27e28ae6872",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UPHFQAHDPSK",
+        "ts": "1587059939.571447",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "24553c5c-1f6a-27fc-2514-c18b8e6e74e2",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UXXA9L8HH83",
+        "ts": "1587064319.250500",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aef15024-317b-52b7-ce2b-e56fab1a7700",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UV9GDKGY32C",
+        "ts": "1587072598.403415",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6bf22b83-fcc9-600b-2e05-ea9d7ef0d7ae",
+        "type": "message",
+        "text": "<@UBK8V2J099L> the parking lot is flooded lol",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1587074107.200640",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1587077740.707700"
+        }
+    },
+    {
+        "client_msg_id": "e4346525-3f6a-8966-27d7-914886fa5d49",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UR3LDWKU006",
+        "ts": "1587079727.931932",
+        "team": "T02BRNDLCV"
+    }
+]

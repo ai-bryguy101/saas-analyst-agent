@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "f436a41f-d5b7-11c1-3426-8ec138a0fca6",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "URWNWW8QFM6",
+        "ts": "1781709561.757662",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4abaaa0-828c-754f-229b-a5a5e46a2668",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1781714772.080390",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed342a2c-25bd-9de0-6a63-35d64ab0adc2",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U5HQ6U91D2E",
+        "ts": "1781721840.002366",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "58d01674-1c20-31b1-fe9b-57f2984819b7",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UFARBQM0LCD",
+        "ts": "1781743038.150402",
+        "team": "T02BRNDLCV"
+    }
+]

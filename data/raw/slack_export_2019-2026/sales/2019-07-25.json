@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "c5b380dc-ff09-b920-c9fd-9f406a9c1d1f",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Anyone have a reference customer in Education?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1564062324.253581",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "deb5d1ba-83d2-097b-a3c8-1a2405acac7b",
+        "type": "message",
+        "text": "Park Freight Co. wants a discount, how far can I go?",
+        "user": "UJQ9E01DWPS",
+        "ts": "1564069674.417184",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ecd4152-76b2-2efb-58b4-296e77b21785",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UZACKQ1VXCH",
+        "ts": "1564093629.688428",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

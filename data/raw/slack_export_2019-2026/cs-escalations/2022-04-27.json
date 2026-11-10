@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "68f5c4d6-da7e-0b32-8a5d-faa7b2a665d5",
+        "type": "message",
+        "text": "Venkatesan Suites Corp. asking for an SLA credit",
+        "user": "UT9KGXWKHLB",
+        "ts": "1651066319.454623",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b98bba80-8bfe-dd35-4343-ee6a6426315e",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Tri-County Supply Co Ltd. wants an exec call about the outage",
+        "user": "UXXA9L8HH83",
+        "ts": "1651068541.583917",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UXXA9L8HH83",
+            "ts": "1651082566.651853"
+        }
+    },
+    {
+        "client_msg_id": "a85108f0-9707-44ed-58f1-20b6383a1298",
+        "type": "message",
+        "text": "Keystone Public Works LLC asking for an SLA credit",
+        "user": "U8TVGALMJLQ",
+        "ts": "1651073510.100507",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44517747-4316-35d4-3756-02803066a405",
+        "type": "message",
+        "text": "Renewal risk: Fitzgerald Janitorial Ltd. unhappy with mobile app",
+        "user": "URWNWW8QFM6",
+        "ts": "1651073977.821623",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "786dff0b-65f1-2c04-a95a-824bf32a7f1c",
+        "type": "message",
+        "text": "Liberty Contracting Holdings asking for an SLA credit",
+        "user": "UV8WG09HYBP",
+        "ts": "1651074593.313479",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7572c201-3f2b-ee44-66d8-c4a8fd24dce5",
+        "type": "message",
+        "text": "Can someone check Plains Construction's invoice? They say they were double billed",
+        "user": "UZJU9N8CY2T",
+        "ts": "1651094535.048911",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2e5288bb-b460-8828-e099-4f5b7eb3d651",
+        "type": "message",
+        "text": "Commonwealth Janitorial Group reporting sync failures since this morning, CSM is Julie Yamamoto",
+        "user": "U8TVGALMJLQ",
+        "ts": "1651095295.229264",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40c22101-c6f3-ec07-7aca-5100003adca7",
+        "type": "message",
+        "text": "Renewal risk: Adeyemi Works Holdings unhappy with mobile app",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1651104371.946553",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "455c3bc7-5c69-f61d-7085-040194d1fddd",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> who owns the cron for nightly exports?",
+        "user": "UGPRJ4K947R",
+        "ts": "1592314047.495454",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf46f409-19c9-b630-2d78-41da994c132e",
+        "type": "message",
+        "text": "deploy v5.31.7 to prod :rocket:",
+        "user": "UJRKGMQPU2R",
+        "ts": "1592315613.705429",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b445d0a-aeaf-14ef-438b-a5a46034365a",
+        "type": "message",
+        "text": "rolling back v7.32.7",
+        "user": "U3YU9TS6QYB",
+        "ts": "1592316600.719326",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3YU9TS6QYB",
+            "ts": "1592344272.188755"
+        }
+    },
+    {
+        "client_msg_id": "79b1c0e1-15c6-123a-fedc-dab8972c5154",
+        "type": "message",
+        "text": "deploy v7.34.0 to prod :rocket:",
+        "user": "U5X9PNA34DU",
+        "ts": "1592322319.837892",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8787b2ef-0203-ac31-350c-8f298e59e644",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1592322874.618724",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cbe4904d-fd7e-07a0-3c6b-12005aba3779",
+        "type": "message",
+        "text": "deploy v8.24.5 to prod :rocket:",
+        "user": "U9V01K22TU1",
+        "ts": "1592322898.904905",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4f8bd740-1be7-b604-a354-f61ec9106cbe",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1592342986.246146",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29899 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

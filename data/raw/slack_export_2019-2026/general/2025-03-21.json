@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "7f2e073a-035d-833a-b509-fe6c05bd1118",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1742580801.161529",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33341bba-9c62-a3e0-27c5-3e4597550cdb",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Welcome Walter Ortiz to the Sales team!",
+        "user": "U2LMMLL4F31",
+        "ts": "1742584163.365540",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f35d8d38-a1ab-5c6b-dec7-03efbe75f2e6",
+        "type": "message",
+        "text": "<@UVRFQ9LWEVK> Q1 kickoff deck is in the drive",
+        "user": "UE49ET7WGNU",
+        "ts": "1742586306.417887",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83aa3765-8eeb-70b9-75e5-6cfbefcd129b",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UL20M69UM76",
+        "ts": "1742586573.279055",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "746bb87f-8dbf-0fdf-937c-0e2985e0f8c3",
+        "type": "message",
+        "text": "Welcome Patricia Reed to the Engineering team!",
+        "user": "U1YEVCXATA8",
+        "ts": "1742592634.113730",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9040dfc3-67c4-b34c-1563-3f51afbbeb9f",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "U3KL08VJD8C",
+        "ts": "1742602773.992126",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3KL08VJD8C",
+            "ts": "1742594401.109399"
+        }
+    }
+]

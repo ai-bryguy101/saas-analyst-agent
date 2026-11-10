@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "e781543d-bb81-0b66-4db3-727f0aceffa3",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U94ETEKNM26",
+        "ts": "1571321947.868536",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fad59fa6-0f5d-aef0-c455-56bb1f06688c",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1571329805.090191",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8883ecb5-5934-c0d8-1843-b84f42ec0849",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Pipeline review moved to 3pm",
+        "user": "UPGXMWMDQNR",
+        "ts": "1571341929.938447",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0fa74bd-6ea2-b4c1-bb46-f2376e40707c",
+        "type": "message",
+        "text": "Closed Gatehouse Hospitality Group! 142 seats, Pro",
+        "user": "UFJUKVTAA1B",
+        "ts": "1571359526.880728",
+        "team": "T02BRNDLCV"
+    }
+]

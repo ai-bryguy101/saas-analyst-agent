@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "8b11531c-3d33-cd0a-1f2b-40956c14528c",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UT9KGXWKHLB",
+        "ts": "1710539966.201624",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "31bbe59d-f232-013e-e7a6-19bc126cf476",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2024",
+        "user": "UE4GTX0EXPH",
+        "ts": "1710541257.225208",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

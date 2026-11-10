@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "44547faa-9f08-44be-004b-d269b87ce512",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> Can someone check Pueblo Public Works Ltd.'s invoice? They say they were double billed",
+        "user": "UG4ETD69L1D",
+        "ts": "1648127308.063187",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5bec75f2-df3b-6769-287f-923ecd106526",
+        "type": "message",
+        "text": "Juniper Restoration asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1648146036.762741",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b970487-7ff2-b42c-9cca-4fa98f511a56",
+        "type": "message",
+        "text": "Oakmere Retail Group Group wants an exec call about the outage",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1648151898.279576",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "71da711b-0454-3fe1-64d0-eb73fbefa6c6",
+        "type": "message",
+        "text": "Marrow Resorts wants an exec call about the outage",
+        "user": "UFARBQM0LCD",
+        "ts": "1648155674.401606",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd6ccbec-c967-8d7f-04fc-51871922d7c3",
+        "type": "message",
+        "text": "Patriot Suites wants an exec call about the outage",
+        "user": "UMYYLUTXG9R",
+        "ts": "1648160062.803775",
+        "team": "T02BRNDLCV"
+    }
+]

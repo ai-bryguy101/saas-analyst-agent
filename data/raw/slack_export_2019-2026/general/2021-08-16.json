@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "76de03fd-ef62-719f-fbd1-b5e3745f987c",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U3EQ075NUYR",
+        "ts": "1629119226.581241",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "03c3b592-f8ca-7d90-2ee6-5a3d82d041c5",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Who left a lasagna in the 3rd floor fridge",
+        "user": "UZJU9N8CY2T",
+        "ts": "1629135873.516774",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9109cb6a-ab4e-128a-eaae-0aba518a4f54",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UUFS9CP1A17",
+        "ts": "1629147225.113976",
+        "team": "T02BRNDLCV"
+    }
+]

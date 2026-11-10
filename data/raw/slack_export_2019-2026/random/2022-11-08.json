@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "c859bc16-5aa7-2c57-f5a8-1ac27aed9275",
+        "type": "message",
+        "text": "<@UV9KPNCPQJN> new dog pics in thread",
+        "user": "UZACKQ1VXCH",
+        "ts": "1667930236.918243",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UZACKQ1VXCH",
+            "ts": "1667912700.884457"
+        }
+    },
+    {
+        "client_msg_id": "d6518e58-43a6-1eba-4945-e7f90f4e97a1",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UFJUKVTAA1B",
+        "ts": "1667940385.657775",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

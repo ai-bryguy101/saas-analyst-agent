@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "ced2f3b9-d82f-14f6-f4a8-93fc0f8c99d9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U48TCJE75PD",
+        "ts": "1634833236.904347",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1634822349.870430"
+        }
+    },
+    {
+        "client_msg_id": "062fe371-ec6a-a322-3ea4-5ee642a4b011",
+        "type": "message",
+        "text": "Magnolia College paid by wire, applying now",
+        "user": "U22GUF0P303",
+        "ts": "1634843884.016364",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

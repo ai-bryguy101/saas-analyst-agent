@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "66cc3ad6-1b2a-cf79-987f-897d9b88f064",
+        "type": "message",
+        "text": "AR aging is up, Harbortown Industries Group is 90+ days",
+        "user": "UC95B7VAFX0",
+        "ts": "1777990763.065258",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0dc2594-1228-4f9b-0f8a-934781cbf71f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1777999644.964802",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1778022488.258833"
+        }
+    },
+    {
+        "client_msg_id": "112d40df-f0d4-5550-ba39-6fc94835017e",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1778011257.099572",
+        "team": "T02BRNDLCV"
+    }
+]

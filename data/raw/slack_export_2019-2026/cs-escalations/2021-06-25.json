@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "98e8a390-152f-f00e-b58b-ea85e872a957",
+        "type": "message",
+        "text": "Northgate Stores asking for an SLA credit",
+        "user": "UFULM18ZBQ6",
+        "ts": "1624636667.948266",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7cce5352-f0f8-7bf0-37cd-697233408941",
+        "type": "message",
+        "text": "Can someone check Baker Fabrication's invoice? They say they were double billed",
+        "user": "UBHB6GTB73U",
+        "ts": "1624642790.082098",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49657e67-ed3e-eb51-6c3a-91653603cc8c",
+        "type": "message",
+        "text": "Maplewood Markets Ltd. asking for an SLA credit",
+        "user": "UVX5HCR5MMD",
+        "ts": "1624643218.658788",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9822d7fc-d10b-0d11-3057-5501e9695243",
+        "type": "message",
+        "text": "Meadowlark Mills Corp. reporting sync failures since this morning, CSM is Alexander Zhang",
+        "user": "UWU9WG7ECGY",
+        "ts": "1624645911.649939",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8d3b8f44-27ca-2279-8092-5f6f7938e758",
+        "type": "message",
+        "text": "Anderson Unified Schools Inc. wants an exec call about the outage",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1624649075.889654",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5533b7d0-6ef2-5290-a9f6-06227aaf0a9e",
+        "type": "message",
+        "text": "Renewal risk: Saginaw Hotels Ltd. unhappy with mobile app",
+        "user": "UAHZYQG5URJ",
+        "ts": "1624660338.544877",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e89714cd-43df-70b5-f03b-4a2f22c0e33e",
+        "type": "message",
+        "text": "Can someone check Jones Retail Group Holdings's invoice? They say they were double billed",
+        "user": "U9SD2024Q7F",
+        "ts": "1624661259.813286",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1e4bdc59-a2ed-0085-36d5-ccc4d5ac88d1",
+        "type": "message",
+        "text": "Renewal risk: Price-Jones Hotels unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1624661719.385102",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "316e80c2-47ac-14df-1087-78170f25e1e8",
+        "type": "message",
+        "text": "Miami Realty Management Corp. wants an exec call about the outage",
+        "user": "UUFS9CP1A17",
+        "ts": "1624662350.784386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c0e953bb-59f3-0b57-a48a-dfd504a48886",
+        "type": "message",
+        "text": "Chavez Municipal Services Corp. wants an exec call about the outage",
+        "user": "U22GUF0P303",
+        "ts": "1624663317.587060",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "67736009-ef56-7400-ec99-d4c5000c656f",
+        "type": "message",
+        "text": "Clearwater Fabrication Corp. wants an exec call about the outage",
+        "user": "UNFVCYNZT6K",
+        "ts": "1624668724.933219",
+        "team": "T02BRNDLCV"
+    }
+]

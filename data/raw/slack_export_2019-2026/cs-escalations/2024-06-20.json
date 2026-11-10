@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "aff23b5f-4e3d-4296-c7a8-b53045235e10",
+        "type": "message",
+        "text": "Rogers Transit Authority Holdings reporting sync failures since this morning, CSM is Desmond McCarthy",
+        "user": "UGPRJ4K947R",
+        "ts": "1718890373.370823",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b53256ba-3dd2-5a96-b019-ff5d21523c34",
+        "type": "message",
+        "text": "Foxglove Warehousing Group asking for an SLA credit",
+        "user": "U69WX6HRQNH",
+        "ts": "1718891595.389592",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "06f2b57a-5e3f-93d4-4eb1-a2ed8d760a3d",
+        "type": "message",
+        "text": "Valley Couriers Inc. asking for an SLA credit",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1718923842.104327",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f8c2da63-b3d4-3a95-9aa7-d13294aa3c91",
+        "type": "message",
+        "text": "Can someone check Saguaro College's invoice? They say they were double billed",
+        "user": "U9V01K22TU1",
+        "ts": "1718928542.436216",
+        "team": "T02BRNDLCV"
+    }
+]

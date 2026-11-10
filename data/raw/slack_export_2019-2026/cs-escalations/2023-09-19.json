@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "46aafd3e-e2eb-fcb6-4231-3cc6c3ac71de",
+        "type": "message",
+        "text": "Gonzalez Realty Management Inc. wants an exec call about the outage",
+        "user": "UYFL6320JLT",
+        "ts": "1695135316.117682",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6ca0b5e7-8140-d680-6a3d-807932ce5d9e",
+        "type": "message",
+        "text": "Can someone check Scioto Unified Schools Holdings's invoice? They say they were double billed",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1695137581.786199",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d3a7e77-d9f8-db20-2cde-6f5a782177d5",
+        "type": "message",
+        "text": "Halvorsen Works wants an exec call about the outage",
+        "user": "U8TVGALMJLQ",
+        "ts": "1695143321.263942",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7cb3366a-08b2-46a3-01dc-7075b7e914a3",
+        "type": "message",
+        "text": "Patriot Academy wants an exec call about the outage",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1695155469.025556",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1695141880.782126"
+        }
+    },
+    {
+        "client_msg_id": "489868d6-fe61-423c-b9b3-18680c924bac",
+        "type": "message",
+        "text": "Granite Suites Holdings reporting sync failures since this morning, CSM is Frank Quillfeather",
+        "user": "UYR8E48FJ62",
+        "ts": "1695167219.845631",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a55bc3c-d654-3662-0e7c-44d767e5a161",
+        "type": "message",
+        "text": "Pinecrest Mechanical Group wants an exec call about the outage",
+        "user": "U7V33ZEGRET",
+        "ts": "1695168132.342566",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UDDBYSY4RFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a14c0521-8d94-0ff5-37ac-83f0146cad01",
+        "type": "message",
+        "text": "Renewal risk: Twin Retail Group unhappy with mobile app",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1695168504.387149",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UM2UVLXX7MZ",
+            "ts": "1695157406.653375"
+        }
+    }
+]

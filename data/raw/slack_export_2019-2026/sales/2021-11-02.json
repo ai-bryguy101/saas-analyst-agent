@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "ff5067d4-4c2e-ea74-a058-5958123447c1",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UP51TVUPQU5",
+        "ts": "1635877421.236212",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "87a366e3-a9d5-7e4e-1206-af705d1f412d",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UC95B7VAFX0",
+        "ts": "1635883220.684967",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b515bd2-603f-f52b-1352-c2b8cf48a377",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Lost Dubois Hotels Group to Plinthwise on price",
+        "user": "UXXA9L8HH83",
+        "ts": "1635899725.359586",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

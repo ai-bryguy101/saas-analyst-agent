@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "26f339c9-092e-746a-ac9e-4e306d818c02",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1596463009.959521",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#59967 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7340c0d-cf51-768b-d3c9-f9e72035633e",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UBHB6GTB73U",
+        "ts": "1596470922.593796",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "598dc6b9-bbc0-892b-843a-f15ece09ec36",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UXETPKNK8MV",
+        "ts": "1596490918.669979",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22ecea95-2865-0a5c-2c70-ff5d7a3510c3",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> who owns the cron for nightly exports?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1596495897.578911",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac73bd4c-2899-a43f-2fa3-97cd4e490b31",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1596497412.151261",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1596487203.231915"
+        }
+    },
+    {
+        "client_msg_id": "d27a4979-7342-7493-5575-0cf94f3484fc",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1596502118.704449",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#63215 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

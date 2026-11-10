@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "ad9b0c78-3f1f-484e-3504-a2bbede1b6f1",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXETPKNK8MV",
+        "ts": "1646054000.981120",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2d2bc3eb-2c2d-dd3b-9299-96b75d40cfe2",
+        "type": "message",
+        "text": "Martin University Facilities paid by wire, applying now",
+        "user": "U8SR98620D7",
+        "ts": "1646056471.621470",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "45d633e2-8c3a-7a64-9893-a81d83f74f42",
+        "type": "message",
+        "text": "AR aging is up, Peterson Resorts is 90+ days",
+        "user": "U0VB9M5U3TM",
+        "ts": "1646062112.065547",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e74affef-f615-9232-9f60-3091c2357945",
+        "type": "message",
+        "text": "AR aging is up, Superior Freight LLC is 90+ days",
+        "user": "UR3LDWKU006",
+        "ts": "1646070500.063672",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9d1fdefb-7384-3702-445b-a2805d913faa",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2022",
+        "user": "UJKZ2R47YW9",
+        "ts": "1646076990.898309",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21c0d008-c4c5-206a-800a-2b1f936f7105",
+        "type": "message",
+        "text": "<@UCQT1GS0C0C> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U5DYUQUF95P",
+        "ts": "1646078691.111748",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b983237c-d116-7988-b9c0-92ca206095f0",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1646083679.686679",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0caf2fc8-c8ec-d103-f072-462dd038f598",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2022",
+        "user": "UNFVCYNZT6K",
+        "ts": "1646089931.580765",
+        "team": "T02BRNDLCV"
+    }
+]

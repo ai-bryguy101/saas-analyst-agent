@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "7fb1df44-b484-d0ef-7142-8074f245da92",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2025",
+        "user": "UDDBYSY4RFA",
+        "ts": "1756733725.583342",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "198a894c-4e32-82d1-20da-1e781a6fa31c",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1756745010.279997",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd891df5-74f8-43ff-42b9-a7010948277c",
+        "type": "message",
+        "text": "AR aging is up, Harbortown Property Services Ltd. is 90+ days",
+        "user": "UL8NMQFXPJR",
+        "ts": "1756753937.711612",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e7a9736-1da7-9da8-4f7d-323150417081",
+        "type": "message",
+        "text": "AR aging is up, Oakmere Supply Co Co. is 90+ days",
+        "user": "UPHFQAHDPSK",
+        "ts": "1756767980.257446",
+        "team": "T02BRNDLCV"
+    }
+]

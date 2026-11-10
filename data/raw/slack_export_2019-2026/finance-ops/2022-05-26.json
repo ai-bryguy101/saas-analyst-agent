@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "985507cd-41ed-d931-2b52-c6769f4bd2f0",
+        "type": "message",
+        "text": "<@U2LMMLL4F31> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXXA9L8HH83",
+        "ts": "1653581944.620562",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c81b4939-3611-8b95-c53e-4ed49aa411b0",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1653595260.950127",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1653598273.009796"
+        }
+    },
+    {
+        "client_msg_id": "a9af8c2e-ca77-5597-51c1-bca233714bf2",
+        "type": "message",
+        "text": "Tran Residential Corp. paid by wire, applying now",
+        "user": "UMYYLUTXG9R",
+        "ts": "1653595834.199928",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMYYLUTXG9R",
+            "ts": "1653592373.165046"
+        }
+    },
+    {
+        "client_msg_id": "3247ff6a-967e-4972-cbfe-f350e32fd87d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UJQY3Q26RVW",
+        "ts": "1653607469.447318",
+        "team": "T02BRNDLCV"
+    }
+]

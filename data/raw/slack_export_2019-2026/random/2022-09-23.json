@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "03e7fd04-da47-8718-40dd-d2febc1829b6",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UWU9WG7ECGY",
+        "ts": "1663947876.280864",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1663972218.869102"
+        }
+    },
+    {
+        "client_msg_id": "4bb8fcf5-089c-05d4-329f-775dc2d70c0c",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UJQY3Q26RVW",
+        "ts": "1663970492.622925",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UJQY3Q26RVW",
+            "ts": "1663942517.545421"
+        }
+    },
+    {
+        "client_msg_id": "a4ee19d9-9ad3-0d1f-a919-ebb43325c6e3",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UFJUKVTAA1B",
+        "ts": "1663972969.454679",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "46cd0ef7-fc13-e934-45cc-9e1e80624b00",
+        "type": "message",
+        "text": "Need churn list for 2022",
+        "user": "UAXWVBRVKW9",
+        "ts": "1684333322.266982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac3a2293-0930-64fe-cc3d-53453b75df6c",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UQTUT2GDN85",
+        "ts": "1684334644.597643",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e496c972-6686-da9f-3335-d6c25bf5a8d7",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1684336799.093029",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f1ebe0be-b10b-d463-28b7-c11442dc7ed5",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UFULM18ZBQ6",
+        "ts": "1684338689.277250",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21443354-5bf3-6208-f39f-c1c5e8a78478",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UV9KPNCPQJN",
+        "ts": "1684350497.748476",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4db895b7-4d09-5c19-42a1-1fb121b5a771",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UWUGRQ83YYM",
+        "ts": "1684354408.203256",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51250d68-a175-5972-bd7d-1836ae77ab10",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UPGXMWMDQNR",
+        "ts": "1684354635.233938",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b65df8e5-f3e7-7d44-af28-8cd629a47493",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UVX5HCR5MMD",
+        "ts": "1684356571.035602",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c547af8-3221-aed0-530f-e83e1dbef506",
+        "type": "message",
+        "text": "<@UXXA9L8HH83> Need churn list for 2022",
+        "user": "UXXA9L8HH83",
+        "ts": "1684361976.242371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4c4cbb5d-376f-4732-c074-52bda915bf7e",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U9XCAUGPS1F",
+        "ts": "1684366222.368180",
+        "team": "T02BRNDLCV"
+    }
+]

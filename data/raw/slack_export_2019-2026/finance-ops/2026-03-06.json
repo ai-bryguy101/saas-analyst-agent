@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "be9a5b3e-c402-56c4-6a1a-efc77e081562",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "USW7BR7KTST",
+        "ts": "1772814749.630112",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf29d3d2-8040-864d-35f9-c8594f6290e3",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1772815892.784187",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ddf2850-f088-8439-c30d-02ed31173f5d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UJQY3Q26RVW",
+        "ts": "1772820869.851927",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4585918b-ede3-d9fc-a5e1-fb2384d730d5",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQXT5A6YMVH",
+        "ts": "1772822001.691525",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e3281d9f-ad13-9c07-167e-d6ba449198ca",
+        "type": "message",
+        "text": "AR aging is up, Bluewater Township Corp. is 90+ days",
+        "user": "UHV2RFNY0HN",
+        "ts": "1772837223.557365",
+        "team": "T02BRNDLCV"
+    }
+]

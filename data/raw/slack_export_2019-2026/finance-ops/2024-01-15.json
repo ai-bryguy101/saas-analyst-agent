@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "7cc1c973-332b-32a4-9eba-c5f572417ed2",
+        "type": "message",
+        "text": "AR aging is up, Saginaw Janitorial Inc. is 90+ days",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1705323671.500369",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b339af7-ec87-1f40-915b-26efe992c5ba",
+        "type": "message",
+        "text": "AR aging is up, Cumberland Fabrication Corp. is 90+ days",
+        "user": "UV8WG09HYBP",
+        "ts": "1705328364.832160",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01ff08e1-00ec-6098-8e3e-9785d20e3e58",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UR12Y3AZNKK",
+        "ts": "1705341315.213788",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c464fa6-26da-ec8c-340f-4bb3a667f6d8",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2024",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1705347945.351787",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fb3a3e23-21da-734d-02a4-064c691b1f1a",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2024",
+        "user": "U9Y2KF0S90E",
+        "ts": "1705355478.566937",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97959d03-a604-9b64-2e31-fd549687eebb",
+        "type": "message",
+        "text": "Summit Warehousing LLC paid by wire, applying now",
+        "user": "U9Y2KF0S90E",
+        "ts": "1705358659.416381",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30b6aa78-1b14-e272-b7a2-77858ae1b73f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1705361658.057320",
+        "team": "T02BRNDLCV"
+    }
+]

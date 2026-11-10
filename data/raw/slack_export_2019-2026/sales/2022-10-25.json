@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "abb9b0d8-9243-3536-6ebf-047042e4a135",
+        "type": "message",
+        "text": "Closed Iyer Realty Management Group! 384 seats, Starter",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1666716776.855439",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "762454e0-8218-d607-de9b-72db1725ca93",
+        "type": "message",
+        "text": "Wabash Fabrication Ltd. wants a discount, how far can I go?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1666734889.128229",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8317685e-0777-c109-01f0-058c5d007145",
+        "type": "message",
+        "text": "Closed Penhallow College! 235 seats, Pro",
+        "user": "U0VB9M5U3TM",
+        "ts": "1666744850.912547",
+        "team": "T02BRNDLCV"
+    }
+]

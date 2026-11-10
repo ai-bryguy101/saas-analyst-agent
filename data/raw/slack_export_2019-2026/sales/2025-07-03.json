@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "80330430-49c0-0291-e4af-c89395ededbb",
+        "type": "message",
+        "text": "Thornbury Property Group wants a discount, how far can I go?",
+        "user": "UQTUT2GDN85",
+        "ts": "1751563288.456438",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQTUT2GDN85",
+            "ts": "1751583295.762306"
+        }
+    },
+    {
+        "client_msg_id": "5412ea3b-fc65-5caa-2d63-0d99385d230e",
+        "type": "message",
+        "text": "Lost Ridgeline Mills Holdings to Plinthwise on price",
+        "user": "UXS2WD4BYRN",
+        "ts": "1751565913.092380",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa8e4e3f-b078-544e-1da2-fb74e208207b",
+        "type": "message",
+        "text": "Anyone have a reference customer in Hospitality?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1751578767.174573",
+        "team": "T02BRNDLCV"
+    }
+]

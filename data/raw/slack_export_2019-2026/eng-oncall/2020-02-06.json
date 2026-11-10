@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "42febb14-70b9-138d-e0a5-d08abac9e092",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U3EQ075NUYR",
+        "ts": "1580997811.641318",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c052fb6f-4de3-2506-ce09-0595fcbc48cf",
+        "type": "message",
+        "text": "rolling back v8.6.6",
+        "user": "UFJUKVTAA1B",
+        "ts": "1580999644.156379",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2b2571b0-dc1a-6a48-4653-4eb61d95c94e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1581009338.498981",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#68597 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a72c298-40e9-4383-29f9-e45525e09c61",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UH9DL28T3MH",
+        "ts": "1581011524.444332",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "872a3632-a9af-dfd6-401e-893bdbf86a2f",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> PagerDuty: high error rate on api-gw",
+        "user": "UDCALCM1RUG",
+        "ts": "1581024604.600361",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7381319b-34e7-ee5d-e4ca-24c08c23dbf4",
+        "type": "message",
+        "text": "rolling back v5.38.8",
+        "user": "UBK8V2J099L",
+        "ts": "1581031091.940088",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce437b7a-08ea-9376-4fa1-285776876a81",
+        "type": "message",
+        "text": "deploy v9.21.1 to prod :rocket:",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1581032601.502948",
+        "team": "T02BRNDLCV"
+    }
+]

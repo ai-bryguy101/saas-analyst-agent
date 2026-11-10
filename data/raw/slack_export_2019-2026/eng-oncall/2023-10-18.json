@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "ce99cbf9-520a-a9e9-f2b2-8dc7943e46e4",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1697635548.268765",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#61770 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1d90191-ac05-ba1f-8d22-8ab8af51533d",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U0V9BPHARQX",
+        "ts": "1697641886.623840",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6f2cc2cc-f400-5cf8-70e2-1c18eeadb8f4",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UYR8E48FJ62",
+        "ts": "1697644417.698236",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b1922ae2-126b-f66f-7dfb-013884b96946",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1697647489.874527",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#60252 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2eb6322-0cad-5391-6196-498079daa190",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> cert renewal for *.brindlecove.example done",
+        "user": "UBHB6GTB73U",
+        "ts": "1697650370.115495",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d3dbba0-4131-bb51-e85f-4efe1ae03b0e",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U9V01K22TU1",
+        "ts": "1697666948.733664",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b44e218-076e-2990-5e45-ae2ca2e1d0d9",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UB8UH2KX2NW",
+        "ts": "1697667177.860589",
+        "team": "T02BRNDLCV"
+    }
+]

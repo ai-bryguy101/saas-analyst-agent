@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "9f403dab-3dec-e8c9-a906-0fc6279ddf95",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> cert renewal for *.brindlecove.example done",
+        "user": "U5X9PNA34DU",
+        "ts": "1687788649.574237",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c1d5487d-4466-f52f-052d-d5f2f72a34df",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U2CKCF24AEA",
+        "ts": "1687795162.104393",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4f836bd3-64e3-fe57-fe9d-d73990507b0e",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1687826199.263517",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7f9f5853-3085-4e9e-5aeb-877d192ef81f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U0V9BPHARQX",
+        "ts": "1687826267.862198",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e0bc4017-8f92-455f-54af-5b0ee6aae4dc",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXVNE61TTLN",
+        "ts": "1687826735.882081",
+        "team": "T02BRNDLCV"
+    }
+]

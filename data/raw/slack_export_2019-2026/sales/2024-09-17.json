@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "992832ca-1d7b-6e9b-5a1d-7be7dbc331dc",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U0E67MPWRXA",
+        "ts": "1726583213.070721",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "315633f5-0940-3cc9-a57a-59cc82687560",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "URFUZYLCAEC",
+        "ts": "1726605331.660324",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

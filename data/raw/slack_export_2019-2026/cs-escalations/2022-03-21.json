@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "d64f1f16-351c-d149-4890-4238ced4a7c5",
+        "type": "message",
+        "text": "Can someone check Crescent Hospitality Group LLC's invoice? They say they were double billed",
+        "user": "UZJU9N8CY2T",
+        "ts": "1647887392.341256",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e974cd11-1781-cdc9-9753-14bc571be350",
+        "type": "message",
+        "text": "Johnson School District asking for an SLA credit",
+        "user": "UJKZ2R47YW9",
+        "ts": "1647887873.927534",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d99fc7a2-8fcc-744e-f310-7bcf9fb50a74",
+        "type": "message",
+        "text": "Renewal risk: Harbortown Resorts Holdings unhappy with mobile app",
+        "user": "UAHZYQG5URJ",
+        "ts": "1647899791.109180",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e2677ed-28fc-b0b2-6e67-1d913c47f234",
+        "type": "message",
+        "text": "Morales Properties wants an exec call about the outage",
+        "user": "UFGLBSDS2XV",
+        "ts": "1647907096.236307",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da24e4a1-38e9-b9b9-c949-308a90f4c96c",
+        "type": "message",
+        "text": "O'Brien Building Services asking for an SLA credit",
+        "user": "UAGQX7APZBG",
+        "ts": "1647908153.737647",
+        "team": "T02BRNDLCV"
+    }
+]

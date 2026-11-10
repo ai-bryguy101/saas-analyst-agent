@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "f05525f4-e464-1bf6-c160-3af765852eed",
+        "type": "message",
+        "text": "Ruiz Fabrication wants an exec call about the outage",
+        "user": "UV8WG09HYBP",
+        "ts": "1640012731.662303",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "efed2bfb-b75e-e2b8-1f03-1c1440dd4c2b",
+        "type": "message",
+        "text": "Bluewater Fabrication Group reporting sync failures since this morning, CSM is Kathryn Lavoie",
+        "user": "U9V01K22TU1",
+        "ts": "1640027120.383968",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d8992fc-1dcb-fc73-785a-1c8e90a2994d",
+        "type": "message",
+        "text": "Meadowlark Couriers Co. asking for an SLA credit",
+        "user": "U3EQ075NUYR",
+        "ts": "1640038041.213275",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3EQ075NUYR",
+            "ts": "1640005476.509956"
+        }
+    },
+    {
+        "client_msg_id": "e97bcaab-2893-24dd-b91b-abc1ad2bd3fa",
+        "type": "message",
+        "text": "Jackson Restoration Inc. reporting sync failures since this morning, CSM is Frances Robinson",
+        "user": "UXS2WD4BYRN",
+        "ts": "1640038256.752403",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04738ff7-5508-2532-affd-42f2718710f0",
+        "type": "message",
+        "text": "<@U0V9BPHARQX> Cartwright University Facilities Group asking for an SLA credit",
+        "user": "U3DBR7QKZWE",
+        "ts": "1640045265.987285",
+        "team": "T02BRNDLCV"
+    }
+]

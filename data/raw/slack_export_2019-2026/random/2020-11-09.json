@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "98d428ba-7156-cd14-ab3a-c8387acfe273",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UA3MVBJWAHX",
+        "ts": "1604932173.524287",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "46484204-100b-72b5-c1dd-ba43110bbcaa",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UAXWVBRVKW9",
+        "ts": "1604933491.340107",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8e34c788-1c41-f699-d7aa-51c9c03e691e",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UFULM18ZBQ6",
+        "ts": "1604961605.705805",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UNCGDMQATC5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "307e8bff-9e59-4ce8-d252-9891d21a1cff",
+        "type": "message",
+        "text": "Baker Contracting Corp. reporting sync failures since this morning, CSM is Janice Cook",
+        "user": "U22GUF0P303",
+        "ts": "1678726218.948504",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74f8144e-470e-6e14-9195-e770d289f3f2",
+        "type": "message",
+        "text": "Can someone check Nasser Couriers LLC's invoice? They say they were double billed",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1678737340.740650",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b72fc50f-0a5d-d9b4-6b23-8866be5be654",
+        "type": "message",
+        "text": "Can someone check Twin Property Group Group's invoice? They say they were double billed",
+        "user": "UBHB6GTB73U",
+        "ts": "1678745817.350907",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78e0bc36-7e6a-7efc-defc-62144fa2f822",
+        "type": "message",
+        "text": "Heritage Industries Inc. wants an exec call about the outage",
+        "user": "UFARBQM0LCD",
+        "ts": "1678746254.436910",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "c724083e-3be1-e06b-26e9-7c5754897733",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UNCGDMQATC5",
+        "ts": "1641218187.909175",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b85655f9-33c2-e601-6729-7acf1c8e6908",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UFARBQM0LCD",
+        "ts": "1641225098.189405",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "352b1749-6430-4656-76cb-e4a76d149de8",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U9V01K22TU1",
+        "ts": "1641244452.629386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95e8c334-dd64-58a9-1c1f-10f7390a25aa",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1641248206.145967",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

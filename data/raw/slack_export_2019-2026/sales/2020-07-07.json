@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "a9599854-44d8-55a0-6fa0-42fd54e3cece",
+        "type": "message",
+        "text": "Yamamoto Warehousing LLC wants a discount, how far can I go?",
+        "user": "UR12Y3AZNKK",
+        "ts": "1594127473.092405",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1210d3fa-7a37-537f-616f-4fc7ffa8130b",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UL8NMQFXPJR",
+        "ts": "1594139052.891190",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "601e89f0-5537-59df-58a3-648f977cc352",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U22GUF0P303",
+        "ts": "1594151775.807093",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e08a93ff-8a97-02f6-30ea-c14975f3318a",
+        "type": "message",
+        "text": "Elmhurst Industries LLC wants a discount, how far can I go?",
+        "user": "UPGXMWMDQNR",
+        "ts": "1594152227.775864",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0148282c-abc4-2a34-b00d-1cbfd04ce56b",
+        "type": "message",
+        "text": "Lindenwood Contracting Ltd. wants a discount, how far can I go?",
+        "user": "U34NH0P5TMZ",
+        "ts": "1594164419.371090",
+        "team": "T02BRNDLCV"
+    }
+]

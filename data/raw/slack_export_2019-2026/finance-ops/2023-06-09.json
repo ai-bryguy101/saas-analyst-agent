@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "724bd4b9-b5cb-6e67-69bd-f76dcd344804",
+        "type": "message",
+        "text": "Granite Suites Holdings paid by wire, applying now",
+        "user": "UNFVCYNZT6K",
+        "ts": "1686320661.765196",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "be9e6304-afd9-9b2b-d5ea-d64fd947c373",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UE49ET7WGNU",
+        "ts": "1686329106.704434",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74efddc9-6dbf-2ca4-3c02-e54918bb875f",
+        "type": "message",
+        "text": "Ironwood Transit Authority LLC paid by wire, applying now",
+        "user": "UX84HDPARWN",
+        "ts": "1686329846.596702",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66eb5626-e4c3-f074-1925-a17a33c0af6e",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2023",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1686339770.247119",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c1abdd12-bd15-6a00-eacf-1679d03ffa71",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2023",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1686343541.218801",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ded47aba-9dc2-8ca7-5b4c-88f743a70a19",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UC70JNE74S7",
+        "ts": "1686344555.013560",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d6a9a37-8d76-ce54-0a78-815476a161d1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UPGXMWMDQNR",
+        "ts": "1686350672.724960",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "83b76dd4-377f-7bfa-0226-c5c804a44732",
+        "type": "message",
+        "text": "rolling back v5.18.0",
+        "user": "UXXA9L8HH83",
+        "ts": "1658257151.618186",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "13ca5bae-0a35-a507-c719-d2aaa8c0d27d",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1658263672.240257",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#99673 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f07223d-26ba-9697-ec5a-ac0eef91b588",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> postmortem doc for yesterday is up",
+        "user": "UC95B7VAFX0",
+        "ts": "1658267557.729025",
+        "team": "T02BRNDLCV"
+    }
+]

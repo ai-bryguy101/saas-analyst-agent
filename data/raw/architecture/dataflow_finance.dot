@@ -1,0 +1,11 @@
+// finance data flow, hand-maintained by F. Adeyemi. last touched 2022-11
+digraph finance {
+  rankdir=LR; node [shape=box, fontname="Helvetica"];
+  billing_v3 -> netsuite [label="nightly GL"];
+  ledger_mysql -> billing_v3 [label="2017 one-time import\n(amounts in DOLLARS)"];
+  meridian_sage -> netsuite [label="until 2019-07"];
+  kestrel_xero -> netsuite [label="until 2022-04", style=dashed];
+  salesforce -> board_deck [label="contracted ARR"];
+  billing_v3 -> finance_arr_xlsx [label="live ARR"];
+  // TODO: tallyflow? (QuickBooks, never integrated)
+}

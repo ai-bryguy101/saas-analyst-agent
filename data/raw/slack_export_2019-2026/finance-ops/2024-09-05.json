@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "3b4210b2-75f6-c932-18d6-1fc8b812db91",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UXETPKNK8MV",
+        "ts": "1725548244.890292",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8d9ad442-e87b-a3c3-2492-a1eb066e9e5e",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2024",
+        "user": "UGPRJ4K947R",
+        "ts": "1725552613.797657",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49976591-cf92-a0ac-704f-c6346cc88df8",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UH9DL28T3MH",
+        "ts": "1725560468.384034",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ef41ca3-f99f-750a-4b63-7f54f3bb789e",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3KL08VJD8C",
+        "ts": "1725567613.570798",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c79a277a-63d0-03cd-1ab3-8df43df58db5",
+        "type": "message",
+        "text": "AR aging is up, Gray Inns is 90+ days",
+        "user": "UJRKGMQPU2R",
+        "ts": "1725571195.874039",
+        "team": "T02BRNDLCV"
+    }
+]

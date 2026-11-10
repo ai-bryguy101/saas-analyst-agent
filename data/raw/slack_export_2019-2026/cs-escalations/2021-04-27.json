@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "09b18bdc-2dd0-ffcd-e8cb-7cff65d68d8c",
+        "type": "message",
+        "text": "Can someone check Rivers Medical Center Ltd.'s invoice? They say they were double billed",
+        "user": "UYFL6320JLT",
+        "ts": "1619537467.719609",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e30fa05c-d3a9-3f85-812d-67419f0be9db",
+        "type": "message",
+        "text": "Can someone check Halvorsen Mills Co.'s invoice? They say they were double billed",
+        "user": "UAHZYQG5URJ",
+        "ts": "1619555577.026130",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

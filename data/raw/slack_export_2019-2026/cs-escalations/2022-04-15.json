@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "fad0f641-c913-39d5-6f24-5e3dd478c32c",
+        "type": "message",
+        "text": "Can someone check Elmhurst Inns's invoice? They say they were double billed",
+        "user": "UZACKQ1VXCH",
+        "ts": "1650033632.034996",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2e36b447-7308-0bac-f9a4-1c3e03013bd3",
+        "type": "message",
+        "text": "Can someone check Zhang Stores Group's invoice? They say they were double billed",
+        "user": "UNFVCYNZT6K",
+        "ts": "1650041583.109451",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c4f46c2-15bb-3516-4782-a103a9acdfcb",
+        "type": "message",
+        "text": "Martin Medical Center Inc. asking for an SLA credit",
+        "user": "URWNWW8QFM6",
+        "ts": "1650052851.013858",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

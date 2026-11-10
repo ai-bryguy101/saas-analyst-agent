@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "cba3df81-ef73-9069-454c-b998335afb9b",
+        "type": "message",
+        "text": "Renewal risk: Riverbend Stores Ltd. unhappy with mobile app",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1620831890.033310",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af0968fb-27e7-98a8-6976-07fc1051d745",
+        "type": "message",
+        "text": "Erie University Facilities Inc. asking for an SLA credit",
+        "user": "U48TCJE75PD",
+        "ts": "1620832817.738671",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fa447fa9-4c4f-041f-d2fb-8b2b154ce8d0",
+        "type": "message",
+        "text": "Renewal risk: Raghunathan Facilities Management Corp. unhappy with mobile app",
+        "user": "U9V01K22TU1",
+        "ts": "1620833603.514793",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e676354-1011-a562-6a3f-061133700cc2",
+        "type": "message",
+        "text": "Wang Residential LLC reporting sync failures since this morning, CSM is Jordan Ingleby",
+        "user": "UWBW507RCA9",
+        "ts": "1620836238.836094",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f1e902e7-daab-4f07-d561-a5e2afd1cd97",
+        "type": "message",
+        "text": "Wabash Inns Inc. asking for an SLA credit",
+        "user": "UL20M69UM76",
+        "ts": "1620842301.856711",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7b4aeffd-ee95-def7-2c72-5d5551517214",
+        "type": "message",
+        "text": "Iyer Academy Group wants an exec call about the outage",
+        "user": "UFULM18ZBQ6",
+        "ts": "1620845685.975613",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "12faa557-2df0-e9e9-794c-ab2f9f2c6ecc",
+        "type": "message",
+        "text": "Harbortown Realty Management Co. reporting sync failures since this morning, CSM is Eugene Fontaine",
+        "user": "U9Y2KF0S90E",
+        "ts": "1620847766.065951",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "39070733-8a7b-416b-4483-a2d2a0514a1e",
+        "type": "message",
+        "text": "<@U69WX6HRQNH> Wabash Suites Ltd. wants an exec call about the outage",
+        "user": "UP51TVUPQU5",
+        "ts": "1620851032.038307",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bfb22be0-5e8d-c207-e1b8-e843b26c0846",
+        "type": "message",
+        "text": "Gatehouse Facilities Management Co. asking for an SLA credit",
+        "user": "U8SR98620D7",
+        "ts": "1620860189.534162",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f959aa6-2dd9-7c28-9d7d-e9167e33fb4b",
+        "type": "message",
+        "text": "Wexford Mechanical reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1620863723.938936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3dbbdb6-f357-58e6-4ff5-3240d399872d",
+        "type": "message",
+        "text": "Marrow Mills Corp. wants an exec call about the outage",
+        "user": "U3EQ075NUYR",
+        "ts": "1620865364.793420",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "155cf6ed-d3a7-606c-5291-5e92a1630b65",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFARBQM0LCD",
+        "ts": "1651583820.692496",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7a58f7f3-8d96-e7f5-39b8-5fa2090d0aab",
+        "type": "message",
+        "text": "Saguaro Stores Corp. paid by wire, applying now",
+        "user": "UNFVCYNZT6K",
+        "ts": "1651598836.554841",
+        "team": "T02BRNDLCV"
+    }
+]

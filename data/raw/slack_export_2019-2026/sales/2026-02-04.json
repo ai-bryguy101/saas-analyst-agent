@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "7aea75ab-58f5-6b01-f595-c54ca24fe364",
+        "type": "message",
+        "text": "Ozark Property Services wants a discount, how far can I go?",
+        "user": "U9SD2024Q7F",
+        "ts": "1770214010.389392",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNKFW783RHY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bc4d265-dc31-ee95-5e08-7591ce1749cd",
+        "type": "message",
+        "text": "Oakmere Resorts Ltd. wants a discount, how far can I go?",
+        "user": "UBHB6GTB73U",
+        "ts": "1770238221.821377",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2a2726ad-af04-f752-744e-388bbb22cfde",
+        "type": "message",
+        "text": "Closed Heritage Works Co.! 325 seats, Starter",
+        "user": "U9V01K22TU1",
+        "ts": "1770243073.544875",
+        "team": "T02BRNDLCV"
+    }
+]

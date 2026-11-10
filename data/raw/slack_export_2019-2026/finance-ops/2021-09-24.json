@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "54d2af37-3c6c-c9c1-9286-fcfc2c586f0b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U5TERVWF7JH",
+        "ts": "1632488563.674443",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5608e7e-097a-5015-4c2f-25cf60dffbf6",
+        "type": "message",
+        "text": "AR aging is up, Jones Warehousing is 90+ days",
+        "user": "UT9KGXWKHLB",
+        "ts": "1632493997.698005",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "12c8a633-7df7-8fb6-4e3c-70a58b2ebc84",
+        "type": "message",
+        "text": "Chaudhry Health System paid by wire, applying now",
+        "user": "U8TVGALMJLQ",
+        "ts": "1632498388.978628",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53711006-0893-49ad-fa41-69ba9464a1a5",
+        "type": "message",
+        "text": "AR aging is up, Highland Hospital Ltd. is 90+ days",
+        "user": "UWBW507RCA9",
+        "ts": "1632514895.831627",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a0daf365-641f-94a3-56f3-254cf29ebf06",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDCALCM1RUG",
+        "ts": "1632522108.604806",
+        "team": "T02BRNDLCV"
+    }
+]

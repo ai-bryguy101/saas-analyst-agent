@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "996e629a-6fcf-aab9-6fe1-1b769ff68d2b",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Calloway Contracting reporting sync failures since this morning, CSM is Alexander Zhang",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1760101490.994272",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1760106873.701553"
+        }
+    },
+    {
+        "client_msg_id": "fd5efdbd-403f-568e-dede-942919ef8b60",
+        "type": "message",
+        "text": "Gatehouse Public Works Holdings reporting sync failures since this morning, CSM is Jordan Ingleby",
+        "user": "UT9KGXWKHLB",
+        "ts": "1760141397.278697",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8aa8293-019b-9f41-9777-5046d2575763",
+        "type": "message",
+        "text": "Richardson Realty Management Co. asking for an SLA credit",
+        "user": "UFWAQ6E76D6",
+        "ts": "1760141570.758279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFWAQ6E76D6",
+            "ts": "1760137621.121665"
+        }
+    },
+    {
+        "client_msg_id": "6f7ed7f9-71df-92c6-4508-26708ca0fc14",
+        "type": "message",
+        "text": "Blackwood Building Services reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "UL20M69UM76",
+        "ts": "1760144081.131698",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "6f1ecbe2-ac80-e6c5-d7a0-a9de5668297c",
+        "type": "message",
+        "text": "Closed Marchetti Mechanical LLC! 137 seats, Starter",
+        "user": "UZJU9N8CY2T",
+        "ts": "1575381475.363974",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e0321f2a-45b8-31ff-0aae-b8b85d13ce1c",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1575391641.038206",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2fec6e3b-3644-6635-df94-53053958d5fe",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UBK8V2J099L",
+        "ts": "1575403487.042331",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ba13bacb-0ca7-3015-cd25-468e2f13e071",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1575403816.451642",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1575378481.929656"
+        }
+    },
+    {
+        "client_msg_id": "7af913a1-8779-6344-4717-86395d9bb7b9",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1575414362.964592",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e86873bf-df59-0a7a-afce-71220cfbc1f0",
+        "type": "message",
+        "text": "Closed Foxglove Homes Ltd.! 71 seats, Starter",
+        "user": "UQTUT2GDN85",
+        "ts": "1575414947.581952",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5b6b382-9341-037a-7b0e-868303904d10",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U69WX6HRQNH",
+        "ts": "1575415688.238834",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "392b3dcb-0f45-045d-da0c-4d4309db9efc",
+        "type": "message",
+        "text": "Lost Davis Resorts Holdings to Plinthwise on price",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1575417016.583604",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "f8a80080-58aa-bb1c-03e8-a1d35461b992",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1753206395.308822",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#59821 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61b59bc2-b889-c39f-2b43-16e0673c4d9e",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFNKJQT8PV1",
+        "ts": "1753207398.876625",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2f1eb3aa-dde4-2cd2-1218-e83d4dd379ef",
+        "type": "message",
+        "text": "<@UFNKJQT8PV1> deploy v9.17.3 to prod :rocket:",
+        "user": "U9Y2KF0S90E",
+        "ts": "1753207434.253923",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c81fa6e-135e-777a-cfd9-9928f57c2cc7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1753214538.916366",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#26165 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e849f10-8bfb-5c87-f69c-6a988682d800",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5X9PNA34DU",
+        "ts": "1753230574.883810",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f9600448-7e46-c277-a5bc-59be16c8c23c",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UYR8E48FJ62",
+        "ts": "1753231845.310518",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2383a8e3-8af1-14a9-f973-5a24c63f7c3a",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U3YU9TS6QYB",
+        "ts": "1753232179.076524",
+        "team": "T02BRNDLCV"
+    }
+]

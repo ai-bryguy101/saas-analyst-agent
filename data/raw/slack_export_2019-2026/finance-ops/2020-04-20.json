@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "8557aeab-8b28-f2e4-0b92-d56c883e9213",
+        "type": "message",
+        "text": "Highland College Corp. paid by wire, applying now",
+        "user": "UA3MVBJWAHX",
+        "ts": "1587398653.403859",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a1bcb1ec-5e13-26f1-2e5c-90fb8a354a5f",
+        "type": "message",
+        "text": "AR aging is up, Sycamore Manufacturing Corp. is 90+ days",
+        "user": "UA3MVBJWAHX",
+        "ts": "1587403584.670119",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "590b0ac1-2b26-3256-06ad-486be5b89627",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UKMQNTKUR4V",
+        "ts": "1587408839.052277",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8183aa90-abee-aaaa-5493-a1d3cdb75819",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UYFL6320JLT",
+        "ts": "1587410341.161019",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37c350da-4745-a1cc-8f46-5c6f2d02c9ff",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UBHB6GTB73U",
+        "ts": "1587412985.394483",
+        "team": "T02BRNDLCV"
+    }
+]

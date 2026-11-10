@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f01b7712-bc16-c643-c02f-166d2db7b184",
+        "type": "message",
+        "text": "<@UFARBQM0LCD> Can someone check Blackwood Stores Inc.'s invoice? They say they were double billed",
+        "user": "UFQYM82M1LX",
+        "ts": "1740402145.420399",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53370bc8-5dea-0dee-8e2c-651f76233160",
+        "type": "message",
+        "text": "<@UVX5HCR5MMD> Can someone check Marrow Builders Group's invoice? They say they were double billed",
+        "user": "U7V33ZEGRET",
+        "ts": "1740404478.772549",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19d45806-2723-b6f6-c378-e3671b62b020",
+        "type": "message",
+        "text": "Cascade School District Ltd. asking for an SLA credit",
+        "user": "UL8NMQFXPJR",
+        "ts": "1740424791.901183",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

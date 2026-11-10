@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "f510cbee-fbd2-5f32-766f-5c8a18c1176d",
+        "type": "message",
+        "text": "Renewal risk: Harbortown Resorts Holdings unhappy with mobile app",
+        "user": "UC95B7VAFX0",
+        "ts": "1675344824.634307",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42dc4f18-4ae3-d2fc-fd4e-55916a86b693",
+        "type": "message",
+        "text": "Can someone check Granite Building Services LLC's invoice? They say they were double billed",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1675346306.199908",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5135b29-60fc-1cd4-27c1-24a410a46413",
+        "type": "message",
+        "text": "Muskingum Transit Authority Holdings asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1675360902.682011",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a9f8713-e623-3b69-5ff7-a8c18074db2d",
+        "type": "message",
+        "text": "Renewal risk: Gonzalez Janitorial Holdings unhappy with mobile app",
+        "user": "UDCALCM1RUG",
+        "ts": "1675365439.880035",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f507c529-4ae4-6da1-b7f9-e5e3b7d530fd",
+        "type": "message",
+        "text": "Union Construction Ltd. reporting sync failures since this morning, CSM is Robert Gomez",
+        "user": "UFULM18ZBQ6",
+        "ts": "1675376349.072918",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "46ccb60e-7717-b1f9-53ad-bb6871b19f8c",
+        "type": "message",
+        "text": "Tamarack Transit Authority asking for an SLA credit",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1675379499.801033",
+        "team": "T02BRNDLCV"
+    }
+]

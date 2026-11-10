@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "bf0a5f31-0a0e-6694-6359-ab950722246e",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2020",
+        "user": "UE49ET7WGNU",
+        "ts": "1578694335.509717",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UNCGDMQATC5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "976cc837-7af0-34b5-dbbc-1acb50a44528",
+        "type": "message",
+        "text": "<@U773RMBLF5X> AR aging is up, Ravenwood Hospitality Group is 90+ days",
+        "user": "UNCGDMQATC5",
+        "ts": "1578696710.753776",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b8d8adf-5d1c-fdf5-a678-1e05f1ac1b0f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMXMN24FN4K",
+        "ts": "1578698089.827011",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "064369f8-bf49-8637-2157-c361f6c3928b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UQXT5A6YMVH",
+        "ts": "1578699885.308921",
+        "team": "T02BRNDLCV"
+    }
+]

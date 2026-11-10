@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "6aecb2ee-1a2d-9398-c604-27e08fa8402e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1604355793.999917",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88137 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1391cf32-7ecb-ee9d-b9d9-974c5402362c",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXS2WD4BYRN",
+        "ts": "1604360252.562672",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXS2WD4BYRN",
+            "ts": "1604337212.757083"
+        }
+    },
+    {
+        "client_msg_id": "8f2e7545-e119-cce7-b951-bb8a1b8258ef",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U0E67MPWRXA",
+        "ts": "1604363128.491066",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b87b5a6-c2e7-2f4f-f724-9a6f1574ba1f",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> deploy v5.11.2 to prod :rocket:",
+        "user": "UHV2RFNY0HN",
+        "ts": "1604363588.857671",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "eeba4cec-7dcf-d38c-f42e-b7bba6b23508",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U9Y2KF0S90E",
+        "ts": "1674667006.007916",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a93fdc9a-6c37-f034-c533-c353a4a1240a",
+        "type": "message",
+        "text": "AR aging is up, Bailey Restoration LLC is 90+ days",
+        "user": "UXS2WD4BYRN",
+        "ts": "1674672711.671701",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d4acc337-7e8d-8aeb-b034-44c30bac328a",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> Month-end close starts tomorrow",
+        "user": "U22GUF0P303",
+        "ts": "1674680733.409936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5c3ea44-100f-b8cf-0f85-03c0a5324832",
+        "type": "message",
+        "text": "AR aging is up, Ironwood Couriers is 90+ days",
+        "user": "UXVNE61TTLN",
+        "ts": "1674682691.863850",
+        "team": "T02BRNDLCV"
+    }
+]

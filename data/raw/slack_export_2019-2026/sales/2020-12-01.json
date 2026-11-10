@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "6ca3c08f-6f3a-08b9-9e46-b5007549cf38",
+        "type": "message",
+        "text": "Copperfield Clinics Corp. wants a discount, how far can I go?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1606841538.411242",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd6cf6dd-055c-7714-e5cc-494179b2d446",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQTUT2GDN85",
+        "ts": "1606848531.872172",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3e449253-e196-5515-1cd9-795924ba293b",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1606854447.438594",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e376c46-81b8-d2a9-1f5c-efa51b8923a0",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UHV2RFNY0HN",
+        "ts": "1606863196.137677",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95b3f3ed-fc50-df39-26ac-590892844499",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1606866049.307813",
+        "team": "T02BRNDLCV"
+    }
+]

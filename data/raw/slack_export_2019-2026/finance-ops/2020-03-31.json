@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "e8739675-75d4-0d68-6937-95b1c66e5db9",
+        "type": "message",
+        "text": "Tidewater Suites Group paid by wire, applying now",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1585665698.911993",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c1d5347-f02b-c0f0-f4a5-90cf802e68b8",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1585672639.319851",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "26396f81-1130-59c9-b09b-f81298592017",
+        "type": "message",
+        "text": "Pelletier School District paid by wire, applying now",
+        "user": "UXXA9L8HH83",
+        "ts": "1585673209.403849",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "55cc5dd3-6536-89a7-9578-e5c6e91d586b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UBHB6GTB73U",
+        "ts": "1585673782.050770",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "298b734c-e603-7b51-3c07-3c149c35ac1f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URWNWW8QFM6",
+        "ts": "1585674480.767545",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e9307426-fc9d-ad9b-ebef-fc5bc1877f6f",
+        "type": "message",
+        "text": "AR aging is up, Tidewater Manufacturing is 90+ days",
+        "user": "UT7K74ALYGQ",
+        "ts": "1585692575.861433",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1326f5a6-5054-3f82-f2b2-2da168644b9f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQXT5A6YMVH",
+        "ts": "1585695047.789644",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff92df38-f877-b61f-b2e6-ee3b258cee6e",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2020",
+        "user": "U9U3DZUVA3L",
+        "ts": "1585696816.781819",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c495871-ccbe-e8d3-9dbc-7d16bde95a0d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UWU9WG7ECGY",
+        "ts": "1585697417.414182",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6e87717-417d-98cd-0560-5cac94e876f5",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> FX rates loaded for Mar 2020",
+        "user": "U773RMBLF5X",
+        "ts": "1585699910.732974",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -264,3 +264,400 @@ facts:
   - data/raw/product_events/events_2024-*.jsonl.gz
   - data/raw/product_events/tenants.csv
   notes: Event files include duplicated deliveries; the count above is raw. De-duplicated counts may differ slightly.
+- id: GF16
+  difficulty: medium
+  kind: chat-identity
+  question: Who approved the September 2020 service credit for Juniper Fabrication Co., and for how much?
+  answer: 'Gideon Ashdown (VP Sales) approved a one-month credit of $4,475.25 in a #cs-escalations thread on September 17,
+    2020. The approval only shows the Slack user ID (UB0YL0LKYC7); that account is deactivated, so the name comes from users.json.'
+  trail:
+  - data/raw/slack_export_2019-2026/cs-escalations/2020-09-17.json (thread replies)
+  - data/raw/slack_export_2019-2026/users.json (deleted user)
+  traps:
+  - The VP Customer Success was tagged first but declined
+  - Deactivated users have no title or email
+  values:
+    approver: Gideon Ashdown
+    slack_user_id: UB0YL0LKYC7
+    amount_usd: 4475.25
+    customer: Juniper Fabrication Co.
+- id: GF17
+  difficulty: medium
+  kind: date-locale
+  question: When did Brindle Insights (Project Lantern) become generally available?
+  answer: 3 April 2022. The Kestrel managing director wrote 'Lantern GA is 3/4' in Teams, which is day/month in the UK. US
+    staff in Slack read it as March 4; the release notes PDF confirms April 3.
+  trail:
+  - data/raw/teams_export_kestrel_2021-2023/Kestrel Analytics/Lantern Launch/messages.json (2022-02-14, locale en-gb)
+  - data/raw/product_docs/release_notes/Brindle_Insights_1.0_release_notes.pdf
+  - 'data/raw/slack_export_2019-2026/kestrel-integration/2022-02-15.json (wrong: ''March 4'')'
+  traps:
+  - US colleagues repeat 'March 4' in Slack
+  values:
+    ga_date: '2022-04-03'
+- id: GF18
+  difficulty: hard
+  kind: text-message
+  question: Why is Ridgeline Transit Authority billed 12% below list price?
+  answer: Renata Esposito (VP Sales) agreed 12% off list for the life of the contract by text message with Lauren Edwards
+    on March 13, 2022, on condition they signed that week. The order form was never amended; the only record is Renata's phone
+    backup.
+  trail:
+  - data/raw/phone_backups/sms_renata_esposito_2023-01.xml (date attribute is epoch milliseconds; type 1 = received, 2 = sent)
+  - data/raw/billing_v3_2017-now/subscriptions.csv
+  - data/raw/crm_salesforce_export_2026-10/Account.csv
+  traps:
+  - No contract document mentions the discount
+  values:
+    customer: Ridgeline Transit Authority
+    discount_pct: 12
+    agreed_on: '2022-03-13'
+- id: GF19
+  difficulty: hard
+  kind: voicemail
+  question: When did Stonebridge Public Works Group first tell Brindlecove they intended to cancel?
+  answer: April 16, 2021 at 5:48 PM Eastern, in a voicemail from Leila Nasser to their CSM Gabriel Morgan (extension 2865).
+    That is 74 days before the 2021-06-30 churn date in the CRM. The transcript garbles 'cancel' and the company name; the
+    caller is identified by matching the phone number to the CRM contact.
+  trail:
+  - data/raw/voicemail_transcripts/VM_2865_20210416-174812.txt
+  - data/raw/phone_system/cdr/cdr_2021.csv (dateTimeOrigination is UTC epoch seconds)
+  - data/raw/phone_system/extensions.csv
+  - data/raw/crm_salesforce_export_2026-10/Contact.csv (phone number)
+  traps:
+  - Transcript says 'can sell'
+  - The CRM only records the churn date, not the first notice
+  values:
+    customer: Stonebridge Public Works Group
+    voicemail_local: '2021-04-16T17:48:12'
+    csm: Gabriel Morgan
+    days_before_churn: 74
+- id: GF20
+  difficulty: hard
+  kind: fax-image
+  question: Which purchase order number must Tri-County Public Works' invoices quote from July 2020?
+  answer: TC-21-3581, their fiscal-year 2021 PO, faxed on July 06, 2020. It replaces the EDI purchase order PO465725 that
+    expired on June 30, 2020. The fax is an image-only TIFF, so the number has to be read with OCR.
+  trail:
+  - data/raw/fax_server/inbound/FAX_20200706_103315_TRICOPW.tif (CCITT G4 TIFF, 2 pages)
+  - data/raw/fax_server/fax_log.txt
+  - data/raw/integrations/edi/ (850 with the old PO)
+  traps:
+  - The EDI 850 carries an older PO number
+  values:
+    po_number: TC-21-3581
+    old_po: PO465725
+- id: GF21
+  difficulty: medium
+  kind: photo-image
+  question: What was the original planned date for the AWS cutover, and why did it move?
+  answer: Saturday February 11, 2023, crossed out on the war-room whiteboard and moved to February 18 because of the payroll
+    run and Q4 close. The cutover happened on February 18 (app logs switch hosts that day).
+  trail:
+  - data/raw/photos/whiteboard/IMG_4471.jpg (EXIF date 2023-02-06)
+  - data/raw/app_logs/app-2023-02-18.ip-10-20-3-17.log.gz
+  traps:
+  - Only the photo shows the original date
+  values:
+    planned: '2023-02-11'
+    actual: '2023-02-18'
+- id: GF22
+  difficulty: hard
+  kind: calendar recurrence
+  question: How many Pricing Committee meetings were actually held in 2023?
+  answer: 9. The series repeats on the first Tuesday of every month (12 in 2023), but two dates are removed with EXDATE (2023-01-03,
+    2023-07-04), the 2023-11-07 meeting is a STATUS:CANCELLED override, and the 2023-04-04 meeting was moved to 2023-04-06
+    (still held).
+  trail:
+  - data/raw/calendars/pricing_committee_export_2024-06-30.ics
+  traps:
+  - The CFO's 2023 export shows the same series with no exceptions (12 meetings)
+  - TZID 'Eastern Standard Time' is an Outlook name, not an IANA zone
+  - The moved instance has a new DTSTART but still counts as held
+  values:
+    held_2023: 9
+    held_dates:
+    - '2023-02-07'
+    - '2023-03-07'
+    - '2023-04-06'
+    - '2023-05-02'
+    - '2023-06-06'
+    - '2023-08-01'
+    - '2023-09-05'
+    - '2023-10-03'
+    - '2023-12-05'
+- id: GF23
+  difficulty: medium
+  kind: contact card
+  question: What is the best phone number to reach Theodora Vance, the facilities director at Calloway Facilities Management,
+    Inc.?
+  answer: The mobile number (513) 555-0188. A vCard in Renata Esposito's March 2024 phone backup says the old (513) 555-0142
+    number now rings the front desk. The CRM and the 2019 Outlook export still have only (513) 555-0142.
+  trail:
+  - data/raw/contacts/resp_phone_backup_2024-04.vcf (NOTE is QUOTED-PRINTABLE, cp1252)
+  - data/raw/crm_salesforce_export_2026-10/Contact.csv
+  traps:
+  - CRM Contact.csv has only the old number
+  - The NOTE field must be decoded from quoted-printable
+  values:
+    phone: (513) 555-0188
+    old_phone: (513) 555-0142
+- id: GF24
+  difficulty: medium
+  kind: print-to-file report
+  question: How much BRIX receivables were more than 90 days old at the end of 2009?
+  answer: $104,536.14 (the OVER 90 column of the *** REPORT TOTAL line in the 12/31/2009 aged AR run). Total outstanding was
+    $230,936.14.
+  trail:
+  - data/raw/brix_mainframe/reports/AGEDAR_091231.PRN
+  - data/raw/brix_mainframe/reports/README.TXT
+  traps:
+  - Summing every number in the OVER 90 column double counts the ** CUSTOMER TOTAL lines
+  - Page headers repeat every 54 lines and pages are split by form feeds
+  - AGEDAR_100331.PRN is the next quarter's run
+  - Aging is from invoice date, not due date
+  values:
+    over_90: 104536.14
+    total_outstanding: 230936.14
+- id: GF25
+  difficulty: medium
+  kind: binary legacy spreadsheet
+  question: What was the board-approved FY1997 marketing budget?
+  answer: $73,600, from the revised Lotus 1-2-3 file BUDG97R.WK1 ('APPROVED BY BOARD 2/20/97'). The first draft BUDGET97.WK1
+    had $92,100.
+  trail:
+  - data/raw/finance_lotus_1997/BUDG97R.WK1
+  traps:
+  - BUDGET97.WK1 is the draft
+  - 'WK1 is binary: record type, length, then cells (labels start with an apostrophe)'
+  values:
+    marketing_fy1997: 73600.0
+    draft: 92100.0
+- id: GF26
+  difficulty: hard
+  kind: hidden sheet
+  question: How many Q3 2025 renewals (US book, 40+ seats) were flagged at risk, and how much ARR did they carry?
+  answer: 5 accounts with $708,633.00 ARR. The list is on the hidden sheet 'at_risk'; the Summary cells are formulas with
+    no cached values, and the 'Pivot (old)' sheet is a stale June refresh.
+  trail:
+  - data/raw/renewals/Q3_2025_renewals_tracker.xlsx (hidden sheet at_risk)
+  traps:
+  - Reading with data_only=True returns None for the Summary formulas
+  - The 'Pivot (old)' sheet has stale counts
+  - The at_risk sheet is hidden
+  values:
+    count: 5
+    arr_usd: 708633.0
+    accounts:
+    - Wexford Markets LLC
+    - Lantern Municipal Services Corp.
+    - Heron Property Group
+    - Juniper Fabrication Co.
+    - Pinecrest Health Partners Group
+- id: GF27
+  difficulty: medium
+  kind: compressed diagram
+  question: Before the February 2023 AWS move, where did the billing v3 database run?
+  answer: On billing-db01, MySQL 5.7, with a replica billing-db02, both in the Cobalt Ridge colocation facility (cage 14).
+    After the move it is RDS PostgreSQL 14.
+  trail:
+  - data/raw/architecture/billing_architecture_2021.drawio (diagram body is deflate + base64 + URL-encoded)
+  - data/raw/architecture/platform_2023_aws.drawio
+  traps:
+  - The 2021 diagram body is compressed, so a text search finds nothing
+  - The 2023 diagram shows the new state only
+  values:
+    server: billing-db01
+    engine: MySQL 5.7
+    site: Cobalt Ridge
+- id: GF28
+  difficulty: medium
+  kind: parquet data lake
+  question: Which customer made the most API calls in March 2026?
+  answer: Marrow Freight (tenant marrow-freight) with 26,515,103 calls, almost all between March 9 and 20 (a retry loop).
+    The next highest tenant had 2,553,823.
+  trail:
+  - data/raw/datalake/usage_daily/year=2026/month=03/part-00000.snappy.parquet
+  - data/raw/product_events/tenants.csv (slug -> customer)
+  traps:
+  - Parquet holds tenant slugs, not customer names
+  - Schema changed in 2025-07 (int32 -> int64)
+  values:
+    customer: Marrow Freight
+    tenant_id: marrow-freight
+    api_calls: 26515103
+- id: GF29
+  difficulty: hard
+  kind: change data capture
+  question: How many subscriptions were canceled in 2025, according to the billing change log?
+  answer: '125. Count update events whose after.status is ''canceled'', de-duplicated by source.lsn: a connector restart re-sent
+    the end of March 2025, which adds 4 duplicate cancellations.'
+  trail:
+  - data/raw/datalake/cdc/billing.public.subscriptions/2025-*.avro
+  - data/raw/billing_v3_2017-now/subscriptions.csv (canceled_at)
+  traps:
+  - March 2025 contains replayed events (same source.lsn)
+  - January starts with snapshot rows (op = r)
+  - updated_at is in microseconds, ts_ms in milliseconds
+  values:
+    canceled_2025: 125
+    duplicates_in_replay: 4
+- id: GF30
+  difficulty: hard
+  kind: binary audit log
+  question: Did anyone who left Brindlecove in 2025 export the customer list shortly before leaving?
+  answer: Yes. Justin Perez (Sales Manager, last day 2025-03-07) called GET /v2/export/customers 3 times in the final week,
+    from outside the office network (198.51.100.x), the last one on the evening of their last day (01:12 UTC on 2025-03-08).
+    RevOps' monthly exports from the office are routine.
+  trail:
+  - data/raw/datalake/api_audit/audit-2025-03.binpb (length-delimited protobuf, see audit_event.proto)
+  - data/raw/identity/okta_users_export_2026-10.csv (actor_id -> person, status DEPROVISIONED)
+  traps:
+  - actor_id is an opaque Okta id
+  - Timestamps are UTC; the last call is the previous evening in US time
+  - RevOps (Femi Adeyemi) runs the same export monthly, which is normal
+  values:
+    person: Justin Perez
+    left: '2025-03-07'
+    export_calls: 3
+    export_utc:
+    - '2025-03-01T22:41:07'
+    - '2025-03-05T23:05:52'
+    - '2025-03-08T01:12:30'
+- id: GF31
+  difficulty: hard
+  kind: windows event log
+  question: Who deleted the FY2016_close folder from the finance file share, and when?
+  answer: Yuki Tanaka (account ytanaka) at 5:31 PM Eastern on October 30, 2019, the day before their last day. Event 4660
+    (object deleted) carries only a HandleId, so it has to be joined to the 4663 event with the same HandleId to get the path.
+    A copy survives in the share backup zip taken 26 minutes earlier.
+  trail:
+  - data/raw/it_ops/windows_events/FS01_Security_2019-10-28_to_2019-11-01.xml (SystemTime is UTC)
+  - data/raw/it_ops/ad_export/ad_users_2019-11-04.ldif
+  - data/raw/file_shares/FS01_Finance_share_2019.zip
+  traps:
+  - 4660 has no ObjectName
+  - SystemTime is UTC (21:31Z = 5:31 PM EDT)
+  - Many routine 4663 reads of the same folder by other people
+  values:
+    person: Yuki Tanaka
+    account: ytanaka
+    deleted_local: '2019-10-30T17:31:04'
+    deleted_utc: '2019-10-30T21:31:04'
+- id: GF32
+  difficulty: medium
+  kind: web server logs
+  question: What was the longest API outage in 2025?
+  answer: March 18, 2025, from 2:02 to 2:49 PM Eastern (47 minutes), when almost every request returned 502. The only other
+    burst (August 6, about 9 minutes) was shorter. Neither has an incident ticket.
+  trail:
+  - data/raw/web_logs/api.brindlecove.example/access-2025-03.log.gz (local time with -0400 offset)
+  - data/raw/jira_export_2026-10/INC.json (no matching incident)
+  traps:
+  - Times carry a local offset that changes with DST
+  - Scattered single 5xx errors all year are noise
+  values:
+    date: '2025-03-18'
+    start_local: '2025-03-18T14:02:00'
+    end_local: '2025-03-18T14:49:00'
+    minutes: 47
+- id: GF33
+  difficulty: medium
+  kind: ads export
+  question: How much did Brindlecove spend on the Classic migration ad campaign in 2020?
+  answer: $50,398.86 (January to September 2020; the campaign was paused after the Classic sunset). The '(copy)' campaign
+    spent nothing.
+  trail:
+  - data/raw/marketing/google_ads/Campaign_report_2020.csv (UTF-16LE, tab separated)
+  traps:
+  - The file is UTF-16 with two title rows before the header
+  - Costs over 1,000 are quoted with commas
+  - '''Total:'' rows at the bottom are not campaigns'
+  values:
+    spend_usd: 50398.86
+- id: GF34
+  difficulty: medium
+  kind: survey export
+  question: What was the NPS for Q2 2025?
+  answer: 16 (43 promoters, 26 detractors out of 105 finished real responses, April to June 2025). Survey Preview rows and
+    unfinished responses are excluded.
+  trail:
+  - data/raw/marketing/qualtrics/Customer_NPS_2024-2026.csv (three header rows)
+  traps:
+  - Rows 2 and 3 are header rows, not data
+  - Status 'Survey Preview' rows are test responses (all scored 10)
+  - Finished=False rows sometimes have a score
+  values:
+    nps: 16
+    promoters: 43
+    detractors: 26
+    responses: 105
+- id: GF35
+  difficulty: medium
+  kind: QuickBooks IIF
+  question: What was TallyFlow's 2013 revenue, according to its QuickBooks books?
+  answer: '$1,193,998.60: the Subscription Revenue splits of 2013 invoices (stored as negative numbers), less $7,852.00 of
+    2013 credit memos. Payments must not be counted.'
+  trail:
+  - data/raw/billing_tallyflow_2012-2014/quickbooks/TallyFlow_QB_2012-2014.IIF
+  - data/raw/billing_tallyflow_2012-2014/invoices_export.xml (cross-check)
+  traps:
+  - Income splits are negative in IIF
+  - TRNS lines repeat the SPL totals (double counting)
+  - Dates are M/D/YY
+  - PAYMENT transactions are cash, not revenue
+  values:
+    revenue_2013: 1193998.6
+    credit_memos_2013: 7852.0
+- id: GF36
+  difficulty: medium
+  kind: vendor invoice PDFs
+  question: How much did Brindlecove pay Cobalt Ridge Colocation for 2021?
+  answer: '$84,660.58: twelve monthly invoices totalling $86,510.58, less the $1,850.00 SLA credit memo (a rotated page).
+    The June invoice also exists as a re-sent ''COPY - REISSUED'' PDF, which must not be counted twice.'
+  trail:
+  - data/raw/ap_vendor_invoices/Cobalt_Ridge_Colocation/2021/
+  traps:
+  - June appears twice (original and _copy)
+  - The credit memo page is rotated 90 degrees
+  values:
+    spend_2021: 84660.58
+    invoices_2021: 86510.58
+    credit: 1850.0
+- id: GF37
+  difficulty: hard
+  kind: nested archive
+  question: How did the proposed FY2016 audit adjustments to revenue change between version 1 and version 2?
+  answer: 'Revenue adjustments went from $-96,300.00 (v1) to $-154,100.00 (v2), a further $-57,800.00: AJE-02 grew from -96,300
+    to -112,850 and v2 added AJE-04 (-41,250) for the ledger ''discount stored as price'' bug.'
+  trail:
+  - data/raw/file_shares/FS01_Finance_share_2019.zip -> Finance/FY2016_close.zip -> FY2016_close/AJE_proposed_v1.xlsx, v2.xlsx
+  traps:
+  - The workbooks are a zip inside a zip
+  - Total cells are formulas with no cached values
+  - Thumbs.db, desktop.ini and the ~$ lock file are not data
+  values:
+    v1_revenue: -96300.0
+    v2_revenue: -154100.0
+    change: -57800.0
+- id: GF38
+  difficulty: hard
+  kind: HL7 interface
+  question: On January 15, 2024, how many discharge cleaning jobs did St. Brigid’s Health System's feed genuinely create?
+  answer: 43. The ADT stream has 46 distinct A03 discharges (plus 5 resent copies with the same MSH-10 control id) and 3 A13
+    cancellations. The work-order export lists 49 rows because some resends created duplicates (status 'Closed - Duplicate')
+    and cancelled discharges show 'Cancelled'.
+  trail:
+  - data/raw/integrations/hl7_stbrigids/ADT_20240115.hl7 (MLLP framed, segments end in CR)
+  - data/raw/integrations/hl7_stbrigids/evs_work_orders_2024-01-15.csv
+  traps:
+  - Resent messages share MSH-10
+  - A13 cancels an earlier A03
+  - Work orders are in UTC, ADT times are local
+  - Counting work-order rows over-counts
+  values:
+    genuine: 43
+    discharges: 46
+    cancelled: 3
+    resent: 5
+    work_order_rows: 49

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "5ece7faf-5268-ac61-1442-323ab2649354",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UAGQX7APZBG",
+        "ts": "1580484733.086462",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8dc6dcfa-cdd4-3fa3-7421-56c774283b9a",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFARBQM0LCD",
+        "ts": "1580512518.036504",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0165451-6253-ee30-95a9-ac5da2ec9fdd",
+        "type": "message",
+        "text": "Beacon County Facilities paid by wire, applying now",
+        "user": "UZACKQ1VXCH",
+        "ts": "1580514242.755935",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "adad814a-09f9-dae4-a50b-482de628e2fd",
+        "type": "message",
+        "text": "Calloway Transit Authority Ltd. paid by wire, applying now",
+        "user": "UQXT5A6YMVH",
+        "ts": "1580518210.600475",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "90ac072f-c5b4-6b67-3598-dbd44401f223",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U0V9BPHARQX",
+        "ts": "1786635349.807202",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U0V9BPHARQX",
+            "ts": "1786644324.846655"
+        }
+    },
+    {
+        "client_msg_id": "c103bc15-1a84-2464-bdbe-0027d70becea",
+        "type": "message",
+        "text": "Welcome Abigail Fenwick to the Support team!",
+        "user": "UXS2WD4BYRN",
+        "ts": "1786649617.784170",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c78d936-aef0-4c9f-bb9d-693ee053c36d",
+        "type": "message",
+        "text": "Welcome Anthony Ellsworth to the Engineering team!",
+        "user": "UR3LDWKU006",
+        "ts": "1786659851.283135",
+        "team": "T02BRNDLCV"
+    }
+]

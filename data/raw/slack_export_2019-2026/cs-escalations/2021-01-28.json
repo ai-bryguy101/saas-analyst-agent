@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "69aeb3d9-f720-11d8-80f2-2f3a3f280a1d",
+        "type": "message",
+        "text": "Heritage Transit Authority Group reporting sync failures since this morning, CSM is Joyce Okonkwo-Hale",
+        "user": "U2CKCF24AEA",
+        "ts": "1611840170.412051",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56e12888-3527-f903-3a2a-9c71a86b330b",
+        "type": "message",
+        "text": "Osprey Freight reporting sync failures since this morning, CSM is Patricia Reed",
+        "user": "U7PFYH0YRRG",
+        "ts": "1611857822.492371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ba9957ad-d41f-2cdb-e110-d022e53bdf8a",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> Meadowlark Works Inc. wants an exec call about the outage",
+        "user": "UH9DL28T3MH",
+        "ts": "1611862358.476163",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bd8c5f9-ce56-6280-2aee-6cc2f9d01d94",
+        "type": "message",
+        "text": "Renewal risk: Liberty Builders Co. unhappy with mobile app",
+        "user": "U9XCAUGPS1F",
+        "ts": "1611862461.875144",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eb277e3b-cd80-5f37-d54d-0686a6ecf622",
+        "type": "message",
+        "text": "Can someone check Lakes Municipal Services Corp.'s invoice? They say they were double billed",
+        "user": "U7PFYH0YRRG",
+        "ts": "1611877946.719563",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "a4699b5d-a4f3-dd2c-37ac-706a2fbdb34a",
+        "type": "message",
+        "text": "Can someone check Huron School District's invoice? They say they were double billed",
+        "user": "UPHFQAHDPSK",
+        "ts": "1721752095.159695",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60ac1c67-0a0c-9d59-d0ed-2953b0b908d6",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Heron Clinics Group asking for an SLA credit",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1721753163.988883",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99d7e332-2ad8-cd9f-f13a-166397f0e0d1",
+        "type": "message",
+        "text": "Quarry College Inc. reporting sync failures since this morning, CSM is Desmond McCarthy",
+        "user": "UMDHKXLV8RH",
+        "ts": "1721763720.232260",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b57446e-c886-d267-bffe-8b259027243b",
+        "type": "message",
+        "text": "Renewal risk: Huron Properties Co. unhappy with mobile app",
+        "user": "UFULM18ZBQ6",
+        "ts": "1721764363.647578",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "513fd89e-ed9b-b5e6-6508-581e300fe439",
+        "type": "message",
+        "text": "Sycamore Hotels Inc. asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1721765290.787533",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3cc773d-969a-f2da-6767-19f51a21d641",
+        "type": "message",
+        "text": "Can someone check Morris Builders Holdings's invoice? They say they were double billed",
+        "user": "UPGXMWMDQNR",
+        "ts": "1721778688.759982",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UPGXMWMDQNR",
+            "ts": "1721743169.329611"
+        }
+    }
+]

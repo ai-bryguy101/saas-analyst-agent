@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "b54603c5-83e3-10a5-9d88-1916a73dd3e0",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UJRKGMQPU2R",
+        "ts": "1680011991.606894",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJRKGMQPU2R",
+            "ts": "1680039846.477754"
+        }
+    },
+    {
+        "client_msg_id": "102bce13-a7dd-dbd1-a6e8-046ac5411f96",
+        "type": "message",
+        "text": "rolling back v6.39.4",
+        "user": "UXXA9L8HH83",
+        "ts": "1680012783.634976",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fc969a08-1928-01f4-728a-bb8957a98c30",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UWU9WG7ECGY",
+        "ts": "1680021674.339782",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

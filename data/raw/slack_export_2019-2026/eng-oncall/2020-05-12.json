@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "3651d068-2bdd-b06f-364f-ec0f8773a61c",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> replica lag on db-03 again",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1589294746.628953",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c8bb507a-6ccb-fccf-7162-14eb16bb8e4b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1589303391.215503",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#26851 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25039439-a297-3684-7b19-2db698598410",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1589314488.828004",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#23036 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1813ab0c-818b-7f77-0f48-95b9ed80a8b8",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UMYYLUTXG9R",
+        "ts": "1589328056.019783",
+        "team": "T02BRNDLCV"
+    }
+]

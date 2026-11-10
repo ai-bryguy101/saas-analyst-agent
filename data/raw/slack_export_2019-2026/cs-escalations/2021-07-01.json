@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "16ed8a92-e8c5-3c32-4f4e-40d12b4627f1",
+        "type": "message",
+        "text": "Ravenwood Outfitters Corp. reporting sync failures since this morning, CSM is Zachary Romano",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1625152768.866014",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "feb0a9f6-8f15-ab7d-1362-91f7312e969b",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> Miller Properties Group reporting sync failures since this morning, CSM is Eugene Fontaine",
+        "user": "UXS2WD4BYRN",
+        "ts": "1625155493.118338",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61c18e2f-57e3-a607-fa30-e180cef8b219",
+        "type": "message",
+        "text": "Renewal risk: Copperfield Distribution LLC unhappy with mobile app",
+        "user": "UMXMN24FN4K",
+        "ts": "1625166987.956648",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3ed3f18d-37ac-c7b3-84ef-54a1af5d9e10",
+        "type": "message",
+        "text": "Can someone check Thomas Medical Center LLC's invoice? They say they were double billed",
+        "user": "UYR8E48FJ62",
+        "ts": "1625177940.163994",
+        "team": "T02BRNDLCV"
+    }
+]

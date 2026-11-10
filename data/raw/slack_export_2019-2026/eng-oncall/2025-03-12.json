@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "29e7bb18-6268-7478-7bec-1df1e4280c3b",
+        "type": "message",
+        "text": "rolling back v8.2.7",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1741787341.723997",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a7830f6a-4cfa-e438-4f07-37d09e384e82",
+        "type": "message",
+        "text": "<@UR3LDWKU006> postmortem doc for yesterday is up",
+        "user": "UPGXMWMDQNR",
+        "ts": "1741788857.520457",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "15cdfb12-b2d6-02d6-7809-1e48a3804856",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1741788859.614988",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#35063 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99a32b58-b635-e89a-2d3d-451f50337061",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> who owns the cron for nightly exports?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1741803808.275066",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "65a1ffb4-b4ee-6c09-e8a2-080616d9e10f",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U0E67MPWRXA",
+        "ts": "1741806360.646210",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "371dc47c-5310-ddae-c37e-a5955cfc550a",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1741811101.633044",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ede0da51-7fea-014e-72f2-ded085aec8bc",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1741823998.636800",
+        "team": "T02BRNDLCV"
+    }
+]

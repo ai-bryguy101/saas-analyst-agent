@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "319dbd74-55a3-97f7-7ce1-0fce775822b2",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UZJU9N8CY2T",
+        "ts": "1567522617.978482",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "befb6002-32cb-aefa-23da-3507e8619d98",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UHV2RFNY0HN",
+        "ts": "1567537696.024460",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cc631df1-2bea-67b8-bcea-6938fa8cba3b",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UBHB6GTB73U",
+        "ts": "1567543619.834964",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a4c8712-9fa4-3632-17c3-59941645ebd0",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U2CKCF24AEA",
+        "ts": "1567544558.385463",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "301282a7-ca54-3ce0-cfa8-ca543b71d619",
+        "type": "message",
+        "text": "deploy v8.9.4 to prod :rocket:",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1567550495.030815",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14e8982d-ccfd-7aa2-a470-f21c05c51ae1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1567550867.277270",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#58985 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a3531dc-0949-9f60-76aa-89085a8cd98a",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFARBQM0LCD",
+        "ts": "1567551102.596633",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b3cc5fc-7443-e0cb-bfa8-242a76c21e3e",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UPGXMWMDQNR",
+        "ts": "1567555754.568332",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJQ9E01DWPS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

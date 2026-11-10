@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "0667d9b1-a027-a0f8-37ce-cc7421d0e586",
+        "type": "message",
+        "text": "Fairhaven Homes Co. asking for an SLA credit",
+        "user": "UC95B7VAFX0",
+        "ts": "1590068609.232956",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eea46170-2006-a32c-67c6-44920062a1f6",
+        "type": "message",
+        "text": "Riverbend Facilities Management Group reporting sync failures since this morning, CSM is Charlotte Park",
+        "user": "UXETPKNK8MV",
+        "ts": "1590081368.007098",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c1bb7bb-629b-e030-fff6-1fdf31307c5d",
+        "type": "message",
+        "text": "Renewal risk: Willow Property Services unhappy with mobile app",
+        "user": "U9SD2024Q7F",
+        "ts": "1590089532.565495",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U9SD2024Q7F",
+            "ts": "1590086805.115296"
+        }
+    },
+    {
+        "client_msg_id": "a88c92da-afd6-2665-2c09-143e8be7f965",
+        "type": "message",
+        "text": "Northgate Municipal Services Inc. reporting sync failures since this morning, CSM is Hamid Roberts",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1590091421.956688",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5cdc768-f776-9038-0c5d-b38e44376147",
+        "type": "message",
+        "text": "Lindenwood Janitorial Holdings asking for an SLA credit",
+        "user": "UFJUKVTAA1B",
+        "ts": "1590100648.831083",
+        "team": "T02BRNDLCV"
+    }
+]

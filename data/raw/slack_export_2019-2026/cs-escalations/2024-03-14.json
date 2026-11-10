@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "224062b8-cbf3-2c01-8773-fc964c13839b",
+        "type": "message",
+        "text": "Cedar Transit Authority Holdings reporting sync failures since this morning, CSM is Lorraine Whitlock",
+        "user": "UH9DL28T3MH",
+        "ts": "1710421401.441840",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2eaadb16-af7f-79ff-d387-9b2105034bd5",
+        "type": "message",
+        "text": "Lantern Hospital Holdings reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "UYR8E48FJ62",
+        "ts": "1710433032.773843",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c89e7bec-70b3-114a-c875-25fcb7a64689",
+        "type": "message",
+        "text": "Ostrander Clinics Inc. asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1710436238.628472",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "43f88c5c-3390-234b-845e-b9f480345bae",
+        "type": "message",
+        "text": "Can someone check Highland Health System's invoice? They say they were double billed",
+        "user": "UPHFQAHDPSK",
+        "ts": "1710456711.630159",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60704557-3c5f-e5eb-ff10-0e865f5fd787",
+        "type": "message",
+        "text": "<@U1YEVCXATA8> Pinecrest Inns Co. asking for an SLA credit",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1710457023.760966",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6508689-e3e1-5697-4944-925497126d2c",
+        "type": "message",
+        "text": "Renewal risk: Plains Academy unhappy with mobile app",
+        "user": "UX84HDPARWN",
+        "ts": "1710460291.904935",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

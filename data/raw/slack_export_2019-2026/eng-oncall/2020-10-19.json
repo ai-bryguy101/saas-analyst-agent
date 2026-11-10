@@ -1,0 +1,219 @@
+[
+    {
+        "client_msg_id": "fb74456c-e81b-5b34-0db4-a2ba2ee14206",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U3KL08VJD8C",
+        "ts": "1603114128.049847",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a0fdcd9-ad18-a208-0b82-874e4d023dc3",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1603119885.877173",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#45319 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ff02675-5300-ae72-64d2-d0e3f9457c5d",
+        "type": "message",
+        "text": "deploy v6.30.8 to prod :rocket:",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1603121912.384287",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6bcba4a-0bb8-4da0-6df0-7325105fe8bb",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UJQY3Q26RVW",
+        "ts": "1603123402.098320",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2ee1032e-2fb6-7270-ad11-0a53ae19f676",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U69WX6HRQNH",
+        "ts": "1603125520.198067",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "29762ec7-a4fe-92cc-de7d-0e21a88992f9",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U5DYUQUF95P",
+        "ts": "1603125549.912229",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e123f6b0-8dff-4439-75ca-cc5c671b403f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1603131778.270299",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#78260 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "003c0a04-070a-34f6-2f90-33e74cf8ea18",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> postmortem doc for yesterday is up",
+        "user": "UA3MVBJWAHX",
+        "ts": "1603132487.759096",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a037f62b-31eb-849c-9f81-edca7654ecfd",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1603132846.271469",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#31806 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cbbd1bc-49e9-ff22-b88e-4a2e47724334",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U3YU9TS6QYB",
+        "ts": "1603133175.986835",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ea717ab-b839-dc7f-8377-7c82140a1792",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1603133654.739788",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#18196 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0884f30c-3e90-392f-6f28-1a6f44b09ae9",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UCQT1GS0C0C",
+        "ts": "1603135101.052279",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f435b3bb-b68c-1297-4d2a-299e45032bbd",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UYFL6320JLT",
+        "ts": "1603147063.988755",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d0dc7ab7-de97-075e-7b6c-67aa14b93842",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1603147418.993418",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "29b6a3d0-3793-2640-a49c-8b1640eb3cf8",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1603148785.827012",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#18163 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c60a2ca1-cbba-e97b-771f-4c27222dfdfd",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1603151642.208218",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UTLU2ZXMLEL",
+            "ts": "1603138150.184984"
+        }
+    },
+    {
+        "client_msg_id": "84db967e-cbf6-b35c-d4bf-3763e6c0f197",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UJQY3Q26RVW",
+        "ts": "1603152564.764071",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ebb9b571-29c4-cfa9-ff40-0dfce65605fd",
+        "type": "message",
+        "text": "deploy v8.22.2 to prod :rocket:",
+        "user": "U69WX6HRQNH",
+        "ts": "1603152904.249303",
+        "team": "T02BRNDLCV"
+    }
+]

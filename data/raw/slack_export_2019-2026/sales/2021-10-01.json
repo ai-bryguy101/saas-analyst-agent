@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "bf426178-6f0b-20f7-b788-2f4cf169e07a",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UA3MVBJWAHX",
+        "ts": "1633116196.349195",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2a302244-ee41-daac-ea63-9d9ac4db5fc5",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UFGLBSDS2XV",
+        "ts": "1633117459.873170",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFGLBSDS2XV",
+            "ts": "1633109588.215628"
+        }
+    },
+    {
+        "client_msg_id": "cb369663-5e95-9260-244f-87b3c1d7cc06",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UV9KPNCPQJN",
+        "ts": "1633121793.330075",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "224e7fdb-bedd-d15e-0f2e-9e2fed3c142c",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UVQRW5SQSEL",
+        "ts": "1633125518.660854",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14434c10-6364-8e5a-d4c1-1a3887abe4f2",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UGPRJ4K947R",
+        "ts": "1633131364.658604",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49856adc-dbb3-2210-8a1b-02cbf8c4223f",
+        "type": "message",
+        "text": "Lost Blackhawk Realty Management Inc. to Plinthwise on price",
+        "user": "UV8WG09HYBP",
+        "ts": "1633131451.486615",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9fcafb4-6683-54ec-d71e-ed1884ebab33",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UYFL6320JLT",
+        "ts": "1633133574.395129",
+        "team": "T02BRNDLCV"
+    }
+]

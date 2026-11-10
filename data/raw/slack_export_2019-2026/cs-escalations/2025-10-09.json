@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "79cd40ff-5259-768b-dedd-80e3f4a85741",
+        "type": "message",
+        "text": "Pioneer Hospitality Group LLC asking for an SLA credit",
+        "user": "URWNWW8QFM6",
+        "ts": "1760027878.023460",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "URWNWW8QFM6",
+            "ts": "1760019066.164145"
+        }
+    },
+    {
+        "client_msg_id": "d7d2cbbd-62b0-fb2c-9b7f-f17a65fec5f4",
+        "type": "message",
+        "text": "Can someone check Magnolia Building Services's invoice? They say they were double billed",
+        "user": "UZJU9N8CY2T",
+        "ts": "1760034469.242161",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b3b57daf-87b1-a7f4-88ca-178476b8162b",
+        "type": "message",
+        "text": "Allegheny School District wants an exec call about the outage",
+        "user": "UA3MVBJWAHX",
+        "ts": "1760041200.200462",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e20814f-dd18-0cd3-dd3b-cbc6b37ad8bc",
+        "type": "message",
+        "text": "Can someone check Tri-County Properties Holdings's invoice? They say they were double billed",
+        "user": "U773RMBLF5X",
+        "ts": "1760041308.364056",
+        "team": "T02BRNDLCV"
+    }
+]

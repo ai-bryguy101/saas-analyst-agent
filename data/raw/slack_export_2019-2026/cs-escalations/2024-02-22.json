@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "c6b7b9a3-3bc9-ac9a-9127-aa06fc5cc73e",
+        "type": "message",
+        "text": "Hargreaves Health System wants an exec call about the outage",
+        "user": "UZJU9N8CY2T",
+        "ts": "1708611045.041400",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f8418af-aea0-4778-dbd6-d2fe7edc160b",
+        "type": "message",
+        "text": "Can someone check Pelletier Municipal Services's invoice? They say they were double billed",
+        "user": "U0E67MPWRXA",
+        "ts": "1708616901.351096",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e6481831-a5d5-16c8-3368-31b75fd373be",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> Magnolia Municipal Services Inc. reporting sync failures since this morning, CSM is Russell Lopez",
+        "user": "UQTUT2GDN85",
+        "ts": "1708633902.045751",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ffe9ec99-b775-1717-3de2-82ee9a292008",
+        "type": "message",
+        "text": "Thompson Janitorial Group reporting sync failures since this morning, CSM is Lawrence Fitzgerald",
+        "user": "UYR8E48FJ62",
+        "ts": "1708640097.043016",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

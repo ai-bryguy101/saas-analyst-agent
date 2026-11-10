@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "14dd8287-8f18-5fe3-6cd7-5e850ef70b86",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U9XCAUGPS1F",
+        "ts": "1616508941.089785",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4654f7e8-356a-43b5-05e4-0a28b7aa43a0",
+        "type": "message",
+        "text": "Welcome Isabella Thompson to the Support team!",
+        "user": "UUFS9CP1A17",
+        "ts": "1616513657.069262",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "126d6c82-db22-1166-0c11-a51dd6357b7f",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U22GUF0P303",
+        "ts": "1616514204.155503",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dbeddd92-3698-83fe-95e4-f7e33dd26b08",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UHV2RFNY0HN",
+        "ts": "1616518553.741515",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1076b7e6-97f2-82c0-ebd5-40347c33a3ef",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UUFS9CP1A17",
+        "ts": "1616522206.208649",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93fdbf36-2956-1a79-c734-925c7e4f86b0",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U69WX6HRQNH",
+        "ts": "1616546422.208132",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U69WX6HRQNH",
+            "ts": "1616547506.188378"
+        }
+    }
+]

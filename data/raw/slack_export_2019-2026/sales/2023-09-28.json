@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "a36500d4-d349-26ce-74b9-11bfcad50016",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "U09CZFTHQSS",
+        "ts": "1695909341.374839",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0fa16e94-8443-4ac0-a0ba-a3613870eed2",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UNFVCYNZT6K",
+        "ts": "1695910513.732422",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "917aa31e-b9c2-e5a6-1edf-e3f7537771cb",
+        "type": "message",
+        "text": "Peterson Hospitality Group Holdings wants a discount, how far can I go?",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1695915663.646889",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01427339-c0d9-4282-b2d6-a993817702b0",
+        "type": "message",
+        "text": "Lost Cornerstone Public Works to Plinthwise on price",
+        "user": "U3YU9TS6QYB",
+        "ts": "1695940251.406474",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

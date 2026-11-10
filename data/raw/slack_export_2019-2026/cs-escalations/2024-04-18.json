@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "e8f61f05-9035-db59-0c58-e880f3526f8a",
+        "type": "message",
+        "text": "Bayou Resorts Holdings reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "UPHFQAHDPSK",
+        "ts": "1713446569.047508",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cd33669-1a0f-8522-ca89-fd1420a3ed05",
+        "type": "message",
+        "text": "Can someone check Tamarack Hotels's invoice? They say they were double billed",
+        "user": "UAHZYQG5URJ",
+        "ts": "1713457338.171824",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fa8df5ba-e8df-5c9f-7fd2-8de3edebc58c",
+        "type": "message",
+        "text": "Tillamook Builders Ltd. reporting sync failures since this morning, CSM is Olivia Foster",
+        "user": "UL20M69UM76",
+        "ts": "1713466453.471058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a014e3f-d399-b170-a6ce-ecf39d50b6b8",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Can someone check Cook Facilities Management Co.'s invoice? They say they were double billed",
+        "user": "UC70JNE74S7",
+        "ts": "1713481879.399535",
+        "team": "T02BRNDLCV"
+    }
+]

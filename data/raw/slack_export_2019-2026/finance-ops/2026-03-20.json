@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "30af169f-2ed1-0f23-03dd-018aa73a48a7",
+        "type": "message",
+        "text": "Ashdown Realty Management Corp. paid by wire, applying now",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1774030789.337671",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d803ca9f-d823-5485-b820-caf107435b02",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1774039073.382603",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4548b00e-14b8-3166-6423-25a2094aef01",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2026",
+        "user": "U773RMBLF5X",
+        "ts": "1774047809.679081",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U773RMBLF5X",
+            "ts": "1774036312.863920"
+        }
+    },
+    {
+        "client_msg_id": "c1556ed1-5893-c4b5-f54e-9aa97c77794f",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2026",
+        "user": "U2LMMLL4F31",
+        "ts": "1774050503.394661",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "583b1b62-ac5d-6bbd-2c4f-925bee0ba54b",
+        "type": "message",
+        "text": "Union Markets Group asking for an SLA credit",
+        "user": "U9XCAUGPS1F",
+        "ts": "1730048481.206757",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1730058748.850756"
+        }
+    },
+    {
+        "client_msg_id": "7d397828-60ae-caf4-012a-56349115e98b",
+        "type": "message",
+        "text": "Stonebridge Realty Management Corp. wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1730051498.465977",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e4d33f85-6a1a-f469-09ea-bf9b6ec42878",
+        "type": "message",
+        "text": "Ingleby Properties Group wants an exec call about the outage",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1730058670.871743",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bc5dc2c-d063-483d-f707-799747901be1",
+        "type": "message",
+        "text": "Johansson Homes reporting sync failures since this morning, CSM is Joseph Reed",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1730059106.869658",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UTLU2ZXMLEL",
+            "ts": "1730064293.589346"
+        }
+    },
+    {
+        "client_msg_id": "00107a46-6f32-799b-a8d2-dd3eb8504cf7",
+        "type": "message",
+        "text": "Renewal risk: Northgate Inns unhappy with mobile app",
+        "user": "UX84HDPARWN",
+        "ts": "1730062250.711682",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1fe650fb-2767-ee86-d636-a0146a761efd",
+        "type": "message",
+        "text": "Willow Restoration wants an exec call about the outage",
+        "user": "U1YEVCXATA8",
+        "ts": "1730062547.842243",
+        "team": "T02BRNDLCV"
+    }
+]

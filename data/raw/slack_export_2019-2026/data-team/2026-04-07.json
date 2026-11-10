@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "97e5cca2-f34a-c8f8-65a2-7a4ad56dbb1c",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "UP51TVUPQU5",
+        "ts": "1775566856.302201",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "38c7ab05-f6d7-0093-62b3-d32242ba407e",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UH9DL28T3MH",
+        "ts": "1775578546.357647",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0de53ff2-926d-0a5c-f162-0eb676de80f3",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UC95B7VAFX0",
+        "ts": "1775580202.874755",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9e0fcd76-a368-5299-af6c-95150b41b6f0",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UC95B7VAFX0",
+        "ts": "1775587264.734490",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2903ffed-ef01-8beb-80b6-f4b5097549de",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> Need churn list for 2025",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1775591653.721075",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed05e838-14f2-4ae1-347f-2df09beed558",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UJKZ2R47YW9",
+        "ts": "1775594949.787424",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b2f9ba10-e448-3280-ab06-fdc21a9aa78a",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U3EQ075NUYR",
+        "ts": "1775598058.602767",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f3079fe7-2c2f-c98d-3259-fd227c2d6770",
+        "type": "message",
+        "text": "Huang Couriers Ltd. asking for an SLA credit",
+        "user": "UGPRJ4K947R",
+        "ts": "1668092689.359124",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d8dc1f1d-e983-eecb-e527-2608faa5e870",
+        "type": "message",
+        "text": "Can someone check Wabash Markets Corp.'s invoice? They say they were double billed",
+        "user": "UXVNE61TTLN",
+        "ts": "1668100166.849365",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9185ea4d-bb66-0522-bdcd-787ef879dfca",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> Can someone check Wexford School District Co.'s invoice? They say they were double billed",
+        "user": "U8TVGALMJLQ",
+        "ts": "1668122273.377313",
+        "team": "T02BRNDLCV"
+    }
+]

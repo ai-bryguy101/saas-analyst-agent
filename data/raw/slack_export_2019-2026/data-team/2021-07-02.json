@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "5de9bf22-ba85-4983-9a39-7b281dd32ea2",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UNFVCYNZT6K",
+        "ts": "1625241200.269039",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b33e69d4-ad89-48d9-5f7c-ea6b71205597",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UV9GDKGY32C",
+        "ts": "1625258643.230048",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2be588ef-f273-21c6-6b75-822ca987bb69",
+        "type": "message",
+        "text": "<@UFJUKVTAA1B> Can I get ARR by region for the board?",
+        "user": "UE49ET7WGNU",
+        "ts": "1625264372.748440",
+        "team": "T02BRNDLCV"
+    }
+]

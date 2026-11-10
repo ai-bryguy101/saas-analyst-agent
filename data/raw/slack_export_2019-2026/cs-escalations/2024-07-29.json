@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "11710939-d92b-2f32-6d98-544ee8e6d1f9",
+        "type": "message",
+        "text": "Elmhurst Municipal Services wants an exec call about the outage",
+        "user": "UA3MVBJWAHX",
+        "ts": "1722262221.519683",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "54bf9220-581c-0cb5-1180-6dca5ca5112b",
+        "type": "message",
+        "text": "Tillamook Markets Corp. asking for an SLA credit",
+        "user": "UB8UH2KX2NW",
+        "ts": "1722272717.068665",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9323aef5-fea7-3d85-8bca-66a7fc17035b",
+        "type": "message",
+        "text": "Lee Residential asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1722290947.299360",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UX84HDPARWN",
+            "ts": "1722281241.582794"
+        }
+    }
+]

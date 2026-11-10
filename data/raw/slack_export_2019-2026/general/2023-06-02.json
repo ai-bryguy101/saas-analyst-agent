@@ -1,0 +1,19 @@
+[
+    {
+        "client_msg_id": "a36ebaf8-29d9-8612-00a2-4c386866c0b5",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UAGQX7APZBG",
+        "ts": "1685746162.096899",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3fecbac1-ecf2-fc42-fb1f-2f55b2d8e1d3",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1685746781.600794",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    }
+]

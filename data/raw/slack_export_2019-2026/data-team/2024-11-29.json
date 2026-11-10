@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "5356beee-0a20-ee89-6b20-24763b318a2d",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "U5DYUQUF95P",
+        "ts": "1732900594.794285",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U5DYUQUF95P",
+            "ts": "1732894373.556044"
+        }
+    },
+    {
+        "client_msg_id": "c4c99c3d-9556-b909-99ee-ef66718c5a31",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UYFL6320JLT",
+        "ts": "1732924845.669901",
+        "team": "T02BRNDLCV"
+    }
+]

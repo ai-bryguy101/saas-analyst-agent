@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "d8705615-7b8e-13ed-03fc-bc196d0e685c",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UXXA9L8HH83",
+        "ts": "1641564158.966743",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXXA9L8HH83",
+            "ts": "1641568786.907338"
+        }
+    },
+    {
+        "client_msg_id": "0ebe31fc-30f4-3f13-8cca-dc6e10c5a435",
+        "type": "message",
+        "text": "<@UZACKQ1VXCH> Can I get ARR by region for the board?",
+        "user": "UE49ET7WGNU",
+        "ts": "1641570425.231216",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "724f7c16-b1f5-2dc8-f7cc-f62c0dc77c6c",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U7V33ZEGRET",
+        "ts": "1641570976.907307",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c9e3eb9e-252a-8f1d-b622-079c5b93f6e4",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1641577003.967899",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "324c09f2-4888-2faa-563f-f1e2f85862c2",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U3DBR7QKZWE",
+        "ts": "1641577648.879153",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beb40204-0bff-b754-9b4a-26113bb4e628",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1641583197.230445",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "00534d3a-c2ee-af46-e682-0ff9ab9882f3",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UCQT1GS0C0C",
+        "ts": "1641588260.951990",
+        "team": "T02BRNDLCV"
+    }
+]

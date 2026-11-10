@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "1d69fed9-55c3-5898-d8ab-4913340d98a4",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Benefits enrollment closes Friday",
+        "user": "UUFS9CP1A17",
+        "ts": "1750166950.988197",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUFS9CP1A17",
+            "ts": "1750187618.015084"
+        }
+    },
+    {
+        "client_msg_id": "6917a0a7-acd8-d26f-ba0c-304c7f366d71",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U09CZFTHQSS",
+        "ts": "1750167312.769332",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6a635ff-0012-d06b-41b8-73b7363165ea",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "USW7BR7KTST",
+        "ts": "1750168159.404827",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "USW7BR7KTST",
+            "ts": "1750187236.608203"
+        }
+    },
+    {
+        "client_msg_id": "8276ddc5-4720-76c4-e6ef-28fccf0e6fcb",
+        "type": "message",
+        "text": "Welcome Megan Ramirez to the Support team!",
+        "user": "UMYYLUTXG9R",
+        "ts": "1750179685.530235",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0a61ddb-92fe-53a5-35c2-b922a24ff502",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Reminder: all-hands Thursday at 1pm ET",
+        "user": "U9SD2024Q7F",
+        "ts": "1750186795.038955",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e41617c-346c-40d6-3613-2f4fbad5e652",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UAXWVBRVKW9",
+        "ts": "1750192929.621416",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "900dd707-9e7c-526e-15db-579acfcda8bb",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UYFL6320JLT",
+        "ts": "1750199849.243399",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1cc135a8-26aa-8aa6-affd-5fda1c850148",
+        "type": "message",
+        "text": "Welcome Carl Lockwood to the Engineering team!",
+        "user": "U3EQ075NUYR",
+        "ts": "1750206178.797333",
+        "team": "T02BRNDLCV"
+    }
+]

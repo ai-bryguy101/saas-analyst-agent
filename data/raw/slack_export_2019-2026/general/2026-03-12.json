@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "f43818b3-ebe0-1fe5-ab4e-56f8c12bd0ac",
+        "type": "message",
+        "text": "Welcome Bronwen Cook to the Finance team!",
+        "user": "UAGQX7APZBG",
+        "ts": "1773328675.323824",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAGQX7APZBG",
+            "ts": "1773330056.248299"
+        }
+    },
+    {
+        "client_msg_id": "0abae11c-54b2-02b5-ae35-799f85959108",
+        "type": "message",
+        "text": "Welcome Femi Adeyemi to the Engineering team!",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1773348048.480906",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

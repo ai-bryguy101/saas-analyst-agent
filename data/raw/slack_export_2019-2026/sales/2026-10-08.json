@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "ecda2d0c-a4db-9db7-018f-be8eb727f491",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UB8UH2KX2NW",
+        "ts": "1791473956.015608",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f188febf-dd9a-152e-d523-61c83c60a813",
+        "type": "message",
+        "text": "Closed Brown Residential Ltd.! 17 seats, Starter",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1791481242.316084",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d059be0a-aa55-f391-79d2-a05345bd3f97",
+        "type": "message",
+        "text": "Closed Allen Maintenance Co! 301 seats, Pro",
+        "user": "UZJU9N8CY2T",
+        "ts": "1791482117.525433",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa8dd41f-bf7b-5eaa-5158-8b61cd30bba4",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UPGXMWMDQNR",
+        "ts": "1791498036.726218",
+        "team": "T02BRNDLCV"
+    }
+]

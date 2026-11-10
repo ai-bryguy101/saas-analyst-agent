@@ -50,7 +50,7 @@ def render_ledger(world, out, r):
     for i in invs:
         custs.setdefault(i.cust.key, i.cust)
     lines = ["-- MySQL dump 10.13  Distrib 5.5.54, for debian-linux-gnu (x86_64)", "--",
-             "-- Host: ledger-db01.int.brindlecove.com    Database: ledger_prod",
+             "-- Host: ledger-db01.int.brindlecove.example    Database: ledger_prod",
              "-- ------------------------------------------------------", "-- Server version\t5.5.54-0ubuntu0.14.04.1-log", "",
              "/*!40101 SET NAMES latin1 */;", "/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;", "",
              "DROP TABLE IF EXISTS `customers`;",
@@ -102,7 +102,7 @@ def render_tallyflow(world, out, r):
     invs = [i for i in world.invoices if i.system == "tallyflow"]
     x = ['<?xml version="1.0" encoding="UTF-8"?>',
          '<!-- TallyFlow nightly export v1.4 - generated 2014-09-14T23:00:02-05:00 -->',
-         '<tf:export xmlns:tf="http://schemas.tallyflow.io/export/1.4" generated="2014-09-14T23:00:02-05:00">']
+         '<tf:export xmlns:tf="http://schemas.tallyflow.example/export/1.4" generated="2014-09-14T23:00:02-05:00">']
     by_c = defaultdict(list)
     for i in invs:
         by_c[i.cust.key].append(i)
@@ -181,7 +181,8 @@ def render_billing_v3(world, out, r):
         if c is world.golden["calloway"]:
             note = "price per 2013 MSA - do not reprice (see contract)"
         interval = "year" if c.annual else "month"
-        srow.append(["sub_" + b62(r, 14), c.ids["billing"], status, f"ops_{c.plan.lower()}_{interval}ly", c.seats(AS_OF if not c.end else c.end),
+        c.ids["sub"] = "sub_" + b62(r, 14)
+        srow.append([c.ids["sub"], c.ids["billing"], status, f"ops_{c.plan.lower()}_{interval}ly", c.seats(AS_OF if not c.end else c.end),
                      int(round(c.unit_price(AS_OF) * 100 * {"USD": 1, "CAD": 1.32, "GBP": 0.79}[c.currency])), c.currency.lower(), interval,
                      ts(add_months(AS_OF.replace(day=1), -1) if not c.end else c.end.replace(day=1)),
                      ts(AS_OF.replace(day=1) if not c.end else c.end), ts(c.end) if c.end else "", ts(c.end - timedelta(days=r.randint(1, 40)), r) if c.end else "",

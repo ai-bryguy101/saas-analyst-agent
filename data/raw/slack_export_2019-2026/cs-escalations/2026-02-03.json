@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "20f35eee-b638-07c3-17a1-6e7d8997ff6a",
+        "type": "message",
+        "text": "Lakeshore Clinics LLC reporting sync failures since this morning, CSM is Betty Nowak",
+        "user": "U3EQ075NUYR",
+        "ts": "1770132507.909023",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d1c254c-7ad5-ccb7-ef97-eeb0fe315846",
+        "type": "message",
+        "text": "Can someone check Clark Property Group's invoice? They say they were double billed",
+        "user": "UHV2RFNY0HN",
+        "ts": "1770142435.748814",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "10d862d2-021c-78f5-773a-dae8f78a070b",
+        "type": "message",
+        "text": "Can someone check Phillips Contracting Co.'s invoice? They say they were double billed",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1770148707.773613",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

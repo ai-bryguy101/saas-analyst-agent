@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "62ff1e5c-6582-3f2d-e2ae-f10285fca680",
+        "type": "message",
+        "text": "AR aging is up, Brown Janitorial Ltd. is 90+ days",
+        "user": "UAHZYQG5URJ",
+        "ts": "1594921355.213439",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAHZYQG5URJ",
+            "ts": "1594917137.733330"
+        }
+    },
+    {
+        "client_msg_id": "ca059e81-826a-b2e5-8759-e882d82f6ff4",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U5DYUQUF95P",
+        "ts": "1594923431.296892",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "15728360-e997-0215-cf0f-9281c6671f79",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2020",
+        "user": "UP51TVUPQU5",
+        "ts": "1594924206.596497",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c92a4a0f-7714-8ec1-d7e6-a960b531704e",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2020",
+        "user": "UMYYLUTXG9R",
+        "ts": "1594925320.524445",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6121ed21-2624-974a-488a-c7a21468583a",
+        "type": "message",
+        "text": "AR aging is up, Valley College is 90+ days",
+        "user": "UQK194B1V43",
+        "ts": "1594937106.275295",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7f193a69-8485-0bde-6b00-91e48c2e90b2",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Juniper Hospital LLC paid by wire, applying now",
+        "user": "UQK194B1V43",
+        "ts": "1594939981.833366",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91fcb235-5b3b-746b-45f1-77d0f2823277",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2020",
+        "user": "URWNWW8QFM6",
+        "ts": "1594940795.472430",
+        "team": "T02BRNDLCV"
+    }
+]

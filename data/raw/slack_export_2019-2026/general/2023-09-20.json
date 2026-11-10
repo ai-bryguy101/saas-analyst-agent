@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "06f35677-ffc2-0308-de2a-94124b3b2543",
+        "type": "message",
+        "text": "Welcome Vincent Dubois to the Engineering team!",
+        "user": "UVQRW5SQSEL",
+        "ts": "1695221241.655035",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4124602a-7580-5605-abd8-953a58ddc81a",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1695229062.873494",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d6bd7d9-fec1-1ab7-7cf8-ebbf30cb9f9a",
+        "type": "message",
+        "text": "Welcome Tomasz Kowalski to the Sales team!",
+        "user": "U34NH0P5TMZ",
+        "ts": "1695245578.126762",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8841d225-8d40-7a5d-c558-041b51bec45a",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UAGQX7APZBG",
+        "ts": "1695248531.581480",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c509ec1-61db-e431-8415-b9e3c3460cee",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> Who left a lasagna in the 3rd floor fridge",
+        "user": "U0E67MPWRXA",
+        "ts": "1695251151.255109",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d6648ae-48c6-88d0-5cdb-098cf0062ce9",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1695251479.634624",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4de881bd-2c2d-bc18-6ba9-c63cbeabe825",
+        "type": "message",
+        "text": "Welcome Betty Nowak to the Operations team!",
+        "user": "U3DBR7QKZWE",
+        "ts": "1695251491.513670",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "38d5a4f2-7668-2df3-7db0-2b7c2c201e6d",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UE4GTX0EXPH",
+        "ts": "1695256763.448354",
+        "team": "T02BRNDLCV"
+    }
+]

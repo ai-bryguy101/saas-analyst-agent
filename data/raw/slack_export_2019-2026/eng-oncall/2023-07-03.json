@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "c8d51560-c199-e841-0776-5b9809ba97ce",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1688397267.895385",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82ed155e-4449-57c3-f1e4-8d4f23a1a630",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U3YU9TS6QYB",
+        "ts": "1688399955.632835",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5627dfa0-5f29-4c30-a1a8-269d9c6e4c52",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UUFS9CP1A17",
+        "ts": "1688424420.468189",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d1edf2aa-5b1c-5ada-08af-60cee50efbe9",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> PagerDuty: high error rate on api-gw",
+        "user": "UP51TVUPQU5",
+        "ts": "1688426496.488028",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "093184a7-860b-691f-e3dd-52acb30e7603",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1688426670.395696",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04e4b065-eb4f-c9ca-3323-f3bc56362b81",
+        "type": "message",
+        "text": "rolling back v7.16.6",
+        "user": "U5X9PNA34DU",
+        "ts": "1688429269.772988",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

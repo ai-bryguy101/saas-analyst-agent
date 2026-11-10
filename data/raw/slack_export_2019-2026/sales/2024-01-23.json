@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "dfdcb12c-935f-6fce-e35e-85e52f8b1dbd",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Pipeline review moved to 3pm",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1706049977.549580",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b6db1e1-2fae-0454-ab43-35e78fecd1b6",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3KL08VJD8C",
+        "ts": "1706050527.699951",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c1e3ddf-eb00-0db1-a0fc-e885588a1462",
+        "type": "message",
+        "text": "Abernathy Works LLC wants a discount, how far can I go?",
+        "user": "UAGQX7APZBG",
+        "ts": "1706052551.035516",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30ef9f75-7679-4609-0dbc-03ecb675693a",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Pricing question: does Pro include Dispatch?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1706053430.951317",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UC70JNE74S7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

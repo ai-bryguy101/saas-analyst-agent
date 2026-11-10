@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "cd29c217-d619-50b6-30c1-9b09323e49a9",
+        "type": "message",
+        "text": "deploy v8.16.7 to prod :rocket:",
+        "user": "U3DBR7QKZWE",
+        "ts": "1663349911.767939",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1586ea6a-6240-b743-3fcd-53248e46905b",
+        "type": "message",
+        "text": "<@UV9KPNCPQJN> PagerDuty: high error rate on api-gw",
+        "user": "UT7K74ALYGQ",
+        "ts": "1663374073.272957",
+        "team": "T02BRNDLCV"
+    }
+]

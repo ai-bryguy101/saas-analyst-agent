@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "3da537b7-81be-a9b7-6328-d94c41620f96",
+        "type": "message",
+        "text": "<@U48TCJE75PD> FX rates loaded for May 2024",
+        "user": "UA3MVBJWAHX",
+        "ts": "1716821058.505313",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "12162ebc-d7d8-921b-a976-8bb24226f1d4",
+        "type": "message",
+        "text": "FX rates loaded for May 2024",
+        "user": "UE4GTX0EXPH",
+        "ts": "1716832519.268590",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f2a4329-ac7a-fe65-cf40-614c1e324689",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U8SR98620D7",
+        "ts": "1716836537.250705",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e490b24-278b-03c5-1e47-4da1fb0e52ae",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U22GUF0P303",
+        "ts": "1716850057.877059",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a677011f-531f-7244-4fc7-88e233b46906",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXETPKNK8MV",
+        "ts": "1716856345.243095",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

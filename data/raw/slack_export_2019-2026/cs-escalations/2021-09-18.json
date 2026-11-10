@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "f41fff4f-afc6-6048-415f-5d43d06a443a",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Can someone check Gagnon Property Services Group's invoice? They say they were double billed",
+        "user": "U3KL08VJD8C",
+        "ts": "1631979092.966979",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1f8fb7fb-faf7-4ef4-f22d-0827c745878a",
+        "type": "message",
+        "text": "Superior Mechanical Ltd. asking for an SLA credit",
+        "user": "UNFVCYNZT6K",
+        "ts": "1631988492.942823",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f4c1652-9b8c-c90e-8e20-88a5d5f5cd11",
+        "type": "message",
+        "text": "Can someone check Meadowlark Works Inc.'s invoice? They say they were double billed",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1631990930.590279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fefeac5f-5386-4faf-6203-f2e8b2547ef0",
+        "type": "message",
+        "text": "Millbrook Mechanical Inc. wants an exec call about the outage",
+        "user": "UMXMN24FN4K",
+        "ts": "1632006134.776342",
+        "team": "T02BRNDLCV"
+    }
+]

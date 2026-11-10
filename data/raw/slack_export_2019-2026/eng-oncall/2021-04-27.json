@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "c1ed2fa4-dc3f-4682-4163-15714c6a654b",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "URFUZYLCAEC",
+        "ts": "1619533254.763835",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf1761e9-39bd-939c-fe8b-2ce2734690de",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> cert renewal for *.brindlecove.example done",
+        "user": "UGPRJ4K947R",
+        "ts": "1619541285.755052",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14ddd566-4f75-ef34-83e7-536e3c3935b4",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UXS2WD4BYRN",
+        "ts": "1619541679.604638",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b4bdf17-8eb7-2dde-c769-98077e67da12",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U69WX6HRQNH",
+        "ts": "1619541994.834271",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3d40424-f258-e7db-2f2f-ced23d0b2c61",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U773RMBLF5X",
+        "ts": "1619559666.322814",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U773RMBLF5X",
+            "ts": "1619555959.103837"
+        }
+    }
+]

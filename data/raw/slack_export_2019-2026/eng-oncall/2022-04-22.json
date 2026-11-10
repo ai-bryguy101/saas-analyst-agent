@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "af935eba-f8af-6ac5-6110-7771ed322b1e",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UZACKQ1VXCH",
+        "ts": "1650650975.920152",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19f83154-12f8-76d4-d8aa-67d15e1665f8",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U773RMBLF5X",
+        "ts": "1650655147.023155",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0af875d0-87c1-4e64-95eb-d9d36c18fecd",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UH9DL28T3MH",
+        "ts": "1650659207.393553",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5TERVWF7JH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "831a425c-e642-6924-23e2-d810b03f51bf",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UXVNE61TTLN",
+        "ts": "1650663322.203611",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "65715e11-55ba-3637-14a7-e982b9b07025",
+        "type": "message",
+        "text": "<@UHV2RFNY0HN> Beacon Mills Corp. paid by wire, applying now",
+        "user": "UX84HDPARWN",
+        "ts": "1593717574.214423",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad3bba6e-f772-9cf6-2088-fa13845d4dd1",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UXETPKNK8MV",
+        "ts": "1593720184.831999",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "170ab917-d05d-11a7-df7f-b48c4b4d0548",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UCQT1GS0C0C",
+        "ts": "1593726147.397748",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6052219-3930-cabe-5973-5ec6e1c00164",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U48TCJE75PD",
+        "ts": "1593735061.380484",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1593712942.086127"
+        }
+    }
+]

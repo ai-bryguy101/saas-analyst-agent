@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "98178514-3312-f60c-81c9-411e36b6a3df",
+        "type": "message",
+        "text": "Wabash Suites Ltd. reporting sync failures since this morning, CSM is Renata Esposito",
+        "user": "U8TVGALMJLQ",
+        "ts": "1640697985.230254",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07284fae-97c4-1405-ea52-af051bcb0f5f",
+        "type": "message",
+        "text": "Park Facilities Management LLC asking for an SLA credit",
+        "user": "UWUGRQ83YYM",
+        "ts": "1640711769.503820",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b1b9052e-bab4-9569-a3fc-0868a3ff2853",
+        "type": "message",
+        "text": "Foxglove Construction Ltd. wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1640736024.196949",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

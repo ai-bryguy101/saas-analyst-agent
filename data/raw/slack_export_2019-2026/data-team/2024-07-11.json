@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "c3d11a66-ca5f-df44-569e-b9f28898bdde",
+        "type": "message",
+        "text": "<@UXVNE61TTLN> Dashboard refresh failed overnight",
+        "user": "URFUZYLCAEC",
+        "ts": "1720704201.171649",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e329753d-bd5f-82e5-bcfc-ced91cccd876",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UXVNE61TTLN",
+        "ts": "1720721169.194319",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXVNE61TTLN",
+            "ts": "1720743937.143896"
+        }
+    }
+]

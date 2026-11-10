@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "67b6f111-b3d9-6be2-cf2d-2d82a70615d6",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U0E67MPWRXA",
+        "ts": "1601477136.304707",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff9645fc-c9d8-35e8-d4dd-b56c826ec90a",
+        "type": "message",
+        "text": "rolling back v7.38.1",
+        "user": "U773RMBLF5X",
+        "ts": "1601484049.172043",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U773RMBLF5X",
+            "ts": "1601487746.395412"
+        }
+    },
+    {
+        "client_msg_id": "5ba870de-37ec-a387-04f3-fbcb7a0c5172",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UR12Y3AZNKK",
+        "ts": "1601504964.394229",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

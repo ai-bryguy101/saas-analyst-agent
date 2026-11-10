@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "d852e7a2-3136-1d17-5fcf-0d637f8d7c9e",
+        "type": "message",
+        "text": "<@UNCGDMQATC5> Huron Suites Group wants a discount, how far can I go?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1597252696.498826",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5639bce8-cdd9-8229-210b-5f029a4e2cd2",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3YU9TS6QYB",
+        "ts": "1597257292.383684",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49a6966c-06fb-4930-def2-173e13589fd6",
+        "type": "message",
+        "text": "Closed Yarrow Mechanical! 136 seats, Pro",
+        "user": "UL8NMQFXPJR",
+        "ts": "1597257409.208460",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dedf6725-56a2-bfae-38d2-d47ced4c86d8",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UC95B7VAFX0",
+        "ts": "1597276319.618249",
+        "team": "T02BRNDLCV"
+    }
+]

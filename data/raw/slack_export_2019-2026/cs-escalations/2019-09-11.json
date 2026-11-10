@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "f0f51994-b6a9-8c92-b424-d49161a92410",
+        "type": "message",
+        "text": "Renewal risk: Northgate Builders LLC unhappy with mobile app",
+        "user": "U09CZFTHQSS",
+        "ts": "1568232475.193915",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8842751f-fd23-d4ac-c60c-3030921842ce",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Kestrel Builders Corp. asking for an SLA credit",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1568234297.150239",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5459fd10-5bab-d375-c13c-8bdf6fd6748e",
+        "type": "message",
+        "text": "Kestrel Suites Ltd. wants an exec call about the outage",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1568235343.550212",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1568213305.336311"
+        }
+    }
+]

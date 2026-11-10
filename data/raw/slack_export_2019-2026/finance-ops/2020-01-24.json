@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "0ffbafd3-fde3-263f-d5e8-0c9029643266",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1579894128.427948",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3121b09a-2809-b1c6-e108-da3ab8da8837",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UE4GTX0EXPH",
+        "ts": "1579895548.972555",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e9f9ecd1-6d5d-f35c-0f44-a26178559358",
+        "type": "message",
+        "text": "Saginaw Distribution Group paid by wire, applying now",
+        "user": "UYFL6320JLT",
+        "ts": "1579898236.759464",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d3e0cf1-ad6e-eaa5-ad03-7b20585ec074",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1579898943.895883",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a3effa2b-e469-3214-8090-3634444d0601",
+        "type": "message",
+        "text": "Martinez Resorts LLC paid by wire, applying now",
+        "user": "UYFL6320JLT",
+        "ts": "1579905563.947082",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5631ee42-3eba-5223-9d88-2092324848ad",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U48TCJE75PD",
+        "ts": "1579907261.162171",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "850682a3-02d7-8dd2-aeb1-cb36bb8e03f0",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UYFL6320JLT",
+        "ts": "1579910540.474845",
+        "team": "T02BRNDLCV"
+    }
+]

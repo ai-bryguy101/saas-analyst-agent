@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "8929e322-1b29-102b-a27b-c048dc3d152b",
+        "type": "message",
+        "text": "Marrow Markets Corp. asking for an SLA credit",
+        "user": "UFARBQM0LCD",
+        "ts": "1646058045.378240",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b5116b5-c2e5-6805-d5bb-635ac439aefd",
+        "type": "message",
+        "text": "Renewal risk: Mesa Municipal Services Holdings unhappy with mobile app",
+        "user": "UXVNE61TTLN",
+        "ts": "1646065065.029944",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd478187-9f9f-8d78-797b-77392d69a796",
+        "type": "message",
+        "text": "Magnolia Mechanical Holdings reporting sync failures since this morning, CSM is Omar Kim",
+        "user": "UYFL6320JLT",
+        "ts": "1646065169.104108",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96ddf356-b79c-d074-3653-129d1272d609",
+        "type": "message",
+        "text": "Delacroix Health Partners reporting sync failures since this morning, CSM is Arjun Peterson",
+        "user": "U7PFYH0YRRG",
+        "ts": "1646066733.445745",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ab50701-cd2e-ae58-83b7-80e07d2de35a",
+        "type": "message",
+        "text": "Garcia Public Works Holdings wants an exec call about the outage",
+        "user": "URWNWW8QFM6",
+        "ts": "1646070126.021357",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5TERVWF7JH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4d361ce-a10f-05ed-86e1-989e61cb8a42",
+        "type": "message",
+        "text": "Granite University Facilities reporting sync failures since this morning, CSM is Minh Ruiz",
+        "user": "UPHFQAHDPSK",
+        "ts": "1646087301.155163",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e48c9534-5b3a-b680-3a39-6a66e3219b28",
+        "type": "message",
+        "text": "<@U8SR98620D7> Renewal risk: Highland Homes unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1646093072.287168",
+        "team": "T02BRNDLCV"
+    }
+]

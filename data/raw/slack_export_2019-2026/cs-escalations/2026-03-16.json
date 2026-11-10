@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "ca2219b3-f475-0b77-3735-3b5ab8b4d16e",
+        "type": "message",
+        "text": "Martinez Municipal Services LLC asking for an SLA credit",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1773675106.346577",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70b0111d-5642-348f-507a-326491b7424a",
+        "type": "message",
+        "text": "Renewal risk: Calloway Facilities Management, Inc. unhappy with mobile app",
+        "user": "U0V9BPHARQX",
+        "ts": "1773683651.777740",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UFWAQ6E76D6"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U0V9BPHARQX",
+            "ts": "1773683995.644727"
+        }
+    },
+    {
+        "client_msg_id": "8ee13d10-06aa-d711-cf36-de7328363baa",
+        "type": "message",
+        "text": "Can someone check Prairie Logistics Inc.'s invoice? They say they were double billed",
+        "user": "UJKZ2R47YW9",
+        "ts": "1773685295.970821",
+        "team": "T02BRNDLCV"
+    }
+]

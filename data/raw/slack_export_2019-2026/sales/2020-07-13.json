@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "49a3326b-20da-5185-fef4-cf3f61cd1a51",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> Pipeline review moved to 3pm",
+        "user": "UL8NMQFXPJR",
+        "ts": "1594659203.636449",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1060711a-b550-1280-afa0-8e0b01f87c73",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UQTUT2GDN85",
+        "ts": "1594663080.699540",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bf09819-3862-dcde-ec7f-463d068a2658",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> Anyone have a reference customer in Manufacturing?",
+        "user": "U9U3DZUVA3L",
+        "ts": "1594665992.474273",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e2099fb9-649c-be14-f924-ecf3ff62547b",
+        "type": "message",
+        "text": "Lost Patel Industries Corp. to Plinthwise on price",
+        "user": "URFUZYLCAEC",
+        "ts": "1594678154.333850",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "URFUZYLCAEC",
+            "ts": "1594652284.440311"
+        }
+    },
+    {
+        "client_msg_id": "1e708256-2273-5d99-c843-738469569218",
+        "type": "message",
+        "text": "Closed Pioneer School District! 10 seats, Starter",
+        "user": "U7PFYH0YRRG",
+        "ts": "1594684777.866022",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c985b31-7641-e2ff-4f01-9200e28f8622",
+        "type": "message",
+        "text": "Closed Westbrook Supply Co! 282 seats, Pro",
+        "user": "U09CZFTHQSS",
+        "ts": "1594684953.655521",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

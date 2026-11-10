@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "b2c04191-83cb-a09a-2df2-992ec85186a5",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UXXA9L8HH83",
+        "ts": "1705073725.801210",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U1YEVCXATA8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e67dbcbd-1bca-b0fa-d400-30d4189df14a",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UAXWVBRVKW9",
+        "ts": "1705073845.113408",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "47b51ffc-6384-1f81-62e5-ac57e40e50ee",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UWUGRQ83YYM",
+        "ts": "1705076347.229904",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c396527c-584a-ccd5-d7c0-c36b21b16327",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1705090712.683103",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "287eabe5-f566-e86f-4e05-44de8fb4143b",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1705096652.650914",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "777fc18e-8b3c-573c-62cd-ecef64b86db9",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1705101412.714125",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

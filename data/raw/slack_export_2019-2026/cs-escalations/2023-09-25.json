@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "4b6485b9-4dfd-874e-de23-c2013a7c3167",
+        "type": "message",
+        "text": "Foxglove Building Services Holdings reporting sync failures since this morning, CSM is Christina Fenwick",
+        "user": "UVQRW5SQSEL",
+        "ts": "1695651372.837371",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1feb59bc-eeae-4748-6e7e-d506ba888b79",
+        "type": "message",
+        "text": "Can someone check Great Markets's invoice? They say they were double billed",
+        "user": "UPHFQAHDPSK",
+        "ts": "1695655183.487058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae273237-f134-4bed-ccd7-265c41701392",
+        "type": "message",
+        "text": "Can someone check Price Public Works Inc.'s invoice? They say they were double billed",
+        "user": "UE4GTX0EXPH",
+        "ts": "1695655758.251858",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e90306b-228a-34e5-c952-1def016f9478",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Renewal risk: Hargreaves Health System unhappy with mobile app",
+        "user": "UZJU9N8CY2T",
+        "ts": "1695662587.283382",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf70ba63-bf1a-5c45-e694-cac4ca030e8f",
+        "type": "message",
+        "text": "Gonzalez Unified Schools LLC asking for an SLA credit",
+        "user": "U48TCJE75PD",
+        "ts": "1695670461.069651",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UWBW507RCA9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07df362f-e0b8-5d7a-0012-5a704efdb311",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Watson Logistics reporting sync failures since this morning, CSM is Betty Nowak",
+        "user": "UWUGRQ83YYM",
+        "ts": "1695672641.798244",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90b4a784-bf91-bda1-a0ab-699e1426f14b",
+        "type": "message",
+        "text": "Moreau Homes Holdings asking for an SLA credit",
+        "user": "UXS2WD4BYRN",
+        "ts": "1695673534.054457",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c0ddb1d6-c1d1-a834-6fe8-f4962967c8e3",
+        "type": "message",
+        "text": "Renewal risk: Meadowlark Retail Group Holdings unhappy with mobile app",
+        "user": "UVQRW5SQSEL",
+        "ts": "1695675374.986066",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01f9e1c7-2a75-5ebd-bcf3-f1eea9b51a52",
+        "type": "message",
+        "text": "Can someone check Ostrander Transit Authority's invoice? They say they were double billed",
+        "user": "UXVNE61TTLN",
+        "ts": "1695681976.987966",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4943bd2d-44ef-b2f9-3d6e-b2d160ce46d1",
+        "type": "message",
+        "text": "Ironwood School District Co. wants an exec call about the outage",
+        "user": "U9V01K22TU1",
+        "ts": "1695683341.457310",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1695658907.845868"
+        }
+    }
+]

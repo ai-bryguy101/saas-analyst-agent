@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "2309f066-0316-c9e9-5e1b-98b2b5120f8d",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1664902874.672025",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0926db86-1a71-fe24-5f6b-ab8d8baf932a",
+        "type": "message",
+        "text": "<@UYFL6320JLT> Need churn list for 2021",
+        "user": "UXXA9L8HH83",
+        "ts": "1664911910.040535",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83027fb7-cde2-3ec9-0dfa-6c12458853cf",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Need churn list for 2021",
+        "user": "U773RMBLF5X",
+        "ts": "1664918203.974931",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0VB9M5U3TM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

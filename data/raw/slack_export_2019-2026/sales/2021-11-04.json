@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "040d1187-2eae-59f6-cf17-30548d817d2b",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1636043438.482491",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4487885e-1431-9508-84d5-07ad321f296b",
+        "type": "message",
+        "text": "Pinecrest Residential Holdings wants a discount, how far can I go?",
+        "user": "U0V9BPHARQX",
+        "ts": "1636067986.126097",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39792ba2-b44e-cd20-b15f-dfcebd51fc51",
+        "type": "message",
+        "text": "Anyone have a reference customer in Retail?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1636073300.322392",
+        "team": "T02BRNDLCV"
+    }
+]

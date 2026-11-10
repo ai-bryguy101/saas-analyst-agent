@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "1ffe9b83-35dc-a6cf-38f8-502920da2ecb",
+        "type": "message",
+        "text": "Lost Redstone Couriers Inc. to Plinthwise on price",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1771345122.857772",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c65ec5b1-f6eb-0720-4eba-3f7fe09b73bc",
+        "type": "message",
+        "text": "Eastlake Hospitality Group wants a discount, how far can I go?",
+        "user": "UMXMN24FN4K",
+        "ts": "1771349664.874156",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01b4577b-a022-47ac-6485-cb33737a7582",
+        "type": "message",
+        "text": "Bluewater Industries Group wants a discount, how far can I go?",
+        "user": "UGPRJ4K947R",
+        "ts": "1771351672.614324",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74f4f13c-11d7-ad8c-251d-82ebce63c087",
+        "type": "message",
+        "text": "Closed Westbrook Hospital Group! 63 seats, Starter",
+        "user": "UWUGRQ83YYM",
+        "ts": "1771375888.232531",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "306635f6-5b0e-6bac-f580-efea38b8a4fb",
+        "type": "message",
+        "text": "Can someone check Great Freight's invoice? They say they were double billed",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1757425304.386674",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e7da0773-ffc2-cde7-bb85-55b2b910db50",
+        "type": "message",
+        "text": "Renewal risk: Tremblay Health Partners Corp. unhappy with mobile app",
+        "user": "U9Y2KF0S90E",
+        "ts": "1757429160.806112",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9Y2KF0S90E",
+            "ts": "1757455445.593731"
+        }
+    },
+    {
+        "client_msg_id": "bf10ebad-bdd5-bccd-68ea-1134520c5db4",
+        "type": "message",
+        "text": "Renewal risk: Copperfield Fabrication Inc. unhappy with mobile app",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1757438249.132250",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bbb374e0-ddce-087e-a8b2-b09421870a66",
+        "type": "message",
+        "text": "Thompson Janitorial Group asking for an SLA credit",
+        "user": "UR12Y3AZNKK",
+        "ts": "1757443067.154211",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b19f6dc7-c3d1-5893-8a84-125ce8546001",
+        "type": "message",
+        "text": "Renewal risk: Bluewater Retail Group Group unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1757450593.905315",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6be5df00-c33f-ec98-2750-f8c207b2b1d4",
+        "type": "message",
+        "text": "Shenandoah Health Partners reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "URWNWW8QFM6",
+        "ts": "1757455495.451137",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0b0556cb-88d8-72a3-6844-2494e4150fd1",
+        "type": "message",
+        "text": "Kingsley Builders Ltd. wants an exec call about the outage",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1757459963.992645",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9bab980d-f0b2-5ed5-93ba-b854b9f992c8",
+        "type": "message",
+        "text": "Saguaro Property Services Corp. wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1757462161.449550",
+        "team": "T02BRNDLCV"
+    }
+]

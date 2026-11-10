@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "a0dafb49-cd23-8049-2c43-14b893eb44bc",
+        "type": "message",
+        "text": "Welcome Lorraine Whitlock to the Sales team!",
+        "user": "UCQT1GS0C0C",
+        "ts": "1644672661.164496",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ebe65b1c-dc1d-fe17-58f5-34df28bf1b72",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UNPKZYBKYGA",
+        "ts": "1644675517.000823",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cec019a6-3681-f2de-a3c4-745445785bb5",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Q1 kickoff deck is in the drive",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1644694495.691633",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UQS8MEEHLGZ",
+            "ts": "1644703698.332053"
+        }
+    },
+    {
+        "client_msg_id": "0e181e7c-f0aa-f19d-d7e1-17678f6c9e68",
+        "type": "message",
+        "text": "<@UQK194B1V43> Welcome Eugene Fontaine to the Support team!",
+        "user": "UR12Y3AZNKK",
+        "ts": "1644697673.920834",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a014228-2ac3-440c-0148-dd440479d81c",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UNFVCYNZT6K",
+        "ts": "1644699989.418993",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e5dbfcd-a224-33cf-1b38-c40c73a61050",
+        "type": "message",
+        "text": "Welcome Kathleen Jackson to the Finance team!",
+        "user": "UAGQX7APZBG",
+        "ts": "1644703464.365656",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e7d0cdf-afb5-35ec-8ba5-38065f6f2812",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "U2CKCF24AEA",
+        "ts": "1644712918.924491",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

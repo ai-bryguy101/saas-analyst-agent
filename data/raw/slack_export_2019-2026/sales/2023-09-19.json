@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0b055f14-0741-07cd-82b2-51708a97530a",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "U773RMBLF5X",
+        "ts": "1695131667.980138",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78fe5c64-8a26-f205-17b5-1558605877d7",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1695146535.900795",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b63f84c-3b92-0b17-06bc-6faccfd0d6f9",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "U3KL08VJD8C",
+        "ts": "1695147228.068455",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "71d0631d-010f-8755-3748-28ef696c0629",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Renewal risk: Wexford Health Partners Group unhappy with mobile app",
+        "user": "U0VB9M5U3TM",
+        "ts": "1637932457.912879",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63bee791-6bea-3bb7-f4f5-f4eb24f67ccc",
+        "type": "message",
+        "text": "Millbrook Township Ltd. reporting sync failures since this morning, CSM is James Hughes",
+        "user": "UE4GTX0EXPH",
+        "ts": "1637934434.229587",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7a03e2e-5b29-a959-7a2a-93dd4202d0ce",
+        "type": "message",
+        "text": "Can someone check Sanchez Construction Holdings's invoice? They say they were double billed",
+        "user": "UXXA9L8HH83",
+        "ts": "1637941177.620882",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04600b9e-1de9-b144-3642-18ba78301dd2",
+        "type": "message",
+        "text": "Renewal risk: Gonzalez Facilities Management Group unhappy with mobile app",
+        "user": "U3DBR7QKZWE",
+        "ts": "1637959943.824607",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6fdca5d4-e268-095a-8259-283221ade374",
+        "type": "message",
+        "text": "Three Property Group asking for an SLA credit",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1637967539.890258",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UTLU2ZXMLEL",
+            "ts": "1637941966.839744"
+        }
+    }
+]

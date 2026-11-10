@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "24cbf106-5706-84be-b996-2c5ed9558c6f",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1711987366.084655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8fa389e1-cf8f-0c06-5766-c605cc47f265",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Lost Tillamook Markets Corp. to Plinthwise on price",
+        "user": "UR12Y3AZNKK",
+        "ts": "1711990394.391239",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UR12Y3AZNKK",
+            "ts": "1712001255.480089"
+        }
+    },
+    {
+        "client_msg_id": "e62dbf15-d23b-25c7-72c6-52d05b7d2935",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Anyone have a reference customer in Retail?",
+        "user": "U3KL08VJD8C",
+        "ts": "1711999848.095695",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d64eb15e-389b-f33b-386d-a589fd6c09a3",
+        "type": "message",
+        "text": "<@U69WX6HRQNH> Bayou Township Co. wants a discount, how far can I go?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1712004637.841641",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c461971-2c4d-8fc6-f55a-b67acdc2ac47",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UC70JNE74S7",
+        "ts": "1712010169.166029",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

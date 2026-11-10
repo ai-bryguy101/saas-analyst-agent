@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "d7e7cc99-8396-9126-0e21-47da09a8cffc",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U5DYUQUF95P",
+        "ts": "1664463769.135314",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8ae5f31-f919-bcdd-8030-5c6d2aebc006",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1664489582.501127",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#46345 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc2e3601-a535-5a3a-00fe-ec0f5baa48f3",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1664492158.260417",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJRKGMQPU2R",
+            "ts": "1664480146.841021"
+        }
+    },
+    {
+        "client_msg_id": "fcb5e97a-a82f-0344-e2c6-d0da95a95966",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U9Y2KF0S90E",
+        "ts": "1664499478.482172",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "79f7d5d5-2ce6-8b91-fc9f-fa3eac14b78d",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U8SR98620D7",
+        "ts": "1625580323.801800",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "487ea323-e7c3-3eff-fdb2-460601bcb740",
+        "type": "message",
+        "text": "Need churn list for 2020",
+        "user": "UR3LDWKU006",
+        "ts": "1625610574.751886",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

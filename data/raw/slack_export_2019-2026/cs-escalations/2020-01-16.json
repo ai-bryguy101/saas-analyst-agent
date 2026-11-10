@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "5f2b753f-63e7-f82a-26a4-7270fdcb21c8",
+        "type": "message",
+        "text": "Lewis Mechanical Ltd. wants an exec call about the outage",
+        "user": "U69WX6HRQNH",
+        "ts": "1579186502.230058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b31d65b2-69d5-7f25-5fb5-9b3c36335c1e",
+        "type": "message",
+        "text": "Miller Distribution Ltd. asking for an SLA credit",
+        "user": "UE49ET7WGNU",
+        "ts": "1579190253.231729",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "46956312-5823-2c72-4828-86ce7dcbe082",
+        "type": "message",
+        "text": "Lewis Transit Authority asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1579208596.904392",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f2d585e-4638-17f9-0f50-2e2b0d364a96",
+        "type": "message",
+        "text": "Magnolia Properties Ltd. asking for an SLA credit",
+        "user": "UDCALCM1RUG",
+        "ts": "1579210844.417347",
+        "team": "T02BRNDLCV"
+    }
+]

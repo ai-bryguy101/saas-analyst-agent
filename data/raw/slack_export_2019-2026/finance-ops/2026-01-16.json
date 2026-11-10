@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "6032b428-4b93-f5cc-4c2e-3c05e3bf7f5e",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2026",
+        "user": "U0V9BPHARQX",
+        "ts": "1768572297.783266",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "389d2d71-873e-f880-2de0-bc4db75621f6",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1768578131.977221",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UL8NMQFXPJR",
+            "ts": "1768598853.430861"
+        }
+    },
+    {
+        "client_msg_id": "01328b94-1100-cde2-2077-0e23963aaea1",
+        "type": "message",
+        "text": "AR aging is up, Pueblo Property Group is 90+ days",
+        "user": "UVX5HCR5MMD",
+        "ts": "1768592149.409114",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "913f4f1e-a37b-e501-1496-d5e86f0c6f82",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXXA9L8HH83",
+        "ts": "1768603677.676028",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

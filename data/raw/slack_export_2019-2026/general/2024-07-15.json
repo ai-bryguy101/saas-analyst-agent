@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1be43a13-f997-4e64-6157-546c06a8d1e2",
+        "type": "message",
+        "text": "Welcome Donald MacLeod to the Finance team!",
+        "user": "UFULM18ZBQ6",
+        "ts": "1721063032.237010",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74da5654-843e-c9d0-53f7-aa81389f0c17",
+        "type": "message",
+        "text": "Welcome Callum Ross to the Sales team!",
+        "user": "UX84HDPARWN",
+        "ts": "1721065853.755902",
+        "team": "T02BRNDLCV"
+    }
+]

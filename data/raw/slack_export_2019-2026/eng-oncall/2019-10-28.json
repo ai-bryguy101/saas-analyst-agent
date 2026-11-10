@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "66df6166-b257-cb8e-5691-ecf4176fbba7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1572268631.322049",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#65649 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fd9702d-78e7-6850-9fbd-3870ce34b7b8",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UT9KGXWKHLB",
+        "ts": "1572275258.636370",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "948b18a0-8c05-5916-7e55-f8b5727a7744",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U09CZFTHQSS",
+        "ts": "1572280106.025295",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5783175-281a-9a5c-f807-c77d068395fd",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UMYYLUTXG9R",
+        "ts": "1572290845.997170",
+        "team": "T02BRNDLCV"
+    }
+]

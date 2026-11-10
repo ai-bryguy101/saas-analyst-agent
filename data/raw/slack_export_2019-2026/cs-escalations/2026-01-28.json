@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "0b3d20cc-3959-061d-480a-3e2c235cb0fa",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Kowalski College wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1769630002.121341",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f586d2e7-614f-ef44-a753-2e9bfaac19f0",
+        "type": "message",
+        "text": "Blackhawk Maintenance Co Inc. reporting sync failures since this morning, CSM is Marguerite Carter",
+        "user": "U9SD2024Q7F",
+        "ts": "1769643460.337466",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "57e7d608-ca9f-8958-fa9c-20e8496c2f2b",
+        "type": "message",
+        "text": "Myers Logistics Corp. asking for an SLA credit",
+        "user": "UNKFW783RHY",
+        "ts": "1754661320.437038",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6efe5916-a154-18a5-fe6d-4290fd64e906",
+        "type": "message",
+        "text": "Harbortown Fabrication wants an exec call about the outage",
+        "user": "UP51TVUPQU5",
+        "ts": "1754666513.781317",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f77b52b-5327-4cf9-cbb9-f8816544adb4",
+        "type": "message",
+        "text": "Halvorsen Works wants an exec call about the outage",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1754680225.924097",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UZ5KFZLKVGN",
+            "ts": "1754695565.634528"
+        }
+    },
+    {
+        "client_msg_id": "148309ed-ebab-d7b8-1141-c3c50613d79d",
+        "type": "message",
+        "text": "Renewal risk: Tillamook Manufacturing unhappy with mobile app",
+        "user": "U09CZFTHQSS",
+        "ts": "1754690057.635231",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e572aa5c-6106-3066-703b-0a3a3d44474b",
+        "type": "message",
+        "text": "Renewal risk: Ironwood Homes unhappy with mobile app",
+        "user": "UJKZ2R47YW9",
+        "ts": "1754695840.283361",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70b50cc9-fb74-73bb-db60-cd3deb79e288",
+        "type": "message",
+        "text": "Pham Realty Management Ltd. asking for an SLA credit",
+        "user": "UAXWVBRVKW9",
+        "ts": "1754698653.130152",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "5b8e1fb1-8160-a13e-803e-d4edd8481e0d",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> Johnson Works wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1730473902.108345",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c83bdbe5-c090-d066-e87b-677c94502a9b",
+        "type": "message",
+        "text": "Scioto Residential Inc. wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1730478252.312393",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9b41887f-d1f9-df55-3a59-b17baca672b9",
+        "type": "message",
+        "text": "Plains Couriers Corp. reporting sync failures since this morning, CSM is Shirley Price-Jones",
+        "user": "UQK194B1V43",
+        "ts": "1730486030.781635",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

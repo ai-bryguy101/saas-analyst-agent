@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "8b3854e8-c533-093c-8877-2dfa945e8eec",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "UXS2WD4BYRN",
+        "ts": "1625673264.701898",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c71ce8a-73c0-029e-a681-8c15fab9a7a2",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UL20M69UM76",
+        "ts": "1625685685.135153",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "deb1cbcd-5ae9-2559-09d4-810e19399d36",
+        "type": "message",
+        "text": "Closed Eastlake Warehousing Co.! 340 seats, Pro",
+        "user": "U9SD2024Q7F",
+        "ts": "1625686075.793020",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c9b7f8af-8f2d-7ceb-e3aa-e980783c2d47",
+        "type": "message",
+        "text": "Closed Magnolia Restoration Corp.! 22 seats, Pro",
+        "user": "UR12Y3AZNKK",
+        "ts": "1625696228.256223",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5beb1809-cb2f-1a6a-1628-fcff72ead5df",
+        "type": "message",
+        "text": "Lost Cruz Building Services Corp. to Plinthwise on price",
+        "user": "U8TVGALMJLQ",
+        "ts": "1625703768.223449",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "0fde43a4-177a-a1a5-92eb-a91347d52e1d",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UAGQX7APZBG",
+        "ts": "1630018927.016865",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5ec31d98-72d0-5af1-381f-d18752b992d4",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UFULM18ZBQ6",
+        "ts": "1630019395.535781",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "947f627a-6a78-3063-d2bf-6c0467e47eae",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UT9KGXWKHLB",
+        "ts": "1630020806.406836",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UT9KGXWKHLB",
+            "ts": "1629990563.756447"
+        }
+    }
+]

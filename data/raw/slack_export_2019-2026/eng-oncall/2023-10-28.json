@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "c37f7786-7797-352e-8329-4822e1afb055",
+        "type": "message",
+        "text": "deploy v8.8.0 to prod :rocket:",
+        "user": "U22GUF0P303",
+        "ts": "1698512716.627830",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ab7cccd5-7b67-d632-f0bf-544a4a6280a7",
+        "type": "message",
+        "text": "rolling back v7.14.3",
+        "user": "UXETPKNK8MV",
+        "ts": "1698522391.897522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "40ba273b-c614-65f1-13ff-b37647378602",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1698529371.497397",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5bfa70e-55d9-b1e8-ce2f-3d65fd0c21c6",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1698529444.970256",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#20350 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2112a6ba-d273-ee78-fe39-8ef07fcd7b31",
+        "type": "message",
+        "text": "rolling back v6.39.9",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1698533724.428606",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e0d17079-a708-c3f1-324e-82dff7e267c1",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> cert renewal for *.brindlecove.example done",
+        "user": "UHV2RFNY0HN",
+        "ts": "1698535530.413017",
+        "team": "T02BRNDLCV"
+    }
+]

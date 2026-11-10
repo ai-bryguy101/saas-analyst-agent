@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "9032f61b-fe8a-29fd-3743-ac3b336ff9f0",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Three Fabrication Co. wants an exec call about the outage",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1768829975.702651",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "278e5c76-649e-d586-7816-e9b55de2eb96",
+        "type": "message",
+        "text": "Twin Municipal Services Co. reporting sync failures since this morning, CSM is Janice Cook",
+        "user": "UJQY3Q26RVW",
+        "ts": "1768836230.052530",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e97ac34e-f0af-d594-3477-177b06f731f2",
+        "type": "message",
+        "text": "Can someone check Chen Stores Corp.'s invoice? They say they were double billed",
+        "user": "UVQRW5SQSEL",
+        "ts": "1768853067.373179",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

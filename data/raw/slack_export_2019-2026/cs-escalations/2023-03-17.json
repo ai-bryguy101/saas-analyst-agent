@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "758b764f-1691-ff41-8add-577af9f1b740",
+        "type": "message",
+        "text": "Can someone check Saginaw Facilities Management's invoice? They say they were double billed",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1679096397.066631",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fdeeae4d-af1f-33cb-451b-d84b2dc49880",
+        "type": "message",
+        "text": "Kestrel Public Works Corp. asking for an SLA credit",
+        "user": "UFGLBSDS2XV",
+        "ts": "1679098005.246728",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82023a4b-1d4c-2936-0705-c488bffe524d",
+        "type": "message",
+        "text": "Sycamore Residential reporting sync failures since this morning, CSM is Arjun Peterson",
+        "user": "U8TVGALMJLQ",
+        "ts": "1679098610.275923",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

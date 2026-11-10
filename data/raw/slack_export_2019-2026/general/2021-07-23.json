@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "96ee6c45-6d8d-e894-51bb-5c09edba89c5",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UJRKGMQPU2R",
+        "ts": "1627050364.232692",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "895d2425-ac0a-4f07-9fcf-34f0e0082e0e",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UMYYLUTXG9R",
+        "ts": "1627055844.893817",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UMYYLUTXG9R",
+            "ts": "1627083198.065448"
+        }
+    },
+    {
+        "client_msg_id": "4287593b-58e1-52da-07a5-d4d8ada02852",
+        "type": "message",
+        "text": "Welcome Jason Garcia to the Customer Success team!",
+        "user": "U5X9PNA34DU",
+        "ts": "1627062695.140978",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "076cb476-7fd0-a464-3d97-0dda4500164d",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UNFVCYNZT6K",
+        "ts": "1627065824.392400",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfc8e463-3f4a-1459-1c6e-74c3a4efc797",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UVQRW5SQSEL",
+        "ts": "1627068281.452783",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e3b54a9a-a5d6-94dc-500f-f56df188aedf",
+        "type": "message",
+        "text": "Welcome Kathryn Lavoie to the Sales team!",
+        "user": "U5TERVWF7JH",
+        "ts": "1627071757.951228",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "de20d441-2d9d-87c3-1a10-e791dd2e08cc",
+        "type": "message",
+        "text": "Welcome Joyce Okonkwo-Hale to the Finance team!",
+        "user": "UT9KGXWKHLB",
+        "ts": "1627076806.267097",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UV9GDKGY32C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bd66eeb-5ebc-2a3a-97d5-a93820bc66a4",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U2CKCF24AEA",
+        "ts": "1627082026.686093",
+        "team": "T02BRNDLCV"
+    }
+]

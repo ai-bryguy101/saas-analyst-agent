@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "bf0c447c-1464-47ef-d511-19306409d834",
+        "type": "message",
+        "text": "Welcome Olivia Foster to the Finance team!",
+        "user": "UT9KGXWKHLB",
+        "ts": "1667310523.379776",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d06363f8-53bd-e5de-c6f8-02e3e300051b",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UUFS9CP1A17",
+        "ts": "1667326497.122416",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "011cdebd-7280-970d-ea19-66bc050297e1",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UT9KGXWKHLB",
+        "ts": "1667339699.833108",
+        "team": "T02BRNDLCV"
+    }
+]

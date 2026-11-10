@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "37c40aba-6091-997b-6aa6-76e66f1c5610",
+        "type": "message",
+        "text": "AR aging is up, Brookside Stores Holdings is 90+ days",
+        "user": "UJKZ2R47YW9",
+        "ts": "1677859495.886818",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8df25a9a-c77a-97a7-50a7-9a699934fa24",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URFUZYLCAEC",
+        "ts": "1677879217.455102",
+        "team": "T02BRNDLCV"
+    }
+]

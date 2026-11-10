@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "acb3c3bf-e7b9-2202-97f1-3b421168cc5e",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Heron Mechanical Co. wants an exec call about the outage",
+        "user": "UPGXMWMDQNR",
+        "ts": "1753802185.572260",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "392768db-fc1d-61fe-ae9f-3310601d343a",
+        "type": "message",
+        "text": "Renewal risk: Willow Residential unhappy with mobile app",
+        "user": "UHV2RFNY0HN",
+        "ts": "1753803607.620965",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16220fb7-b004-88a9-5067-18f141d429b5",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> Osprey Logistics reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1753807676.361084",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32a5c2fd-cea9-496d-23f2-b8da9227caf3",
+        "type": "message",
+        "text": "Renewal risk: Hargreaves Health System unhappy with mobile app",
+        "user": "UQK194B1V43",
+        "ts": "1753808896.168855",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "562deaea-dc02-292c-ff96-d756e19607b9",
+        "type": "message",
+        "text": "Can someone check Prairie Suites's invoice? They say they were double billed",
+        "user": "UMDHKXLV8RH",
+        "ts": "1753810707.364577",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "935f2376-e9ce-4ca2-23dc-ce8be858510f",
+        "type": "message",
+        "text": "Renewal risk: Riverbend Health Partners Group unhappy with mobile app",
+        "user": "UG4ETD69L1D",
+        "ts": "1753811318.129944",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7372affe-99c5-7b83-0c8c-75debc5d548e",
+        "type": "message",
+        "text": "Erie Public Works LLC asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1753814636.931288",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "768180ac-8e6c-e0ce-88d2-272c1c4f6aba",
+        "type": "message",
+        "text": "Can someone check Saguaro Manufacturing Holdings's invoice? They say they were double billed",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1753819670.276397",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee1236ae-19f3-bba9-a18e-68bd81fc9d9f",
+        "type": "message",
+        "text": "Can someone check Kittredge Mechanical LLC's invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1753832477.117360",
+        "team": "T02BRNDLCV"
+    }
+]

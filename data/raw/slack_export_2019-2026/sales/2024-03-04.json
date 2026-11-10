@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "042167e6-216a-f93c-deb7-d6a94c37798a",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1709557931.881036",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "7e134390-f5ca-f94c-e893-3c3fccc15a91",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Pricing question: does Pro include Dispatch?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1709558788.918295",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd556eac-8d4e-8d34-86bf-0f30b165ab26",
+        "type": "message",
+        "text": "Closed Superior Freight LLC! 62 seats, Starter",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1709573239.065492",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UL7VFDJEZ2W",
+            "ts": "1709585690.244434"
+        }
+    },
+    {
+        "client_msg_id": "2f3e7911-3647-6fe5-a59f-c52e5d16aecd",
+        "type": "message",
+        "text": "Kingsley Supply Co Inc. wants a discount, how far can I go?",
+        "user": "UP51TVUPQU5",
+        "ts": "1709574195.490694",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2895a6a7-cd54-1fe6-6dbd-9271dbdd767d",
+        "type": "message",
+        "text": "Twin Couriers wants a discount, how far can I go?",
+        "user": "UH9DL28T3MH",
+        "ts": "1709577020.100557",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2a288d2b-5ea0-cf42-51f6-b76501a4d7f0",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQLM603293J",
+        "ts": "1709577611.338099",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53e4c24d-03a4-1fbf-71f7-52feda421d40",
+        "type": "message",
+        "text": "<@UV8WG09HYBP> Highland College Corp. wants a discount, how far can I go?",
+        "user": "UXXA9L8HH83",
+        "ts": "1709584250.503934",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "329a638f-254e-fffe-94bd-1e86089c9bd8",
+        "type": "message",
+        "text": "Lost Penhallow Janitorial Co. to Plinthwise on price",
+        "user": "UZACKQ1VXCH",
+        "ts": "1709590868.684335",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "17565c0e-a096-5fb1-3dac-94eaa444bc30",
+        "type": "message",
+        "text": "<@UCQT1GS0C0C> Pricing question: does Enterprise include Dispatch?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1652391641.225917",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0987692d-8aa6-83dc-d479-0dc9a53ec24d",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1652400543.218554",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

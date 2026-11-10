@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e0237155-427c-f0cd-f4e0-53da7815255f",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "UGPRJ4K947R",
+        "ts": "1752153518.780211",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "20ed5faa-4e05-734b-6c56-02edf5f752ec",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1752173044.559277",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77559e0a-4d4e-fc31-ebbf-09f9763e88be",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> Lost Bayview Resorts to Plinthwise on price",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1752187100.260114",
+        "team": "T02BRNDLCV"
+    }
+]

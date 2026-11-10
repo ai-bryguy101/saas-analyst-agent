@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "3190e890-3e46-0079-4ce5-2368e50e9b55",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1696080593.997913",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "31ca15cb-673e-9952-bf6d-805f677f5cdd",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UQK194B1V43",
+        "ts": "1696103853.575730",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7988a46-3cba-3cc9-75e2-c003be173919",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UYR8E48FJ62",
+        "ts": "1696104614.497961",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33e7d2e4-4baa-5d21-4a0a-bac46c8b95d1",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1696107032.275715",
+        "team": "T02BRNDLCV"
+    }
+]

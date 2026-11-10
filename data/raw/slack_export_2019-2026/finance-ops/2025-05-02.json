@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "45b32e20-5bdd-432e-7407-33a9d8abbac8",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UG4ETD69L1D",
+        "ts": "1746191107.007866",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d86e4a05-53ef-6bd2-c194-049d93959cd2",
+        "type": "message",
+        "text": "Calloway Retail Group Corp. paid by wire, applying now",
+        "user": "USW7BR7KTST",
+        "ts": "1746193581.611505",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e6d4391-1877-49d8-978e-1341ad2332f2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U09CZFTHQSS",
+        "ts": "1746194908.636138",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da5ce7a0-ccbb-f98f-da03-a44f6d210ab1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXS2WD4BYRN",
+        "ts": "1746196524.646400",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0846ea9-ca85-699b-e6ea-51cdb04d00b9",
+        "type": "message",
+        "text": "FX rates loaded for May 2025",
+        "user": "UJQY3Q26RVW",
+        "ts": "1746203603.329282",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a3bba06-d038-e7f0-3915-3d7a74f17946",
+        "type": "message",
+        "text": "<@U3EQ075NUYR> AR aging is up, Magnolia Maintenance Co Co. is 90+ days",
+        "user": "UPHFQAHDPSK",
+        "ts": "1746207317.846962",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49987206-f132-2b35-6403-d1fb2c6f54de",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UG4ETD69L1D",
+        "ts": "1746213366.718911",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf5ff496-a180-124c-6e8e-3f8f6bfb4e2e",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1746219691.425061",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "75e448fd-e6f4-c1f8-1d34-70364db51be6",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1746219852.781031",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "a381d593-92c7-0035-9c16-33fe9cfb96f4",
+        "type": "message",
+        "text": "Tidewater Public Works LLC paid by wire, applying now",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1746229569.242092",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "11c0219f-f1f1-0dac-117f-4d1b50864081",
+        "type": "message",
+        "text": "FX rates loaded for May 2025",
+        "user": "UJQY3Q26RVW",
+        "ts": "1746233819.834629",
+        "team": "T02BRNDLCV"
+    }
+]

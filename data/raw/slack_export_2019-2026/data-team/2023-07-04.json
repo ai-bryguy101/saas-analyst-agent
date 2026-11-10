@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "ab65d815-8ea8-d78b-ebe7-4c244a8f6924",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UVX5HCR5MMD",
+        "ts": "1688477460.132476",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19cae3fe-ab4e-e4df-c797-225fa015800e",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1688480320.334578",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9ed2fb36-f2d6-36a1-23b3-20419fcbc4cd",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UWBW507RCA9",
+        "ts": "1688502076.710662",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0bcdd99d-417e-e489-5ac4-58669e74b3ec",
+        "type": "message",
+        "text": "Need churn list for 2022",
+        "user": "UQXT5A6YMVH",
+        "ts": "1688511491.872316",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d393879b-9201-e73d-4503-cb167a9f2025",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UZACKQ1VXCH",
+        "ts": "1688517393.158058",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

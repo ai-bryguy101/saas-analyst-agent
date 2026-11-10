@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "0d8afa54-d7bd-20ae-b8c0-a8c614d5fa91",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> Month-end close starts tomorrow",
+        "user": "UUFS9CP1A17",
+        "ts": "1574177158.538565",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "961d8ff0-473e-7241-c0d3-1eb27f20dfcd",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2019",
+        "user": "UBHB6GTB73U",
+        "ts": "1574194691.768605",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6dc53b0b-4271-4b3e-e52c-375aae84f4c7",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2019",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1574202069.977470",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fdbe6c19-9003-f100-c1f7-274b6ffc80e5",
+        "type": "message",
+        "text": "AR aging is up, Lockwood Manufacturing Co. is 90+ days",
+        "user": "UXXA9L8HH83",
+        "ts": "1574207030.007107",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80a69b9b-432b-30d3-cf26-5f5e40f50313",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1574210378.146724",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UBK8V2J099L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46aa2fbc-7cc4-6529-c371-1d273caed7cf",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> AR aging is up, Gatehouse Realty Management Corp. is 90+ days",
+        "user": "U3EQ075NUYR",
+        "ts": "1574210407.309704",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3EQ075NUYR",
+            "ts": "1574202854.117890"
+        }
+    }
+]

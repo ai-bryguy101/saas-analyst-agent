@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "4c01cc50-c3b7-b34f-d9d9-c9315db2d8e4",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1784038193.123023",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b1494349-bac1-77d2-f48c-89cfca6c6135",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1784055890.584767",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e417e237-a996-fbe7-1800-7f421651868f",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "URWNWW8QFM6",
+        "ts": "1784062077.512400",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "e0c9a7ab-e256-280d-2157-72831a029436",
+        "type": "message",
+        "text": "deploy v7.15.1 to prod :rocket:",
+        "user": "UWUGRQ83YYM",
+        "ts": "1739798568.610575",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e555d03b-5c9c-97e0-651b-1a90d30fef32",
+        "type": "message",
+        "text": "<@UFQYM82M1LX> deploy v9.4.3 to prod :rocket:",
+        "user": "UFWAQ6E76D6",
+        "ts": "1739800528.721111",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f615fe4-67d9-a6c4-bedc-694c4f535eb6",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1739800829.038776",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#50660 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86f3ce6c-7ed4-49cb-82a9-728b7acdfebf",
+        "type": "message",
+        "text": "deploy v5.0.5 to prod :rocket:",
+        "user": "UC70JNE74S7",
+        "ts": "1739806068.344927",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7a4372c-55ce-d46e-b352-51bca7395b5b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1739812217.989746",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#33047 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "961191b7-5746-7b77-e0d1-5966bf36e44b",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UH9DL28T3MH",
+        "ts": "1739833436.440932",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

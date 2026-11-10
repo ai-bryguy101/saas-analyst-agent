@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "d2f47a84-2a37-bab0-dda3-bf3cb0e7ae24",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1611858720.253557",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1611871384.548517"
+        }
+    },
+    {
+        "client_msg_id": "a3720514-a76d-efd9-2125-959c153a3614",
+        "type": "message",
+        "text": "AR aging is up, Bluewater Building Services Ltd. is 90+ days",
+        "user": "UWU9WG7ECGY",
+        "ts": "1611866999.166734",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

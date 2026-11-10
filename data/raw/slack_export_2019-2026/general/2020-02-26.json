@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "ff625e27-15da-fa14-3046-4a9be3ad1677",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "U9XCAUGPS1F",
+        "ts": "1582723458.081748",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1582748483.408378"
+        }
+    },
+    {
+        "client_msg_id": "1dfb135d-ee2b-d6ed-4ab8-3d50e2d5a50c",
+        "type": "message",
+        "text": "Welcome Peter Bennett to the Engineering team!",
+        "user": "U0E67MPWRXA",
+        "ts": "1582724281.354203",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a7973dd3-09e4-b5aa-e170-741071584928",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Welcome John Lavoie to the Customer Success team!",
+        "user": "UT7K74ALYGQ",
+        "ts": "1582727143.358400",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UKMQNTKUR4V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03f78df4-99f2-1dd2-344c-4f6b7a5a87c6",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UMYYLUTXG9R",
+        "ts": "1582740014.489490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5784e890-f4de-8428-ab87-ae2419edc3e5",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> Benefits enrollment closes Friday",
+        "user": "U5X9PNA34DU",
+        "ts": "1582745988.137836",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a2683e6a-38cb-5288-b4aa-09de3ceff2d7",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UH9DL28T3MH",
+        "ts": "1582753577.896356",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7a9d268-f270-0861-0602-02ce7aedf214",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UVQRW5SQSEL",
+        "ts": "1582753880.799006",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8531fd63-b2ab-5fd9-f24a-68fa2407b00b",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UT7K74ALYGQ",
+        "ts": "1582763544.042807",
+        "team": "T02BRNDLCV"
+    }
+]

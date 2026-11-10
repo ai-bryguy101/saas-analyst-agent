@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "7eed2065-c520-e61e-0b0c-9ada40cc95e1",
+        "type": "message",
+        "text": "AR aging is up, Hawthorne Residential Inc. is 90+ days",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1573482015.356426",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1fcdb96f-9ab1-e691-d09b-f38dbe383501",
+        "type": "message",
+        "text": "Lakeshore Warehousing Group paid by wire, applying now",
+        "user": "U9SD2024Q7F",
+        "ts": "1573485108.136708",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6d288b3-6032-aac2-9ab6-cf8c7b2724ab",
+        "type": "message",
+        "text": "<@UB0YL0LKYC7> Ostrander Unified Schools Corp. paid by wire, applying now",
+        "user": "U3EQ075NUYR",
+        "ts": "1573488490.305652",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ce9176e4-dda0-fc29-e729-1f130ead5f78",
+        "type": "message",
+        "text": "Evans Inns Co. paid by wire, applying now",
+        "user": "UL20M69UM76",
+        "ts": "1573494072.882478",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "743fa1c1-b8b5-ffec-e065-36ea9ef2f512",
+        "type": "message",
+        "text": "Wexford Resorts Group paid by wire, applying now",
+        "user": "UJQY3Q26RVW",
+        "ts": "1573494399.148931",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0cd3e5e-6da6-4fd6-4195-861ebc2bfaea",
+        "type": "message",
+        "text": "Commonwealth Property Group LLC paid by wire, applying now",
+        "user": "UXS2WD4BYRN",
+        "ts": "1573516347.976656",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f40e06e-37ab-451c-c816-78545295d07e",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3YU9TS6QYB",
+        "ts": "1573519860.035686",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

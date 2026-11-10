@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "4a7f176b-a131-fb4c-5e9f-35e37de97b95",
+        "type": "message",
+        "text": "Can someone check Pueblo Contracting Inc.'s invoice? They say they were double billed",
+        "user": "UWU9WG7ECGY",
+        "ts": "1598538200.570906",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1598569188.898025"
+        }
+    },
+    {
+        "client_msg_id": "4f06ae30-fae4-3109-622d-12ae06b62e2e",
+        "type": "message",
+        "text": "Ridgeline Hospital Holdings wants an exec call about the outage",
+        "user": "UH9DL28T3MH",
+        "ts": "1598539862.358454",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f6da0c2-d569-27dd-b654-a1f2187cdba7",
+        "type": "message",
+        "text": "Shenandoah Homes Corp. reporting sync failures since this morning, CSM is Frank Quillfeather",
+        "user": "UA3MVBJWAHX",
+        "ts": "1598540362.085605",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "62f03b8f-e871-9a00-22a1-26f4ce81f42f",
+        "type": "message",
+        "text": "Martinez Municipal Services LLC reporting sync failures since this morning, CSM is Peter Bennett",
+        "user": "UXXA9L8HH83",
+        "ts": "1598542154.672150",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d6c5e06-810f-d346-0ac3-3d1a1bd83a03",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Sycamore Supply Co Ltd. reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "U5DYUQUF95P",
+        "ts": "1598544577.449786",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c489af5-e6cb-9d54-7557-415b5a1388d9",
+        "type": "message",
+        "text": "Blackhawk Works Inc. reporting sync failures since this morning, CSM is Dennis Boateng",
+        "user": "U3KL08VJD8C",
+        "ts": "1598546500.083591",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c21a2bf-9494-09af-76fb-98aba762029b",
+        "type": "message",
+        "text": "Valley College reporting sync failures since this morning, CSM is Margaret Okonkwo-Hale",
+        "user": "UHV2RFNY0HN",
+        "ts": "1598548683.424190",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b39a3e8-8350-e3ea-f08a-05992b7678eb",
+        "type": "message",
+        "text": "Renewal risk: Magnolia College unhappy with mobile app",
+        "user": "UQXT5A6YMVH",
+        "ts": "1598555269.706552",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9866ca24-2f31-9328-9036-b53ba248becf",
+        "type": "message",
+        "text": "Sycamore Hospitality Group Inc. asking for an SLA credit",
+        "user": "UFJUKVTAA1B",
+        "ts": "1598559482.218534",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "73cf0fc3-34dc-7c24-0cd2-4eba364585d9",
+        "type": "message",
+        "text": "Prairie Couriers LLC asking for an SLA credit",
+        "user": "U8TVGALMJLQ",
+        "ts": "1598560826.941371",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U8TVGALMJLQ",
+            "ts": "1598554174.864399"
+        }
+    },
+    {
+        "client_msg_id": "1bf3c7c9-4cea-930b-08b9-47b63f02faf4",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Can someone check Oakmere Maintenance Co's invoice? They say they were double billed",
+        "user": "UKMQNTKUR4V",
+        "ts": "1598560830.000303",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0d20c65b-d236-ceb9-7cef-346778f6c9e4",
+        "type": "message",
+        "text": "Renewal risk: Iyer Realty Management Group unhappy with mobile app",
+        "user": "UP51TVUPQU5",
+        "ts": "1598563785.049990",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "839a6190-33d1-9e4f-ebd6-6462b87f9299",
+        "type": "message",
+        "text": "Renewal risk: Kelly Markets unhappy with mobile app",
+        "user": "UCQT1GS0C0C",
+        "ts": "1598571985.111226",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

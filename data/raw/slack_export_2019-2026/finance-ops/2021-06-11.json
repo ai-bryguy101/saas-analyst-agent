@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "36f35a12-f018-4365-3f69-d528906dbbdc",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UGPRJ4K947R",
+        "ts": "1623421593.844425",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2396d277-4ebb-7584-3cdd-20da5388c1b9",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2021",
+        "user": "UFGLBSDS2XV",
+        "ts": "1623429117.983562",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFGLBSDS2XV",
+            "ts": "1623424131.412538"
+        }
+    }
+]

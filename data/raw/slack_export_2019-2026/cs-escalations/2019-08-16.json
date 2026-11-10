@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "33967103-043b-2784-621b-a507e115cbd6",
+        "type": "message",
+        "text": "Can someone check Tri-County Health Partners Co.'s invoice? They say they were double billed",
+        "user": "U5DYUQUF95P",
+        "ts": "1565961625.965889",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7278c07f-559e-acb8-965c-290cfef12fca",
+        "type": "message",
+        "text": "Granite County Facilities reporting sync failures since this morning, CSM is Joyce Okonkwo-Hale",
+        "user": "UL8NMQFXPJR",
+        "ts": "1565962245.484634",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c1a5035c-ba0e-b718-03ed-16acefb17fb2",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> Chen Suites Inc. asking for an SLA credit",
+        "user": "UGUNVSC71NZ",
+        "ts": "1565984530.760194",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

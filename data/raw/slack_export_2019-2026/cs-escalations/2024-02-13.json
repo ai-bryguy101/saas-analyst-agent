@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "b6a20772-41eb-ae58-205b-2d551fa88eaf",
+        "type": "message",
+        "text": "Can someone check Allegheny Academy Corp.'s invoice? They say they were double billed",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1707842856.717851",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7f83a880-a639-1ce9-9ab2-212258806188",
+        "type": "message",
+        "text": "Foxglove Municipal Services Inc. wants an exec call about the outage",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1707853102.073988",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e0e145ca-3609-e2d4-a268-211ce9a3df13",
+        "type": "message",
+        "text": "Scott Building Services Corp. asking for an SLA credit",
+        "user": "UVX5HCR5MMD",
+        "ts": "1707853595.972645",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "baa05499-ca2f-6dc5-e14c-6866f16d9029",
+        "type": "message",
+        "text": "Adeyemi Janitorial Inc. wants an exec call about the outage",
+        "user": "UT7K74ALYGQ",
+        "ts": "1707857599.133564",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UT7K74ALYGQ",
+            "ts": "1707844502.051210"
+        }
+    },
+    {
+        "client_msg_id": "e271b4bd-b93f-9f33-a4ea-30a4baf9a716",
+        "type": "message",
+        "text": "Commonwealth Janitorial Group reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "UMYYLUTXG9R",
+        "ts": "1707862605.822582",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b23ad7e-07f6-d4e4-e430-1a0271cd5188",
+        "type": "message",
+        "text": "Can someone check Ostrander Hospital Inc.'s invoice? They say they were double billed",
+        "user": "UWU9WG7ECGY",
+        "ts": "1707868064.772522",
+        "team": "T02BRNDLCV"
+    }
+]

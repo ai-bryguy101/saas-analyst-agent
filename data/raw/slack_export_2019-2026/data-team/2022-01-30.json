@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "74152397-cd98-a340-bea0-e40ae9f365fb",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1643556436.830145",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96be7047-2cf5-6277-b0a5-85ddbe7e0674",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U8TVGALMJLQ",
+        "ts": "1643563363.608757",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1693e041-d052-427b-175a-6b2aa77fdc67",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UR3LDWKU006",
+        "ts": "1643568113.666082",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc1f7f57-f904-9fb6-3195-64597038b3d4",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U8SR98620D7",
+        "ts": "1643576812.719181",
+        "team": "T02BRNDLCV"
+    }
+]

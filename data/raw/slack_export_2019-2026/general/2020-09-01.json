@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "c140ccea-e793-70d0-e5be-83deb39cea8a",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UB8UH2KX2NW",
+        "ts": "1598969409.801591",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a98658a-1739-30ec-f827-d8671111dd64",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Welcome Kathryn Lavoie to the Customer Success team!",
+        "user": "UC95B7VAFX0",
+        "ts": "1598974333.338048",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c28cb8ea-c8e0-5dd3-9cc3-24104a455c16",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U8TVGALMJLQ",
+        "ts": "1598982813.733398",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U8TVGALMJLQ",
+            "ts": "1598966802.358330"
+        }
+    },
+    {
+        "client_msg_id": "0cabbc5b-b653-e3f5-639e-f9b3ca8241af",
+        "type": "message",
+        "text": "Welcome Zachary Tanaka to the Engineering team!",
+        "user": "U9SD2024Q7F",
+        "ts": "1598986595.164438",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a1cd944-d3fc-2602-55ae-737bafb6b87d",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UT7K74ALYGQ",
+        "ts": "1598995409.998900",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09295aa8-9337-b3f4-2570-0de3ceabd1a1",
+        "type": "message",
+        "text": "Welcome Ryan Iyer to the Customer Success team!",
+        "user": "URFUZYLCAEC",
+        "ts": "1598997771.261613",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "c2392dc2-4c21-096b-97b9-e490d98a0fd2",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U3EQ075NUYR",
+        "ts": "1640114318.166862",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3a83c9d-5620-65a3-b820-9f7cd92aa2b0",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U0VB9M5U3TM",
+        "ts": "1640124337.538924",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf050d52-e985-45b5-fdf4-bfd4cce70ccf",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UAGQX7APZBG",
+        "ts": "1640127082.291737",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49ca0665-7d1c-75d6-be03-f532db01e3c6",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UWU9WG7ECGY",
+        "ts": "1640132446.671777",
+        "team": "T02BRNDLCV"
+    }
+]

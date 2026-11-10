@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "be10920c-f634-cd4f-1e1a-3d1467303f8b",
+        "type": "message",
+        "text": "Cooper Warehousing Holdings asking for an SLA credit",
+        "user": "UE49ET7WGNU",
+        "ts": "1605026165.264536",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75d758fd-a6fe-1c89-07a5-1da9654f296a",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Osprey Manufacturing Group wants an exec call about the outage",
+        "user": "UE49ET7WGNU",
+        "ts": "1605028194.808181",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a7d4a4e-1654-b34f-c039-5dec85111330",
+        "type": "message",
+        "text": "Willow Health Partners LLC asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1605044762.923290",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be43bc51-0fed-cfa6-91de-1386a822a9de",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Marrow Hospital Corp. asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1605045492.990208",
+        "team": "T02BRNDLCV"
+    }
+]

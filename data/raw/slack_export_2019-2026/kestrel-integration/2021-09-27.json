@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "63eacadf-5cb4-1008-fff3-f788f8fc639d",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UX84HDPARWN",
+        "ts": "1632749439.220839",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ffd09d1e-c1f5-98cb-636d-a78d4f254cb8",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U8TVGALMJLQ",
+        "ts": "1632750881.525676",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed0f366c-8784-e406-e1e0-4823b3fe3416",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U5DYUQUF95P",
+        "ts": "1632754844.690018",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7df58d0-1b1b-2833-43c2-c8aa4bce7451",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U7PFYH0YRRG",
+        "ts": "1632756568.167455",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f5f57127-fa22-8568-a512-fb4a9b9234fa",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UFULM18ZBQ6",
+        "ts": "1632760216.683208",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f26ddb3-9410-6032-989d-db3b6723e889",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U5DYUQUF95P",
+        "ts": "1632773315.294844",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d8bda08c-fedf-cd86-5519-7dc866aa384e",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UFARBQM0LCD",
+        "ts": "1632779688.528509",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba659722-b953-bdf2-2318-5044368dbfa3",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U5DYUQUF95P",
+        "ts": "1632786329.242270",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0a9b6a4f-b0bc-7a99-7cea-1d1aaf2a53e8",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U09CZFTHQSS",
+        "ts": "1632790368.613946",
+        "team": "T02BRNDLCV"
+    }
+]

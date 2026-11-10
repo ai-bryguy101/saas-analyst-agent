@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "08cf7d44-1dca-6c43-1e31-23a65ab2ff9b",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UV9KPNCPQJN",
+        "ts": "1652376744.115674",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c2efb49e-4ce3-57e3-151c-f6f6bf28107a",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "U22GUF0P303",
+        "ts": "1652382280.962096",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c64f3ca-2d11-9491-c60a-7d1980b97a9d",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UNPKZYBKYGA",
+        "ts": "1652396000.696828",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "90a61445-0c36-e140-28a6-ae06325fbfee",
+        "type": "message",
+        "text": "<@UFARBQM0LCD> Don't use ARR__c from Salesforce, it's stale",
+        "user": "U34NH0P5TMZ",
+        "ts": "1652402677.272349",
+        "team": "T02BRNDLCV"
+    }
+]

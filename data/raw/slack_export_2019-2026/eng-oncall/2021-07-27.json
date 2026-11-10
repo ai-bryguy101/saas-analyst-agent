@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "a02adcff-3472-893a-61e3-0afaf9a159e7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1627393010.526434",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#69716 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea2079bf-331e-5005-7997-c0835aa43c2e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1627394214.749675",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#94798 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21ecbcf1-748b-be64-06d5-56bc65cccb75",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UMXMN24FN4K",
+        "ts": "1627409887.098177",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "06794f7b-accf-86f0-0042-bdcd34c5058c",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UC95B7VAFX0",
+        "ts": "1627411579.714653",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74eb04d1-30c7-ef50-bbee-a5b957bd6d13",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UL20M69UM76",
+        "ts": "1627413472.765909",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f3caa47-f0cc-5892-2600-f7cd96de2cf8",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UV9KPNCPQJN",
+        "ts": "1627427936.740965",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UV9KPNCPQJN",
+            "ts": "1627400313.097862"
+        }
+    }
+]

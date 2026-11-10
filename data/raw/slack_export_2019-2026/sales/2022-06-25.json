@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "b821ef05-7836-6b7f-f627-25233cd1b2ae",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UFNKJQT8PV1",
+        "ts": "1656167507.718149",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UFGLBSDS2XV"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFNKJQT8PV1",
+            "ts": "1656174274.220937"
+        }
+    },
+    {
+        "client_msg_id": "35ac01ae-a292-a39f-a593-ecb26250d8c9",
+        "type": "message",
+        "text": "Lost Ingleby Fabrication Group to Plinthwise on price",
+        "user": "UH9DL28T3MH",
+        "ts": "1656175435.410849",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6884885d-ff02-1432-6f39-c82ff2179d39",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Pipeline review moved to 3pm",
+        "user": "UE49ET7WGNU",
+        "ts": "1656190405.111925",
+        "team": "T02BRNDLCV"
+    }
+]

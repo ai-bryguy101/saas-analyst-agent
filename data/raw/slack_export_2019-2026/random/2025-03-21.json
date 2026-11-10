@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "fe92d5e3-3135-c5a5-d47b-c78bd328889c",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U48TCJE75PD",
+        "ts": "1742591814.041932",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1742572714.413073"
+        }
+    }
+]

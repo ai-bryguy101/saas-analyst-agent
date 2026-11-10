@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0f2896ad-de93-7c4c-bd59-ed726649a43c",
+        "type": "message",
+        "text": "Haddad Health System Ltd. reporting sync failures since this morning, CSM is Jean Marchetti",
+        "user": "UA3MVBJWAHX",
+        "ts": "1669295001.415198",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8db52513-9bb2-a59b-d401-6bcf9f1b4ec6",
+        "type": "message",
+        "text": "Renewal risk: Foxglove Residential unhappy with mobile app",
+        "user": "U8SR98620D7",
+        "ts": "1669311237.923288",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8c2258cb-28f7-4e79-efba-dcef5443d30f",
+        "type": "message",
+        "text": "Can someone check Jimenez Academy's invoice? They say they were double billed",
+        "user": "U8SR98620D7",
+        "ts": "1669333718.105176",
+        "team": "T02BRNDLCV"
+    }
+]

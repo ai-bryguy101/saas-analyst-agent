@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "5450732b-af41-595f-336c-f61a75a33476",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXETPKNK8MV",
+        "ts": "1614348781.495268",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e3dc7c6-cc08-804c-fa51-ac607981fffb",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U0E67MPWRXA",
+        "ts": "1614359232.454466",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d077e5e9-b679-4169-00c3-cebf20724bff",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U9U3DZUVA3L",
+        "ts": "1614362062.077899",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9U3DZUVA3L",
+            "ts": "1614371841.725480"
+        }
+    },
+    {
+        "client_msg_id": "15b3672b-faf1-ab91-f3b9-cae60a8af0b3",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> FX rates loaded for Feb 2021",
+        "user": "U9XCAUGPS1F",
+        "ts": "1614378964.315469",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

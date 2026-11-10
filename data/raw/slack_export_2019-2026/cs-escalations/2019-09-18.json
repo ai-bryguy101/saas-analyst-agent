@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "65e39440-2141-ee05-62be-7cf545f0736c",
+        "type": "message",
+        "text": "Blackhawk Suites wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1568812468.245372",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b029d96-cc87-b91e-45f8-56ce296a0bd1",
+        "type": "message",
+        "text": "Southport Hospitality Group Ltd. asking for an SLA credit",
+        "user": "UE4GTX0EXPH",
+        "ts": "1568817576.677174",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b833fe7-e8d1-b79b-c5d0-47b50be1b015",
+        "type": "message",
+        "text": "Renewal risk: Campbell-Rhys Mechanical Corp. unhappy with mobile app",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1568820505.937751",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "34da6ab8-e2e7-0dc0-5c71-e2fb2c98a199",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> Renewal risk: Shenandoah Municipal Services Corp. unhappy with mobile app",
+        "user": "UXS2WD4BYRN",
+        "ts": "1568827254.875494",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "37e7c00b-0b7a-0751-a767-e4f3c0c52354",
+        "type": "message",
+        "text": "Can someone check Crescent College LLC's invoice? They say they were double billed",
+        "user": "UMYYLUTXG9R",
+        "ts": "1568834157.066071",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6bb28597-ab13-9f4d-b8f6-46d8bd100c22",
+        "type": "message",
+        "text": "Can someone check Robinson Medical Center Ltd.'s invoice? They say they were double billed",
+        "user": "UAGQX7APZBG",
+        "ts": "1568842904.635498",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "52d24a5d-500c-409f-0ef4-e9596969df06",
+        "type": "message",
+        "text": "Campbell-Rhys Markets wants an exec call about the outage",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1568843730.531168",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04993267-08b6-4d9c-1bab-12b9869dddb7",
+        "type": "message",
+        "text": "Cedar Outfitters Co. wants an exec call about the outage",
+        "user": "U09CZFTHQSS",
+        "ts": "1568852561.253199",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1568815765.080474"
+        }
+    }
+]

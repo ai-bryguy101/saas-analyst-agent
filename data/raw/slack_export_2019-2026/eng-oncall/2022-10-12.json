@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "b1eae9a8-0e52-0681-9967-8ccc272fd82f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1665585909.923985",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#78502 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce7a969c-1369-e9d3-a19f-b71fe9ea7ffa",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1665596549.185482",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#93126 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d30d2195-42d7-3909-780e-6c43ce38530a",
+        "type": "message",
+        "text": "<@UXS2WD4BYRN> cert renewal for *.brindlecove.example done",
+        "user": "U5HQ6U91D2E",
+        "ts": "1665598309.595408",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b2136784-2db0-8617-c58d-12f4196743fd",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UC70JNE74S7",
+        "ts": "1665598794.750941",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC70JNE74S7",
+            "ts": "1665590188.410182"
+        }
+    },
+    {
+        "client_msg_id": "abf8ae79-0eda-f9c5-ab6c-aa0ba1620f59",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U0VB9M5U3TM",
+        "ts": "1665602795.791570",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec4fb34b-af14-d7e0-ddbd-cb02b0bc8f6b",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> who owns the cron for nightly exports?",
+        "user": "U69WX6HRQNH",
+        "ts": "1665605043.624374",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f4e4280e-7c74-b3d4-6c4c-8f422f8e0095",
+        "type": "message",
+        "text": "deploy v9.0.6 to prod :rocket:",
+        "user": "U7V33ZEGRET",
+        "ts": "1665606127.336347",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9ae6f91e-a387-8218-466b-29e5c4389dbd",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3DBR7QKZWE",
+        "ts": "1665616324.036870",
+        "team": "T02BRNDLCV"
+    }
+]

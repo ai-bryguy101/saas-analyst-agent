@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "9a8535d8-90cb-f2db-3ab9-6ed193c110d5",
+        "type": "message",
+        "text": "Heron Construction LLC asking for an SLA credit",
+        "user": "URFUZYLCAEC",
+        "ts": "1690552337.325702",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "faa1b7d2-ca82-ff8a-0afb-eb7207221700",
+        "type": "message",
+        "text": "Scioto Restoration reporting sync failures since this morning, CSM is Renata Esposito",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1690559799.819534",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7a913d55-69d0-c7bf-cbd6-40884ca95a4a",
+        "type": "message",
+        "text": "Renewal risk: Pueblo Hospitality Group unhappy with mobile app",
+        "user": "UPGXMWMDQNR",
+        "ts": "1690560088.678592",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d4cd047-e856-9fd6-5b93-f3d0556ac902",
+        "type": "message",
+        "text": "Lantern Janitorial Co. reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "U5TERVWF7JH",
+        "ts": "1690565842.915175",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa38cd6a-a313-0f51-1cc5-df2afcfae7f8",
+        "type": "message",
+        "text": "Boateng Markets wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1690587090.120193",
+        "team": "T02BRNDLCV"
+    }
+]

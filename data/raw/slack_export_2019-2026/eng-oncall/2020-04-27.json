@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "fc44f279-0f26-443f-7837-5f278c68c960",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UCQT1GS0C0C",
+        "ts": "1587997471.925748",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6f312d28-1e68-7526-dfb6-7be7f041d84b",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UC95B7VAFX0",
+        "ts": "1588021790.367425",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83168d59-9ef9-35c3-a159-b7438ca5f29e",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UP51TVUPQU5",
+        "ts": "1588022053.006929",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "89c76c28-27a5-adb6-920f-1a19c4226f21",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UWU9WG7ECGY",
+        "ts": "1588023377.352630",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1587998495.575578"
+        }
+    }
+]

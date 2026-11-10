@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "54b17332-fd75-03d1-04bb-78371433eb22",
+        "type": "message",
+        "text": "Can someone check Ross Hospital Co.'s invoice? They say they were double billed",
+        "user": "UV9GDKGY32C",
+        "ts": "1618236402.282687",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e7e8e0be-10cd-69fa-aee4-6fbe41e878ea",
+        "type": "message",
+        "text": "Can someone check Three Property Group's invoice? They say they were double billed",
+        "user": "UCQT1GS0C0C",
+        "ts": "1618244456.220289",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

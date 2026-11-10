@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "e4538a14-23ed-582a-7eb9-b6387b9cc3bb",
+        "type": "message",
+        "text": "AR aging is up, Lakeshore Retail Group Co. is 90+ days",
+        "user": "UCQT1GS0C0C",
+        "ts": "1652706401.913073",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UCQT1GS0C0C",
+            "ts": "1652748713.127623"
+        }
+    },
+    {
+        "client_msg_id": "248ab0d6-813c-41bb-112b-59a669638b09",
+        "type": "message",
+        "text": "AR aging is up, Tidewater Suites Group is 90+ days",
+        "user": "U69WX6HRQNH",
+        "ts": "1652709675.343836",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U69WX6HRQNH",
+            "ts": "1652726508.974317"
+        }
+    },
+    {
+        "client_msg_id": "171f1ee0-fe19-22b6-a0ca-aec03a3b9143",
+        "type": "message",
+        "text": "AR aging is up, Ashford Janitorial Holdings is 90+ days",
+        "user": "U0V9BPHARQX",
+        "ts": "1652720912.591973",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed220a5e-292c-1f0a-7d4b-18b2e0f1326c",
+        "type": "message",
+        "text": "<@UNPKZYBKYGA> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UH9DL28T3MH",
+        "ts": "1652732245.136804",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d862b8e7-eb24-6969-cc42-dd4c7be0b9cb",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UXETPKNK8MV",
+        "ts": "1652743219.307144",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9a3652e-01d4-6fcb-ed18-7d5d6fa81849",
+        "type": "message",
+        "text": "FX rates loaded for May 2022",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1652747884.697222",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

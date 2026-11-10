@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "9ccdb69f-77dd-f930-bfdd-1d2a867e11b8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "URWNWW8QFM6",
+        "ts": "1783458464.578894",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e004c85-1c3b-b01b-1873-24fea0c87f38",
+        "type": "message",
+        "text": "Closed Delacroix Manufacturing LLC! 354 seats, Pro",
+        "user": "UFJUKVTAA1B",
+        "ts": "1783470980.708354",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63ee6415-4a3b-5bc7-d13d-0a28e32a1a0d",
+        "type": "message",
+        "text": "Lost Cumberland Building Services Co. to Plinthwise on price",
+        "user": "UVQRW5SQSEL",
+        "ts": "1783471287.880038",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "131e8538-b439-e015-4fa9-6a6b75b00280",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1682093683.850787",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e93147b0-7ba0-2c23-d1e4-d26b561ecccb",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UXETPKNK8MV",
+        "ts": "1682094332.585417",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "61c44571-5cfa-a535-dfa0-2154a86c2928",
+        "type": "message",
+        "text": "Closed Frontier College! 299 seats, Pro",
+        "user": "UFULM18ZBQ6",
+        "ts": "1682095452.035175",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cb7b1238-e289-eddc-630e-567d1cda5a91",
+        "type": "message",
+        "text": "Lost Thornbury Municipal Services LLC to Plinthwise on price",
+        "user": "UFULM18ZBQ6",
+        "ts": "1682099648.973743",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1f73b4ec-66cb-75dc-c3e5-2ae68310d026",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> Closed Davis Resorts Holdings! 63 seats, Starter",
+        "user": "U5X9PNA34DU",
+        "ts": "1682100765.500243",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UC70JNE74S7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "862e487c-3e27-8af5-5578-76719b1a4c0d",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1682101624.657289",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1682106129.879095"
+        }
+    },
+    {
+        "client_msg_id": "3505429c-ed90-feab-3540-32b0e8f64247",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> Bouchard Retail Group Corp. wants a discount, how far can I go?",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1682117384.126740",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4206a3a3-5398-9278-e2c3-915b9297e384",
+        "type": "message",
+        "text": "Closed Pinecrest Mills Inc.! 396 seats, Starter",
+        "user": "U9SD2024Q7F",
+        "ts": "1682118723.633871",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9SD2024Q7F",
+            "ts": "1682115705.084698"
+        }
+    }
+]

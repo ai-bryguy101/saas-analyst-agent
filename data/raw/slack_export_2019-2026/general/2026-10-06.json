@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "343b593c-dda8-8e6a-272c-130ee6484aa6",
+        "type": "message",
+        "text": "Welcome Tomasz Kowalski to the Support team!",
+        "user": "UMYYLUTXG9R",
+        "ts": "1791297064.616136",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8200455a-e0fc-56aa-8e47-48a3a5cd9d66",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "U69WX6HRQNH",
+        "ts": "1791300160.351526",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U69WX6HRQNH",
+            "ts": "1791329278.192706"
+        }
+    },
+    {
+        "client_msg_id": "6b0b6963-811e-cba2-9765-3a9ac5f090ea",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UH9DL28T3MH",
+        "ts": "1791305698.993788",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3af15e8d-d6c8-e27e-51ea-8195b985326d",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Q4 kickoff deck is in the drive",
+        "user": "U2LMMLL4F31",
+        "ts": "1791308665.166902",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

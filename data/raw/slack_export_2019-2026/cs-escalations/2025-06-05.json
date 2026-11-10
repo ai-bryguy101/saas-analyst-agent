@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "c0872392-5b35-1c6d-c2ec-a5ea5be457e7",
+        "type": "message",
+        "text": "Erie Hospitality Group Ltd. asking for an SLA credit",
+        "user": "UXS2WD4BYRN",
+        "ts": "1749129263.994263",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5e4a86f-8330-152c-ab39-35477f97787a",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Sandpiper Inns Co. reporting sync failures since this morning, CSM is Anthony Ellsworth",
+        "user": "UP51TVUPQU5",
+        "ts": "1749130582.484063",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UP51TVUPQU5",
+            "ts": "1749158410.122021"
+        }
+    },
+    {
+        "client_msg_id": "5fa56c67-7c4e-331e-7c02-73385cc4ac90",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> King Supply Co asking for an SLA credit",
+        "user": "UPHFQAHDPSK",
+        "ts": "1749131786.982154",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "57f96ce3-bf7c-d31c-02b0-1225f1d77e7e",
+        "type": "message",
+        "text": "Heritage Fabrication wants an exec call about the outage",
+        "user": "U3KL08VJD8C",
+        "ts": "1749149676.491678",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4a3f54c5-1b7a-5623-95e9-59eb1e673045",
+        "type": "message",
+        "text": "Juniper Homes LLC wants an exec call about the outage",
+        "user": "U8SR98620D7",
+        "ts": "1749151475.128306",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

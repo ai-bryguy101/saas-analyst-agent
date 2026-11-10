@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "3f6f1c7d-9505-615d-b64d-3f599a3f86e4",
+        "type": "message",
+        "text": "<@UQK194B1V43> Welcome Isabella Thompson to the Sales team!",
+        "user": "UX84HDPARWN",
+        "ts": "1702304272.495693",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a795f70-130c-41f2-219b-f3e00f5c46f6",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UYFL6320JLT",
+        "ts": "1702327950.840912",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "44752988-26d9-e1c8-1e2a-84bd3117469b",
+        "type": "message",
+        "text": "<@UV8WG09HYBP> Welcome Pamela Huang to the Sales team!",
+        "user": "U5DYUQUF95P",
+        "ts": "1702329119.670296",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e1df64f-2914-fa3b-e0f9-38e1bccb74a0",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> Office wifi is back up",
+        "user": "UGPRJ4K947R",
+        "ts": "1702332282.860800",
+        "team": "T02BRNDLCV"
+    }
+]

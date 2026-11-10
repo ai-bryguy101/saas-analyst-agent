@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "d9af028c-e4e7-b494-c4d0-bcd89d3eccb9",
+        "type": "message",
+        "text": "Magnolia Unified Schools Inc. asking for an SLA credit",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1665776649.100800",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8120a44e-7e91-a6e7-91be-2ebd157dfb45",
+        "type": "message",
+        "text": "Can someone check Harbortown Resorts Holdings's invoice? They say they were double billed",
+        "user": "U2CKCF24AEA",
+        "ts": "1665781946.193596",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a1708e6e-de9f-3854-ead8-c4dcb28a2f6d",
+        "type": "message",
+        "text": "Bayview Industries wants an exec call about the outage",
+        "user": "U5X9PNA34DU",
+        "ts": "1665789542.854459",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3DBR7QKZWE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

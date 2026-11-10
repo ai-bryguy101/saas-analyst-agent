@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "a3031e0a-9ed7-722c-4bc3-4e7c071e881a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1596723663.192207",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#87250 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09374302-0918-d939-103d-2a96d46e5486",
+        "type": "message",
+        "text": "deploy v6.30.1 to prod :rocket:",
+        "user": "U9SD2024Q7F",
+        "ts": "1596724377.964129",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21d04532-f5a1-e8e5-bff6-0a20f2e39cb4",
+        "type": "message",
+        "text": "<@UYFL6320JLT> cert renewal for *.brindlecove.example done",
+        "user": "UJQY3Q26RVW",
+        "ts": "1596735843.993926",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1883921b-f62a-aebf-789a-0cb4d470543f",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1596738253.141855",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "50a0cfd6-031f-626f-257a-07a1b4c1efef",
+        "type": "message",
+        "text": "deploy v9.28.6 to prod :rocket:",
+        "user": "UR3LDWKU006",
+        "ts": "1596745543.784745",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0dce4b2-46e6-9d39-2639-008663e68cd2",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UMXMN24FN4K",
+        "ts": "1596745944.908355",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c7fff16-1bc2-33d7-939e-f640d71e2314",
+        "type": "message",
+        "text": "deploy v7.1.9 to prod :rocket:",
+        "user": "UKMQNTKUR4V",
+        "ts": "1596749470.558332",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "081434e5-eaa6-0a2e-f3aa-a55dd0f754e8",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UKMQNTKUR4V",
+        "ts": "1632843041.398391",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d8f4cf3c-d28a-fe58-e1de-26e5553907af",
+        "type": "message",
+        "text": "Lost Ostrander College Group to Plinthwise on price",
+        "user": "U8SR98620D7",
+        "ts": "1632844478.622567",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d98dd7d2-2a75-56c5-8b48-6277f80d6f74",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UAGQX7APZBG",
+        "ts": "1632862553.958855",
+        "team": "T02BRNDLCV"
+    }
+]

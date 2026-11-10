@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "5649ffc6-df31-4cdf-9fe0-040c587f84bb",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1766423970.615227",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#12795 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f94c236f-f05e-a830-eb71-adb9f560e41c",
+        "type": "message",
+        "text": "<@UWUGRQ83YYM> rolling back v7.9.1",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1766427266.368454",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d3eb703-2a52-ff93-ea86-ce7ecb5a3cb5",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U2LMMLL4F31",
+        "ts": "1766430550.131812",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "257b3817-c87d-10ea-12dc-8818c2437fe0",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U8SR98620D7",
+        "ts": "1766440484.295362",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43a59417-6425-5aa2-a63b-e3323ad70e8f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U9V01K22TU1",
+        "ts": "1766445668.337202",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "2b389b3f-f9f0-f45d-7df4-e2a1c804eac0",
+        "type": "message",
+        "text": "Welcome Abigail Fenwick to the Finance team!",
+        "user": "UE49ET7WGNU",
+        "ts": "1728582620.785211",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfcbe491-a5ad-444f-dd6a-737654300d17",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UFQYM82M1LX",
+        "ts": "1728606506.901240",
+        "team": "T02BRNDLCV"
+    }
+]

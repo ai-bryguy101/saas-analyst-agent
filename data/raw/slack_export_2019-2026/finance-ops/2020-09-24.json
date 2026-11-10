@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "9bdbbf36-0ff7-41b7-48b3-f9bc83c75768",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2020",
+        "user": "U9XCAUGPS1F",
+        "ts": "1600964647.079467",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b47546e-df15-8cf0-49c5-eb41b964d4e8",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UZJU9N8CY2T",
+        "ts": "1600971726.288885",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8d9aa0d7-b94d-d12f-ec79-9182ff5c4e5d",
+        "type": "message",
+        "text": "AR aging is up, Kingsley Resorts is 90+ days",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1600976228.539062",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1600986065.786141"
+        }
+    }
+]

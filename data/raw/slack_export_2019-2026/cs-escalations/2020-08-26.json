@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "7ea8f29b-f438-f269-268a-cc2f29608393",
+        "type": "message",
+        "text": "Kingsley Retail Group Group reporting sync failures since this morning, CSM is Hamid Roberts",
+        "user": "UUFS9CP1A17",
+        "ts": "1598480821.734474",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e37e38fd-c03a-f3a4-b405-48e92504af56",
+        "type": "message",
+        "text": "Union Property Services reporting sync failures since this morning, CSM is Alan Carter",
+        "user": "U9Y2KF0S90E",
+        "ts": "1598482637.371319",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83dd1981-942e-d68e-c01c-1050ea99db45",
+        "type": "message",
+        "text": "Beacon Maintenance Co Co. asking for an SLA credit",
+        "user": "UBHB6GTB73U",
+        "ts": "1598488814.381709",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "416fa87d-3d75-b1df-d015-91224afe1e82",
+        "type": "message",
+        "text": "Sandpiper Distribution Inc. wants an exec call about the outage",
+        "user": "U5TERVWF7JH",
+        "ts": "1598489086.253422",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

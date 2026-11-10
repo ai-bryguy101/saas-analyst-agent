@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "dcf3d378-62e3-f5ee-41f3-68a53186843d",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1789499885.263084",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UM2UVLXX7MZ",
+            "ts": "1789491950.724813"
+        }
+    },
+    {
+        "client_msg_id": "0c872a1b-4865-0d1d-eb12-1c0599f65383",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UX84HDPARWN",
+        "ts": "1789508591.393574",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "562889cb-3f40-198a-2954-8ed084b2048f",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U8SR98620D7",
+        "ts": "1789515367.784572",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0cf67eb8-299c-5d72-ec1f-d5db9a86716b",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UP51TVUPQU5",
+        "ts": "1789515607.984401",
+        "team": "T02BRNDLCV"
+    }
+]

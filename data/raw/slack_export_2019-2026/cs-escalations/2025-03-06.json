@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "4dee0776-f2b9-768e-857f-ca33d769f151",
+        "type": "message",
+        "text": "Liberty Contracting Holdings asking for an SLA credit",
+        "user": "UFWAQ6E76D6",
+        "ts": "1741275866.044037",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b23a7320-b928-7101-f388-c0cc34f78a51",
+        "type": "message",
+        "text": "Morgan Logistics Ltd. asking for an SLA credit",
+        "user": "UT9KGXWKHLB",
+        "ts": "1741277233.313462",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "baed75fe-6cb9-b008-b7bc-68041b04555a",
+        "type": "message",
+        "text": "Tillamook Homes Ltd. wants an exec call about the outage",
+        "user": "U48TCJE75PD",
+        "ts": "1741280102.987774",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1741301661.310817"
+        }
+    },
+    {
+        "client_msg_id": "39e17a3d-e2aa-4469-7e31-6870cb544f7a",
+        "type": "message",
+        "text": "Renewal risk: Brown Janitorial Ltd. unhappy with mobile app",
+        "user": "U48TCJE75PD",
+        "ts": "1741283925.861992",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1741282971.367760"
+        }
+    },
+    {
+        "client_msg_id": "0684248e-3bd7-aa08-4cd5-a2f9fd2abc83",
+        "type": "message",
+        "text": "Renewal risk: Superior School District Corp. unhappy with mobile app",
+        "user": "U9SD2024Q7F",
+        "ts": "1741289398.623014",
+        "team": "T02BRNDLCV"
+    }
+]

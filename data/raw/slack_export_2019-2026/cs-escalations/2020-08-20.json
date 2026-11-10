@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "7654a490-0e04-06ed-0fa6-6dd7fec897d9",
+        "type": "message",
+        "text": "Bluewater Restoration LLC reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "UDM784MTBQ7",
+        "ts": "1597933553.170376",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0a26cef0-bb59-bf47-fadc-857eb27b66d6",
+        "type": "message",
+        "text": "Pioneer Janitorial Group wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1597957379.769129",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee811c9c-b22c-c20b-c348-dfd9ed3a952a",
+        "type": "message",
+        "text": "Kestrel Markets Co. wants an exec call about the outage",
+        "user": "UMYYLUTXG9R",
+        "ts": "1597959373.933378",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41199af3-519f-5811-ab8c-7aca3346f321",
+        "type": "message",
+        "text": "Renewal risk: Johansson Contracting unhappy with mobile app",
+        "user": "UFJUKVTAA1B",
+        "ts": "1597960648.312386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "27290d4f-92df-2abd-1731-4d58e44589f8",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Renewal risk: Ozark Mechanical unhappy with mobile app",
+        "user": "U09CZFTHQSS",
+        "ts": "1597961301.113141",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4e6c2c55-96c2-cc09-a3c7-a3744b31d259",
+        "type": "message",
+        "text": "Renewal risk: Bluewater Unified Schools unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1597967410.986013",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d6976e1c-6682-7eff-2679-fca16e141e4b",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> Renewal risk: Ashford Transit Authority Co. unhappy with mobile app",
+        "user": "UBHB6GTB73U",
+        "ts": "1597969413.268753",
+        "team": "T02BRNDLCV"
+    }
+]

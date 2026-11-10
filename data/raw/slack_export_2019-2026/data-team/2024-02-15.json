@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "b14f194e-3f41-6f89-a035-ec8a2ae78e81",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> Don't use ARR__c from Salesforce, it's stale",
+        "user": "U8SR98620D7",
+        "ts": "1708019353.309922",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f5ec449a-eb1f-24a7-ca58-8fec1c1e1040",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U5X9PNA34DU",
+        "ts": "1708022027.571294",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "73b6b320-4e73-ca40-6257-a3235f055483",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Need churn list for 2023",
+        "user": "UJKZ2R47YW9",
+        "ts": "1708037664.980449",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJKZ2R47YW9",
+            "ts": "1708038910.342593"
+        }
+    },
+    {
+        "client_msg_id": "2c2d98db-1be8-6334-0f33-ac5b10b36bea",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> Can I get ARR by region for the board?",
+        "user": "UVQRW5SQSEL",
+        "ts": "1708039884.266485",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4665a6a0-2042-685b-e7cf-7a0cac35e161",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U0E67MPWRXA",
+        "ts": "1708044334.471446",
+        "team": "T02BRNDLCV"
+    }
+]

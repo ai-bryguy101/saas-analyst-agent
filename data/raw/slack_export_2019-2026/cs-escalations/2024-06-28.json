@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "a3a12f5b-36f4-db65-e1f8-e109695b417a",
+        "type": "message",
+        "text": "Clearwater Properties Inc. reporting sync failures since this morning, CSM is Charlotte Park",
+        "user": "UAXWVBRVKW9",
+        "ts": "1719581364.516409",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b9e62a73-ab90-ff15-dbb2-6195759c8913",
+        "type": "message",
+        "text": "Renewal risk: Osprey Residential Inc. unhappy with mobile app",
+        "user": "UWU9WG7ECGY",
+        "ts": "1719582818.073592",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be80b09b-e2ef-edbc-ac3d-eca9c6fcfbbe",
+        "type": "message",
+        "text": "Renewal risk: Wilson Industries Inc. unhappy with mobile app",
+        "user": "UFWAQ6E76D6",
+        "ts": "1719584525.699210",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fed67ee-0c29-8db0-c1cf-639e1dc8f5c4",
+        "type": "message",
+        "text": "Union Logistics Inc. wants an exec call about the outage",
+        "user": "URFUZYLCAEC",
+        "ts": "1719586477.979440",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0cd99d2b-7b1b-f3c7-75da-9b075d14be5a",
+        "type": "message",
+        "text": "Can someone check Gonzalez Industries LLC's invoice? They say they were double billed",
+        "user": "UL8NMQFXPJR",
+        "ts": "1719597580.982702",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4c60d34d-616f-ac9c-4f62-0b318992cef0",
+        "type": "message",
+        "text": "Can someone check Great Fabrication Ltd.'s invoice? They say they were double billed",
+        "user": "UZACKQ1VXCH",
+        "ts": "1719600861.541165",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UZACKQ1VXCH",
+            "ts": "1719584754.995187"
+        }
+    },
+    {
+        "client_msg_id": "f7349411-d96b-5be3-edfa-715031827a72",
+        "type": "message",
+        "text": "Anchor Distribution Ltd. asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1719606845.870145",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4af97b40-f3ef-a3e8-c2da-b35535183857",
+        "type": "message",
+        "text": "Larkspur Property Group Ltd. wants an exec call about the outage",
+        "user": "U5DYUQUF95P",
+        "ts": "1719608614.098123",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7b533e6-0617-dd17-83dc-6cce1b30db7c",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Dubois Couriers Inc. asking for an SLA credit",
+        "user": "UL20M69UM76",
+        "ts": "1719609806.684052",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5efa1c0d-6875-2125-8d60-90662d99d34c",
+        "type": "message",
+        "text": "Yarrow Resorts Inc. reporting sync failures since this morning, CSM is Walter Ortiz",
+        "user": "U3KL08VJD8C",
+        "ts": "1719612543.126838",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70926116-94c8-4531-351c-4a4f358dd061",
+        "type": "message",
+        "text": "Plains Construction reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "U9V01K22TU1",
+        "ts": "1719614503.770312",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "27947453-0f6f-ce56-daee-5495a88acfab",
+        "type": "message",
+        "text": "Anchor Distribution Ltd. reporting sync failures since this morning, CSM is Minh Ruiz",
+        "user": "UFJUKVTAA1B",
+        "ts": "1719620261.664530",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "d6676b89-8981-5b89-8119-16c00194da52",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> Bluewater Industries Group paid by wire, applying now",
+        "user": "U0E67MPWRXA",
+        "ts": "1631282987.802375",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8d07d82a-5297-052c-1cb4-7a9389870eb7",
+        "type": "message",
+        "text": "<@UCQT1GS0C0C> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U9Y2KF0S90E",
+        "ts": "1631285328.627838",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f212477-a218-a78c-b05c-1df70f23f76a",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UL8NMQFXPJR",
+        "ts": "1631285822.251068",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9464956a-2af1-5459-3306-ce33f537c83a",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2021",
+        "user": "UQK194B1V43",
+        "ts": "1631296311.010682",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "27b01010-f3b4-54a5-9b1f-fb1b3cd9aab2",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U34NH0P5TMZ",
+        "ts": "1631301004.262924",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U34NH0P5TMZ",
+            "ts": "1631303325.064639"
+        }
+    },
+    {
+        "client_msg_id": "ee74651c-1560-0575-a2d6-f9f49890098f",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UA3MVBJWAHX",
+        "ts": "1631301228.683640",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49a77e9b-5037-79dd-3f24-cb7533e89f89",
+        "type": "message",
+        "text": "AR aging is up, Ironwood Restoration is 90+ days",
+        "user": "UG4ETD69L1D",
+        "ts": "1631306659.599522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dbee3d43-fcb9-9ff2-62d2-82eb462e7b1d",
+        "type": "message",
+        "text": "Price-Jones Unified Schools Corp. paid by wire, applying now",
+        "user": "U5X9PNA34DU",
+        "ts": "1631307809.268808",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ecb3778-72f2-e979-07da-5717870418f2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UKMQNTKUR4V",
+        "ts": "1631311546.380921",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b4f0488b-0415-6fc3-cb67-28488f60aaaa",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UHV2RFNY0HN",
+        "ts": "1631318341.825060",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "31a647a7-60b5-6f8c-f9bc-43c00c5405d7",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UNFVCYNZT6K",
+        "ts": "1631321608.273121",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "15512128-f94e-5f5e-8e4b-c4cb2a36c8ad",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1664808348.363963",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#12183 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8442af5-1d3c-e7a2-ba89-7d30e5ef807a",
+        "type": "message",
+        "text": "<@UUFS9CP1A17> who owns the cron for nightly exports?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1664809956.043944",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b07b9ead-24dc-7843-0acb-c16664ed18c2",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UV8WG09HYBP",
+        "ts": "1664820477.369604",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "030b4de3-734b-4877-f9b4-6039f58b3e6c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1664822330.812083",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#86938 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10d8e9f0-e3de-13bb-c173-66e6db970895",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "URFUZYLCAEC",
+        "ts": "1664839703.994050",
+        "team": "T02BRNDLCV"
+    }
+]

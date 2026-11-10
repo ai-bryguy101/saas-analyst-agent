@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "edc75464-db53-286f-7592-b64e5fc3662d",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U9XCAUGPS1F",
+        "ts": "1618494744.060861",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1618498570.846137"
+        }
+    },
+    {
+        "client_msg_id": "2d40389f-615d-8075-561a-a1dcb021be1d",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> cert renewal for *.brindlecove.example done",
+        "user": "UZACKQ1VXCH",
+        "ts": "1618505312.819798",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56b97f08-a4a2-7b48-c36b-3f4ad4f0abf5",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U22GUF0P303",
+        "ts": "1618534705.506965",
+        "team": "T02BRNDLCV"
+    }
+]

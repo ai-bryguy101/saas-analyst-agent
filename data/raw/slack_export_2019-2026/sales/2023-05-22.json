@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "2d3928d4-c4b0-df90-7bc2-12e5ed22a307",
+        "type": "message",
+        "text": "Closed Saginaw Residential Corp.! 262 seats, Pro",
+        "user": "UC95B7VAFX0",
+        "ts": "1684769429.820295",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eec121fb-6334-1158-9b97-a3699dfcce85",
+        "type": "message",
+        "text": "Lost Granite Building Services LLC to Plinthwise on price",
+        "user": "U773RMBLF5X",
+        "ts": "1684784028.746409",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e6516e70-08f3-6e57-e4ab-0a246432a2a8",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Pipeline review moved to 3pm",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1684798126.827157",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bb16ce5d-84ad-820d-3abf-58ee34f93ef0",
+        "type": "message",
+        "text": "Closed Lakes Markets! 167 seats, Pro",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1684800939.240191",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

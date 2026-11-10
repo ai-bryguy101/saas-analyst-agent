@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "226ee3b7-498e-e8eb-44a7-060e63e5b665",
+        "type": "message",
+        "text": "deploy v7.0.2 to prod :rocket:",
+        "user": "UAGQX7APZBG",
+        "ts": "1723727253.175076",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "026b4ca4-b59e-cee2-cddf-72f4f4a3ee7b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1723729640.410501",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#91082 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56851b17-bd45-6bbd-3b22-0706128c4350",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U5DYUQUF95P",
+        "ts": "1723732123.965527",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8622bb5c-edaf-d9c7-23b9-b248b116e2b9",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1723736929.557149",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#62904 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53602e93-2b68-5d4d-7ce8-a481d0a00d51",
+        "type": "message",
+        "text": "deploy v9.7.8 to prod :rocket:",
+        "user": "U1YEVCXATA8",
+        "ts": "1723738866.511367",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "46964086-982d-959d-5b73-a8341218881e",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U2LMMLL4F31",
+        "ts": "1723744465.218318",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2LMMLL4F31",
+            "ts": "1723733262.611644"
+        }
+    },
+    {
+        "client_msg_id": "c3a0e64f-66fd-2a08-ac0c-a62036dbdc7e",
+        "type": "message",
+        "text": "deploy v6.23.4 to prod :rocket:",
+        "user": "UMDHKXLV8RH",
+        "ts": "1723752913.454214",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

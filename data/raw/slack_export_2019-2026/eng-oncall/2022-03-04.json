@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "6566d970-2f11-5425-8bfb-4c36264a42ff",
+        "type": "message",
+        "text": "deploy v8.14.5 to prod :rocket:",
+        "user": "U9Y2KF0S90E",
+        "ts": "1646407652.712585",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac287921-9a9c-bd6b-b37e-eb89453c7942",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U3DBR7QKZWE",
+        "ts": "1646413017.709113",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b579ee30-69aa-071e-cb52-11545868521e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1646413582.491797",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#48251 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68f6aaa2-213c-48e0-314b-bcb53f91a78c",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3YU9TS6QYB",
+        "ts": "1646419352.654300",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2b915baa-a060-fc86-02ca-27d6f85c3e9f",
+        "type": "message",
+        "text": "deploy v5.3.7 to prod :rocket:",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1646428804.754686",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8509cd7-d5fb-212b-d2ad-c541761bc380",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1646437161.226461",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b18c4fdf-3fdf-f096-b70d-451fa2561463",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1646440563.684717",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#27530 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

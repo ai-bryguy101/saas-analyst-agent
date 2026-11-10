@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "2b502765-f0b8-134e-e401-e1ae8c22a896",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U2LMMLL4F31",
+        "ts": "1750255005.204107",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "333b3f83-8ef3-0d1d-ec51-d4905d2a4f59",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U0E67MPWRXA",
+        "ts": "1750263349.041763",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2a37df42-ceb1-3be9-24cd-3aa17d1f4c8d",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UR3LDWKU006",
+        "ts": "1750264761.939270",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9df300c6-e609-9101-ffb5-05bacca26614",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UXXA9L8HH83",
+        "ts": "1750266297.504306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2095434-1b08-cd31-dd22-5079e6ca0813",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1750269900.189231",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e439c2c-067f-6f5b-83bc-36fc3bc2c75e",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UFULM18ZBQ6",
+        "ts": "1750275377.994882",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5c5e57f-7519-746d-8363-90149bbbb91a",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UVQRW5SQSEL",
+        "ts": "1750275538.776235",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "677fe655-7016-b895-9099-76ad7f3c63f9",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UR12Y3AZNKK",
+        "ts": "1750277069.567410",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a276f6c6-2f6e-9ae8-c462-c8000ddd758c",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1750278278.335604",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "557b13f2-929e-502e-69c5-6f98437fbef1",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UMDHKXLV8RH",
+        "ts": "1750278720.055258",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b83160f3-02f6-33d1-3f48-1c826cda70d3",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UBHB6GTB73U",
+        "ts": "1750283910.142699",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c3877af-4bd0-58fb-4d6c-45ab51c19f25",
+        "type": "message",
+        "text": "<@U3EQ075NUYR> Dashboard refresh failed overnight",
+        "user": "UA3MVBJWAHX",
+        "ts": "1750287912.767120",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

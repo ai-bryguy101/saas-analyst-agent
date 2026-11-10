@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "f0dbd562-cf72-bd80-3379-dc20c6331084",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U3EQ075NUYR",
+        "ts": "1669986385.033572",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d8f5558-a8bd-fa73-1573-5f8923b210e2",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U3DBR7QKZWE",
+        "ts": "1670000019.387042",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b063a3d7-878d-b33e-427e-79a5489822ec",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UV9KPNCPQJN",
+        "ts": "1670005296.632341",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14b721a4-58f6-49c5-20b5-f2aedf23b446",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UC70JNE74S7",
+        "ts": "1670005438.528744",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1043d87-49b2-7c96-de2a-4ab2b751f5e7",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1670011933.608846",
+        "team": "T02BRNDLCV"
+    }
+]

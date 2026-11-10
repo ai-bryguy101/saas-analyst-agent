@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "ee92ae54-8936-0c16-6968-000f90e3805e",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1624909083.146496",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5dc117be-8208-675c-e666-5cc0fcad9991",
+        "type": "message",
+        "text": "Closed Ozark Realty Management Holdings! 14 seats, Starter",
+        "user": "UFNKJQT8PV1",
+        "ts": "1624911444.548177",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9e76385-60ef-1d12-e2de-f0b0e1537664",
+        "type": "message",
+        "text": "Anyone have a reference customer in Logistics?",
+        "user": "UA3MVBJWAHX",
+        "ts": "1624912797.310126",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "435ca5f7-4792-6cf2-e77d-53617fa8ffa8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1624917427.302002",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1dd5dd41-9db6-1d69-e5b4-38513094469e",
+        "type": "message",
+        "text": "Lost Bailey Restoration LLC to Plinthwise on price",
+        "user": "U0E67MPWRXA",
+        "ts": "1624924658.636756",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1624890203.913200"
+        }
+    }
+]

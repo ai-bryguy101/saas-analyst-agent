@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "4671940e-e0fc-99a8-180b-3e1611cc04af",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1718716904.353964",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8c50232c-b9e7-7e1c-f315-8b30f2b1d933",
+        "type": "message",
+        "text": "Lost Crescent Mills Ltd. to Plinthwise on price",
+        "user": "U22GUF0P303",
+        "ts": "1718737924.279779",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U22GUF0P303",
+            "ts": "1718744935.787849"
+        }
+    },
+    {
+        "client_msg_id": "cc509318-5e0d-06e5-9242-7fe832dc17e2",
+        "type": "message",
+        "text": "Closed Cornerstone Markets LLC! 111 seats, Pro",
+        "user": "UR3LDWKU006",
+        "ts": "1718748302.565473",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9a616004-9702-b204-1a1f-46baf5bc5d4d",
+        "type": "message",
+        "text": "Lakes School District Co. wants a discount, how far can I go?",
+        "user": "U9V01K22TU1",
+        "ts": "1718750925.419110",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32282065-9622-9b49-3457-68efa01bd2d8",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UXS2WD4BYRN",
+        "ts": "1718754631.004779",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

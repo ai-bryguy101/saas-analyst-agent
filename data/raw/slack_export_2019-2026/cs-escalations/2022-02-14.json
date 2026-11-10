@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "6532ca26-9cc5-e3df-32ef-a64dd706f3ec",
+        "type": "message",
+        "text": "Tamarack Suites Holdings reporting sync failures since this morning, CSM is John Lavoie",
+        "user": "U3EQ075NUYR",
+        "ts": "1644844664.942235",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ae3fc21-aa81-608d-caa2-dd18ce7df91f",
+        "type": "message",
+        "text": "Scioto Academy Co. reporting sync failures since this morning, CSM is Robert Gomez",
+        "user": "UMXMN24FN4K",
+        "ts": "1644845532.339726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "027bdbac-4810-e022-55d8-422f98053069",
+        "type": "message",
+        "text": "Ross Municipal Services Inc. asking for an SLA credit",
+        "user": "UA3MVBJWAHX",
+        "ts": "1644848933.974543",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4202b202-26ed-9bd5-33ce-91bae45ef668",
+        "type": "message",
+        "text": "Union Markets Group reporting sync failures since this morning, CSM is Ngozi Pelletier",
+        "user": "UC95B7VAFX0",
+        "ts": "1644849907.007561",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33321dd0-c58b-4b8f-2086-124139a31f8a",
+        "type": "message",
+        "text": "Willow Hospital Corp. wants an exec call about the outage",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1644856748.544851",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4bb51b02-d430-47a2-10e6-942808ec62c9",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> Can someone check White Facilities Management's invoice? They say they were double billed",
+        "user": "U3YU9TS6QYB",
+        "ts": "1644858582.817502",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3d22fe0-366b-ac3c-544a-1ca42177c0ca",
+        "type": "message",
+        "text": "Lewis Homes Co. wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1644863537.868450",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e1bab094-dd0d-5384-0f82-4de73d0a65e3",
+        "type": "message",
+        "text": "Can someone check Harbortown Resorts Holdings's invoice? They say they were double billed",
+        "user": "U9Y2KF0S90E",
+        "ts": "1644870648.921388",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U9Y2KF0S90E",
+            "ts": "1644862881.392579"
+        }
+    },
+    {
+        "client_msg_id": "f0c1e945-9871-da2a-e574-92769f9532ac",
+        "type": "message",
+        "text": "Penhallow Hospital Co. asking for an SLA credit",
+        "user": "UJRKGMQPU2R",
+        "ts": "1644874579.904543",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "97bea4bc-9acb-f511-af0e-262f01b77597",
+        "type": "message",
+        "text": "Heron Manufacturing reporting sync failures since this morning, CSM is Christina Haddad",
+        "user": "U0E67MPWRXA",
+        "ts": "1644876861.898131",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4216e700-4fbf-9082-2543-f3e7b236a758",
+        "type": "message",
+        "text": "Can someone check Patriot Hotels's invoice? They say they were double billed",
+        "user": "U9Y2KF0S90E",
+        "ts": "1644877039.621736",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8fd47d44-73c6-07b2-a8b3-82da5b4e3806",
+        "type": "message",
+        "text": "Can someone check Bluewater Retail Group Group's invoice? They say they were double billed",
+        "user": "UDCALCM1RUG",
+        "ts": "1644877886.749994",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17048482-a743-0d26-0297-a05c30571662",
+        "type": "message",
+        "text": "Green Medical Center Corp. asking for an SLA credit",
+        "user": "UB8UH2KX2NW",
+        "ts": "1644883714.178000",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "461f67f2-0ed9-cd6e-7e6c-23de93eb9d31",
+        "type": "message",
+        "text": "Hughes Maintenance Co reporting sync failures since this morning, CSM is Lauren Park",
+        "user": "UFULM18ZBQ6",
+        "ts": "1644883780.787472",
+        "team": "T02BRNDLCV"
+    }
+]

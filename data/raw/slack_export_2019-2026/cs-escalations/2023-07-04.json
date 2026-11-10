@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "c066c1b6-6d5c-f27c-54cd-470e73a36b62",
+        "type": "message",
+        "text": "Lopez Municipal Services Inc. wants an exec call about the outage",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1688481464.686053",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U5TERVWF7JH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2e22412-9bbb-fd90-e3b7-711368c3db68",
+        "type": "message",
+        "text": "Bayview Couriers Inc. wants an exec call about the outage",
+        "user": "UDCALCM1RUG",
+        "ts": "1688484807.454972",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8abe0b1e-6e4f-a87d-86fe-665c93d03c85",
+        "type": "message",
+        "text": "Can someone check Crescent Contracting Inc.'s invoice? They say they were double billed",
+        "user": "U773RMBLF5X",
+        "ts": "1688486357.244622",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U773RMBLF5X",
+            "ts": "1688491309.976323"
+        }
+    },
+    {
+        "client_msg_id": "ebc46973-1fe4-7ecf-0d48-bd74d17472d2",
+        "type": "message",
+        "text": "Renewal risk: Fontaine Homes Inc. unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1688487091.566250",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4daa71cc-d4ca-ebed-6524-859fc69d1f18",
+        "type": "message",
+        "text": "Ashford Construction Inc. asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1688488576.312699",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60e4d56b-5dd3-d7e8-287e-6491adb3593a",
+        "type": "message",
+        "text": "Can someone check Twin Fabrication's invoice? They say they were double billed",
+        "user": "UXVNE61TTLN",
+        "ts": "1688488788.220219",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "71685186-cf92-6e4a-db08-55b9794c4ea8",
+        "type": "message",
+        "text": "Allen Outfitters wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1688491927.493369",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fb423256-0447-4196-e0fe-56c3a5de46ea",
+        "type": "message",
+        "text": "Tremblay Academy LLC reporting sync failures since this morning, CSM is Marguerite Carter",
+        "user": "UL20M69UM76",
+        "ts": "1688493938.923624",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a361db1e-c638-1aaa-b30a-7bfa99142749",
+        "type": "message",
+        "text": "Muskingum Transit Authority Holdings wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1688496731.790115",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d516aa3-b166-533f-7c07-5c625bb2e5e1",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Quarry Markets Holdings asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1688502760.010456",
+        "team": "T02BRNDLCV"
+    }
+]

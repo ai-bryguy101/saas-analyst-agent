@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "1b524061-6ef8-98b2-b4b9-c25e1aa321f7",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "UAGQX7APZBG",
+        "ts": "1767963688.244660",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90046346-8e73-a040-484e-c492fd2316ca",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Dashboard refresh failed overnight",
+        "user": "UAHZYQG5URJ",
+        "ts": "1767979856.500420",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "98c9f738-053b-15c3-0876-e3d74075b98c",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UYR8E48FJ62",
+        "ts": "1767985308.501975",
+        "team": "T02BRNDLCV"
+    }
+]

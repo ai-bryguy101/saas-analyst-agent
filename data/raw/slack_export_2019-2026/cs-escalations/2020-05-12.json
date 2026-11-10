@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "00db1f33-e1b2-931b-2ec8-fbe6d789b4f1",
+        "type": "message",
+        "text": "Frontier Health Partners reporting sync failures since this morning, CSM is Brandon Price",
+        "user": "UGPRJ4K947R",
+        "ts": "1589291279.721869",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b831a434-89df-8e14-049d-bd9b021172ab",
+        "type": "message",
+        "text": "Bluewater Unified Schools reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "UFARBQM0LCD",
+        "ts": "1589293492.431600",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22bf721a-6493-137e-28dc-9d449e7f0cd5",
+        "type": "message",
+        "text": "Can someone check Commonwealth Markets Co.'s invoice? They say they were double billed",
+        "user": "UBHB6GTB73U",
+        "ts": "1589298621.087357",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c4817b10-fbb4-d5f2-ae5a-ffaadf0ac1a6",
+        "type": "message",
+        "text": "Renewal risk: Lakes Academy Ltd. unhappy with mobile app",
+        "user": "UBK8V2J099L",
+        "ts": "1589301916.611406",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UBK8V2J099L",
+            "ts": "1589327471.998430"
+        }
+    },
+    {
+        "client_msg_id": "04d8ef26-70dc-dec2-6c3e-25769d5740de",
+        "type": "message",
+        "text": "Harris Works Co. asking for an SLA credit",
+        "user": "URWNWW8QFM6",
+        "ts": "1589308301.451580",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f4c729b-d286-304d-db6e-d2837403f0fe",
+        "type": "message",
+        "text": "Renewal risk: Lefebvre Fabrication unhappy with mobile app",
+        "user": "UAHZYQG5URJ",
+        "ts": "1589323519.891471",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5e418953-6882-5756-4788-ac1601501559",
+        "type": "message",
+        "text": "Huron Maintenance Co Inc. asking for an SLA credit",
+        "user": "UXS2WD4BYRN",
+        "ts": "1589325606.901101",
+        "team": "T02BRNDLCV"
+    }
+]

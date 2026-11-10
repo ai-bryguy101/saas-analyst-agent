@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "4d7f780e-f70d-aa45-1353-7955903a20fb",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UP51TVUPQU5",
+        "ts": "1640389546.103001",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af865740-5477-e28d-2039-a7df1bcff88d",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UQK194B1V43",
+        "ts": "1640391591.171141",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

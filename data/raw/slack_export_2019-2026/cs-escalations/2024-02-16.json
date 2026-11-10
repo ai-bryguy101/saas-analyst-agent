@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "ac5b4ee8-e94e-5fff-9d68-ee671779c1fd",
+        "type": "message",
+        "text": "Willow Hospital Corp. wants an exec call about the outage",
+        "user": "UC95B7VAFX0",
+        "ts": "1708088968.083090",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "28e6d56c-78b0-8fb6-82d2-850a6d886d16",
+        "type": "message",
+        "text": "<@UC95B7VAFX0> Renewal risk: Blackhawk Suites unhappy with mobile app",
+        "user": "UT7K74ALYGQ",
+        "ts": "1708101196.127759",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebb05e47-0851-01bf-e053-7afff1912e26",
+        "type": "message",
+        "text": "Lakeshore Retail Group Co. asking for an SLA credit",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1708127957.377262",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "2521a16e-9a44-ddb9-291b-05741f8c435d",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1613155315.618370",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5bcabda6-5b7a-66f1-fd5a-a0a51f7b784a",
+        "type": "message",
+        "text": "<@UZ5KFZLKVGN> FX rates loaded for Feb 2021",
+        "user": "UJRKGMQPU2R",
+        "ts": "1613163373.109057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "65570411-4081-d45d-3a58-fd966f69cb29",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U9XCAUGPS1F",
+        "ts": "1613171984.839154",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cf6862b2-2326-9a3f-6855-e157573ca522",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "U9SD2024Q7F",
+        "ts": "1613175269.896638",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

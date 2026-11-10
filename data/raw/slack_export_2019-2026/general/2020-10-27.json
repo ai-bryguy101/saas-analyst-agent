@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "3174438e-e2aa-5b50-5570-83a22e2536db",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1603803767.952151",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "58d0bc15-0856-0733-5fea-6f2f04fadbbb",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UR3LDWKU006",
+        "ts": "1603808052.997337",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "624073ce-81b1-0df6-c5f1-2eb4602c841c",
+        "type": "message",
+        "text": "<@U48TCJE75PD> Q4 kickoff deck is in the drive",
+        "user": "UAXWVBRVKW9",
+        "ts": "1603811790.215784",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5de48dcf-3598-a34f-653f-f10179d7b261",
+        "type": "message",
+        "text": "<@UC95B7VAFX0> Who left a lasagna in the 3rd floor fridge",
+        "user": "UR3LDWKU006",
+        "ts": "1603829394.880423",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "951c0959-9489-896a-ae47-77531e5fa553",
+        "type": "message",
+        "text": "Welcome Wei Adams to the Engineering team!",
+        "user": "UFARBQM0LCD",
+        "ts": "1603840144.857568",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "67cfe091-10b6-eb1e-993f-275a596ae99c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1621444914.389915",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#12331 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f192778f-589f-2a1c-4f79-66a3971c114a",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U9Y2KF0S90E",
+        "ts": "1621445143.577486",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66647f05-040c-9c6b-ffd0-05a427c63849",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1621446450.606581",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6165f479-6c5c-7fbd-d428-a0df9d8e674f",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UG4ETD69L1D",
+        "ts": "1621452002.570417",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e2bc1713-564c-4200-252c-096d510b8bdd",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1621461563.151255",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#29127 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b93beb97-f5e4-3394-c01b-cb9b8b4201bc",
+        "type": "message",
+        "text": "deploy v7.9.2 to prod :rocket:",
+        "user": "U7PFYH0YRRG",
+        "ts": "1621466427.312201",
+        "team": "T02BRNDLCV"
+    }
+]

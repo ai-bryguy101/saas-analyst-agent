@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "a0908c96-f473-7f2f-cb77-7ac8e7004b43",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UL8NMQFXPJR",
+        "ts": "1649166461.390734",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bed50a66-551d-2c1f-1d68-09dd16604959",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UMXMN24FN4K",
+        "ts": "1649184136.560476",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMXMN24FN4K",
+            "ts": "1649164790.971959"
+        }
+    },
+    {
+        "client_msg_id": "25b011f5-b4f5-bcac-0a69-510ab77b5981",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U3KL08VJD8C",
+        "ts": "1649188061.943414",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ff6f4c5-73a3-8a08-175d-ec42fc8ed37c",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> GBP invoices migrating next sprint",
+        "user": "UPHFQAHDPSK",
+        "ts": "1649202070.274145",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

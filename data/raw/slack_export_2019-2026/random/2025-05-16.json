@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "5fe56cf8-2a5d-5a20-2aee-8ad0aa1a7451",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UXXA9L8HH83",
+        "ts": "1747418739.768490",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0df0f018-5712-95b7-2a90-6ca8a8f60329",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U22GUF0P303",
+        "ts": "1747434515.750097",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "438b66d1-1917-7fef-2eda-0d2d3f90282e",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UDDBYSY4RFA",
+        "ts": "1747442627.607637",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

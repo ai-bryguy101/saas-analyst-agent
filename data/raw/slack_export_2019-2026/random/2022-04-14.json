@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "22b600c7-4ab1-842b-45d1-5a1223ae5d5a",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UC70JNE74S7",
+        "ts": "1649944767.924892",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6e88935-0de1-8b99-bfa8-61ac450d846d",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U0V9BPHARQX",
+        "ts": "1649947495.149885",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0cbf525d-40b2-fd29-e065-5848ebf825d4",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMYYLUTXG9R",
+        "ts": "1649963447.473541",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

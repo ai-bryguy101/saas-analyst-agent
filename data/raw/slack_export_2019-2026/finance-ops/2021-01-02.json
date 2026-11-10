@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "a1d60008-2d3e-f28e-8371-d64f5bcae6a6",
+        "type": "message",
+        "text": "AR aging is up, Keystone Transit Authority Co. is 90+ days",
+        "user": "UB0YL0LKYC7",
+        "ts": "1609594537.399357",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e3939a77-d061-11dc-950c-3e409b8e94a4",
+        "type": "message",
+        "text": "<@UGPRJ4K947R> Month-end close starts tomorrow",
+        "user": "UBK8V2J099L",
+        "ts": "1609595891.489914",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c3c6f826-4e4d-17e6-c09d-d73370125a3d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UL8NMQFXPJR",
+        "ts": "1609602236.109378",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UL8NMQFXPJR",
+            "ts": "1609608292.355853"
+        }
+    },
+    {
+        "client_msg_id": "aaa460bd-5703-1970-4c59-13e15b0c26d3",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3KL08VJD8C",
+        "ts": "1609619771.618426",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4219a641-b742-2f48-ed8f-e14768de780a",
+        "type": "message",
+        "text": "AR aging is up, Commonwealth Academy LLC is 90+ days",
+        "user": "U9XCAUGPS1F",
+        "ts": "1609621378.235070",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ea84205-3831-ffb3-ceeb-348f09c0e657",
+        "type": "message",
+        "text": "<@UAHZYQG5URJ> FX rates loaded for Jan 2021",
+        "user": "UQXT5A6YMVH",
+        "ts": "1609625875.555481",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a87ae3bb-a81f-5a71-c3be-40181e563502",
+        "type": "message",
+        "text": "AR aging is up, Edwards Health Partners LLC is 90+ days",
+        "user": "UG4ETD69L1D",
+        "ts": "1609627542.847842",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UG4ETD69L1D",
+            "ts": "1609598243.847283"
+        }
+    },
+    {
+        "client_msg_id": "43cf98da-1d08-a647-107a-1fffb0c87d1b",
+        "type": "message",
+        "text": "AR aging is up, Prairie Medical Center is 90+ days",
+        "user": "U2CKCF24AEA",
+        "ts": "1609629509.373761",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2CKCF24AEA",
+            "ts": "1609614780.214716"
+        }
+    },
+    {
+        "client_msg_id": "02519858-c36c-586f-bcfb-45cde2076e1a",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U8SR98620D7",
+        "ts": "1609629729.282247",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1974d8e2-70fc-74d7-14aa-938c8e7534fc",
+        "type": "message",
+        "text": "AR aging is up, Clearwater Facilities Management is 90+ days",
+        "user": "UPGXMWMDQNR",
+        "ts": "1609634138.959570",
+        "team": "T02BRNDLCV"
+    }
+]

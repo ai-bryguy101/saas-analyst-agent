@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "89842e22-2a77-c752-33cd-2279cf24f622",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U3DBR7QKZWE",
+        "ts": "1642084511.746129",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc7951d5-ae99-4b47-23d0-f1756f06dcc0",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "UJKZ2R47YW9",
+        "ts": "1642103651.315538",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "edd2b541-0ced-8f4d-b167-ae0c6848e2fd",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U34NH0P5TMZ",
+        "ts": "1642116592.259315",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f7dadfc5-836f-3d17-3626-f76bfb1613f2",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1642119325.670023",
+        "team": "T02BRNDLCV"
+    }
+]

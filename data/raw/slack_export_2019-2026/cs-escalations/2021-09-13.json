@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "c7b4b20f-0be7-6927-1c5f-a0938c7cf24f",
+        "type": "message",
+        "text": "Renewal risk: Cartwright Stores Group unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1631551682.622203",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6224242c-6cd9-44b4-0e5a-1d99e461f345",
+        "type": "message",
+        "text": "Gatehouse Markets Corp. asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1631562386.167466",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2daff6e4-bd33-54c7-d855-d8dc99760ebe",
+        "type": "message",
+        "text": "Plains Fabrication Holdings wants an exec call about the outage",
+        "user": "UX84HDPARWN",
+        "ts": "1631570243.680412",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "c8feaff3-5328-a277-ccf9-ae6a3e1009fc",
+        "type": "message",
+        "text": "Pinecrest Stores asking for an SLA credit",
+        "user": "U5DYUQUF95P",
+        "ts": "1701962341.341685",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6e6f54d-3ac6-31a6-91da-6fb316e5a81c",
+        "type": "message",
+        "text": "Ostrander Hospital Inc. wants an exec call about the outage",
+        "user": "UZACKQ1VXCH",
+        "ts": "1701969911.789264",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2f09f3fc-e764-d5bd-18dc-82cbda35d271",
+        "type": "message",
+        "text": "<@U0V9BPHARQX> Lopez Mechanical Group asking for an SLA credit",
+        "user": "U48TCJE75PD",
+        "ts": "1701975022.271529",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U48TCJE75PD",
+            "ts": "1701964173.850695"
+        }
+    },
+    {
+        "client_msg_id": "19fe27b6-8070-fded-591b-0684ab4cfe37",
+        "type": "message",
+        "text": "Can someone check Sycamore Builders's invoice? They say they were double billed",
+        "user": "UV9KPNCPQJN",
+        "ts": "1701985108.643342",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "52fe557b-8ffc-a5cb-d82d-b238a80878c1",
+        "type": "message",
+        "text": "Highland Manufacturing asking for an SLA credit",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1734470522.522735",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5b27a45-f604-6e41-d8cc-2efaafb7d68b",
+        "type": "message",
+        "text": "Renewal risk: Brookside Supply Co LLC unhappy with mobile app",
+        "user": "UFQYM82M1LX",
+        "ts": "1734471036.147718",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8af18256-a405-dd32-9199-34027eb6c893",
+        "type": "message",
+        "text": "Oakmere Unified Schools Inc. asking for an SLA credit",
+        "user": "U5X9PNA34DU",
+        "ts": "1734483297.989471",
+        "team": "T02BRNDLCV"
+    }
+]

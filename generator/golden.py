@@ -172,6 +172,7 @@ def write_golden(world, out_root: Path, path: Path):
                       "answer": f"{f['wo_2024_top']['name']} (tenant {f['wo_2024_top']['tenant_id']}, {f['wo_2024_top']['events']} wo_created events in the sample, before de-duplicating repeated deliveries).",
                       "trail": [f"{RAW}/product_events/events_2024-*.jsonl.gz", f"{RAW}/product_events/tenants.csv"],
                       "notes": "Event files include duplicated deliveries; the count above is raw. De-duplicated counts may differ slightly."})
+    facts += sorted(getattr(world, "extra_facts", []), key=lambda x: int(x["id"][2:]))
     doc = {"description": "Answer key for agent evaluation. Every value is computed by generator/golden.py from the same seeded world that produced data/raw.",
            "seed": world.seed, "facts": facts}
     path.parent.mkdir(parents=True, exist_ok=True)

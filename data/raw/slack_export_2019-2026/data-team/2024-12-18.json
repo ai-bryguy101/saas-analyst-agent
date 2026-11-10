@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "18569e40-270c-bfde-a07b-181bea1098bc",
+        "type": "message",
+        "text": "Need churn list for 2023",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1734535328.007399",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UDDBYSY4RFA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "308abaf6-059e-32f3-d3ac-daf932c37cec",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1734535824.957483",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9c95daf5-649f-6871-7104-4044b244e916",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UL8NMQFXPJR",
+        "ts": "1734548376.379389",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b659f92e-f9ea-10eb-5acf-194d28926bfc",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UNKFW783RHY",
+        "ts": "1734561282.724230",
+        "team": "T02BRNDLCV"
+    }
+]

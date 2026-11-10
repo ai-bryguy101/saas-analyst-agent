@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "1c881c32-faa7-64e8-9f27-7768b77f31c6",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Southport University Facilities Ltd. asking for an SLA credit",
+        "user": "UQXT5A6YMVH",
+        "ts": "1623333822.316271",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f695b586-f678-2adb-c4fb-794824aefdbe",
+        "type": "message",
+        "text": "Yarrow Homes Ltd. wants an exec call about the outage",
+        "user": "U3EQ075NUYR",
+        "ts": "1623340774.382606",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3EQ075NUYR",
+            "ts": "1623340392.476541"
+        }
+    }
+]

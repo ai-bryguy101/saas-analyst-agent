@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "49cb6020-ed62-f805-b0a3-9467fc50db77",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "U3DBR7QKZWE",
+        "ts": "1667396518.065653",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U3DBR7QKZWE",
+            "ts": "1667424202.109301"
+        }
+    },
+    {
+        "client_msg_id": "9062fea0-930a-92c8-64a0-1ddfceca6e3e",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1667401016.514888",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UL7VFDJEZ2W",
+            "ts": "1667396112.404279"
+        }
+    },
+    {
+        "client_msg_id": "6a9d8b56-741b-9d5a-cae4-1dccb330f14e",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "U3YU9TS6QYB",
+        "ts": "1667402021.778600",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7910cb3c-7bbb-6eb1-4e10-cb1b7ac0ad66",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1667418729.787449",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5bb35ea-649e-a0a3-2a1f-57847b28c263",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Dashboard refresh failed overnight",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1667421332.653358",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b876c21f-f552-d420-ae8a-6f9d46452eb8",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1667425103.623443",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d4b3c3f-abb3-b467-f78e-78bc9513ff1d",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "UVX5HCR5MMD",
+        "ts": "1667427734.379111",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07740b30-a2da-ac10-b644-0482da2264fc",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UA3MVBJWAHX",
+        "ts": "1667432030.320444",
+        "team": "T02BRNDLCV"
+    }
+]

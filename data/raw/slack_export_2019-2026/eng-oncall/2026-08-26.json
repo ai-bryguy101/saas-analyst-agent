@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "019190f3-cb18-8fdd-3db7-68186b4959a5",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1787758267.863188",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#37440 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "996437e3-60d4-14ab-0d50-e21b83362033",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1787759599.324975",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "447b50f2-a5ea-5bae-9dbd-478f7575a241",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UWU9WG7ECGY",
+        "ts": "1787787622.962822",
+        "team": "T02BRNDLCV"
+    }
+]

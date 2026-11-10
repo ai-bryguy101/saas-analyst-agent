@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "37ce4363-85ec-44e6-45ef-d7f049426d70",
+        "type": "message",
+        "text": "Can someone check Millbrook Facilities Management's invoice? They say they were double billed",
+        "user": "UJQY3Q26RVW",
+        "ts": "1780319869.932696",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d370e413-e235-b30f-2d94-b545e6c73054",
+        "type": "message",
+        "text": "Lakes Mills Ltd. reporting sync failures since this morning, CSM is Ines Delacroix",
+        "user": "UZJU9N8CY2T",
+        "ts": "1780323611.823415",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01d33ed5-0eac-c68c-2f82-ead79ec6b411",
+        "type": "message",
+        "text": "Can someone check Union Restoration LLC's invoice? They say they were double billed",
+        "user": "UFNKJQT8PV1",
+        "ts": "1780323872.060345",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f742fe7f-9cf9-8fc8-f6ec-05f524902cd2",
+        "type": "message",
+        "text": "Can someone check Whitlock Realty Management Corp.'s invoice? They say they were double billed",
+        "user": "UAHZYQG5URJ",
+        "ts": "1780327365.824186",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "72356f00-31e2-bcd3-1e56-0f70a12b1431",
+        "type": "message",
+        "text": "Can someone check Mesa Industries's invoice? They say they were double billed",
+        "user": "UT7K74ALYGQ",
+        "ts": "1780330808.438936",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f788b8a6-51c9-8c99-c9cd-e3c8d3c6800c",
+        "type": "message",
+        "text": "Patel Facilities Management Holdings asking for an SLA credit",
+        "user": "UFNKJQT8PV1",
+        "ts": "1780331391.468515",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "48f78ffb-4d87-8bd1-7bd5-609f2796e1b5",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> Yarrow Resorts Inc. reporting sync failures since this morning, CSM is Olivia Foster",
+        "user": "U5X9PNA34DU",
+        "ts": "1780331862.651221",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c2e465a5-be85-9001-2c47-b45b2e929d16",
+        "type": "message",
+        "text": "Ravenwood Hospitality Group reporting sync failures since this morning, CSM is Noor Cruz",
+        "user": "U34NH0P5TMZ",
+        "ts": "1780334728.160992",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e844c7b0-9377-8e4b-e8b0-7139567d64e2",
+        "type": "message",
+        "text": "Pelletier Contracting Group asking for an SLA credit",
+        "user": "UMXMN24FN4K",
+        "ts": "1780336962.380574",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a576770-6888-ec5a-b8f5-94c3cca45c0f",
+        "type": "message",
+        "text": "Can someone check Cascade Mechanical LLC's invoice? They say they were double billed",
+        "user": "U5HQ6U91D2E",
+        "ts": "1780340889.055838",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3c98099-0bd5-7475-3f6a-ba0a4b256b30",
+        "type": "message",
+        "text": "Foxglove Health System asking for an SLA credit",
+        "user": "UL20M69UM76",
+        "ts": "1780341764.409499",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fddad3b-1604-3a99-6de8-f8ed69ddf9c8",
+        "type": "message",
+        "text": "Torres Realty Management asking for an SLA credit",
+        "user": "UDCALCM1RUG",
+        "ts": "1780352126.085205",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3cc6b786-cd14-f22f-0938-94fa184aa196",
+        "type": "message",
+        "text": "Crescent Unified Schools Corp. reporting sync failures since this morning, CSM is Jennifer Bouchard",
+        "user": "U7V33ZEGRET",
+        "ts": "1780357282.019480",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "231bad5e-d26c-404a-c516-c9c7599004b9",
+        "type": "message",
+        "text": "Byrne Stores Ltd. wants an exec call about the outage",
+        "user": "UXETPKNK8MV",
+        "ts": "1780357604.844447",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f9d057f-9ec7-3a95-f1e9-565b24b60983",
+        "type": "message",
+        "text": "Mesa Builders asking for an SLA credit",
+        "user": "UQTUT2GDN85",
+        "ts": "1780358035.226562",
+        "team": "T02BRNDLCV"
+    }
+]

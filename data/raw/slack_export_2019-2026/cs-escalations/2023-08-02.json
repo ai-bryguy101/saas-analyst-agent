@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "d8a70d33-ab04-ca90-4c7d-87fffc782429",
+        "type": "message",
+        "text": "<@UUFS9CP1A17> Ironwood Properties Group asking for an SLA credit",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1691002719.993883",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U48TCJE75PD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6dea585b-c18e-6d60-554b-058ecc359977",
+        "type": "message",
+        "text": "Quarry Industries Ltd. reporting sync failures since this morning, CSM is Betty Nowak",
+        "user": "UC70JNE74S7",
+        "ts": "1691012798.904175",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30e68c58-d7c4-f4ca-373c-ea5b32820f63",
+        "type": "message",
+        "text": "Kestrel County Facilities Holdings reporting sync failures since this morning, CSM is Genevieve Sanders",
+        "user": "UC70JNE74S7",
+        "ts": "1691022798.889648",
+        "team": "T02BRNDLCV"
+    }
+]

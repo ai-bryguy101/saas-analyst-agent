@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "0a15dc32-7263-13b4-dc8a-229f6a85b006",
+        "type": "message",
+        "text": "Howard Builders reporting sync failures since this morning, CSM is Dennis Boateng",
+        "user": "UC95B7VAFX0",
+        "ts": "1614698179.378099",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf6ec37c-fede-b7ff-6a71-5c8a5caeda9d",
+        "type": "message",
+        "text": "Renewal risk: Gatehouse Facilities Management Co. unhappy with mobile app",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1614712452.977756",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e7c56603-cb42-f2b9-6c29-e186496f94ae",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> Nelson Property Group reporting sync failures since this morning, CSM is Chidi Gutierrez",
+        "user": "URFUZYLCAEC",
+        "ts": "1614715851.926780",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83c66502-efbd-6bce-3dbb-2491bf316ed4",
+        "type": "message",
+        "text": "Thornbury Contracting Inc. wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1614719814.467108",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "acb05f49-a799-64f8-e9ed-373e3fc720ea",
+        "type": "message",
+        "text": "Renewal risk: Wabash Township unhappy with mobile app",
+        "user": "UE49ET7WGNU",
+        "ts": "1614724232.121884",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "333f7922-e40d-b172-8f22-de9bfce798e5",
+        "type": "message",
+        "text": "Renewal risk: Bluewater Retail Group Group unhappy with mobile app",
+        "user": "UV8WG09HYBP",
+        "ts": "1614732257.046761",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UB0YL0LKYC7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

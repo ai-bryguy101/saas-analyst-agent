@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "fafd2da5-4bf3-bd63-67b3-d21ce1be83b8",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1668089982.305355",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a2744ee-73ee-d6cb-db49-8a5bd785fbda",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UT9KGXWKHLB",
+        "ts": "1668098502.132646",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61170666-0160-db89-7980-8ff99d039b9b",
+        "type": "message",
+        "text": "Need churn list for 2021",
+        "user": "U9Y2KF0S90E",
+        "ts": "1668120443.231565",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

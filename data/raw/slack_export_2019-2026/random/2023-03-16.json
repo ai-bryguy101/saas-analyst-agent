@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "1977c70a-4680-b577-2f1f-3c48efee6421",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1678985054.775296",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e6bf0591-60f5-2f28-da40-923fc9313504",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1678990766.201269",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUDLJ7GDXKE",
+            "ts": "1678998340.815964"
+        }
+    },
+    {
+        "client_msg_id": "9d6c78d2-e461-f57f-487e-10cb40ca34d8",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1679012924.259093",
+        "team": "T02BRNDLCV"
+    }
+]

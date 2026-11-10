@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "22fda558-715b-66d8-cab7-30de6e254c0c",
+        "type": "message",
+        "text": "Miami Residential Ltd. wants an exec call about the outage",
+        "user": "UVQRW5SQSEL",
+        "ts": "1703250127.354866",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22a1bd08-a4fa-b2a7-d5b4-c5a4dd46fc69",
+        "type": "message",
+        "text": "Pioneer Builders wants an exec call about the outage",
+        "user": "UYR8E48FJ62",
+        "ts": "1703254034.410307",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19a37e0c-44a6-9bcd-a008-6dcc4fcec1d0",
+        "type": "message",
+        "text": "Can someone check Sierra Retail Group's invoice? They say they were double billed",
+        "user": "UR12Y3AZNKK",
+        "ts": "1703263616.850303",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "47689140-bef8-c13a-d665-32b12e610d2e",
+        "type": "message",
+        "text": "Fontaine Academy LLC wants an exec call about the outage",
+        "user": "UL8NMQFXPJR",
+        "ts": "1703265562.677525",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95d0424b-f22f-e670-1c93-ca9f7b0ef55f",
+        "type": "message",
+        "text": "Elmhurst Unified Schools Group reporting sync failures since this morning, CSM is Peter Bennett",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1703268994.193643",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c0d5b67c-9420-f221-034c-68b930a75384",
+        "type": "message",
+        "text": "<@UR3LDWKU006> Renewal risk: Ridgeline Township Inc. unhappy with mobile app",
+        "user": "U69WX6HRQNH",
+        "ts": "1703283957.853898",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b3546db0-a09e-7786-e390-5be6d539cd86",
+        "type": "message",
+        "text": "Brookside Mills Ltd. wants an exec call about the outage",
+        "user": "UL20M69UM76",
+        "ts": "1703285088.513038",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68d1b50d-668f-cf09-42bd-c900ec86ee46",
+        "type": "message",
+        "text": "Can someone check Silverleaf Property Services's invoice? They say they were double billed",
+        "user": "UZACKQ1VXCH",
+        "ts": "1703289853.606228",
+        "team": "T02BRNDLCV"
+    }
+]

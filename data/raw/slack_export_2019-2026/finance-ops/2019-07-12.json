@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "691eecc5-cde7-febb-ba29-f4ae525d22a8",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2019",
+        "user": "UH9DL28T3MH",
+        "ts": "1562937639.392800",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8416af4d-31ab-818e-9694-7c5569d0f4d4",
+        "type": "message",
+        "text": "Millbrook Warehousing Corp. paid by wire, applying now",
+        "user": "UHV2RFNY0HN",
+        "ts": "1562940349.943236",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82724ebe-59c3-0ec5-5fd3-921893770835",
+        "type": "message",
+        "text": "Marrow Public Works paid by wire, applying now",
+        "user": "UQTUT2GDN85",
+        "ts": "1562944666.313566",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "665f9996-7068-cf55-a313-6c83869163de",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U3YU9TS6QYB",
+        "ts": "1562961224.912360",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da99f203-7a2e-3fa4-47d4-ea96fc16239e",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> MacLeod University Facilities Co. paid by wire, applying now",
+        "user": "UQXT5A6YMVH",
+        "ts": "1562973753.477411",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "950e40d3-fac5-7458-92dc-a7957ec3eab8",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UE4GTX0EXPH",
+        "ts": "1562974283.560250",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49de81dc-8991-86af-d8bb-cea0a68c12df",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1562975740.167402",
+        "team": "T02BRNDLCV"
+    }
+]

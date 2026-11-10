@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "4f4ea619-1505-a9bf-23ea-2cdaffdf1cc0",
+        "type": "message",
+        "text": "<@U22GUF0P303> Welcome Olivia Foster to the Customer Success team!",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1666100504.325929",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23c9a1d0-1460-3db6-cb19-c1c728b3d9e6",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Benefits enrollment closes Friday",
+        "user": "UAXWVBRVKW9",
+        "ts": "1666109012.704837",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U8TVGALMJLQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5d6632b-2cc3-3262-db23-268e24ba71c4",
+        "type": "message",
+        "text": "Welcome Bruce Morris to the Support team!",
+        "user": "UVX5HCR5MMD",
+        "ts": "1666112151.182008",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDCALCM1RUG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bbf8b723-a3d8-23b2-cd4f-0e4bc36bdfe5",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UC70JNE74S7",
+        "ts": "1666116207.116546",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5342f659-3e7a-9c7d-bdd3-02f788649b08",
+        "type": "message",
+        "text": "Welcome Charlotte Park to the Finance team!",
+        "user": "UE49ET7WGNU",
+        "ts": "1666133083.040376",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UT9KGXWKHLB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c24b8bb-7a42-e62c-a64c-c1f7dde0efd7",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UV9KPNCPQJN",
+        "ts": "1666139306.402574",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "f0f687a3-6b7b-97c5-b279-df1db2857af5",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1709644823.055294",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "165d22a2-dd1c-705d-c269-79ad7a670690",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> Month-end close starts tomorrow",
+        "user": "UXVNE61TTLN",
+        "ts": "1709645977.470389",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7f46e9f-cb13-e1da-07f7-a4812d9644fc",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFJUKVTAA1B",
+        "ts": "1709659667.620876",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b724d9d6-9f57-3c9a-3149-4bc35a430636",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U34NH0P5TMZ",
+        "ts": "1709670984.968378",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d1a2f6b-530c-c173-5a19-f12f54193fb2",
+        "type": "message",
+        "text": "Nasser Couriers LLC paid by wire, applying now",
+        "user": "U2CKCF24AEA",
+        "ts": "1709676436.699467",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9838629d-4afa-6d2b-6967-4b762a6f289f",
+        "type": "message",
+        "text": "Johansson Academy Ltd. paid by wire, applying now",
+        "user": "UHV2RFNY0HN",
+        "ts": "1709685346.674690",
+        "team": "T02BRNDLCV"
+    }
+]

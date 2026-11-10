@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "886d7470-4142-b56e-66bd-a07e02dbe37c",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UA3MVBJWAHX",
+        "ts": "1663249189.959405",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3af2b9f2-f40a-eb85-3cbb-83ba5f1db1fa",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2022",
+        "user": "UJKZ2R47YW9",
+        "ts": "1663253887.841437",
+        "team": "T02BRNDLCV"
+    }
+]

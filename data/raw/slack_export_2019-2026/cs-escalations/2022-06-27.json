@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "09424286-b730-3f07-54bc-0e360db1a9f8",
+        "type": "message",
+        "text": "Lindqvist Supply Co wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1656342332.539639",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d6fc135e-5452-bc19-41c0-c23dffaca63b",
+        "type": "message",
+        "text": "Renewal risk: Yarrow Resorts Inc. unhappy with mobile app",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1656350481.330479",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2910d0c-0dbd-74a7-2003-1d6cea1bd0b7",
+        "type": "message",
+        "text": "Beacon County Facilities reporting sync failures since this morning, CSM is Renata Vance",
+        "user": "UWU9WG7ECGY",
+        "ts": "1656361380.170865",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d3139e8f-49ab-bfaa-3645-9430a2e44ebe",
+        "type": "message",
+        "text": "<@UV9KPNCPQJN> Yamamoto Homes Corp. wants an exec call about the outage",
+        "user": "UJQY3Q26RVW",
+        "ts": "1656371703.533652",
+        "team": "T02BRNDLCV"
+    }
+]

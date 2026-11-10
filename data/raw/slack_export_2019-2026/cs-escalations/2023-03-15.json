@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "003d14a4-16b6-0b18-678d-87e7241acc18",
+        "type": "message",
+        "text": "Tillamook Logistics Inc. reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "UT9KGXWKHLB",
+        "ts": "1678892806.650609",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0a719bf-6a9a-d9bf-e2f1-4dbee4bef808",
+        "type": "message",
+        "text": "Can someone check Millbrook Supply Co Group's invoice? They say they were double billed",
+        "user": "URWNWW8QFM6",
+        "ts": "1678894338.686081",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "URWNWW8QFM6",
+            "ts": "1678902983.098727"
+        }
+    },
+    {
+        "client_msg_id": "fa1f5804-1d07-ce4e-3795-18ef383cc215",
+        "type": "message",
+        "text": "Bluewater Township Corp. reporting sync failures since this morning, CSM is Priya Raghunathan",
+        "user": "UJRKGMQPU2R",
+        "ts": "1678894732.155253",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aff2880a-953b-269a-55e7-bbde42af583f",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> Bluewater Supply Co Inc. reporting sync failures since this morning, CSM is David Martin",
+        "user": "UZJU9N8CY2T",
+        "ts": "1678899175.204794",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dd982850-d51a-d773-c0bb-2a278d0917f3",
+        "type": "message",
+        "text": "Renewal risk: Lavoie Residential unhappy with mobile app",
+        "user": "UX84HDPARWN",
+        "ts": "1678899792.891761",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3fead9a0-2ec7-f537-6063-d6e041e5e232",
+        "type": "message",
+        "text": "Hernandez Couriers Co. wants an exec call about the outage",
+        "user": "UZACKQ1VXCH",
+        "ts": "1678908270.655123",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c47e8c9-7ffe-1878-0df8-5127e76886fc",
+        "type": "message",
+        "text": "Yamamoto County Facilities Holdings wants an exec call about the outage",
+        "user": "U3KL08VJD8C",
+        "ts": "1678908443.495941",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac3b8635-7426-3d99-12cf-07b389608cb2",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Can someone check Liberty Fabrication Ltd.'s invoice? They say they were double billed",
+        "user": "U9V01K22TU1",
+        "ts": "1678908936.735125",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a2903d0a-79d7-69d7-1b9d-15d7b54b499a",
+        "type": "message",
+        "text": "Lantern Clinics Inc. reporting sync failures since this morning, CSM is Frank Ortiz",
+        "user": "U48TCJE75PD",
+        "ts": "1678910470.366076",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "33c92c6e-e322-601c-e011-8b9845092d0e",
+        "type": "message",
+        "text": "Can someone check Saginaw Municipal Services's invoice? They say they were double billed",
+        "user": "U3DBR7QKZWE",
+        "ts": "1678911279.505813",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "08d1b0a2-7c0b-5b47-3ff6-52b4af59cc89",
+        "type": "message",
+        "text": "Redstone Property Services Co. asking for an SLA credit",
+        "user": "UJQY3Q26RVW",
+        "ts": "1678913920.301069",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5103f01-3a74-8871-a054-04c09dd43298",
+        "type": "message",
+        "text": "Can someone check Yarrow Unified Schools Holdings's invoice? They say they were double billed",
+        "user": "U48TCJE75PD",
+        "ts": "1678914094.665668",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0fd9c631-6081-23c4-9fea-3e92deb81420",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Chavez Mechanical LLC asking for an SLA credit",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1678918442.004886",
+        "team": "T02BRNDLCV"
+    }
+]

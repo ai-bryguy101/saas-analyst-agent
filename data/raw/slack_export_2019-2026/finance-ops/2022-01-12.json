@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "7f692339-30af-c9f8-7e3e-59152d611e87",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> Abernathy Janitorial LLC paid by wire, applying now",
+        "user": "UE49ET7WGNU",
+        "ts": "1641996377.738710",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c400e1b-4372-7cdf-b135-361352e4722e",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UYR8E48FJ62",
+        "ts": "1642006990.219083",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6be2aacd-42cb-7c88-6ddf-a22198dc9b94",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2022",
+        "user": "U0VB9M5U3TM",
+        "ts": "1642020840.380235",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5169af7b-ec7b-2994-29b0-05c56e9549f1",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URWNWW8QFM6",
+        "ts": "1642022904.316533",
+        "team": "T02BRNDLCV"
+    }
+]

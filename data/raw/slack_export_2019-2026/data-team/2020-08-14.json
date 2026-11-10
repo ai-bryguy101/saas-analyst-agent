@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "0f100168-400f-fd31-d260-4b8bd156b812",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UKMQNTKUR4V",
+        "ts": "1597425790.114670",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6f0a8d0f-2fb6-54d3-e620-9c72b1e032f8",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Events schema changed again (tenant_id vs account_id)",
+        "user": "U8TVGALMJLQ",
+        "ts": "1597429042.012407",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04c756b4-3845-831c-02e5-dad3a7a78913",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U2CKCF24AEA",
+        "ts": "1597435185.900218",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec2d0114-9356-80c6-8332-bdaf8cf937ad",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UXS2WD4BYRN",
+        "ts": "1597441143.688628",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "351f7eb0-1a30-2d2a-6101-9cc2d5bc295e",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UYR8E48FJ62",
+        "ts": "1597441377.970735",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "88b5eef0-894e-449d-8d18-e63924d6aa36",
+        "type": "message",
+        "text": "Need churn list for 2019",
+        "user": "UG4ETD69L1D",
+        "ts": "1597442907.543187",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a279d592-acd9-8aaf-432e-f2e0b7e62e7c",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U3YU9TS6QYB",
+        "ts": "1597446440.371005",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "015f6080-8161-8614-fe6e-09f8ca4fe8a6",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U48TCJE75PD",
+        "ts": "1597453108.784904",
+        "team": "T02BRNDLCV"
+    }
+]

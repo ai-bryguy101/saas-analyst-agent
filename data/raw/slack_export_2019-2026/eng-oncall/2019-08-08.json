@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "014f0e27-cd21-d9bb-f03b-d61968899f62",
+        "type": "message",
+        "text": "deploy v9.7.9 to prod :rocket:",
+        "user": "UXS2WD4BYRN",
+        "ts": "1565270799.080732",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53428225-7466-42ec-d6a6-967865c2c6a9",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1565270875.819239",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#80035 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47a2525f-c7cd-7ac2-f2ec-3efc6898a35c",
+        "type": "message",
+        "text": "<@UV9GDKGY32C> postmortem doc for yesterday is up",
+        "user": "U48TCJE75PD",
+        "ts": "1565274378.048502",
+        "team": "T02BRNDLCV"
+    }
+]

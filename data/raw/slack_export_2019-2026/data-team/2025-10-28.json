@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "ccb19b5c-7a74-6e5a-9fed-51dee9fc51c2",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UDDBYSY4RFA",
+        "ts": "1761662067.049316",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "47ce00ec-cdfa-0848-9013-743c63a7391a",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UZJU9N8CY2T",
+        "ts": "1761669874.484863",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9afb8a81-be43-ccc8-5776-2a5daee343b7",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U3YU9TS6QYB",
+        "ts": "1761670310.004558",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95111b4d-9541-8fd9-2509-42976710c4ad",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UT7K74ALYGQ",
+        "ts": "1761685575.176926",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "908eb856-08fa-7759-8bba-b75db050fb34",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U0E67MPWRXA",
+        "ts": "1761685619.433067",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4efee09e-1df5-a75a-9ca6-c7036a01466f",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U34NH0P5TMZ",
+        "ts": "1761696299.132536",
+        "team": "T02BRNDLCV"
+    }
+]

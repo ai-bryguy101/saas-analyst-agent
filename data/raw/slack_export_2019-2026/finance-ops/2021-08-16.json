@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "c1917906-9375-66e2-2b3e-0ef4273dde8d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1629130663.126734",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5dee4ba-dbc4-2e12-44c1-6e057d2fbfb5",
+        "type": "message",
+        "text": "Gatehouse Markets Corp. paid by wire, applying now",
+        "user": "U48TCJE75PD",
+        "ts": "1629141456.036725",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

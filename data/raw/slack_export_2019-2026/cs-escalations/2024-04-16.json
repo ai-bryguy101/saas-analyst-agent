@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "5e283a21-0068-dbf1-edeb-c53d8e2d0ebc",
+        "type": "message",
+        "text": "Gatehouse Mechanical Ltd. asking for an SLA credit",
+        "user": "UUFS9CP1A17",
+        "ts": "1713287773.585221",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "906599e1-26d0-0d34-0ab3-db0717abcc1f",
+        "type": "message",
+        "text": "Can someone check Fairhaven Realty Management's invoice? They say they were double billed",
+        "user": "U69WX6HRQNH",
+        "ts": "1713289923.284626",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29fa284d-d835-6dda-c7b9-74eabe023c80",
+        "type": "message",
+        "text": "Renewal risk: Lantern Janitorial Co. unhappy with mobile app",
+        "user": "UFULM18ZBQ6",
+        "ts": "1713292749.691393",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b3202e41-960a-0cea-6d4b-4ac0adad7a0c",
+        "type": "message",
+        "text": "Ostrander College Group wants an exec call about the outage",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1713306678.804490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "347017e0-0acd-a5f7-5270-97eda4ac5c29",
+        "type": "message",
+        "text": "Pelletier Municipal Services wants an exec call about the outage",
+        "user": "U9V01K22TU1",
+        "ts": "1713310869.141481",
+        "team": "T02BRNDLCV"
+    }
+]

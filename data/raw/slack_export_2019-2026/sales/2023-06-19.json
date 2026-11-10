@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "65fa45eb-c059-0001-163f-3a728bc9f00a",
+        "type": "message",
+        "text": "Wabash Markets Corp. wants a discount, how far can I go?",
+        "user": "U48TCJE75PD",
+        "ts": "1687181651.447823",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U7PFYH0YRRG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61f18389-ee9c-ba82-9582-ae0d647d5dcc",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UFNKJQT8PV1",
+        "ts": "1687196851.397804",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFNKJQT8PV1",
+            "ts": "1687191667.826630"
+        }
+    },
+    {
+        "client_msg_id": "f9c563c3-162c-3840-9d5a-ab7eaa812e8b",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UE4GTX0EXPH",
+        "ts": "1687207665.828758",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25a1a93c-36d6-f859-ab2b-c009f2d695e0",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> Valley Construction wants a discount, how far can I go?",
+        "user": "U5X9PNA34DU",
+        "ts": "1687220976.155721",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb408449-01fa-1f94-8ca8-37d137edd3b5",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Pipeline review moved to 3pm",
+        "user": "UPGXMWMDQNR",
+        "ts": "1687221204.123809",
+        "team": "T02BRNDLCV"
+    }
+]

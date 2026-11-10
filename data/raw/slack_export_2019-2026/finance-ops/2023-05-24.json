@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "d27eef7c-df22-9322-1b46-175a59d53f80",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL20M69UM76",
+        "ts": "1684935798.410018",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e88e2f0-7bd4-aaa7-c6c3-818bfc4a7369",
+        "type": "message",
+        "text": "Sycamore Freight Corp. paid by wire, applying now",
+        "user": "U09CZFTHQSS",
+        "ts": "1684938640.798024",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e040901e-964a-097d-da92-d61019e065f9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U5TERVWF7JH",
+        "ts": "1684948964.577806",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "449cfcd7-a2e2-d324-4c25-5113cc48e1db",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3YU9TS6QYB",
+        "ts": "1684953091.871494",
+        "team": "T02BRNDLCV"
+    }
+]

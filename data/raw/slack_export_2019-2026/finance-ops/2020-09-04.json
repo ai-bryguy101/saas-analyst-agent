@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "c8c71ab2-3c63-a221-dfe3-7f1453411797",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1599244565.844932",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "54842526-e3f1-cbc5-7377-6d7692db415f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UZACKQ1VXCH",
+        "ts": "1599247459.949514",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a804b8ae-3bbf-f8e4-d11b-d47050a18d9d",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Westbrook Freight Ltd. paid by wire, applying now",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1599266287.574013",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

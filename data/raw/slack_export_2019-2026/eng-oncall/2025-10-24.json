@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "e1a2c59c-b494-56ec-f60a-81958288e452",
+        "type": "message",
+        "text": "rolling back v9.2.2",
+        "user": "U5X9PNA34DU",
+        "ts": "1761311112.720728",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c79315c6-5363-199c-679b-0ad9b3a6ac3b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1761317847.472447",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#93303 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f60f36a-77dc-5795-5be1-8e74f67d9d82",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U3KL08VJD8C",
+        "ts": "1761330017.494341",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fd035187-6968-2d71-c2da-9eb60d0027d1",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UP51TVUPQU5",
+        "ts": "1761331281.840075",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6693652a-77f0-6ebb-f209-608edfa5cf64",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1761338804.447219",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "88949761-6326-9d7c-d6d6-80ea6742ad7e",
+        "type": "message",
+        "text": "deploy v6.33.7 to prod :rocket:",
+        "user": "UT7K74ALYGQ",
+        "ts": "1761350703.622987",
+        "team": "T02BRNDLCV"
+    }
+]

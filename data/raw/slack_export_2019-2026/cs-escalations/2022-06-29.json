@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "11699b20-8948-ff4c-b122-5b3c1a3365eb",
+        "type": "message",
+        "text": "Renewal risk: Morales Restoration Corp. unhappy with mobile app",
+        "user": "U22GUF0P303",
+        "ts": "1656509215.433564",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6ab7af5-949d-664b-35bd-bbdf3ced1462",
+        "type": "message",
+        "text": "Renewal risk: Ashford Construction Inc. unhappy with mobile app",
+        "user": "UUFS9CP1A17",
+        "ts": "1656510834.510110",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e56772af-0d32-6968-1d62-5acbbf5e1a2a",
+        "type": "message",
+        "text": "Prairie Couriers LLC asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1656520389.943748",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "348906a5-0483-6916-3429-7a94904fb7d7",
+        "type": "message",
+        "text": "Redstone Couriers Inc. reporting sync failures since this morning, CSM is Renata Takahashi",
+        "user": "UYFL6320JLT",
+        "ts": "1656532265.401889",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da6ece59-0046-baea-cf3a-89d93b198011",
+        "type": "message",
+        "text": "Renewal risk: Northgate School District Group unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1656541046.396347",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "70b4c319-2bc0-865d-a152-55d4eb61eefa",
+        "type": "message",
+        "text": "Keystone Maintenance Co asking for an SLA credit",
+        "user": "UMDHKXLV8RH",
+        "ts": "1582808840.100590",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2ec69f82-a327-57d6-4b8b-ee5ef9d9c585",
+        "type": "message",
+        "text": "Renewal risk: Pioneer Works unhappy with mobile app",
+        "user": "U9SD2024Q7F",
+        "ts": "1582820679.488622",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "834a10ee-eb9a-c8c9-2ec3-58c81485dccd",
+        "type": "message",
+        "text": "Hall Mills Inc. asking for an SLA credit",
+        "user": "U3YU9TS6QYB",
+        "ts": "1582820931.793718",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78ffc5c8-b6ba-7b44-0c37-79c474131292",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Great Mechanical Co. reporting sync failures since this morning, CSM is Minh Ruiz",
+        "user": "U8SR98620D7",
+        "ts": "1582821195.213136",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c4f41983-08e9-8abf-e411-a43706c15413",
+        "type": "message",
+        "text": "Patriot Warehousing Corp. reporting sync failures since this morning, CSM is Chidi Gutierrez",
+        "user": "UBK8V2J099L",
+        "ts": "1582834041.457148",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d5646b43-359c-6934-519e-1e13763eef67",
+        "type": "message",
+        "text": "<@UZ1V8XFMW0J> Renewal risk: Wright Homes unhappy with mobile app",
+        "user": "UAGQX7APZBG",
+        "ts": "1582835352.693043",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bda7c5fe-bf80-75f5-3951-55f34f80b115",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> Jimenez Transit Authority Ltd. wants an exec call about the outage",
+        "user": "UXXA9L8HH83",
+        "ts": "1582837798.748044",
+        "team": "T02BRNDLCV"
+    }
+]

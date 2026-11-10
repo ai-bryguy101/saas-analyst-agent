@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "222fb7b2-fe7f-8977-39d0-621a2d194ed4",
+        "type": "message",
+        "text": "Tamarack Retail Group asking for an SLA credit",
+        "user": "URWNWW8QFM6",
+        "ts": "1569253615.504919",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93138c62-f50d-3208-833c-c9f22520d778",
+        "type": "message",
+        "text": "Taylor School District Holdings reporting sync failures since this morning, CSM is Joao Cook",
+        "user": "UXETPKNK8MV",
+        "ts": "1569285774.255433",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

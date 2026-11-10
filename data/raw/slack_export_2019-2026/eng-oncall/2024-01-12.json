@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "0f4b7e7b-85c6-0a6d-84cc-7bf602f6943e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1705070102.607387",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#37597 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f456a2f9-7363-6d48-ecae-69c7c372627d",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UMYYLUTXG9R",
+        "ts": "1705081132.892202",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e7456f6c-f713-ab45-d0fc-65d47d947352",
+        "type": "message",
+        "text": "rolling back v5.7.1",
+        "user": "UE4GTX0EXPH",
+        "ts": "1705086764.407795",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UE4GTX0EXPH",
+            "ts": "1705102209.737950"
+        }
+    },
+    {
+        "client_msg_id": "e77a9e75-3ebd-a1c1-1620-3904d0b45323",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1705097482.596012",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#30586 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

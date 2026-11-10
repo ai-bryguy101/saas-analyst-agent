@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "ef189ee9-bc2a-ad22-afd7-0c7919894c6d",
+        "type": "message",
+        "text": "Meadowlark Property Services Holdings asking for an SLA credit",
+        "user": "UFJUKVTAA1B",
+        "ts": "1659023208.519896",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0157044d-6097-80a8-040b-195a9baf73b6",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Highland Contracting reporting sync failures since this morning, CSM is Desmond McCarthy",
+        "user": "UC70JNE74S7",
+        "ts": "1659042358.868544",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "17fc833d-b5c7-76e7-cb41-5f758eff65fa",
+        "type": "message",
+        "text": "Yarrow Maintenance Co reporting sync failures since this morning, CSM is Joe Halvorsen",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1659047958.151865",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e1d75faf-a6a7-9867-d219-d490ba060841",
+        "type": "message",
+        "text": "Park Freight Co. wants an exec call about the outage",
+        "user": "U0VB9M5U3TM",
+        "ts": "1659049899.879340",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4a2f702-67a0-fa40-1455-ff04bb049f31",
+        "type": "message",
+        "text": "Can someone check Ashdown Restoration Co.'s invoice? They say they were double billed",
+        "user": "UFGLBSDS2XV",
+        "ts": "1659049989.591219",
+        "team": "T02BRNDLCV"
+    }
+]

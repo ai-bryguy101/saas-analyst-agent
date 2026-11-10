@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "b94bc8e1-7dc7-a58f-d4f2-82e43853fac7",
+        "type": "message",
+        "text": "Can someone check Byrne Builders's invoice? They say they were double billed",
+        "user": "UXXA9L8HH83",
+        "ts": "1787240810.710512",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bcee897-c9ee-1b61-4146-e76264fa74ec",
+        "type": "message",
+        "text": "Oakmere Janitorial Inc. asking for an SLA credit",
+        "user": "UE4GTX0EXPH",
+        "ts": "1787249913.797531",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "652ace9b-0c40-276d-1323-b94b0bbf91f6",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Chavez Manufacturing Co. asking for an SLA credit",
+        "user": "UWU9WG7ECGY",
+        "ts": "1787270742.858976",
+        "team": "T02BRNDLCV"
+    }
+]

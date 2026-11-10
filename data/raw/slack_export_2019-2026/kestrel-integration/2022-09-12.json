@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "a28121b1-06c1-d7a7-a08e-7fb9a3f4a3fa",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> Kestrel SSO cutover tonight",
+        "user": "UPHFQAHDPSK",
+        "ts": "1662998401.530832",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d0f035f-45ed-36ca-d41c-f1f9dca288bb",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "U3EQ075NUYR",
+        "ts": "1663003028.427726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c4709068-2462-0cfd-6c4c-c036e2b8f334",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Kestrel SSO cutover tonight",
+        "user": "UT7K74ALYGQ",
+        "ts": "1663003975.820857",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e629dd9-29d4-75bd-63f4-c44f3e0536c5",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UFJUKVTAA1B",
+        "ts": "1663005226.885436",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1f71692a-464a-bd3f-08e9-337b5e22325e",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U9XCAUGPS1F",
+        "ts": "1663013332.863535",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "115aa2ec-dac5-a7b4-3cbc-d1e4ab89772b",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> Lantern dashboards look great on the demo tenant",
+        "user": "UXS2WD4BYRN",
+        "ts": "1663023526.608357",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dbaffca5-8a09-1a89-af67-048859cbf725",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UL8NMQFXPJR",
+        "ts": "1663030284.137265",
+        "team": "T02BRNDLCV"
+    }
+]

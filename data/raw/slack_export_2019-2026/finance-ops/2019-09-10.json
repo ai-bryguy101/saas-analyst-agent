@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "36f32df2-0c5f-42cc-f148-781407954a60",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UNCGDMQATC5",
+        "ts": "1568122268.205015",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f79b0019-3cd9-33fe-e7a8-79d5984315db",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9U3DZUVA3L",
+        "ts": "1568124548.546279",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05f401be-29b3-695f-9971-1c7d41daeaa5",
+        "type": "message",
+        "text": "AR aging is up, Lantern Maintenance Co Corp. is 90+ days",
+        "user": "UL20M69UM76",
+        "ts": "1568127512.046586",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "913bb09a-fed8-836c-3980-685bb8c97a1e",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXETPKNK8MV",
+        "ts": "1568140354.407080",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd703bc0-548d-da5d-f2e4-760ea5131ab2",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2019",
+        "user": "UQXT5A6YMVH",
+        "ts": "1568145791.519560",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18c5b018-f8cc-13d1-5190-08db6fd876a3",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2019",
+        "user": "UGPRJ4K947R",
+        "ts": "1568147053.856692",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21824145-0a95-abbe-e5bc-0423ed3665fb",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1568148943.338081",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b54d782-5689-fe57-6224-ddb0d5ca5319",
+        "type": "message",
+        "text": "AR aging is up, Union Markets Group is 90+ days",
+        "user": "U94ETEKNM26",
+        "ts": "1568160416.681846",
+        "team": "T02BRNDLCV"
+    }
+]

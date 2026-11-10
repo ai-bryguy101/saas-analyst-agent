@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "2cd3c674-512b-b024-0bc3-a2312ddcb047",
+        "type": "message",
+        "text": "Welcome Julie Yamamoto to the Sales team!",
+        "user": "UL20M69UM76",
+        "ts": "1626358904.658986",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "50dd2b90-0d32-e2d9-12d7-c2e3f6aa6ce3",
+        "type": "message",
+        "text": "Welcome Callum Ross to the Sales team!",
+        "user": "UJRKGMQPU2R",
+        "ts": "1626373127.638738",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc104d27-2cf7-e526-6955-12a5c2939165",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UMYYLUTXG9R",
+        "ts": "1626375632.989008",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fd6e4684-70d4-9207-6534-acb2ddc71df2",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UAXWVBRVKW9",
+        "ts": "1626383805.825760",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "1ab99b07-ed30-ba34-2e4e-1c9111eecb19",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UT7K74ALYGQ",
+        "ts": "1628180019.726165",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "845280ec-050e-5698-0cd3-92bca2bb12cd",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> Welcome Ashley Walker to the Customer Success team!",
+        "user": "UC95B7VAFX0",
+        "ts": "1628182174.043582",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "26c0d77c-5f50-9822-2577-69a33ed9ace8",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> Reminder: all-hands Thursday at 1pm ET",
+        "user": "UWBW507RCA9",
+        "ts": "1628182600.854643",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWBW507RCA9",
+            "ts": "1628186495.555022"
+        }
+    },
+    {
+        "client_msg_id": "2771deec-0e63-9aa3-4368-5be49b4366bb",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "URFUZYLCAEC",
+        "ts": "1628185052.539391",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9a22623-374c-242f-d23a-adef5e72b3a8",
+        "type": "message",
+        "text": "<@UXS2WD4BYRN> Benefits enrollment closes Friday",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1628207897.179384",
+        "team": "T02BRNDLCV"
+    }
+]

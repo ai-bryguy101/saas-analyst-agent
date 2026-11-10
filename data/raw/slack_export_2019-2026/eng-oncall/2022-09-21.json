@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "cf81d63f-920c-69c7-c6a3-ee9efd3f4601",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U5DYUQUF95P",
+        "ts": "1663767205.414224",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01fde4b6-53c4-4c95-273a-7ebb5eb866f8",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1663768199.506122",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fd725fcf-a00a-0b7a-e756-0f8e75350ef7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1663768267.542950",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#35371 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79f04c65-ce7e-ca6e-8105-dffdead6ceca",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1663768630.692748",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#50751 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e78be3b1-2573-0542-4fdc-40a5ad969e8d",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U2LMMLL4F31",
+        "ts": "1663786860.535286",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51988a0c-2171-999c-77ed-e609bcb7b71a",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1663800415.634762",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f9d8cc1d-eac6-1ff4-a6ef-53ebddf2460f",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UCQT1GS0C0C",
+        "ts": "1663807561.804967",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "78eeaaae-3497-de0a-96f7-9cf50786a3bc",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UHV2RFNY0HN",
+        "ts": "1579269939.882252",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0c5d4e62-c8d0-f3c8-9606-e90ad69b72e9",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2020",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1579271209.350513",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b44b9cf-2954-2613-5071-3c4c00f02158",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UUFS9CP1A17",
+        "ts": "1579275748.905710",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUFS9CP1A17",
+            "ts": "1579297132.591535"
+        }
+    },
+    {
+        "client_msg_id": "1fd4da51-6c55-80ce-a05d-89a40c838114",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UT9KGXWKHLB",
+        "ts": "1579280386.448905",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "621ccda1-1ff5-ede6-4dbc-4cb7e009c756",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2020",
+        "user": "UAGQX7APZBG",
+        "ts": "1579289188.866447",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da9e90b5-ecc3-2ec4-2ac7-2a9d99740f56",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UBHB6GTB73U",
+        "ts": "1579292850.976721",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db9aae69-15f0-c652-2ba6-e3ffd3233be7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXS2WD4BYRN",
+        "ts": "1579300826.234124",
+        "team": "T02BRNDLCV"
+    }
+]

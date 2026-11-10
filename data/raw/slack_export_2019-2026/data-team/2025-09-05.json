@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "ba170675-8295-2823-39c4-ce8ed46abd03",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U9XCAUGPS1F",
+        "ts": "1757086551.833058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "288d1152-f8e0-f761-36f0-7c354ff0b38f",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UJQY3Q26RVW",
+        "ts": "1757094072.883282",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "70a9562e-634a-567c-f7bc-60c5efd98028",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "URFUZYLCAEC",
+        "ts": "1757108755.733655",
+        "team": "T02BRNDLCV"
+    }
+]

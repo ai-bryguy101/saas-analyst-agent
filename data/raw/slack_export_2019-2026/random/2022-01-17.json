@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "7a2a707b-8499-8bff-ada2-9254a179d7bd",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UDCALCM1RUG",
+        "ts": "1642451588.066605",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aa507028-73a2-42b3-f8fc-ff6f3293b04e",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UT9KGXWKHLB",
+        "ts": "1642458043.682543",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0246181-c8e7-b70c-ffe7-afe6e03b900b",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U3EQ075NUYR",
+        "ts": "1642461696.703418",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "435d045a-7b5d-6011-7998-bfd29b1549c9",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UC95B7VAFX0",
+        "ts": "1642464389.850493",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e69b09e1-058b-9efe-b8db-295470cbc060",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UMDHKXLV8RH",
+        "ts": "1642466551.129222",
+        "team": "T02BRNDLCV"
+    }
+]

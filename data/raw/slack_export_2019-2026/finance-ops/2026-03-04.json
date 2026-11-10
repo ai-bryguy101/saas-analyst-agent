@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "a9e6543a-2e15-0221-ff0f-dbe116880d99",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UHV2RFNY0HN",
+        "ts": "1772632102.441656",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e8291952-bf46-e269-43f2-6ecad0331304",
+        "type": "message",
+        "text": "AR aging is up, Ozark Building Services is 90+ days",
+        "user": "U2CKCF24AEA",
+        "ts": "1772637075.943821",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3663c4c0-0d5b-8c9a-44b2-936e2469b10a",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UDDBYSY4RFA",
+        "ts": "1772639767.856287",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18b62f44-55f7-629b-8bb7-db956f5ae005",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFULM18ZBQ6",
+        "ts": "1772641523.887158",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e29f9a0c-706a-856c-927d-c14a66041254",
+        "type": "message",
+        "text": "Yarrow Restoration Holdings paid by wire, applying now",
+        "user": "U3KL08VJD8C",
+        "ts": "1772643878.493486",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a8263ca-0627-4152-0ffc-e0f491a5de82",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1772658515.457120",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UP8JCWGGNJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b33a00eb-6e90-4588-673f-a0711b301e7f",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UT7K74ALYGQ",
+        "ts": "1772671706.217758",
+        "team": "T02BRNDLCV"
+    }
+]

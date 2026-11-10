@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "684b169e-bb37-205d-895f-6e375ab1889b",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UG4ETD69L1D",
+        "ts": "1779974798.724829",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "285c4fb0-3be7-eb9a-7b15-963ab8cfab9f",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UHV2RFNY0HN",
+        "ts": "1779975102.541731",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c1d2252-074d-3741-a43f-fb5347966874",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UFJUKVTAA1B",
+        "ts": "1779976169.728948",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "470935f8-8a55-cac5-0860-38862d773fcd",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UZJU9N8CY2T",
+        "ts": "1779976204.230478",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "017075a2-6da1-7c79-9267-1ce9d26a10fa",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UC95B7VAFX0",
+        "ts": "1779990577.386065",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c26db44-35e7-6678-f53d-79e54e860d67",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UVX5HCR5MMD",
+        "ts": "1780003108.231751",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80240f7b-8eb5-f7b0-92bd-cdb943d3c292",
+        "type": "message",
+        "text": "<@U9SD2024Q7F> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UE4GTX0EXPH",
+        "ts": "1780003886.600095",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f2f3ccab-2c42-2507-4612-83136e4f208d",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Can I get ARR by region for the board?",
+        "user": "UBHB6GTB73U",
+        "ts": "1780005277.577400",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "02e623dc-2b29-5c2f-4bb8-c61e4650b543",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1787577297.787304",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#95316 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecd24585-53d6-8770-1bad-057eae67b84c",
+        "type": "message",
+        "text": "rolling back v6.10.9",
+        "user": "UAXWVBRVKW9",
+        "ts": "1787579923.884049",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5009ae65-7661-a4c3-9c81-b987fa42093e",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1787605563.911951",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f699c9d0-346a-7608-ae97-b09a2515a1e6",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1787614305.334326",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#22826 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5666cb87-684f-6c2e-a025-d42c4cac8f79",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U9V01K22TU1",
+        "ts": "1787615254.309115",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

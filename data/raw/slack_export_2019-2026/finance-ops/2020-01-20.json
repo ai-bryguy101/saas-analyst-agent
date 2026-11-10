@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0c928cbd-e3a5-7f9e-8dad-8ac2c1854488",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2020",
+        "user": "UV9GDKGY32C",
+        "ts": "1579526998.518783",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a94ba54f-ba48-aaba-3814-58951ca3c0c3",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U94ETEKNM26",
+        "ts": "1579528085.389154",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22ac9c91-cc98-0461-4a81-213b358fcf8c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U9SD2024Q7F",
+        "ts": "1579535902.626351",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

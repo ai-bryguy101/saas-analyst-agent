@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "7f11c855-61d2-17ca-db19-c6d687f4941d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5X9PNA34DU",
+        "ts": "1776781768.800744",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UX84HDPARWN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abbbbebd-c5f5-4a29-d1ed-d25cc14964d2",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> deploy v5.40.6 to prod :rocket:",
+        "user": "UT7K74ALYGQ",
+        "ts": "1776787140.147767",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b2a4121-9a2e-7ac9-9d4e-c1e0ca6f662e",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U773RMBLF5X",
+        "ts": "1776787290.467741",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bdfbf3f0-8ce9-41e1-19ed-55181ce1ea58",
+        "type": "message",
+        "text": "deploy v6.23.1 to prod :rocket:",
+        "user": "UJRKGMQPU2R",
+        "ts": "1776795220.906047",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eab3ded8-5978-d4b9-5e58-f73742c6e675",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1776807669.136803",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#24346 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e5f14b5-1463-11fd-becc-26a1d85f156c",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UL20M69UM76",
+        "ts": "1776811532.677995",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb053262-9b4a-17f8-877b-15110ab62665",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1776813048.167268",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#47443 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e7ef961-f33e-d26c-fad8-41cad1c5d0cd",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> who owns the cron for nightly exports?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1776814249.197575",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "42ed2e14-2f8d-c09a-4777-2c8dbe0042c6",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1776818803.390542",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#16466 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa5e623c-d9cd-0e48-6cbf-a3320f16ddad",
+        "type": "message",
+        "text": "rolling back v5.11.1",
+        "user": "U3EQ075NUYR",
+        "ts": "1776818842.002886",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "f0606086-ef3a-8836-77a1-ddf53291c4ba",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U5HQ6U91D2E",
+        "ts": "1636736750.741004",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3506da2e-5b30-97e7-64b0-4d69a0113610",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UBHB6GTB73U",
+        "ts": "1636736886.243159",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "045b11e6-9c30-6034-63b2-410d6c5ae2cf",
+        "type": "message",
+        "text": "deploy v7.26.9 to prod :rocket:",
+        "user": "UJRKGMQPU2R",
+        "ts": "1636751656.235316",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJRKGMQPU2R",
+            "ts": "1636752187.434384"
+        }
+    },
+    {
+        "client_msg_id": "8437d43c-8c27-4a0e-baee-4ecf30dc51cc",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UG4ETD69L1D",
+        "ts": "1636762427.214005",
+        "team": "T02BRNDLCV"
+    }
+]

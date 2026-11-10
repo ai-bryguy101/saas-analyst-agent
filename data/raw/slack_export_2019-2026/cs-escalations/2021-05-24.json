@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "ab8ec13a-a0fb-1e0b-1f56-114288fc1e21",
+        "type": "message",
+        "text": "Renewal risk: Erie Logistics Co. unhappy with mobile app",
+        "user": "UNCGDMQATC5",
+        "ts": "1621861831.578170",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a95ae763-f941-c575-9e4f-042c86435c28",
+        "type": "message",
+        "text": "Juniper Stores Inc. wants an exec call about the outage",
+        "user": "UKMQNTKUR4V",
+        "ts": "1621874397.030646",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

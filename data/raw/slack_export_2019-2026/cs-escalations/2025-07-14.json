@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "c98bd462-4efa-23c5-86a5-546085150b25",
+        "type": "message",
+        "text": "Edwards Property Group Co. asking for an SLA credit",
+        "user": "UNFVCYNZT6K",
+        "ts": "1752503467.844152",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "20b4791b-395d-0e9e-ca97-3c5eac370947",
+        "type": "message",
+        "text": "Renewal risk: Ashford Hotels LLC unhappy with mobile app",
+        "user": "UL20M69UM76",
+        "ts": "1752503940.215876",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8076da31-4db7-b31f-2119-ee402aa3a186",
+        "type": "message",
+        "text": "Renewal risk: Lakeshore Property Group Co. unhappy with mobile app",
+        "user": "UAHZYQG5URJ",
+        "ts": "1752503969.178872",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0cc9747-5dad-1bd0-cb1c-a21e9e28386f",
+        "type": "message",
+        "text": "Esposito Facilities Management Holdings wants an exec call about the outage",
+        "user": "UC95B7VAFX0",
+        "ts": "1752532284.371537",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c941e7e-d252-2e81-efac-8d852669fc67",
+        "type": "message",
+        "text": "Ridgeline Hospital Holdings wants an exec call about the outage",
+        "user": "UA3MVBJWAHX",
+        "ts": "1752533479.992780",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2e8d8a2b-f963-0dbc-1405-66fdee6c9234",
+        "type": "message",
+        "text": "Heron Supply Co asking for an SLA credit",
+        "user": "U5DYUQUF95P",
+        "ts": "1752536664.255707",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UFWAQ6E76D6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

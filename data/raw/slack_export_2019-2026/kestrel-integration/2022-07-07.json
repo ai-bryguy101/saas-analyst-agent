@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "68e7dbe6-d661-7a3e-8ff3-5de9a015ea5a",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1657201114.336435",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "836e5ca9-41f6-e201-00e2-16653bdaa45f",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U8SR98620D7",
+        "ts": "1657210406.614574",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebad405a-2d6c-9265-6f2e-0b80dc1827c8",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "U2CKCF24AEA",
+        "ts": "1657212416.873939",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38f8a76a-7e2f-536a-fc66-0b425065101d",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UYFL6320JLT",
+        "ts": "1657215980.200617",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74efc1ea-f0f3-4fa8-87dc-12ae2dc9bf7c",
+        "type": "message",
+        "text": "<@UWLZTMJ6YM7> Xero export is the source of truth until April",
+        "user": "UXETPKNK8MV",
+        "ts": "1657225538.608248",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09e5ceaf-de71-6eb2-e631-eb1265d0378e",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Xero export is the source of truth until April",
+        "user": "UAGQX7APZBG",
+        "ts": "1657239276.117513",
+        "team": "T02BRNDLCV"
+    }
+]

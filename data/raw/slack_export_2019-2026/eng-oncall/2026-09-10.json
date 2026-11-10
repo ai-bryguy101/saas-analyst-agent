@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "ecbd83fc-8bdc-f5ec-2aed-580694abdb93",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UUFS9CP1A17",
+        "ts": "1789056552.624459",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0979294c-0065-bdb3-576a-09e6ef78d308",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1789060839.815739",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9edfd5d3-5acd-3a2b-d650-5c4e43fbddfc",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UR12Y3AZNKK",
+        "ts": "1789083639.842627",
+        "team": "T02BRNDLCV"
+    }
+]

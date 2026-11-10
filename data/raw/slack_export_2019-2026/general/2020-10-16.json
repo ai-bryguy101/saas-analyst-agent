@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "225ad078-643c-a155-6bfc-ea0776485d89",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Who left a lasagna in the 3rd floor fridge",
+        "user": "UL20M69UM76",
+        "ts": "1602853820.256511",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dc603e5f-c406-63a3-6a88-8a264b50e928",
+        "type": "message",
+        "text": "<@U9U3DZUVA3L> Who left a lasagna in the 3rd floor fridge",
+        "user": "UA3MVBJWAHX",
+        "ts": "1602863465.607553",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5df1edc-7859-83f6-a9f3-3681090b7908",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UAGQX7APZBG",
+        "ts": "1602866019.139273",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d43e1a0b-97a8-8bd1-080c-eda8bbc05fcd",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UCQT1GS0C0C",
+        "ts": "1602867641.500483",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UCQT1GS0C0C",
+            "ts": "1602857895.279525"
+        }
+    },
+    {
+        "client_msg_id": "1b79a453-c4b8-2d61-309c-02016fc1c1c1",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U3EQ075NUYR",
+        "ts": "1602868880.581458",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1d331481-41bb-9a20-71a4-750fd9dc474d",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UNCGDMQATC5",
+        "ts": "1602870995.457698",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6876f15-8373-2aca-48e6-8b2cddb7d22f",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UNCGDMQATC5",
+        "ts": "1602876141.883277",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d6911d9-2673-7a51-a4c0-a201f7ff670d",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1602887463.463895",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0961ea39-0c07-7c51-71f3-267a5048e226",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Office wifi is back up",
+        "user": "U3EQ075NUYR",
+        "ts": "1602891346.291766",
+        "team": "T02BRNDLCV"
+    }
+]

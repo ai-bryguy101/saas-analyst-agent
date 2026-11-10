@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "2a863108-af73-05dc-8f8e-ab8ef23fc6d6",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "UB8UH2KX2NW",
+        "ts": "1733862349.381987",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1733837581.098858"
+        }
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "ec1b61af-5690-1471-69f9-42118c872304",
+        "type": "message",
+        "text": "Can someone check Maplewood Hospitality Group LLC's invoice? They say they were double billed",
+        "user": "U7PFYH0YRRG",
+        "ts": "1663161994.930009",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e2b563d1-5c6b-1e9f-3afc-745552f7547b",
+        "type": "message",
+        "text": "Can someone check Tamarack Resorts's invoice? They say they were double billed",
+        "user": "URFUZYLCAEC",
+        "ts": "1663162027.258344",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c90a17a-6d36-7421-9dd3-8e1c3422fc25",
+        "type": "message",
+        "text": "Sandpiper Builders Corp. reporting sync failures since this morning, CSM is Marguerite Carter",
+        "user": "U3DBR7QKZWE",
+        "ts": "1663164154.542009",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6f932435-75fc-c2e0-76ae-1a87a63afee6",
+        "type": "message",
+        "text": "Sanders Realty Management Ltd. reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "UV8WG09HYBP",
+        "ts": "1663167590.002845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eba1f907-1d72-f991-50ed-c668cb488d6f",
+        "type": "message",
+        "text": "Quarry Inns Group wants an exec call about the outage",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1663168386.929293",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6d67747-d1fd-fca2-647d-e401a873ce6a",
+        "type": "message",
+        "text": "Can someone check Union College's invoice? They say they were double billed",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1663171871.585084",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c4b1fc7-eec5-8bcb-629d-9f0135df9002",
+        "type": "message",
+        "text": "Ravenwood Stores reporting sync failures since this morning, CSM is Isabella Thompson",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1663176856.588347",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc6bcd2f-a01a-4009-8eaa-557e0e1c4b7d",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Blackhawk Suites asking for an SLA credit",
+        "user": "U34NH0P5TMZ",
+        "ts": "1663189024.953912",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U34NH0P5TMZ",
+            "ts": "1663167352.315404"
+        }
+    },
+    {
+        "client_msg_id": "c8cdae3f-10d2-c5b4-95e0-b67584e213da",
+        "type": "message",
+        "text": "Granite Industries Holdings reporting sync failures since this morning, CSM is Justin Perez",
+        "user": "UQK194B1V43",
+        "ts": "1663192425.924393",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "6da3f297-f5f5-8e02-05bc-df8ffac53429",
+        "type": "message",
+        "text": "Cedar Couriers reporting sync failures since this morning, CSM is Julie Yamamoto",
+        "user": "UG4ETD69L1D",
+        "ts": "1767891456.034050",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7a75acf-b5af-aafb-b616-7072d5f51436",
+        "type": "message",
+        "text": "Can someone check Richardson Suites Holdings's invoice? They say they were double billed",
+        "user": "UQTUT2GDN85",
+        "ts": "1767902526.854914",
+        "team": "T02BRNDLCV"
+    }
+]

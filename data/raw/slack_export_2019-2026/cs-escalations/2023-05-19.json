@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "395401d0-5fa0-c201-74bf-531264801a73",
+        "type": "message",
+        "text": "Renewal risk: Bayview Logistics LLC unhappy with mobile app",
+        "user": "UXXA9L8HH83",
+        "ts": "1684502295.050580",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c88bd6b3-7464-577a-c281-7e9866b1d41d",
+        "type": "message",
+        "text": "Can someone check Ironwood Freight Inc.'s invoice? They say they were double billed",
+        "user": "U7PFYH0YRRG",
+        "ts": "1684509447.670048",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U7PFYH0YRRG",
+            "ts": "1684533950.289599"
+        }
+    },
+    {
+        "client_msg_id": "7ec44165-e829-5c3b-3665-0d3903c9a777",
+        "type": "message",
+        "text": "Can someone check Larkspur Municipal Services Holdings's invoice? They say they were double billed",
+        "user": "UV8WG09HYBP",
+        "ts": "1684528375.878953",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f34135e0-4a9d-1625-4b9d-a88d53908fa4",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Bennett Transit Authority Inc. reporting sync failures since this morning, CSM is Lauren Park",
+        "user": "U8SR98620D7",
+        "ts": "1684534802.873909",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b152776f-514a-0861-81db-0327368ef6c2",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> Rogers Construction Co. asking for an SLA credit",
+        "user": "UV8WG09HYBP",
+        "ts": "1684536569.222026",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16b97bd3-1377-5767-7b8f-88330e07b23c",
+        "type": "message",
+        "text": "Maplewood Facilities Management Co. asking for an SLA credit",
+        "user": "UZACKQ1VXCH",
+        "ts": "1684537610.962309",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "52d73b9c-67ca-abaa-05d7-ad15340b0818",
+        "type": "message",
+        "text": "<@UWUGRQ83YYM> Renewal risk: Pioneer County Facilities Holdings unhappy with mobile app",
+        "user": "U5HQ6U91D2E",
+        "ts": "1684540938.779276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f509c7b4-1990-d0a7-2489-5970fa9abcad",
+        "type": "message",
+        "text": "Hernandez Health Partners reporting sync failures since this morning, CSM is Frances Robinson",
+        "user": "UWUGRQ83YYM",
+        "ts": "1684541310.800496",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bebf77cc-32d7-80ef-1f91-b268f3a4548e",
+        "type": "message",
+        "text": "Marrow Distribution Co. asking for an SLA credit",
+        "user": "UE49ET7WGNU",
+        "ts": "1684543536.864384",
+        "team": "T02BRNDLCV"
+    }
+]

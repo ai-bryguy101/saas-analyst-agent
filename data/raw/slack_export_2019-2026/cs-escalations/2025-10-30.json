@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "1876b607-df65-d1ad-30b1-52417268ebb0",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Can someone check Ward Construction Corp.'s invoice? They say they were double billed",
+        "user": "UC95B7VAFX0",
+        "ts": "1761834995.111312",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86de1a5a-f8d8-d06f-f388-b9c6ae016291",
+        "type": "message",
+        "text": "Brown Inns asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1761841210.265313",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ead5907-658d-761c-e33a-bd76412c765c",
+        "type": "message",
+        "text": "Patriot Academy wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1761859940.392223",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d046ab0-82b7-5dc0-7fad-0d596ae0cef1",
+        "type": "message",
+        "text": "<@UNKFW783RHY> Brookside Health Partners asking for an SLA credit",
+        "user": "UAXWVBRVKW9",
+        "ts": "1761866758.366206",
+        "team": "T02BRNDLCV"
+    }
+]

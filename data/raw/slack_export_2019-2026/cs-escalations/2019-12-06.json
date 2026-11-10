@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "f1768612-cdbd-2f8d-de5e-7cc66704209a",
+        "type": "message",
+        "text": "Osprey Logistics wants an exec call about the outage",
+        "user": "UZJU9N8CY2T",
+        "ts": "1575647324.614208",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "17d50225-a219-e597-d199-9400a68fce48",
+        "type": "message",
+        "text": "Elmhurst Public Works Group wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1575651586.327825",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80d607fa-2bf6-ff71-219c-ad18d967a13b",
+        "type": "message",
+        "text": "Renewal risk: Great Fabrication Ltd. unhappy with mobile app",
+        "user": "U3KL08VJD8C",
+        "ts": "1575655212.176726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae1815f9-e0ad-cacd-cd18-c1b51b35518d",
+        "type": "message",
+        "text": "Pelletier Resorts asking for an SLA credit",
+        "user": "UA3MVBJWAHX",
+        "ts": "1575658488.813337",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c3d4af81-937e-0125-2c6b-b75010e04bd3",
+        "type": "message",
+        "text": "Renewal risk: Ozark Transit Authority Group unhappy with mobile app",
+        "user": "UNCGDMQATC5",
+        "ts": "1575661496.390935",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "client_msg_id": "08a33d7f-fe45-29f2-f64a-f2e8b8ac10f2",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Dashboard refresh failed overnight",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1753301733.307937",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36240d9a-7ad4-26ef-b2fe-58543e495ee2",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UNKFW783RHY",
+        "ts": "1753312427.283212",
+        "team": "T02BRNDLCV"
+    }
+]

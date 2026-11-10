@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "34d6f8ab-04d2-f8a3-f61b-158c78ec65c0",
+        "type": "message",
+        "text": "Cook Property Group Inc. asking for an SLA credit",
+        "user": "U9XCAUGPS1F",
+        "ts": "1675446488.611058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dfe50e62-4e94-a255-c501-6cec404d43ae",
+        "type": "message",
+        "text": "Can someone check Hawthorne Residential Inc.'s invoice? They say they were double billed",
+        "user": "UVQRW5SQSEL",
+        "ts": "1675459415.767687",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd704899-f0f5-6508-0e72-2e59693fe683",
+        "type": "message",
+        "text": "Lakes Suites Inc. wants an exec call about the outage",
+        "user": "UXVNE61TTLN",
+        "ts": "1675464980.732826",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "feeec270-dca1-d221-ae26-306b8273b703",
+        "type": "message",
+        "text": "Can someone check Stonebridge Realty Management Corp.'s invoice? They say they were double billed",
+        "user": "U3DBR7QKZWE",
+        "ts": "1675469201.764873",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

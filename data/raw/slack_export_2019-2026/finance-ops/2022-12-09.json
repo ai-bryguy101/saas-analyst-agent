@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "1f309d22-af86-9a10-8c70-3348fb92f5f8",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U5X9PNA34DU",
+        "ts": "1670591023.831133",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6f8d03e0-bc9a-cdca-f690-f5aae6eb1db7",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2022",
+        "user": "UPHFQAHDPSK",
+        "ts": "1670615725.885997",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b12c8f2-7d84-db8a-5727-dce2c360b7b5",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UT9KGXWKHLB",
+        "ts": "1670628016.163245",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "590267e3-a91d-a21d-0674-08b501839943",
+        "type": "message",
+        "text": "AR aging is up, Riverbend Health Partners Group is 90+ days",
+        "user": "U3EQ075NUYR",
+        "ts": "1670629126.164747",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "744f9131-f34b-b768-a576-91c2e19573f5",
+        "type": "message",
+        "text": "Pinecrest University Facilities LLC paid by wire, applying now",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1670631670.778127",
+        "team": "T02BRNDLCV"
+    }
+]

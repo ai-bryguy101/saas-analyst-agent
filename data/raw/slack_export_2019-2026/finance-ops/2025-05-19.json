@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "0c386c26-d361-b754-0cb1-041534849747",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXXA9L8HH83",
+        "ts": "1747667599.646662",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1d4d9c55-05b3-e5ca-c749-0fd068567f95",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1747679560.858429",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "61c191c1-839a-7bdc-a2dd-2b4cad2f7f56",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U8SR98620D7",
+        "ts": "1747696695.789597",
+        "team": "T02BRNDLCV"
+    }
+]

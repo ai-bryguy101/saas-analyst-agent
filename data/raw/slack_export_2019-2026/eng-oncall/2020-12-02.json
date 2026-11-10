@@ -1,0 +1,139 @@
+[
+    {
+        "client_msg_id": "70cfc79e-ca97-403e-8511-a9234ad6fe5e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1606916539.595386",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#26072 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "854130fc-e2a2-7c4b-43db-5ec677999628",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UPGXMWMDQNR",
+        "ts": "1606917055.870757",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UBK8V2J099L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fa4602e-7d11-64de-6e91-15aab4a77707",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UXXA9L8HH83",
+        "ts": "1606920780.261853",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f566e2f0-2425-c48b-ff60-64abfb9b0322",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1606929609.690997",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#92918 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7158134-e87d-ab0e-f671-15fbf184e516",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1606930058.332812",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#26702 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41c334d8-84bb-08ec-af08-cdc5b2318ee8",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UWU9WG7ECGY",
+        "ts": "1606932185.377615",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8a0983de-892b-0b8a-ec37-b0462dd2555b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1606932363.505532",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#39298 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b697b24-207d-9f7d-3095-12fac2c86e76",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> cert renewal for *.brindlecove.example done",
+        "user": "UJRKGMQPU2R",
+        "ts": "1606940542.832618",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "20844355-07b6-6b9e-31f2-656a9ff0b9c2",
+        "type": "message",
+        "text": "rolling back v9.24.5",
+        "user": "UZJU9N8CY2T",
+        "ts": "1606944820.162273",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c7b49680-6399-97c1-0fdd-9c94cc49f692",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U9V01K22TU1",
+        "ts": "1606949229.092417",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c576dff3-f301-9029-b481-d1c90f447abb",
+        "type": "message",
+        "text": "deploy v7.19.9 to prod :rocket:",
+        "user": "U5X9PNA34DU",
+        "ts": "1606950318.762335",
+        "team": "T02BRNDLCV"
+    }
+]

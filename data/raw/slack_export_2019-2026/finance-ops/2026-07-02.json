@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "02259076-f47d-63fe-083f-f7660dc8db49",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2026",
+        "user": "UE4GTX0EXPH",
+        "ts": "1783000675.977779",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a00d5111-1861-a438-a344-f59d3732ab83",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2026",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1783012338.534478",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4259aa9c-71c6-db69-58be-f20208e1b6ca",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UFNKJQT8PV1",
+        "ts": "1783037284.276148",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFNKJQT8PV1",
+            "ts": "1783003656.180461"
+        }
+    },
+    {
+        "client_msg_id": "bab9b73e-09a4-5c33-b01c-7e17d813667e",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U2CKCF24AEA",
+        "ts": "1783039831.891861",
+        "team": "T02BRNDLCV"
+    }
+]

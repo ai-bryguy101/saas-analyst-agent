@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "dee2e810-de78-f646-d55f-a99d80530d16",
+        "type": "message",
+        "text": "<@UWLZTMJ6YM7> Who left a lasagna in the 3rd floor fridge",
+        "user": "UYR8E48FJ62",
+        "ts": "1753193845.354020",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "377a4b7a-4a59-9a01-1362-d1f4b5e16d15",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UFWAQ6E76D6",
+        "ts": "1753206284.845650",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFWAQ6E76D6",
+            "ts": "1753225514.525376"
+        }
+    },
+    {
+        "client_msg_id": "2330cab8-238e-a339-b21b-10a9636be359",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UHV2RFNY0HN",
+        "ts": "1753208146.212604",
+        "team": "T02BRNDLCV"
+    }
+]

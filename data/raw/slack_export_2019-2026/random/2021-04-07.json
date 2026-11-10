@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "b7cf9f0b-2871-6760-8e9c-576c4d62f64a",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UP51TVUPQU5",
+        "ts": "1617806572.554745",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3527de8b-a2ff-d1c6-4457-fa02c8f8db65",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "U9SD2024Q7F",
+        "ts": "1617823781.006552",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

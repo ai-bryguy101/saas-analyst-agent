@@ -1,0 +1,28 @@
+[
+    {
+        "client_msg_id": "43f1bdd4-ee02-c914-1516-3022657a4bc1",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1654868870.016670",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "7fed1d7c-49a9-35f5-2598-97c311f775b9",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UYR8E48FJ62",
+        "ts": "1654883618.713568",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "client_msg_id": "ea84fd54-edee-79c5-981c-8b1319e8bf96",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UUFS9CP1A17",
+        "ts": "1615815277.049759",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b788dd7a-934c-7989-245f-25c0f9e53e4a",
+        "type": "message",
+        "text": "<@U773RMBLF5X> postmortem doc for yesterday is up",
+        "user": "UWU9WG7ECGY",
+        "ts": "1615827284.004756",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56eb10ed-e515-866a-927f-8baf30efba37",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615829726.968501",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#64507 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee204f24-a998-d021-459d-51f044c06f9c",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1615829851.469317",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60412aca-2efd-d6aa-b54f-b668ca90e252",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615833586.952598",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#56298 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bc1553f-cbfd-de02-7a97-37e6951e6746",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615837480.404582",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#42335 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "169b487c-3fc3-0624-a77b-5af2b69f90cb",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615838232.156233",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#57135 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a33b23a-8b8c-bc2a-b998-606c3706627e",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615839876.182816",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#30659 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5816b9e0-e49b-6bb7-7a1c-ae61c1c3fb45",
+        "type": "message",
+        "text": "rolling back v9.2.6",
+        "user": "UT9KGXWKHLB",
+        "ts": "1615842382.653422",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0bca513a-7c5d-0ae4-8517-82e649072230",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1615847033.531559",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#50680 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3791c884-81ef-6a58-b7df-2cd9755aaf0a",
+        "type": "message",
+        "text": "rolling back v5.4.1",
+        "user": "UC95B7VAFX0",
+        "ts": "1615853801.032728",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff144fae-d9cc-d918-d250-466758d77b3c",
+        "type": "message",
+        "text": "deploy v8.39.5 to prod :rocket:",
+        "user": "U2CKCF24AEA",
+        "ts": "1615855408.417350",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "800049a3-2161-4c41-ad69-89d9881e746f",
+        "type": "message",
+        "text": "Blackwood Stores Inc. wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1741786114.779845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36febb5a-b092-603d-5c17-848916aced1c",
+        "type": "message",
+        "text": "<@UQK194B1V43> Renewal risk: Juniper Property Group Corp. unhappy with mobile app",
+        "user": "U5DYUQUF95P",
+        "ts": "1741809551.747939",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "041c9372-16bc-3d3d-115c-85baae51973b",
+        "type": "message",
+        "text": "Renewal risk: Elmhurst Contracting LLC unhappy with mobile app",
+        "user": "URWNWW8QFM6",
+        "ts": "1741814014.733678",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82056673-20a9-9a1e-e4c3-247b8aeda4fb",
+        "type": "message",
+        "text": "Taylor Township wants an exec call about the outage",
+        "user": "UXXA9L8HH83",
+        "ts": "1741818422.638241",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcd047d8-aea2-bcfb-1938-786d14e096c3",
+        "type": "message",
+        "text": "Brookside Logistics Co. reporting sync failures since this morning, CSM is Omar Kim",
+        "user": "U9XCAUGPS1F",
+        "ts": "1741819351.574062",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

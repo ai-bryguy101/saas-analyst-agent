@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "09f71d89-da50-4160-5795-1ad2c5490eb1",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1592586761.350166",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDMJ2V8P3C5",
+            "ts": "1592606218.480538"
+        }
+    },
+    {
+        "client_msg_id": "3694c0e3-c92e-572c-fec7-cbab0c98b85c",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UA3MVBJWAHX",
+        "ts": "1592589140.756419",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0ebc5a0-45b4-7e2e-0f86-6ec0ff1c6569",
+        "type": "message",
+        "text": "Welcome Joao Cook to the Customer Success team!",
+        "user": "U5X9PNA34DU",
+        "ts": "1592591666.945908",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6915442c-de56-5ad5-88d6-88e24f00179b",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UAXWVBRVKW9",
+        "ts": "1592593680.472746",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4af5956b-8642-96d9-6d3f-30a07ccfdad9",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UWU9WG7ECGY",
+        "ts": "1592595820.522661",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40bfd869-3098-22df-9065-bb5c1f532233",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UE49ET7WGNU",
+        "ts": "1592601043.287090",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1d12fa59-45dc-5bfe-0b3e-57042bc4c6fc",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U2CKCF24AEA",
+        "ts": "1592613541.996452",
+        "team": "T02BRNDLCV"
+    }
+]

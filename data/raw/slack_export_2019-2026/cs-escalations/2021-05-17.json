@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "f2355131-12e9-69fe-784e-ef80f8eecf3d",
+        "type": "message",
+        "text": "Can someone check Clearwater Logistics's invoice? They say they were double billed",
+        "user": "U48TCJE75PD",
+        "ts": "1621265171.900957",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "630396b3-b1b1-1c4b-5483-5509a477261f",
+        "type": "message",
+        "text": "Can someone check Meadowlark Builders Co.'s invoice? They say they were double billed",
+        "user": "UX84HDPARWN",
+        "ts": "1621276241.113055",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cc8211db-9f20-cbad-86ae-2d99ee787e9f",
+        "type": "message",
+        "text": "Renewal risk: Cumberland County Facilities Group unhappy with mobile app",
+        "user": "URWNWW8QFM6",
+        "ts": "1621285591.715995",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f0d9567-50a7-6653-5b98-ee411735f99e",
+        "type": "message",
+        "text": "Can someone check Gatehouse Public Works Holdings's invoice? They say they were double billed",
+        "user": "U8SR98620D7",
+        "ts": "1621289488.962122",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6b8bc70a-a72d-410e-ef67-763cb715b49f",
+        "type": "message",
+        "text": "Calloway Facilities Management wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1621296509.978803",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "ec2ea03a-5e1f-c0cd-02e9-faa232a6fead",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3YU9TS6QYB",
+        "ts": "1619534757.347180",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e052afd5-2753-2a07-18aa-a8c3ee3eb3f4",
+        "type": "message",
+        "text": "Lost Pueblo Supply Co to Plinthwise on price",
+        "user": "U22GUF0P303",
+        "ts": "1619535936.107029",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76f9d80f-79d4-92c4-4bf1-804fb04df5b5",
+        "type": "message",
+        "text": "Closed Lewis Property Services Group! 50 seats, Pro",
+        "user": "UYR8E48FJ62",
+        "ts": "1619570915.544698",
+        "team": "T02BRNDLCV"
+    }
+]

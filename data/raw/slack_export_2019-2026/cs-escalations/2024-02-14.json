@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "836382d6-91d9-bed0-14e5-3b34b6ddb66b",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Ashford Building Services Inc. wants an exec call about the outage",
+        "user": "U69WX6HRQNH",
+        "ts": "1707926015.692894",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b37de2c0-e3ac-f083-bba0-0736e78c7ee3",
+        "type": "message",
+        "text": "<@UHN0Q6LZH8E> Watson Fabrication reporting sync failures since this morning, CSM is Brandon Price",
+        "user": "UFJUKVTAA1B",
+        "ts": "1707932915.513600",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "367ce7c0-8d2a-0bae-d8a5-84ed17fa4948",
+        "type": "message",
+        "text": "Thornbury Transit Authority Ltd. wants an exec call about the outage",
+        "user": "U6TBCUVSYPZ",
+        "ts": "1707939613.291313",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4f0711cc-d5b8-cbde-c9ca-afe43e323891",
+        "type": "message",
+        "text": "Erie Hospitality Group Ltd. asking for an SLA credit",
+        "user": "U09CZFTHQSS",
+        "ts": "1707940415.881490",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b69a6c88-009d-ab0a-2e7b-2d4f2ffccc12",
+        "type": "message",
+        "text": "Lakeshore Hospital Inc. reporting sync failures since this morning, CSM is Priya Raghunathan",
+        "user": "UVX5HCR5MMD",
+        "ts": "1707943296.355566",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f98c2f34-6ac7-c580-98d2-bea95d523a86",
+        "type": "message",
+        "text": "Copperfield Clinics Corp. asking for an SLA credit",
+        "user": "UXXA9L8HH83",
+        "ts": "1707952832.274013",
+        "team": "T02BRNDLCV"
+    }
+]

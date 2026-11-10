@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "6c6f43d0-1da7-a806-a209-a24a72b82c33",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UWU9WG7ECGY",
+        "ts": "1783516160.018833",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f417cd62-c748-df7e-78c9-d680aa9fc7aa",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "URWNWW8QFM6",
+        "ts": "1783551925.631451",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7dc7e67f-7421-ffb1-1a0c-36d9bba80647",
+        "type": "message",
+        "text": "deploy v6.30.0 to prod :rocket:",
+        "user": "U773RMBLF5X",
+        "ts": "1783555643.627022",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "a2f765a4-5d1d-746d-50a5-6b738e0cc49a",
+        "type": "message",
+        "text": "Welcome Peter Pham to the Finance team!",
+        "user": "UDCALCM1RUG",
+        "ts": "1602688734.230836",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3fc0b117-03d4-26fa-e002-d8d5d7583675",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UBK8V2J099L",
+        "ts": "1602695731.109579",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51a0f9bd-c8d1-59dd-bbe2-4cce085022bb",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UB8UH2KX2NW",
+        "ts": "1602696642.444910",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9358a9da-1ef2-f34d-eac5-48699e8c012f",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1602698989.197548",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1793f4c5-baae-d913-a09e-225c8ec32c11",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UAGQX7APZBG",
+        "ts": "1602701380.241732",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "43acbd35-d128-c6f7-688c-10570523598a",
+        "type": "message",
+        "text": "Welcome Lauren Park to the Engineering team!",
+        "user": "UYFL6320JLT",
+        "ts": "1602711857.213161",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dbcbc416-d037-0b31-f31e-05149c55c192",
+        "type": "message",
+        "text": "Welcome Ryan Iyer to the Finance team!",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1602716906.027054",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "948ee394-4405-9785-14c1-5cc8a99de1c7",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U8TVGALMJLQ",
+        "ts": "1602723133.265219",
+        "team": "T02BRNDLCV"
+    }
+]

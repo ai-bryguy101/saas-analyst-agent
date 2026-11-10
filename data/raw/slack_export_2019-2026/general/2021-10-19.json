@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "38e8e394-dfea-57e6-9614-97f04c6d5bb2",
+        "type": "message",
+        "text": "Welcome James Hughes to the Customer Success team!",
+        "user": "UC95B7VAFX0",
+        "ts": "1634650079.105041",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3c013757-55de-d0fb-57b0-92d672121fbc",
+        "type": "message",
+        "text": "Welcome Kathleen Martinez to the Sales team!",
+        "user": "U7V33ZEGRET",
+        "ts": "1634656598.934982",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UVX5HCR5MMD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2754e15-8cef-8926-8ba5-70c3be13f515",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UPGXMWMDQNR",
+        "ts": "1634657026.968696",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UYFL6320JLT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b23ce19-7fd9-8b98-56a9-63a4bf95858f",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U0E67MPWRXA",
+        "ts": "1634665723.614415",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b4a6f019-abbf-1545-be0a-4589a588e5bb",
+        "type": "message",
+        "text": "Q4 kickoff deck is in the drive",
+        "user": "UHV2RFNY0HN",
+        "ts": "1634681120.847912",
+        "team": "T02BRNDLCV"
+    }
+]

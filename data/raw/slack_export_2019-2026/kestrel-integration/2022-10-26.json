@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "59fe8862-c31c-4f79-566c-49f7d731e53d",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UQK194B1V43",
+        "ts": "1666789842.534290",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3f0ecf94-5146-a2d5-1357-c72687408a7f",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> Xero export is the source of truth until April",
+        "user": "UAHZYQG5URJ",
+        "ts": "1666791454.747903",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c14ca3a0-9394-a60d-f145-c1b48838266b",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U9SD2024Q7F",
+        "ts": "1666794078.983284",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6d926763-1767-4e3c-6819-a7da868d5803",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U9V01K22TU1",
+        "ts": "1666798496.846956",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1666831277.824293"
+        }
+    },
+    {
+        "client_msg_id": "a75d08cc-9a8f-baaf-bb4d-e9a5816e0b89",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UFNKJQT8PV1",
+        "ts": "1666813468.214643",
+        "team": "T02BRNDLCV"
+    }
+]

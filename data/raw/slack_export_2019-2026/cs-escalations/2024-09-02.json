@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "25132616-06dd-be9c-6e78-603e555ba4d1",
+        "type": "message",
+        "text": "Renewal risk: Thornbury Mills Ltd. unhappy with mobile app",
+        "user": "U09CZFTHQSS",
+        "ts": "1725304123.561786",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0411938-229f-4a9c-c7ea-7e85393fa228",
+        "type": "message",
+        "text": "Can someone check Scioto Inns Ltd.'s invoice? They say they were double billed",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1725320028.480624",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UUDLJ7GDXKE",
+            "ts": "1725293488.968459"
+        }
+    }
+]

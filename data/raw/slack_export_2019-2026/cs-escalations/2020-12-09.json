@@ -1,0 +1,201 @@
+[
+    {
+        "client_msg_id": "5d027bfb-0a2d-97c8-37d3-e3372a8096f5",
+        "type": "message",
+        "text": "Can someone check Elmhurst Contracting LLC's invoice? They say they were double billed",
+        "user": "U34NH0P5TMZ",
+        "ts": "1607519162.756743",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3664fa1-5fa1-a64b-15bf-0a45563d8f05",
+        "type": "message",
+        "text": "Can someone check Twin Health System LLC's invoice? They say they were double billed",
+        "user": "UJQY3Q26RVW",
+        "ts": "1607525782.069122",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7d1238ab-3eba-95a1-a5db-d8ef5664b828",
+        "type": "message",
+        "text": "Renewal risk: Three County Facilities unhappy with mobile app",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1607527683.885347",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5db895b4-966b-3284-c83f-f89ef62b382f",
+        "type": "message",
+        "text": "Pinecrest Residential Holdings asking for an SLA credit",
+        "user": "UB0YL0LKYC7",
+        "ts": "1607529988.075802",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "be5a2dd7-b480-9600-0404-b55ece99bd43",
+        "type": "message",
+        "text": "Mesa Mills LLC asking for an SLA credit",
+        "user": "UXXA9L8HH83",
+        "ts": "1607531486.681842",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b920a3d4-c0d6-89c8-6c6d-f1c2919ef6e9",
+        "type": "message",
+        "text": "<@UCQT1GS0C0C> Bayou Unified Schools Holdings reporting sync failures since this morning, CSM is Brandon Price",
+        "user": "U2CKCF24AEA",
+        "ts": "1607532936.125852",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51cbcce4-d19d-3c38-ed4d-19521131b5e6",
+        "type": "message",
+        "text": "Pioneer College asking for an SLA credit",
+        "user": "UG4ETD69L1D",
+        "ts": "1607533253.080875",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e8e14d4-9796-fafc-b2c5-2c9ad2e9ba5d",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Moore Janitorial LLC reporting sync failures since this morning, CSM is Margaret Roberts",
+        "user": "U5X9PNA34DU",
+        "ts": "1607535473.415142",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9e315c54-8626-0454-9eb5-40b289adfe3e",
+        "type": "message",
+        "text": "Heron Hospital Corp. asking for an SLA credit",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1607538821.344313",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec939ccd-bb8b-c64f-9f5e-e00b2285f386",
+        "type": "message",
+        "text": "Tidewater Residential Co. wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1607540979.156084",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UAHZYQG5URJ",
+            "ts": "1607555941.203937"
+        }
+    },
+    {
+        "client_msg_id": "64a65d39-f172-c465-ff3f-f6f90b0da7ba",
+        "type": "message",
+        "text": "Renewal risk: Penhallow Homes Co. unhappy with mobile app",
+        "user": "UC95B7VAFX0",
+        "ts": "1607541093.512812",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8deec581-193c-8776-b3b6-2e8af66c24f9",
+        "type": "message",
+        "text": "Valley Hotels Inc. reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "UG4ETD69L1D",
+        "ts": "1607542922.934240",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e63b3c24-178a-fa62-71ef-c36668613ab9",
+        "type": "message",
+        "text": "Renewal risk: Three Builders unhappy with mobile app",
+        "user": "UHV2RFNY0HN",
+        "ts": "1607543350.241508",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5f897740-a91e-fd44-142e-1c3f7e2033b2",
+        "type": "message",
+        "text": "<@UE4GTX0EXPH> Ross County Facilities LLC wants an exec call about the outage",
+        "user": "U3KL08VJD8C",
+        "ts": "1607544825.893731",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8e285c42-a364-52f6-96ef-26ad93d44900",
+        "type": "message",
+        "text": "Morgan Logistics Ltd. wants an exec call about the outage",
+        "user": "U34NH0P5TMZ",
+        "ts": "1607545541.633534",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UB8UH2KX2NW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adcbb621-4aba-046a-e36d-e4850a125358",
+        "type": "message",
+        "text": "Northgate Unified Schools wants an exec call about the outage",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1607549978.368752",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cb8e53c3-3172-9c07-745e-e319659aaeae",
+        "type": "message",
+        "text": "Ruiz Janitorial Ltd. reporting sync failures since this morning, CSM is Anthony Ellsworth",
+        "user": "U5DYUQUF95P",
+        "ts": "1607551227.350948",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80cb73e2-4dc8-dcce-9b6b-4fbacdb13412",
+        "type": "message",
+        "text": "Bayview Inns reporting sync failures since this morning, CSM is Ngozi Pelletier",
+        "user": "UX84HDPARWN",
+        "ts": "1607552304.104076",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c489f0e1-f69a-4971-1077-c80eaf1e00be",
+        "type": "message",
+        "text": "Baker Municipal Services reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "UX84HDPARWN",
+        "ts": "1607552317.963888",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6db22826-2465-dae2-6022-88a0b8708940",
+        "type": "message",
+        "text": "Tanaka Property Group Corp. asking for an SLA credit",
+        "user": "UB0YL0LKYC7",
+        "ts": "1607560576.013340",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f1797ef4-5fd6-025a-be29-35220fbe9c67",
+        "type": "message",
+        "text": "Renewal risk: Flores Hospital unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1607561389.509180",
+        "team": "T02BRNDLCV"
+    }
+]

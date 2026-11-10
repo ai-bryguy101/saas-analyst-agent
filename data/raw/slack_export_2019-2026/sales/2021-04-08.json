@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "fa239e5b-9de0-c41c-49ee-f49511b70f0b",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U2CKCF24AEA",
+        "ts": "1617901263.376958",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a2d42375-cff8-d011-3982-2d1a9140427f",
+        "type": "message",
+        "text": "Lost Cascade Public Works Group to Plinthwise on price",
+        "user": "UL8NMQFXPJR",
+        "ts": "1617911781.482506",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaf1c9d3-ba4a-193d-9884-fd414eeef284",
+        "type": "message",
+        "text": "<@U9SD2024Q7F> Pipeline review moved to 3pm",
+        "user": "U2CKCF24AEA",
+        "ts": "1617917470.951678",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0e77f406-43bb-5697-b68e-194a3fbcb796",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1617918117.363613",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b29e91d-5ff0-264d-ab9a-0e4397aa22a3",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1617927073.305410",
+        "team": "T02BRNDLCV"
+    }
+]

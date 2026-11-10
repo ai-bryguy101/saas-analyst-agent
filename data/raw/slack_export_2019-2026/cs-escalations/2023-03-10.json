@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "8a4ca604-2678-df23-1a49-67dd42f4979d",
+        "type": "message",
+        "text": "Can someone check Ellsworth Clinics Group's invoice? They say they were double billed",
+        "user": "UXS2WD4BYRN",
+        "ts": "1678473952.124315",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "318bffc5-a40b-ba4b-4463-30c858da1699",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Morales School District Inc. reporting sync failures since this morning, CSM is Lawrence Fitzgerald",
+        "user": "U2LMMLL4F31",
+        "ts": "1678476333.039863",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UWUGRQ83YYM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60dc73d3-fa9b-a6e9-03fb-f0b4690f65c5",
+        "type": "message",
+        "text": "Cote School District asking for an SLA credit",
+        "user": "UL8NMQFXPJR",
+        "ts": "1678488982.322409",
+        "team": "T02BRNDLCV"
+    }
+]

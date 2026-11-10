@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "5acad540-fd12-f510-b866-3568be688f88",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2020",
+        "user": "UNCGDMQATC5",
+        "ts": "1609420867.103611",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "87f5c6a3-227d-4ea2-6e14-70a27e42e8d9",
+        "type": "message",
+        "text": "<@UPGXMWMDQNR> Month-end close starts tomorrow",
+        "user": "UFJUKVTAA1B",
+        "ts": "1609422621.038521",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1609434645.470493"
+        }
+    },
+    {
+        "client_msg_id": "a6aa3d17-fe55-a999-19e1-7f0f4b890c55",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URFUZYLCAEC",
+        "ts": "1609434970.794718",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74122015-7cd4-3ed7-76f4-1bcdac2affed",
+        "type": "message",
+        "text": "<@UUFS9CP1A17> AR aging is up, Ravenwood Supply Co is 90+ days",
+        "user": "U9XCAUGPS1F",
+        "ts": "1609452534.951498",
+        "team": "T02BRNDLCV"
+    }
+]

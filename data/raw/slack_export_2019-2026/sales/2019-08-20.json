@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "c920fa21-815e-6359-dd06-920d6a485438",
+        "type": "message",
+        "text": "Tamarack Stores Ltd. wants a discount, how far can I go?",
+        "user": "UNCGDMQATC5",
+        "ts": "1566307937.669788",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f9d837a-af20-c014-a4c3-02eccaf68558",
+        "type": "message",
+        "text": "Closed Cumberland Resorts! 355 seats, Starter",
+        "user": "UQTUT2GDN85",
+        "ts": "1566310629.526698",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dfe3635-3512-2ade-5a22-178877f24d64",
+        "type": "message",
+        "text": "<@UGPRJ4K947R> Huang School District LLC wants a discount, how far can I go?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1566316939.401743",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97718a58-b729-c239-4eee-8f44b45c0b40",
+        "type": "message",
+        "text": "Anyone have a reference customer in Hospitality?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1566322379.972203",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff1a9db2-48ae-ec8c-a83d-24df55bf1acd",
+        "type": "message",
+        "text": "Anyone have a reference customer in Government?",
+        "user": "U94ETEKNM26",
+        "ts": "1566327533.857092",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U94ETEKNM26",
+            "ts": "1566307591.632723"
+        }
+    },
+    {
+        "client_msg_id": "33a724ea-92a7-27d9-fbcf-1cc3991228e9",
+        "type": "message",
+        "text": "White Residential wants a discount, how far can I go?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1566346617.916958",
+        "team": "T02BRNDLCV"
+    }
+]

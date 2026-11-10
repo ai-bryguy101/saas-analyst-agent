@@ -1,0 +1,31 @@
+[
+    {
+        "client_msg_id": "bfdee9ed-62dc-3fe4-1064-1bc2113e2eca",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UJKZ2R47YW9",
+        "ts": "1648832157.756797",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJKZ2R47YW9",
+            "ts": "1648832728.705061"
+        }
+    },
+    {
+        "client_msg_id": "3c652ebc-2d0e-c40a-6f4d-96c916e02bbe",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UVQRW5SQSEL",
+        "ts": "1648853032.379946",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

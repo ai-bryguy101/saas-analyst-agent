@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "9de045a3-bdf7-4e78-0007-01a6aa83f42a",
+        "type": "message",
+        "text": "Mitchell Mechanical Group reporting sync failures since this morning, CSM is Femi Adeyemi",
+        "user": "UQXT5A6YMVH",
+        "ts": "1629983095.658883",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8516d09-c517-9243-dbdd-2b91fa73dc55",
+        "type": "message",
+        "text": "<@UNPKZYBKYGA> Wexford Resorts Group asking for an SLA credit",
+        "user": "U8SR98620D7",
+        "ts": "1629989752.787662",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "32f6f758-7569-96ca-5ac2-936af93ffd2e",
+        "type": "message",
+        "text": "Can someone check Shenandoah Public Works Holdings's invoice? They say they were double billed",
+        "user": "U9XCAUGPS1F",
+        "ts": "1629995891.440909",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "978ff1c5-dc95-db93-7525-862b4c40d494",
+        "type": "message",
+        "text": "Sanchez Construction Holdings reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "U7PFYH0YRRG",
+        "ts": "1629996175.396040",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U7PFYH0YRRG",
+            "ts": "1629997007.676133"
+        }
+    },
+    {
+        "client_msg_id": "22dcec85-c054-1765-41e9-69bc0936c750",
+        "type": "message",
+        "text": "Beacon Health System wants an exec call about the outage",
+        "user": "UQXT5A6YMVH",
+        "ts": "1629998225.406982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "62835c7c-d301-956a-bcb5-f8d97292bbe2",
+        "type": "message",
+        "text": "Can someone check Ashford Transit Authority Co.'s invoice? They say they were double billed",
+        "user": "UJKZ2R47YW9",
+        "ts": "1630000020.174844",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "744f9474-7c9d-72b0-3c47-de3db79c7746",
+        "type": "message",
+        "text": "Renewal risk: McCarthy Resorts unhappy with mobile app",
+        "user": "UL8NMQFXPJR",
+        "ts": "1630004962.037838",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UKMQNTKUR4V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54db587b-13d9-26bc-7069-3126d326c595",
+        "type": "message",
+        "text": "Sycamore Distribution asking for an SLA credit",
+        "user": "UPHFQAHDPSK",
+        "ts": "1630010450.089471",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a771aeef-926d-9181-1d4e-be8736790e3b",
+        "type": "message",
+        "text": "Northgate Township reporting sync failures since this morning, CSM is Hamid Roberts",
+        "user": "U34NH0P5TMZ",
+        "ts": "1630014848.666491",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bb8ea95c-611f-720d-afbe-e40720594565",
+        "type": "message",
+        "text": "Westbrook Suites Co. wants an exec call about the outage",
+        "user": "UV9GDKGY32C",
+        "ts": "1630024915.352223",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4a4cb67c-3054-dc39-8f92-11087105dac7",
+        "type": "message",
+        "text": "Lee Public Works Group asking for an SLA credit",
+        "user": "UFJUKVTAA1B",
+        "ts": "1630025522.770267",
+        "team": "T02BRNDLCV"
+    }
+]

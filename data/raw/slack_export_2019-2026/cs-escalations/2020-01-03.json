@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "cdacfd74-3722-c6f5-1315-7453b0d35a15",
+        "type": "message",
+        "text": "Keystone Homes Co. wants an exec call about the outage",
+        "user": "U3YU9TS6QYB",
+        "ts": "1578076198.650091",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2b4ab40-3136-e430-7afe-1ca52f04d27c",
+        "type": "message",
+        "text": "Stonebridge Public Works Group reporting sync failures since this morning, CSM is Mei Thomas",
+        "user": "UL20M69UM76",
+        "ts": "1578077896.449519",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "519f7c10-68df-38d8-83c7-5b0ef611540f",
+        "type": "message",
+        "text": "MacLeod University Facilities Co. asking for an SLA credit",
+        "user": "UP51TVUPQU5",
+        "ts": "1578078840.166570",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2534a65a-1ac3-3e28-bf7e-4474e0e2d1cf",
+        "type": "message",
+        "text": "Eastlake College asking for an SLA credit",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1578083490.035658",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a23100e-128d-5cec-0d93-fd6a4bb16194",
+        "type": "message",
+        "text": "Renewal risk: Three Construction Group unhappy with mobile app",
+        "user": "U9V01K22TU1",
+        "ts": "1578092818.264346",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "34d9397f-2751-ab81-f2dc-38d4c5e466ea",
+        "type": "message",
+        "text": "Lindenwood Fabrication Co. paid by wire, applying now",
+        "user": "UE49ET7WGNU",
+        "ts": "1707232431.685306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4fcbc044-362f-e8dd-7ed4-c0ef6221c37b",
+        "type": "message",
+        "text": "AR aging is up, Valley Transit Authority Corp. is 90+ days",
+        "user": "UXVNE61TTLN",
+        "ts": "1707239294.712636",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b953f8cd-53f7-bffe-2034-0599bfe3eaac",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2024",
+        "user": "U7V33ZEGRET",
+        "ts": "1707241028.458122",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U7V33ZEGRET",
+            "ts": "1707226210.815689"
+        }
+    },
+    {
+        "client_msg_id": "a48f6e2e-8e58-f66b-d223-3b422ee955f1",
+        "type": "message",
+        "text": "AR aging is up, Mesa Property Services Group is 90+ days",
+        "user": "U3EQ075NUYR",
+        "ts": "1707245783.121355",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "75e9ebb6-9a08-9cd9-52c4-a505a441949c",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UH9DL28T3MH",
+        "ts": "1707250088.861044",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3903245e-4ad0-9a75-9c9b-ad24fdc57db1",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UJQY3Q26RVW",
+        "ts": "1707260109.007112",
+        "team": "T02BRNDLCV"
+    }
+]

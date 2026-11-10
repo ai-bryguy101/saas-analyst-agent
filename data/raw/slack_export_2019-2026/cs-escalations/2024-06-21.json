@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "407928c1-3460-1581-cfd5-7755ac019635",
+        "type": "message",
+        "text": "Millbrook Janitorial Ltd. wants an exec call about the outage",
+        "user": "UMXMN24FN4K",
+        "ts": "1718977962.291198",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b96a1cad-7bdb-ceee-50e5-5f287cfcd8ea",
+        "type": "message",
+        "text": "Kittredge Suites Holdings wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1718978753.982934",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c37ce15-0137-d6e5-b8f6-2f4f2d7906f1",
+        "type": "message",
+        "text": "Millbrook Realty Management Co. asking for an SLA credit",
+        "user": "U09CZFTHQSS",
+        "ts": "1718980962.052966",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c86b5f81-238e-24b3-cd1f-e42d9ac00fa9",
+        "type": "message",
+        "text": "Ridgeline Construction Co. asking for an SLA credit",
+        "user": "UVX5HCR5MMD",
+        "ts": "1718981909.991587",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "566a6aaf-e35b-2f65-9cf7-f4f9898c617f",
+        "type": "message",
+        "text": "Can someone check Brookside Outfitters LLC's invoice? They say they were double billed",
+        "user": "UPHFQAHDPSK",
+        "ts": "1718982316.070655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cda9c3fa-eea4-4f3c-a2dc-8ea91c728846",
+        "type": "message",
+        "text": "<@UWUGRQ83YYM> Raghunathan Residential Co. reporting sync failures since this morning, CSM is Walter Ortiz",
+        "user": "UQXT5A6YMVH",
+        "ts": "1718983862.129532",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3eac9be8-bf80-9cfc-213e-946bab4719cf",
+        "type": "message",
+        "text": "Renewal risk: Tidewater Hospitality Group unhappy with mobile app",
+        "user": "UMDHKXLV8RH",
+        "ts": "1718985760.068416",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ccc25cb6-f0d6-10e2-c662-3d5c6182b43d",
+        "type": "message",
+        "text": "Can someone check Erie Logistics Co.'s invoice? They say they were double billed",
+        "user": "U09CZFTHQSS",
+        "ts": "1718987109.352060",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53d2397d-d098-610e-2ff8-de30dacd76ab",
+        "type": "message",
+        "text": "Great Freight asking for an SLA credit",
+        "user": "U3EQ075NUYR",
+        "ts": "1718996109.234840",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "93e7c537-08fd-9d6b-a8b1-7e98db33eaee",
+        "type": "message",
+        "text": "<@UVX5HCR5MMD> Roberts Stores asking for an SLA credit",
+        "user": "U0E67MPWRXA",
+        "ts": "1719002339.828249",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1719012099.652327"
+        }
+    },
+    {
+        "client_msg_id": "154335d3-b93f-8428-52f9-26c17ab71e53",
+        "type": "message",
+        "text": "Riverbend Mechanical reporting sync failures since this morning, CSM is David Martin",
+        "user": "U3KL08VJD8C",
+        "ts": "1719010788.629987",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b364f449-166b-1f2a-dfaa-b3133ca6a487",
+        "type": "message",
+        "text": "Can someone check Granite Industries Holdings's invoice? They say they were double billed",
+        "user": "UFWAQ6E76D6",
+        "ts": "1719011153.711141",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4822cc6e-b5b1-1c78-1ec0-63938cf2f3ea",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> Can someone check Esposito Transit Authority Holdings's invoice? They say they were double billed",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1719017341.362125",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UQLM603293J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

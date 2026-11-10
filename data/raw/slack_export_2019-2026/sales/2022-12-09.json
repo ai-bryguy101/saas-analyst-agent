@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "c7db6e40-5b24-cfc6-9fd6-75e622db0880",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Pricing question: does Pro include Dispatch?",
+        "user": "UFGLBSDS2XV",
+        "ts": "1670597683.307086",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "445aad54-e75a-406a-f15c-d5993ce87161",
+        "type": "message",
+        "text": "Closed Northgate Industries Holdings! 117 seats, Pro",
+        "user": "U9XCAUGPS1F",
+        "ts": "1670619015.892208",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1670619701.891320"
+        }
+    },
+    {
+        "client_msg_id": "3ea79e75-5457-b97a-92b1-4ad39f1bafb0",
+        "type": "message",
+        "text": "Closed Howard Facilities Management Co.! 304 seats, Starter",
+        "user": "U22GUF0P303",
+        "ts": "1670619625.748237",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1995011e-6236-36d7-0ed5-3ad505a07495",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UX84HDPARWN",
+        "ts": "1670627276.947403",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UX84HDPARWN",
+            "ts": "1670605281.149131"
+        }
+    },
+    {
+        "client_msg_id": "f255377d-436f-f44f-62b2-fecc71532f73",
+        "type": "message",
+        "text": "Lost Sycamore Suites Co. to Plinthwise on price",
+        "user": "UT7K74ALYGQ",
+        "ts": "1670630238.670358",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

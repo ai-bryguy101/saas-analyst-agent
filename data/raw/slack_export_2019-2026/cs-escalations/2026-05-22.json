@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "1113c107-3d78-177b-ef04-163f0318bcca",
+        "type": "message",
+        "text": "Ravenwood Health Partners Holdings reporting sync failures since this morning, CSM is Shirley Price-Jones",
+        "user": "U7V33ZEGRET",
+        "ts": "1779485584.051720",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "199a9247-dd93-48dc-e910-8d02dba36d80",
+        "type": "message",
+        "text": "Sandpiper Distribution Inc. reporting sync failures since this morning, CSM is Lauren Park",
+        "user": "UQTUT2GDN85",
+        "ts": "1779491367.452886",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7077e19a-cc18-cde7-2686-59bdd8b22241",
+        "type": "message",
+        "text": "Can someone check Elmhurst County Facilities's invoice? They say they were double billed",
+        "user": "UUFS9CP1A17",
+        "ts": "1779495230.875275",
+        "team": "T02BRNDLCV"
+    }
+]

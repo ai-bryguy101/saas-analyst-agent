@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "e7b817d0-b0ef-b7e4-e8e8-3ffef4fdb690",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL20M69UM76",
+        "ts": "1618241223.553273",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9233b239-7565-1567-9361-1c3f8b115cc4",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UB8UH2KX2NW",
+        "ts": "1618262955.262368",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c581dc14-afaa-8457-6ca2-d7025416c2e8",
+        "type": "message",
+        "text": "Crescent Restoration Group paid by wire, applying now",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1618268571.582877",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a59f0948-ac11-1c4b-d506-ac2a9199ef49",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2021",
+        "user": "UNCGDMQATC5",
+        "ts": "1618274411.219377",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

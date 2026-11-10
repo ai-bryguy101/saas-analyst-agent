@@ -1,0 +1,138 @@
+[
+    {
+        "client_msg_id": "4ecac3e3-6ffb-a8f8-e221-8e2f643a9e84",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UFULM18ZBQ6",
+        "ts": "1700485443.883296",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2eee0be8-949a-b40e-f922-c4404a00abe5",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UQLM603293J",
+        "ts": "1700485930.453316",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b60fc090-a520-a2c0-b353-ff0c14ce61bd",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UZACKQ1VXCH",
+        "ts": "1700494537.988802",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6acc785a-57f1-979f-9edc-25a8d1bc455a",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1700503586.089618",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#53234 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc22a9d9-6223-ca7d-668d-ecdf4881f022",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1700505004.529546",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#77676 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3a24314-7874-3480-99a2-7e0e5b6ea9a7",
+        "type": "message",
+        "text": "<@UPHFQAHDPSK> rolling back v7.13.9",
+        "user": "UXXA9L8HH83",
+        "ts": "1700505118.572676",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8cc94071-60e6-d195-796c-fd778fb4d748",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> replica lag on db-03 again",
+        "user": "UR12Y3AZNKK",
+        "ts": "1700514344.486593",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "af26bae2-8bdb-88c2-cfa1-024d4d3f9ae6",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U69WX6HRQNH",
+        "ts": "1700516794.426962",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "051d0960-6358-6f7b-ddc9-faa64250cb46",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UCQT1GS0C0C",
+        "ts": "1700518050.275039",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ce286090-628d-39c7-e916-0357dec8660b",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1700525081.453669",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#90455 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d10fb38b-c260-1a69-012d-0acf3ad783a3",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> who owns the cron for nightly exports?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1700528376.974633",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

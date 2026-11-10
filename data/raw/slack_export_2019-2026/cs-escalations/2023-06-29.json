@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "9c9ceb42-9c2a-b039-b0cb-06e9d3462a3c",
+        "type": "message",
+        "text": "Renewal risk: Northgate Suites Inc. unhappy with mobile app",
+        "user": "UX84HDPARWN",
+        "ts": "1688043861.989772",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18e1f179-db05-34d6-6135-6d66a0fb93db",
+        "type": "message",
+        "text": "Calloway Township reporting sync failures since this morning, CSM is Hamid Roberts",
+        "user": "UT7K74ALYGQ",
+        "ts": "1688045766.291953",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "717a59d8-ca44-db27-a810-0b4428492187",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> Three Facilities Management asking for an SLA credit",
+        "user": "UL20M69UM76",
+        "ts": "1688067020.285385",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e9abbe53-787d-e1a4-f536-4e4f585092be",
+        "type": "message",
+        "text": "Can someone check Ostrander Facilities Management LLC's invoice? They say they were double billed",
+        "user": "UT7K74ALYGQ",
+        "ts": "1688074846.433020",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UWBW507RCA9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

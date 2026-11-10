@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "89d00655-d1b5-01cf-771d-61d53ccfa258",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UR12Y3AZNKK",
+        "ts": "1682607105.607306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "384b3b92-a4e2-629f-f8b7-201960745955",
+        "type": "message",
+        "text": "Quillfeather Warehousing wants a discount, how far can I go?",
+        "user": "UE4GTX0EXPH",
+        "ts": "1682613789.499329",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "418fecd1-0c6a-cb84-95a3-d1b47c1fbb4d",
+        "type": "message",
+        "text": "Lost Lavoie Mills to Plinthwise on price",
+        "user": "UWU9WG7ECGY",
+        "ts": "1682614440.649868",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa0061e9-55b6-9214-e476-87769b06de15",
+        "type": "message",
+        "text": "Lost Northgate Township to Plinthwise on price",
+        "user": "UJKZ2R47YW9",
+        "ts": "1682614873.062960",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UJKZ2R47YW9",
+            "ts": "1682629347.905466"
+        }
+    },
+    {
+        "client_msg_id": "90836b9d-8b77-8a1e-a0b7-f47bdcee46ae",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UFARBQM0LCD",
+        "ts": "1682630052.209796",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ca0cba61-8cbb-0e87-50a0-e793ca211a96",
+        "type": "message",
+        "text": "Anyone have a reference customer in Hospitality?",
+        "user": "U5TERVWF7JH",
+        "ts": "1682638995.648413",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

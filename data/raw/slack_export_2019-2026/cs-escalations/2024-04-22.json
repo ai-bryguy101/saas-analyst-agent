@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "32b81375-ae2d-6291-106c-26273b985243",
+        "type": "message",
+        "text": "Anderson Municipal Services asking for an SLA credit",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1713792999.889829",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "21e97f01-1599-f9dc-f24b-31980e3a2322",
+        "type": "message",
+        "text": "Rahman Markets Ltd. reporting sync failures since this morning, CSM is Robert Gomez",
+        "user": "UXXA9L8HH83",
+        "ts": "1713797966.876402",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "213c4af1-e66e-9e8e-67b7-3835ed638187",
+        "type": "message",
+        "text": "Raghunathan Public Works wants an exec call about the outage",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1713798699.376937",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8dc1d1fe-e63c-6b50-96c8-de4a48196b19",
+        "type": "message",
+        "text": "Morgan Logistics Ltd. asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1713809055.247181",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07e336e3-4aa3-9bb2-740b-3eb44211f680",
+        "type": "message",
+        "text": "Stewart Markets Co. asking for an SLA credit",
+        "user": "UXVNE61TTLN",
+        "ts": "1713814455.964845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "31e49821-f394-63af-2da3-1f739c952f1a",
+        "type": "message",
+        "text": "<@U0V9BPHARQX> Can someone check Ravenwood Property Services's invoice? They say they were double billed",
+        "user": "UFULM18ZBQ6",
+        "ts": "1713824237.547917",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09b6c405-7ac4-e459-1d3b-0760e3b6e4da",
+        "type": "message",
+        "text": "Renewal risk: Penhallow Janitorial Co. unhappy with mobile app",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1713826323.675666",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "577f2cf1-e079-f2bf-7a67-4ea9b9b19a31",
+        "type": "message",
+        "text": "Can someone check Ruiz Hotels Corp.'s invoice? They say they were double billed",
+        "user": "UVQRW5SQSEL",
+        "ts": "1713830787.428976",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "89a3131b-8f20-2e17-2565-5fd429db29dd",
+        "type": "message",
+        "text": "Long Municipal Services wants a discount, how far can I go?",
+        "user": "UFNKJQT8PV1",
+        "ts": "1723729794.960941",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67eb6453-2b0b-38a2-3d5d-a1034f2d568e",
+        "type": "message",
+        "text": "Closed Lee Maintenance Co Inc.! 279 seats, Starter",
+        "user": "UMDHKXLV8RH",
+        "ts": "1723737068.007021",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f3b8c44c-3b68-9bef-3285-50d1b45fa3a2",
+        "type": "message",
+        "text": "Closed Maplewood Health System Corp.! 205 seats, Enterprise",
+        "user": "UMDHKXLV8RH",
+        "ts": "1723765318.976763",
+        "team": "T02BRNDLCV"
+    }
+]

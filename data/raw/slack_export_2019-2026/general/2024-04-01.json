@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "450ac4a8-12b1-a24e-2eaf-ce588e5e9b12",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> Who left a lasagna in the 3rd floor fridge",
+        "user": "UFJUKVTAA1B",
+        "ts": "1712006818.923087",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32511957-f71e-4eb8-1e2f-a67d38f0f8cb",
+        "type": "message",
+        "text": "Q2 kickoff deck is in the drive",
+        "user": "UE4GTX0EXPH",
+        "ts": "1712015476.120129",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "ca48640c-e5db-4765-1fe0-9b2d0db3b683",
+        "type": "message",
+        "text": "Closed Mesa Markets! 382 seats, Starter",
+        "user": "UVQRW5SQSEL",
+        "ts": "1778506962.832473",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2391902d-777a-e3af-a212-95da394323ed",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1778512134.831601",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53659ac8-302f-b1a2-383f-fcce419a12e1",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UFJUKVTAA1B",
+        "ts": "1778516070.722987",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "773f0cdd-d1b4-f547-f010-aba8796a1ec9",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UNFVCYNZT6K",
+        "ts": "1778524596.175718",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UP8JCWGGNJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63dba638-bc37-9395-3614-e406a906d359",
+        "type": "message",
+        "text": "<@UC95B7VAFX0> Pricing question: does Starter include Dispatch?",
+        "user": "UNKFW783RHY",
+        "ts": "1778527801.562054",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UQK194B1V43"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03b6e38a-5824-f2bc-5520-17b568874732",
+        "type": "message",
+        "text": "Anyone have a reference customer in Property Management?",
+        "user": "U0V9BPHARQX",
+        "ts": "1778529113.206369",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "edb2891a-048b-a6cc-df45-80956409320a",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U8SR98620D7",
+        "ts": "1778530359.743455",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U8SR98620D7",
+            "ts": "1778507581.179404"
+        }
+    },
+    {
+        "client_msg_id": "3c9266e2-9387-493c-292c-b5de638d40fb",
+        "type": "message",
+        "text": "<@UX84HDPARWN> Lost Millbrook College LLC to Plinthwise on price",
+        "user": "U2LMMLL4F31",
+        "ts": "1778537316.479606",
+        "team": "T02BRNDLCV"
+    }
+]

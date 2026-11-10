@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "7299e8ea-1200-029f-c5f0-490e47cee2a3",
+        "type": "message",
+        "text": "King Industries Ltd. reporting sync failures since this morning, CSM is Margaret Roberts",
+        "user": "UJRKGMQPU2R",
+        "ts": "1713198497.974360",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d5ea9b7-101d-65ca-2fba-767df6ae8d94",
+        "type": "message",
+        "text": "Copperfield Clinics Corp. asking for an SLA credit",
+        "user": "UQTUT2GDN85",
+        "ts": "1713214436.095899",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c6f1f52-befc-5954-e2fd-400bba32074f",
+        "type": "message",
+        "text": "Price College asking for an SLA credit",
+        "user": "UFARBQM0LCD",
+        "ts": "1713218970.559230",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54ce4e63-e12c-e1b0-3135-ba107813b9c7",
+        "type": "message",
+        "text": "Wang Residential LLC wants an exec call about the outage",
+        "user": "UQK194B1V43",
+        "ts": "1713223239.338757",
+        "team": "T02BRNDLCV"
+    }
+]

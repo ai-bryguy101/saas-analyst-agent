@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "b31ad8c9-3828-8cc7-9723-2b38cc755ead",
+        "type": "message",
+        "text": "Oakmere Maintenance Co asking for an SLA credit",
+        "user": "UXS2WD4BYRN",
+        "ts": "1640960936.281454",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b4962934-141c-a7bc-94d7-2fb230643292",
+        "type": "message",
+        "text": "Renewal risk: Saginaw Logistics Inc. unhappy with mobile app",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1640965444.802137",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf85de0a-f8ec-305f-078c-7be9b51d2214",
+        "type": "message",
+        "text": "Clark Inns Holdings reporting sync failures since this morning, CSM is Nicholas Tanaka",
+        "user": "UPHFQAHDPSK",
+        "ts": "1640966683.178943",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02d28e32-675f-5b54-53e6-a9fb802ee8be",
+        "type": "message",
+        "text": "Tidewater Hospitality Group reporting sync failures since this morning, CSM is Eugene Fontaine",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1640988390.662777",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

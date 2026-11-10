@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "59588cc7-bdfb-c8f2-0494-4785ed0248ef",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U0V9BPHARQX",
+        "ts": "1721318640.113959",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a4aab83-a209-06eb-4767-fd2140902038",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UC70JNE74S7",
+        "ts": "1721333493.432500",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f8d4bb85-b2a6-1e76-9748-d30e17b66909",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> postmortem doc for yesterday is up",
+        "user": "U5DYUQUF95P",
+        "ts": "1721336363.371030",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ca8a2ef-6d63-485d-968e-7473e4f7c748",
+        "type": "message",
+        "text": "rolling back v6.40.1",
+        "user": "U0V9BPHARQX",
+        "ts": "1721345261.815087",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U0V9BPHARQX",
+            "ts": "1721327430.427977"
+        }
+    }
+]

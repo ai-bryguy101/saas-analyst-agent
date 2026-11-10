@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "24a94481-14da-47f7-7f60-e0af6542804c",
+        "type": "message",
+        "text": "Renewal risk: Lee Fabrication unhappy with mobile app",
+        "user": "U69WX6HRQNH",
+        "ts": "1752678741.143802",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ba5b27d-94a3-9ccf-f4a3-ccb33d3e0de7",
+        "type": "message",
+        "text": "Heron Manufacturing reporting sync failures since this morning, CSM is Ngozi Jones",
+        "user": "UVQRW5SQSEL",
+        "ts": "1752683806.132155",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51055d2a-57a8-3555-453b-3426c1dd6c37",
+        "type": "message",
+        "text": "Pioneer College reporting sync failures since this morning, CSM is James Hughes",
+        "user": "UE49ET7WGNU",
+        "ts": "1752684714.642294",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d94ed51e-ba37-1227-4101-03e55f790831",
+        "type": "message",
+        "text": "<@UC95B7VAFX0> Clearwater Property Group Co. asking for an SLA credit",
+        "user": "U34NH0P5TMZ",
+        "ts": "1752690779.957605",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddc24501-732e-c506-1e34-fc0af30f084a",
+        "type": "message",
+        "text": "Wexford Distribution Co. reporting sync failures since this morning, CSM is Donald MacLeod",
+        "user": "U5X9PNA34DU",
+        "ts": "1752693949.322337",
+        "team": "T02BRNDLCV"
+    }
+]

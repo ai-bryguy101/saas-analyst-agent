@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "016b12ab-1da2-f9f1-d165-e99612357902",
+        "type": "message",
+        "text": "<@UWLZTMJ6YM7> Kestrel SSO cutover tonight",
+        "user": "UX84HDPARWN",
+        "ts": "1641908515.535525",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UX84HDPARWN",
+            "ts": "1641932843.083892"
+        }
+    },
+    {
+        "client_msg_id": "5c669f80-f58a-f297-dd10-c18991b7cfd5",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "U5TERVWF7JH",
+        "ts": "1641916886.351507",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18ac40f9-d38d-7feb-7c89-6edc5922d833",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UE4GTX0EXPH",
+        "ts": "1641938709.441688",
+        "team": "T02BRNDLCV"
+    }
+]

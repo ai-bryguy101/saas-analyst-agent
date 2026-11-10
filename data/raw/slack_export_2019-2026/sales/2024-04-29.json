@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "b7039a19-68ff-0a34-ff66-fc3063a31567",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UQLM603293J",
+        "ts": "1714427248.465342",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "011a742f-5de3-c8bd-20fc-b2546f40c5d2",
+        "type": "message",
+        "text": "Closed Valley Mills Corp.! 204 seats, Starter",
+        "user": "UNFVCYNZT6K",
+        "ts": "1714430927.425997",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fff1dc6e-7a0f-698f-d9cb-285214f56806",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1714432217.825538",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe5079d6-704a-e28d-dc2e-1345e135c5ce",
+        "type": "message",
+        "text": "Closed Crescent Works LLC! 314 seats, Starter",
+        "user": "UB8UH2KX2NW",
+        "ts": "1714436416.298219",
+        "team": "T02BRNDLCV"
+    }
+]

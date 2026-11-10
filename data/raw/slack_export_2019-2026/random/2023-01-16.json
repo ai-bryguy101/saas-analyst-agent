@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "f9ed2049-b1ff-481b-cc97-7ac24185579f",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UUFS9CP1A17",
+        "ts": "1673878469.628738",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8b958350-624b-58da-a0ae-ba775a727503",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMXMN24FN4K",
+        "ts": "1673890645.963315",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UXXA9L8HH83"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UMXMN24FN4K",
+            "ts": "1673917039.501601"
+        }
+    },
+    {
+        "client_msg_id": "d47a6056-c891-1424-b23b-3c9f7ef21262",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> anyone want coffee",
+        "user": "UQK194B1V43",
+        "ts": "1673898215.891576",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e595a543-27aa-d943-5b1a-a7166743ad42",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1673898229.648994",
+        "team": "T02BRNDLCV"
+    }
+]

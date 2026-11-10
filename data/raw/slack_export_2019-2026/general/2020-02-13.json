@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "2129b9b8-fc53-a010-ad05-43445d5e9791",
+        "type": "message",
+        "text": "<@UBHB6GTB73U> Benefits enrollment closes Friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1581601151.412009",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2f0e277-2a4c-11e7-22c0-87719dbedc27",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UQTUT2GDN85",
+        "ts": "1581627156.344076",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7daf2e50-420f-05b9-9d2f-82d33c7c51ad",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "URWNWW8QFM6",
+        "ts": "1581631627.925590",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "eaab8bc0-0a7f-ef36-761e-bb63c431956f",
+        "type": "message",
+        "text": "Welcome Gabriel Morgan to the Engineering team!",
+        "user": "UVQRW5SQSEL",
+        "ts": "1581635088.721665",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

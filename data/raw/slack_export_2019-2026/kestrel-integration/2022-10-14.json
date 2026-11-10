@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "4e879f27-4964-11d9-bb4b-44233200db82",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1665757791.954541",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fe63985-5e93-e627-954b-9d4b729cc6f2",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U9XCAUGPS1F",
+        "ts": "1665783066.450144",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9XCAUGPS1F",
+            "ts": "1665790183.270056"
+        }
+    },
+    {
+        "client_msg_id": "a22c132a-1171-0f01-712d-d2fc82f83841",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UPHFQAHDPSK",
+        "ts": "1665787220.477103",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UPHFQAHDPSK",
+            "ts": "1665773422.749093"
+        }
+    }
+]

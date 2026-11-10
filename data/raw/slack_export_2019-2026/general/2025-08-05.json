@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "f447c190-972d-2e1f-70f5-1ad4609c28fc",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UBHB6GTB73U",
+        "ts": "1754408033.495246",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d122204-588b-df35-7f38-2db8e98ab7c1",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UG4ETD69L1D",
+        "ts": "1754408935.035123",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "019070be-3caa-03a1-ca3b-328ef6bb8c5b",
+        "type": "message",
+        "text": "Welcome Vincent Dubois to the Support team!",
+        "user": "UB8UH2KX2NW",
+        "ts": "1754441329.024415",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1754422135.669029"
+        }
+    }
+]

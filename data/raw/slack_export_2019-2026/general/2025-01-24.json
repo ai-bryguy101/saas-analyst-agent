@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "8674c4c9-1178-ecab-a716-e78e97b9bd71",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U0E67MPWRXA",
+        "ts": "1737723722.370128",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "494cbc95-ecae-aed8-29bb-b50abe337142",
+        "type": "message",
+        "text": "Welcome Ines Delacroix to the Support team!",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1737724145.716574",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5726126f-eb01-8170-ba67-f588b3cc3b53",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UJKZ2R47YW9",
+        "ts": "1737753451.341145",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "61f0d070-1093-9713-8de0-9458ea48d2f5",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U773RMBLF5X",
+        "ts": "1737755889.133407",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f2ac2ce-08fc-407f-c702-eb124cbc86bd",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "U8SR98620D7",
+        "ts": "1737757149.721089",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6dbe2de9-8601-9ece-aead-dd7b4ab73a2d",
+        "type": "message",
+        "text": "Welcome Jae-won Park to the Customer Success team!",
+        "user": "UDDBYSY4RFA",
+        "ts": "1737757596.448367",
+        "team": "T02BRNDLCV"
+    }
+]

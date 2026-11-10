@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "847f93bc-5ca2-8f53-39da-f3025ecad38a",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U8SR98620D7",
+        "ts": "1658930755.195888",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a946f658-a080-6f77-9307-d4a6ae5441f0",
+        "type": "message",
+        "text": "Welcome Hamid Roberts to the Customer Success team!",
+        "user": "UAHZYQG5URJ",
+        "ts": "1658934050.949091",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UAHZYQG5URJ",
+            "ts": "1658954822.846123"
+        }
+    },
+    {
+        "client_msg_id": "994388d0-3f6e-10ae-a128-a0620f4f1895",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U2LMMLL4F31",
+        "ts": "1658937126.395518",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bc768d8-e975-df5a-02e8-91dcab73782b",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "UT9KGXWKHLB",
+        "ts": "1658939717.206212",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3cf2f1d4-57d0-3031-9d03-02b5bc8a28ea",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UFJUKVTAA1B",
+        "ts": "1658942530.119074",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5adaa162-8f7b-22a8-404a-cecfec26f427",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UJQY3Q26RVW",
+        "ts": "1658967427.661392",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "5c4261a2-c568-267e-8b51-0566d79ffe20",
+        "type": "message",
+        "text": "rolling back v7.31.3",
+        "user": "UR12Y3AZNKK",
+        "ts": "1704896839.011533",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c86150db-c299-fb4c-7d2d-c0e4afb18215",
+        "type": "message",
+        "text": "deploy v8.8.6 to prod :rocket:",
+        "user": "UP51TVUPQU5",
+        "ts": "1704921261.984078",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32764083-a860-2991-c2f6-f25fdae8e7ff",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1704924931.585674",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e196ee02-c1b7-d751-914d-64a9d361bf77",
+        "type": "message",
+        "text": "rolling back v7.7.7",
+        "user": "UFNKJQT8PV1",
+        "ts": "1704934102.026180",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

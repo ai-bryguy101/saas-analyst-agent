@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "7a7d7029-4777-d39b-34ee-60205b675e4b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1678194849.832448",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "710d8d42-8a26-b977-e9c5-b90c73a45f49",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "URWNWW8QFM6",
+        "ts": "1678201618.403952",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6a20dbb-8738-88e3-c415-c4db524fd1f1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UPGXMWMDQNR",
+        "ts": "1678220149.050425",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "762eab3b-4fd2-264b-d7df-ef16a5a29335",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UNPKZYBKYGA",
+        "ts": "1590515231.031042",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7687b3ce-1c5a-8564-073f-3c72dbc1b73b",
+        "type": "message",
+        "text": "FX rates loaded for May 2020",
+        "user": "UX84HDPARWN",
+        "ts": "1590526332.380417",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0a13314f-14f6-9bfa-086a-332807007c03",
+        "type": "message",
+        "text": "Halvorsen Mills Co. paid by wire, applying now",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1590533709.341770",
+        "team": "T02BRNDLCV"
+    }
+]

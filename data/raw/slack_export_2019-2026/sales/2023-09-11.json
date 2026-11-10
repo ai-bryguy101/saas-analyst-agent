@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1a2db65e-a918-4cd5-6b15-ce80e595813b",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Lost Sycamore Maintenance Co to Plinthwise on price",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1694465792.083068",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a0013b93-371f-976a-8b7a-4f571e12ec7b",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U69WX6HRQNH",
+        "ts": "1694469545.350811",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UP51TVUPQU5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

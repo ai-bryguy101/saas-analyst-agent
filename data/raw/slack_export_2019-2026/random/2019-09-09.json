@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "ab645a88-24bc-b2d6-1261-5045cec26d10",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UX84HDPARWN",
+        "ts": "1568036494.929584",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a32dd440-c244-8823-a139-c634a4bf14d1",
+        "type": "message",
+        "text": "the parking lot is flooded lol",
+        "user": "U5X9PNA34DU",
+        "ts": "1568045717.290043",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e846e08c-015c-ba22-fa45-ed5a51bb5636",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UQTUT2GDN85",
+        "ts": "1568068571.440206",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

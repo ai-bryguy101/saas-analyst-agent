@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "513d4e30-ab05-2b0a-9d59-9ec118143f6e",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UDCALCM1RUG",
+        "ts": "1716837153.216533",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "147ae131-db1d-27a2-4ed4-a2f09d211afe",
+        "type": "message",
+        "text": "new dog pics in thread",
+        "user": "UJQY3Q26RVW",
+        "ts": "1716840410.903979",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQLM603293J"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

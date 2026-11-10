@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "fd53d758-d2b2-a89f-36e8-700fc430fde8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UQK194B1V43",
+        "ts": "1778698755.690337",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5bb8fd1a-1c22-779d-d140-3fb2d377bd55",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UXXA9L8HH83",
+        "ts": "1778704353.236310",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXXA9L8HH83",
+            "ts": "1778699483.957904"
+        }
+    }
+]

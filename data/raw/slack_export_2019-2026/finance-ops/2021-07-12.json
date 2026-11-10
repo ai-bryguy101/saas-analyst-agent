@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "7106adda-ffe2-efbd-43cd-55dafe65734a",
+        "type": "message",
+        "text": "Marrow Janitorial Co. paid by wire, applying now",
+        "user": "UKMQNTKUR4V",
+        "ts": "1626102019.852714",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UKMQNTKUR4V",
+            "ts": "1626127955.049493"
+        }
+    },
+    {
+        "client_msg_id": "30476e8a-340e-b37d-9655-88342e5cdd5d",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1626106494.075519",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3ca6a153-d5e0-07be-09a2-d01bf15b00fd",
+        "type": "message",
+        "text": "Eastlake Restoration Corp. paid by wire, applying now",
+        "user": "UYFL6320JLT",
+        "ts": "1626110834.517553",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8ee4bab-8062-341f-501f-7d9996fc3787",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UFGLBSDS2XV",
+        "ts": "1626113336.367206",
+        "team": "T02BRNDLCV"
+    }
+]

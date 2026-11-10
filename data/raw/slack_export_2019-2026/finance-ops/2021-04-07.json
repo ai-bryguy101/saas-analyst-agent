@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "bdae6b01-2fa2-909b-4d11-008a86a22b4f",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXS2WD4BYRN",
+        "ts": "1617805488.316081",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c3bae6e-4137-5d9a-4b6b-8ba1164a7cd0",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1617809523.633114",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "70e4d918-58a0-e56b-94d6-5ad7e7addaff",
+        "type": "message",
+        "text": "Shenandoah University Facilities paid by wire, applying now",
+        "user": "UFJUKVTAA1B",
+        "ts": "1617819531.763325",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

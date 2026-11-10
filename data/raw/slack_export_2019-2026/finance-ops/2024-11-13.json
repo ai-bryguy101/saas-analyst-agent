@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "454199de-dbfa-12dd-a171-4fb0d9ecea69",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1731510696.968845",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f41654d-5850-fa94-2506-090db1cfb667",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2024",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1731513758.325600",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UP8JCWGGNJ4",
+            "ts": "1731515224.017841"
+        }
+    },
+    {
+        "client_msg_id": "6bb6dd5f-0385-4a80-bf4b-f7236982a933",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UC70JNE74S7",
+        "ts": "1731519446.033525",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "230c2bbf-bcb9-ccd4-7d2e-8369eb0d4cfe",
+        "type": "message",
+        "text": "AR aging is up, Willow Health System Holdings is 90+ days",
+        "user": "UYFL6320JLT",
+        "ts": "1731520670.297639",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "793f40c2-b132-e6d9-dd29-0bf9b6c6af8f",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UC70JNE74S7",
+        "ts": "1731522639.227495",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC70JNE74S7",
+            "ts": "1731504694.771713"
+        }
+    },
+    {
+        "client_msg_id": "0ba18c4e-1bf4-a92d-cd38-e9931060e858",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1731525640.942455",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UM2UVLXX7MZ",
+            "ts": "1731506531.759811"
+        }
+    },
+    {
+        "client_msg_id": "c0d231a1-084f-8833-59a6-4ebd4f4c2a6b",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3KL08VJD8C",
+        "ts": "1731528790.893556",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "388e012f-a987-6a5a-8356-99d54bc03725",
+        "type": "message",
+        "text": "Millbrook Logistics paid by wire, applying now",
+        "user": "U0V9BPHARQX",
+        "ts": "1731530942.330327",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18395a9b-55f1-df7b-9809-d8f0bbb49e77",
+        "type": "message",
+        "text": "<@UUDLJ7GDXKE> FX rates loaded for Nov 2024",
+        "user": "U9SD2024Q7F",
+        "ts": "1731531941.417159",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d8f0dc76-656d-6831-220a-a31088412eee",
+        "type": "message",
+        "text": "Miami Mills Co. paid by wire, applying now",
+        "user": "UYR8E48FJ62",
+        "ts": "1731533382.032163",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c25c5e84-e2ba-71b0-2e30-242e89654746",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2024",
+        "user": "UP51TVUPQU5",
+        "ts": "1731534928.569142",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

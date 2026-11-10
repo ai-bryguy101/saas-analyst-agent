@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "640da484-b0cc-1d56-6346-f71b3422dd6e",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UPGXMWMDQNR",
+        "ts": "1771437727.237996",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6ad293f-10be-636d-d702-e797935fb188",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UDDBYSY4RFA",
+        "ts": "1771438341.350352",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDDBYSY4RFA",
+            "ts": "1771454530.015087"
+        }
+    },
+    {
+        "client_msg_id": "e5cc6e84-0745-3932-ae28-ebcd8a15c4c1",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1771450171.870426",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "26c53898-116a-5b1a-0d6e-1e1e034a17e4",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1758902948.126620",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5afe5c4b-9372-17ea-7035-1f2eeb174c77",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1758907748.259501",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a12e4689-cb51-c7b8-c531-953ae024724c",
+        "type": "message",
+        "text": "Lost Halvorsen County Facilities Group to Plinthwise on price",
+        "user": "UFWAQ6E76D6",
+        "ts": "1758908686.775514",
+        "team": "T02BRNDLCV"
+    }
+]

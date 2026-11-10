@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "47609b48-f97a-834a-cc82-0737cfec2c85",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1779286272.002949",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#55457 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce0cb75f-8613-0f7b-2a82-9414d2dd7faa",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UB8UH2KX2NW",
+        "ts": "1779300247.186747",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a7a8b53a-a4a2-9db7-d333-502004a87bcd",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1779315420.193060",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#21190 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3784371-837f-caa2-1ef6-0d19e60be5b9",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UA3MVBJWAHX",
+        "ts": "1779319548.640803",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f3b7933f-1194-92a9-bf1d-ff5e3cc3fcfc",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UB8UH2KX2NW",
+        "ts": "1779320470.102568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9f212179-d348-f544-d3ef-0ff84d9ee64e",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UP51TVUPQU5",
+        "ts": "1779322717.151997",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

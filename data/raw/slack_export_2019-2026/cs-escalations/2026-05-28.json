@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "90127082-b927-a33a-349f-24f6d5782132",
+        "type": "message",
+        "text": "Can someone check Campbell Academy's invoice? They say they were double billed",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1779973619.673973",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a45be835-caee-a801-f28a-70dc80724c0c",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Renewal risk: Frontier Works Co. unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1779977225.532554",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1fb10ce8-fcd7-f2dc-df82-c14bd2e931cc",
+        "type": "message",
+        "text": "Renewal risk: Heritage Unified Schools unhappy with mobile app",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1779987084.051266",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7dea1bb-1dbd-99ba-ca5a-0acb8cf76551",
+        "type": "message",
+        "text": "Renewal risk: Clearwater Properties Inc. unhappy with mobile app",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1779989731.046389",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "445ae7a2-adf5-13f2-331d-ca8224c29de5",
+        "type": "message",
+        "text": "Jimenez Transit Authority Ltd. wants an exec call about the outage",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1779991503.665912",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b7be49d6-9842-bf3e-845b-552789bfd299",
+        "type": "message",
+        "text": "Eastlake Residential Corp. wants an exec call about the outage",
+        "user": "UFWAQ6E76D6",
+        "ts": "1780001781.296616",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e462b537-b7a8-9e03-1cd0-8005a9307c47",
+        "type": "message",
+        "text": "Marrow Construction Holdings reporting sync failures since this morning, CSM is Dylan Hughes",
+        "user": "UDDBYSY4RFA",
+        "ts": "1780006889.362216",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93f6487e-298f-21fe-e6b0-72723d2ed1ed",
+        "type": "message",
+        "text": "Can someone check Green Medical Center Corp.'s invoice? They say they were double billed",
+        "user": "U2CKCF24AEA",
+        "ts": "1780011669.858652",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2CKCF24AEA",
+            "ts": "1779994733.034403"
+        }
+    }
+]

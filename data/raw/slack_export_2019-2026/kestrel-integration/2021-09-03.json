@@ -1,0 +1,22 @@
+[
+    {
+        "client_msg_id": "60f765e6-ff34-5235-951f-559b68e7e72c",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Who owns Lantern pricing?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1630680020.777583",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "abea54dd-9d46-f221-82e9-6d10392a58fe",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UWBW507RCA9",
+        "ts": "1630688074.434197",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWBW507RCA9",
+            "ts": "1630687271.664343"
+        }
+    }
+]

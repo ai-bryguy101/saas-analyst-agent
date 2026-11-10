@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "4147bb8e-6850-bc74-165c-885b4a2d4953",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U9V01K22TU1",
+        "ts": "1654522537.992356",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e17ad0d3-9d9d-a8ab-0289-2a0cfba43cc8",
+        "type": "message",
+        "text": "Closed Tri-County School District Co.! 28 seats, Enterprise",
+        "user": "U7V33ZEGRET",
+        "ts": "1654525380.828982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d090c6d6-6517-4cb1-d82b-c04c809ed856",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UXXA9L8HH83",
+        "ts": "1654552521.758352",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96251e02-cd97-b87a-5738-aa5f8ea671ca",
+        "type": "message",
+        "text": "<@U3DBR7QKZWE> Pricing question: does Pro include Dispatch?",
+        "user": "UZJU9N8CY2T",
+        "ts": "1654560068.371564",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b81bcc6a-7282-6aa1-ff0a-c309a7f8782e",
+        "type": "message",
+        "text": "<@U0E67MPWRXA> Closed Oakmere College LLC! 295 seats, Pro",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1654561555.797087",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "URFUZYLCAEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2715978-19c7-dd37-52ad-2938fc736c5d",
+        "type": "message",
+        "text": "Closed Crescent Hotels! 66 seats, Starter",
+        "user": "UV9KPNCPQJN",
+        "ts": "1654562374.235894",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

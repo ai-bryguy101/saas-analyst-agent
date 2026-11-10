@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "21a7a859-a890-6bd1-1dc8-9d629eaf8f78",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1717431791.541907",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "eb1fe001-c90a-275a-e41e-4cc6923dbc1a",
+        "type": "message",
+        "text": "Can someone check Elmhurst Couriers Corp.'s invoice? They say they were double billed",
+        "user": "UT7K74ALYGQ",
+        "ts": "1717444890.023061",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9db5831-245f-1736-88c6-6d0bc4d1c0de",
+        "type": "message",
+        "text": "Kestrel Couriers Co. reporting sync failures since this morning, CSM is Amara Brown",
+        "user": "U5X9PNA34DU",
+        "ts": "1717448348.169143",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "50b25249-8718-9768-8ce9-52631cc37c7b",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2022",
+        "user": "UH9DL28T3MH",
+        "ts": "1651246198.493866",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e4324b8-ac1a-c165-a6a0-b36f67bc9fe0",
+        "type": "message",
+        "text": "AR aging is up, Saguaro College is 90+ days",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1651247605.312809",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6471c061-0d25-a693-dc1f-8064da4fd68a",
+        "type": "message",
+        "text": "AR aging is up, Ashford Residential LLC is 90+ days",
+        "user": "U2CKCF24AEA",
+        "ts": "1651270535.470510",
+        "team": "T02BRNDLCV"
+    }
+]

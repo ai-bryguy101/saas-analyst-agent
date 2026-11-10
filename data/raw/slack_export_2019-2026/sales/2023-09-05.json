@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "2a61fab3-6cca-28a6-3eba-bbd2c2437d62",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UC70JNE74S7",
+        "ts": "1693922475.265082",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "63e1d802-89bf-d3dd-95cc-58a8f9d56a15",
+        "type": "message",
+        "text": "Keystone Stores LLC wants a discount, how far can I go?",
+        "user": "U2CKCF24AEA",
+        "ts": "1693923250.534950",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U2CKCF24AEA",
+            "ts": "1693932771.787583"
+        }
+    },
+    {
+        "client_msg_id": "c8515d50-aa45-ac78-9983-46cccc0918aa",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1693925625.023959",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "83638654-0c18-19a7-1aa9-104f67d20288",
+        "type": "message",
+        "text": "Closed Sanchez Construction Holdings! 248 seats, Starter",
+        "user": "UDDBYSY4RFA",
+        "ts": "1693937002.304776",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

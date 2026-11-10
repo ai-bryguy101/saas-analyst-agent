@@ -86,8 +86,10 @@ contract-specific discounts that appear only in the contract.
 | E017–E019 | — | Heads of the acquired companies |
 | E020 | Noor Haddad | Data Analyst |
 
-Email addresses change with the era: `@brindledata.com` before the rename,
-`@brindlecove.com` after, and acquired staff keep their old domain for a while.
+Email addresses change with the era: `@brindledata.example` before the rename,
+`@brindlecove.example` after, and acquired staff keep their old domain
+(`@tallyflow.example`, `@meridiandispatch.example`, `@kestrel-analytics.example`)
+for a while. Every domain in the estate uses the reserved `.example` suffix.
 
 ## Systems by era
 
@@ -117,6 +119,26 @@ Email addresses change with the era: `@brindledata.com` before the rename,
 | Meetings | 2019– | `meetings/` | WebVTT and Teams-style transcripts |
 | Integrations | 2013– | `integrations/` | SOAP XML, webhook JSON, X12 EDI 850 |
 | Config | 2011– | `config/` | YAML, INI (CRLF), `.properties` |
+| Lotus 1-2-3 budgets | 1996–1997 | `finance_lotus_1997/` | Binary `.WK1` |
+| BRIX print reports | 2009–2010 | `brix_mainframe/reports/` | 132-column `.PRN` print-to-file, form feeds |
+| QuickBooks (TallyFlow) | 2012–2014 | `billing_tallyflow_2012-2014/quickbooks/` | `.IIF` tab-delimited |
+| Phone system | 2018– | `phone_system/`, `voicemail_transcripts/` | CUCM CDR CSV (UTC epoch), speech-to-text voicemail |
+| Fax server | 2019–2021 | `fax_server/` | Multi-page CCITT G4 TIFF |
+| Slack | 2019– | `slack_export_2019-2026/` | Slack export JSON, one file per channel per day |
+| Teams (Kestrel) | 2021–2023 | `teams_export_kestrel_2021-2023/` | Graph chatMessage JSON with HTML bodies |
+| Phones | 2017–2023 | `phone_backups/`, `contacts/` | SMS Backup XML, iMessage CSV, vCard 2.1/3.0 |
+| Calendars | 2019– | `calendars/` | iCalendar `.ics` with recurrence rules |
+| Gong | 2023– | `sales_calls_gong/` | Call JSON with diarised transcript |
+| File server FS01 | –2019 | `file_shares/`, `it_ops/` | Share backup zip, Windows Security event XML, AD LDIF |
+| AWS data lake | 2023– | `datalake/` | Parquet (Hive partitions), Avro CDC, protobuf audit log |
+| Okta | 2019– | `identity/` | User export CSV |
+| Web servers | 2025 | `web_logs/` | nginx access logs (gzip) |
+| Infra as code | 2023– | `infra/` | Terraform, Kubernetes YAML, Dockerfile |
+| Diagrams | 2021–2023 | `architecture/` | draw.io (one compressed), Graphviz |
+| Marketing | 2019– | `marketing/` | Google Ads UTF-16 TSV, UA CSV, Mailchimp, Qualtrics |
+| Accounts payable | 2016–2023 | `ap_vendor_invoices/` | Vendor PDFs in three layouts, AcroForm |
+| St. Brigid's interface | 2024 | `integrations/hl7_stbrigids/` | HL7 v2.5 ADT over MLLP |
+| Images | 2019– | `photos/`, `scans/`, `expenses/` | JPEG with EXIF, PNG scans of handwriting |
 
 ## ID schemes (how to join across systems)
 
@@ -130,6 +152,8 @@ Email addresses change with the era: `@brindledata.com` before the rename,
 | Meridian | client code | French field names in exports |
 | Billing v3 | `cus_…`, invoices `in_…`, credit notes `cn_…` | `metadata.sfdc_id`, `metadata.netsuite_id` |
 | NetSuite | `C10362` + name in GL rows, internal id `10011` | |
-| Telemetry | `account_id` (v1) then `tenant_id` slug (v2) | Map with `tenants.csv` |
+| Telemetry | `account_id` (v1) then `tenant_id` slug (v2) | Map with `tenants.csv`. The data lake uses the slug too |
+| Billing CDC | `sub_…` subscription, `cus_…` customer | Same ids as `billing_v3` |
+| People | `E001` internally; Slack `U…`, Okta `00u…`, AD `sAMAccountName` and SID, phone extension | Map with `slack users.json`, `okta_users_export`, the LDIF and `phone_system/extensions.csv` |
 
 No single key covers every system. Joining is part of the job.

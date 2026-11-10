@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "62808d6d-8a48-8caf-a010-3bae8a81add0",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2024",
+        "user": "UFULM18ZBQ6",
+        "ts": "1718808428.982790",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFULM18ZBQ6",
+            "ts": "1718805751.833857"
+        }
+    },
+    {
+        "client_msg_id": "16aa9878-a8eb-2da9-d5da-d9cb5ee0ccb6",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U0V9BPHARQX",
+        "ts": "1718821870.321227",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e398fe23-6708-bcdc-07bc-4a4f87466411",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2024",
+        "user": "UQXT5A6YMVH",
+        "ts": "1718826129.829586",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UJKZ2R47YW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7a7684a-ca4e-1045-43ca-9bede3ab76db",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXS2WD4BYRN",
+        "ts": "1718829472.600668",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0f5a457e-1366-e141-d0e3-e15457eb80f1",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1718837000.620080",
+        "team": "T02BRNDLCV"
+    }
+]

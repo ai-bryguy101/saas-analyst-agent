@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "53d1d33b-5761-c9e7-3dee-81885bcd1f7e",
+        "type": "message",
+        "text": "Lost Lakeshore Retail Group Co. to Plinthwise on price",
+        "user": "U09CZFTHQSS",
+        "ts": "1639586286.800416",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e1e213c-2662-3bf6-7c35-0978d08acdfe",
+        "type": "message",
+        "text": "Gomez County Facilities wants a discount, how far can I go?",
+        "user": "UVX5HCR5MMD",
+        "ts": "1639593466.830595",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UVX5HCR5MMD",
+            "ts": "1639611666.099796"
+        }
+    },
+    {
+        "client_msg_id": "e2b7053c-7d79-be9c-5057-aeb6c4bf72c8",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UAGQX7APZBG",
+        "ts": "1639599285.329145",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UAGQX7APZBG",
+            "ts": "1639614825.124592"
+        }
+    },
+    {
+        "client_msg_id": "14db9d44-fb49-9760-b277-0ffcfaa6e1ed",
+        "type": "message",
+        "text": "Closed Muskingum Homes Ltd.! 197 seats, Pro",
+        "user": "U9V01K22TU1",
+        "ts": "1639605561.561685",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c57dc16f-4a5f-9b9a-a4a8-dbe460330be2",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UCQT1GS0C0C",
+        "ts": "1639607871.857971",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "735ffd5b-9019-12a8-a1d4-ff15944c212a",
+        "type": "message",
+        "text": "Closed Ridgeline Manufacturing! 90 seats, Pro",
+        "user": "UE49ET7WGNU",
+        "ts": "1719321106.051202",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aa9dc548-2cf3-d07e-f55a-c325aad56f1d",
+        "type": "message",
+        "text": "Beacon Homes Inc. wants a discount, how far can I go?",
+        "user": "UX84HDPARWN",
+        "ts": "1719328263.682197",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bdbb9ea0-aaaf-53fe-9cda-b5347d7e46a9",
+        "type": "message",
+        "text": "Anyone have a reference customer in Manufacturing?",
+        "user": "UAGQX7APZBG",
+        "ts": "1719334958.560558",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c348f8a-a335-1ee9-f234-9afaeee67136",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UAXWVBRVKW9",
+        "ts": "1719335664.994779",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UAXWVBRVKW9",
+            "ts": "1719350127.824058"
+        }
+    },
+    {
+        "client_msg_id": "94ed5574-a9ba-c32f-3b20-4c44ffe14805",
+        "type": "message",
+        "text": "Lost Wexford Homes Ltd. to Plinthwise on price",
+        "user": "U773RMBLF5X",
+        "ts": "1719360474.455788",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

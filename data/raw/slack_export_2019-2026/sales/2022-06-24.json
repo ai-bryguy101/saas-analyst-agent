@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "ebfb8e33-1713-6335-f29b-ce9480948d0a",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1656093971.616698",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b86a93b-b6ac-788e-6039-3acede847a2a",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UMDHKXLV8RH",
+        "ts": "1656117770.696701",
+        "team": "T02BRNDLCV"
+    }
+]

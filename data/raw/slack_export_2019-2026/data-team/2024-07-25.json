@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "dd0eb20b-283e-9ef9-62fb-94202b5372bc",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UR3LDWKU006",
+        "ts": "1721924190.637154",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c669d713-1359-537e-a5be-a76642cf4b23",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UZJU9N8CY2T",
+        "ts": "1721929598.997864",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "79a767ab-69c8-41c0-a9ad-29984077e0e8",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "UPHFQAHDPSK",
+        "ts": "1786977389.610801",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "06e7efaa-d3cf-fc00-3e8b-46d4aa12c13c",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "U22GUF0P303",
+        "ts": "1786987333.532920",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "02ecb060-0c6e-2359-d08d-66672c3a3cb3",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Can I get ARR by region for the board?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1786997049.312559",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51061bc5-f9e8-e093-44bd-7bbaddc0adac",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQK194B1V43",
+        "ts": "1786999657.611832",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U7V33ZEGRET"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d19c6ce-fdc7-4ef7-fc6c-2f7947cab860",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UQXT5A6YMVH",
+        "ts": "1787000852.467315",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aad5b756-45c5-6f1b-04d5-bb6a27fb0521",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UE4GTX0EXPH",
+        "ts": "1787001513.523559",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b03d4bc-2996-295e-4353-2269661d26e3",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "UE49ET7WGNU",
+        "ts": "1787011612.313305",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

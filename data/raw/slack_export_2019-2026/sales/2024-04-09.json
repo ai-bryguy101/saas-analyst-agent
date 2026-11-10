@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "80443dd1-3827-2d76-bec5-b432c31a6289",
+        "type": "message",
+        "text": "Price-Jones Hotels wants a discount, how far can I go?",
+        "user": "URFUZYLCAEC",
+        "ts": "1712670289.082377",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01ec17bd-6590-54d4-0848-69a54b657ba0",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UP51TVUPQU5",
+        "ts": "1712679229.973027",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UP51TVUPQU5",
+            "ts": "1712708056.537461"
+        }
+    },
+    {
+        "client_msg_id": "e182a652-204f-f027-6834-cf35b78acb8a",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Lost Tillamook Facilities Management Inc. to Plinthwise on price",
+        "user": "U3EQ075NUYR",
+        "ts": "1712684747.418073",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c7f6a91-116f-ff36-b37e-b7de59a807e8",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Lost Martinez Contracting Inc. to Plinthwise on price",
+        "user": "U8SR98620D7",
+        "ts": "1712700421.841107",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f932ea9a-00aa-48a7-86fc-0e0f15051436",
+        "type": "message",
+        "text": "Lost Zhang Stores Group to Plinthwise on price",
+        "user": "UXS2WD4BYRN",
+        "ts": "1712702357.412949",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

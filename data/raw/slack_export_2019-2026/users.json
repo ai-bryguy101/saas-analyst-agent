@@ -1,0 +1,2441 @@
+[
+    {
+        "id": "UVRFQ9LWEVK",
+        "team_id": "T02BRNDLCV",
+        "name": "mokonkwo-hale",
+        "deleted": false,
+        "color": "f0799d",
+        "real_name": "Margaret Okonkwo-Hale",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "CEO",
+            "real_name": "Margaret Okonkwo-Hale",
+            "display_name": "mokonkwo-hale",
+            "email": "mokonkwo-hale@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": true,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1619954904
+    },
+    {
+        "id": "UPHFQAHDPSK",
+        "team_id": "T02BRNDLCV",
+        "name": "lwhitlock",
+        "deleted": false,
+        "color": "488603",
+        "real_name": "Lorraine Whitlock",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "CFO",
+            "real_name": "Lorraine Whitlock",
+            "display_name": "lwhitlock",
+            "email": "lwhitlock@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1655978640
+    },
+    {
+        "id": "UB0YL0LKYC7",
+        "team_id": "T02BRNDLCV",
+        "name": "gashdown",
+        "deleted": true,
+        "color": "28af94",
+        "real_name": "Gideon Ashdown",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Gideon Ashdown",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1632349945
+    },
+    {
+        "id": "UE4GTX0EXPH",
+        "team_id": "T02BRNDLCV",
+        "name": "praghunathan",
+        "deleted": false,
+        "color": "b24c8b",
+        "real_name": "Priya Raghunathan",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "VP Customer Success",
+            "real_name": "Priya Raghunathan",
+            "display_name": "",
+            "email": "praghunathan@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1618909751
+    },
+    {
+        "id": "UGPRJ4K947R",
+        "team_id": "T02BRNDLCV",
+        "name": "tkowalski",
+        "deleted": false,
+        "color": "4716b3",
+        "real_name": "Tomasz Kowalski",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "VP Engineering",
+            "real_name": "Tomasz Kowalski",
+            "display_name": "",
+            "email": "tkowalski@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1665030433
+    },
+    {
+        "id": "U0V9BPHARQX",
+        "team_id": "T02BRNDLCV",
+        "name": "resposito",
+        "deleted": false,
+        "color": "b268af",
+        "real_name": "Renata Esposito",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "VP Sales",
+            "real_name": "Renata Esposito",
+            "display_name": "renata",
+            "email": "resposito@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1694531211
+    },
+    {
+        "id": "UGUNVSC71NZ",
+        "team_id": "T02BRNDLCV",
+        "name": "ytanaka",
+        "deleted": true,
+        "color": "f52e6b",
+        "real_name": "Yuki Tanaka",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Yuki Tanaka",
+            "display_name": "yuki",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1655453423
+    },
+    {
+        "id": "U3EQ075NUYR",
+        "team_id": "T02BRNDLCV",
+        "name": "cmacleod",
+        "deleted": false,
+        "color": "057f56",
+        "real_name": "Callum MacLeod",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "SRE",
+            "real_name": "Callum MacLeod",
+            "display_name": "cmacleod",
+            "email": "cmacleod@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": true,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1652118640
+    },
+    {
+        "id": "U3KL08VJD8C",
+        "team_id": "T02BRNDLCV",
+        "name": "fadeyemi",
+        "deleted": false,
+        "color": "d508f1",
+        "real_name": "Femi Adeyemi",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "RevOps Analyst",
+            "real_name": "Femi Adeyemi",
+            "display_name": "Femi",
+            "email": "fadeyemi@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1689477324
+    },
+    {
+        "id": "UDCALCM1RUG",
+        "team_id": "T02BRNDLCV",
+        "name": "idelacroix",
+        "deleted": false,
+        "color": "5907d0",
+        "real_name": "Ines Delacroix",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Controller",
+            "real_name": "Ines Delacroix",
+            "display_name": "idelacroix",
+            "email": "idelacroix@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1685147357
+    },
+    {
+        "id": "UUKT5XWJ0GT",
+        "team_id": "T02BRNDLCV",
+        "name": "jpark",
+        "deleted": false,
+        "color": "6d4dfb",
+        "real_name": "Jae-won Park",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Support Lead",
+            "real_name": "Jae-won Park",
+            "display_name": "jae-won",
+            "email": "jpark@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1610643266
+    },
+    {
+        "id": "UXETPKNK8MV",
+        "team_id": "T02BRNDLCV",
+        "name": "afenwick",
+        "deleted": false,
+        "color": "36f5fe",
+        "real_name": "Abigail Fenwick",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "General Counsel",
+            "real_name": "Abigail Fenwick",
+            "display_name": "abigail",
+            "email": "afenwick@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1629475180
+    },
+    {
+        "id": "U94ETEKNM26",
+        "team_id": "T02BRNDLCV",
+        "name": "egagnon",
+        "deleted": true,
+        "color": "9cbf8d",
+        "real_name": "Etienne Gagnon",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "",
+            "real_name": "Etienne Gagnon",
+            "display_name": "Etienne",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1630302523
+    },
+    {
+        "id": "UFGLBSDS2XV",
+        "team_id": "T02BRNDLCV",
+        "name": "bllewellyn",
+        "deleted": true,
+        "color": "622721",
+        "real_name": "Bronwen Llewellyn",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "",
+            "real_name": "Bronwen Llewellyn",
+            "display_name": "bllewellyn",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1644326508
+    },
+    {
+        "id": "UYR8E48FJ62",
+        "team_id": "T02BRNDLCV",
+        "name": "nhaddad",
+        "deleted": false,
+        "color": "30cf9b",
+        "real_name": "Noor Haddad",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Data Analyst",
+            "real_name": "Noor Haddad",
+            "display_name": "",
+            "email": "nhaddad@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1612270145
+    },
+    {
+        "id": "U2LMMLL4F31",
+        "team_id": "T02BRNDLCV",
+        "name": "jreed",
+        "deleted": false,
+        "color": "6785a3",
+        "real_name": "Joseph Reed",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Joseph Reed",
+            "display_name": "",
+            "email": "jreed@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1633547882
+    },
+    {
+        "id": "U4DHNBQWUVZ",
+        "team_id": "T02BRNDLCV",
+        "name": "cedwards",
+        "deleted": false,
+        "color": "a02a58",
+        "real_name": "Carl Edwards",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Account Executive",
+            "real_name": "Carl Edwards",
+            "display_name": "",
+            "email": "cedwards@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1623531494
+    },
+    {
+        "id": "UWBW507RCA9",
+        "team_id": "T02BRNDLCV",
+        "name": "apeterson",
+        "deleted": true,
+        "color": "445f95",
+        "real_name": "Arjun Peterson",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Arjun Peterson",
+            "display_name": "apeterson",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1626517707
+    },
+    {
+        "id": "USW7BR7KTST",
+        "team_id": "T02BRNDLCV",
+        "name": "sbaker",
+        "deleted": false,
+        "color": "e52f79",
+        "real_name": "Samantha Baker",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Samantha Baker",
+            "display_name": "samantha",
+            "email": "sbaker@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1677114906
+    },
+    {
+        "id": "UNFVCYNZT6K",
+        "team_id": "T02BRNDLCV",
+        "name": "lroberts",
+        "deleted": false,
+        "color": "1c331c",
+        "real_name": "Lars Roberts",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Lars Roberts",
+            "display_name": "lroberts",
+            "email": "lroberts@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1634806924
+    },
+    {
+        "id": "UXXA9L8HH83",
+        "team_id": "T02BRNDLCV",
+        "name": "nlefebvre",
+        "deleted": false,
+        "color": "a0b7d6",
+        "real_name": "Ngozi Lefebvre",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Regional Director",
+            "real_name": "Ngozi Lefebvre",
+            "display_name": "ngozi",
+            "email": "nlefebvre@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1628367525
+    },
+    {
+        "id": "UMDHKXLV8RH",
+        "team_id": "T02BRNDLCV",
+        "name": "jcook",
+        "deleted": false,
+        "color": "3f220a",
+        "real_name": "Joao Cook",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Regional Director",
+            "real_name": "Joao Cook",
+            "display_name": "joao",
+            "email": "jcook@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1672156029
+    },
+    {
+        "id": "UG4ETD69L1D",
+        "team_id": "T02BRNDLCV",
+        "name": "hroberts",
+        "deleted": false,
+        "color": "2bcd53",
+        "real_name": "Hamid Roberts",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Sales Manager",
+            "real_name": "Hamid Roberts",
+            "display_name": "hroberts",
+            "email": "hroberts@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1658357131
+    },
+    {
+        "id": "UL8NMQFXPJR",
+        "team_id": "T02BRNDLCV",
+        "name": "ppham",
+        "deleted": false,
+        "color": "84a477",
+        "real_name": "Peter Pham",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Account Executive",
+            "real_name": "Peter Pham",
+            "display_name": "Peter",
+            "email": "ppham@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1620056209
+    },
+    {
+        "id": "U5HQ6U91D2E",
+        "team_id": "T02BRNDLCV",
+        "name": "fortiz",
+        "deleted": false,
+        "color": "7e0626",
+        "real_name": "Frank Ortiz",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Frank Ortiz",
+            "display_name": "Frank",
+            "email": "fortiz@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1636911863
+    },
+    {
+        "id": "U8TVGALMJLQ",
+        "team_id": "T02BRNDLCV",
+        "name": "frobinson",
+        "deleted": true,
+        "color": "246c24",
+        "real_name": "Frances Robinson",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Frances Robinson",
+            "display_name": "frobinson",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1667364347
+    },
+    {
+        "id": "UZJU9N8CY2T",
+        "team_id": "T02BRNDLCV",
+        "name": "azhang",
+        "deleted": false,
+        "color": "5d228f",
+        "real_name": "Alexander Zhang",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Sales Manager",
+            "real_name": "Alexander Zhang",
+            "display_name": "Alexander",
+            "email": "azhang@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1679673192
+    },
+    {
+        "id": "UJRKGMQPU2R",
+        "team_id": "T02BRNDLCV",
+        "name": "rtakahashi",
+        "deleted": false,
+        "color": "086c5e",
+        "real_name": "Renata Takahashi",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Sales Development Rep",
+            "real_name": "Renata Takahashi",
+            "display_name": "renata",
+            "email": "rtakahashi@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1604124906
+    },
+    {
+        "id": "UL20M69UM76",
+        "team_id": "T02BRNDLCV",
+        "name": "jyamamoto",
+        "deleted": false,
+        "color": "80d11d",
+        "real_name": "Julie Yamamoto",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Regional Director",
+            "real_name": "Julie Yamamoto",
+            "display_name": "Julie",
+            "email": "jyamamoto@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1659057645
+    },
+    {
+        "id": "UCQT1GS0C0C",
+        "team_id": "T02BRNDLCV",
+        "name": "klavoie",
+        "deleted": true,
+        "color": "a4178c",
+        "real_name": "Kathryn Lavoie",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Kathryn Lavoie",
+            "display_name": "kathryn",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1669312272
+    },
+    {
+        "id": "U9V01K22TU1",
+        "team_id": "T02BRNDLCV",
+        "name": "kmartinez",
+        "deleted": false,
+        "color": "10de00",
+        "real_name": "Kathleen Martinez",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Account Executive",
+            "real_name": "Kathleen Martinez",
+            "display_name": "Kathleen",
+            "email": "kmartinez@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1651633178
+    },
+    {
+        "id": "UX84HDPARWN",
+        "team_id": "T02BRNDLCV",
+        "name": "njohansson",
+        "deleted": false,
+        "color": "eeab19",
+        "real_name": "Nicole Johansson",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Sales Manager",
+            "real_name": "Nicole Johansson",
+            "display_name": "",
+            "email": "njohansson@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1624412839
+    },
+    {
+        "id": "UWU9WG7ECGY",
+        "team_id": "T02BRNDLCV",
+        "name": "jmarchetti",
+        "deleted": false,
+        "color": "6cf8b8",
+        "real_name": "Jean Marchetti",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Jean Marchetti",
+            "display_name": "jean",
+            "email": "jmarchetti@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1692874681
+    },
+    {
+        "id": "UQLM603293J",
+        "team_id": "T02BRNDLCV",
+        "name": "lgutierrez",
+        "deleted": true,
+        "color": "7804e8",
+        "real_name": "Lawrence Gutierrez",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Lawrence Gutierrez",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1637176542
+    },
+    {
+        "id": "URWNWW8QFM6",
+        "team_id": "T02BRNDLCV",
+        "name": "mramirez",
+        "deleted": false,
+        "color": "a00410",
+        "real_name": "Megan Ramirez",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Megan Ramirez",
+            "display_name": "megan",
+            "email": "mramirez@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1655868014
+    },
+    {
+        "id": "U0VB9M5U3TM",
+        "team_id": "T02BRNDLCV",
+        "name": "bmorris",
+        "deleted": true,
+        "color": "375d03",
+        "real_name": "Bruce Morris",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Bruce Morris",
+            "display_name": "Bruce",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1608938731
+    },
+    {
+        "id": "U5DYUQUF95P",
+        "team_id": "T02BRNDLCV",
+        "name": "eyoung",
+        "deleted": false,
+        "color": "dbdba0",
+        "real_name": "Emma Young",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Emma Young",
+            "display_name": "eyoung",
+            "email": "eyoung@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1682655309
+    },
+    {
+        "id": "U7V33ZEGRET",
+        "team_id": "T02BRNDLCV",
+        "name": "ofoster",
+        "deleted": false,
+        "color": "ef97cd",
+        "real_name": "Olivia Foster",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "Account Executive",
+            "real_name": "Olivia Foster",
+            "display_name": "Olivia",
+            "email": "ofoster@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1676154134
+    },
+    {
+        "id": "UJQ9E01DWPS",
+        "team_id": "T02BRNDLCV",
+        "name": "wlindqvist",
+        "deleted": true,
+        "color": "3a8d0c",
+        "real_name": "Willie Lindqvist",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Willie Lindqvist",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1638950157
+    },
+    {
+        "id": "U34NH0P5TMZ",
+        "team_id": "T02BRNDLCV",
+        "name": "jmendoza",
+        "deleted": false,
+        "color": "8f58fd",
+        "real_name": "Janice Mendoza",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Account Executive",
+            "real_name": "Janice Mendoza",
+            "display_name": "janice",
+            "email": "jmendoza@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1660424238
+    },
+    {
+        "id": "U5TERVWF7JH",
+        "team_id": "T02BRNDLCV",
+        "name": "efontaine",
+        "deleted": true,
+        "color": "658eac",
+        "real_name": "Eugene Fontaine",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Eugene Fontaine",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1679862896
+    },
+    {
+        "id": "U9U3DZUVA3L",
+        "team_id": "T02BRNDLCV",
+        "name": "jokonkwo-hale",
+        "deleted": true,
+        "color": "1ad252",
+        "real_name": "Joyce Okonkwo-Hale",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Joyce Okonkwo-Hale",
+            "display_name": "joyce",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1678159043
+    },
+    {
+        "id": "UFJUKVTAA1B",
+        "team_id": "T02BRNDLCV",
+        "name": "acarter",
+        "deleted": false,
+        "color": "1e9a8f",
+        "real_name": "Alan Carter",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Sales Manager",
+            "real_name": "Alan Carter",
+            "display_name": "",
+            "email": "acarter@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1699573258
+    },
+    {
+        "id": "UC70JNE74S7",
+        "team_id": "T02BRNDLCV",
+        "name": "jperez",
+        "deleted": true,
+        "color": "18d0e8",
+        "real_name": "Justin Perez",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "",
+            "real_name": "Justin Perez",
+            "display_name": "Justin",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1622241605
+    },
+    {
+        "id": "UXVNE61TTLN",
+        "team_id": "T02BRNDLCV",
+        "name": "bwright",
+        "deleted": true,
+        "color": "85f4b7",
+        "real_name": "Bjorn Wright",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "",
+            "real_name": "Bjorn Wright",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1656334050
+    },
+    {
+        "id": "UNKFW783RHY",
+        "team_id": "T02BRNDLCV",
+        "name": "dfoster",
+        "deleted": true,
+        "color": "36fda6",
+        "real_name": "Deepa Foster",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Deepa Foster",
+            "display_name": "Deepa",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1601048235
+    },
+    {
+        "id": "UC95B7VAFX0",
+        "team_id": "T02BRNDLCV",
+        "name": "gsanders",
+        "deleted": false,
+        "color": "bfb09b",
+        "real_name": "Genevieve Sanders",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Renewals Manager",
+            "real_name": "Genevieve Sanders",
+            "display_name": "gsanders",
+            "email": "gsanders@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1697939525
+    },
+    {
+        "id": "UWLZTMJ6YM7",
+        "team_id": "T02BRNDLCV",
+        "name": "bprice",
+        "deleted": false,
+        "color": "49c294",
+        "real_name": "Brandon Price",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Customer Success Manager",
+            "real_name": "Brandon Price",
+            "display_name": "Brandon",
+            "email": "bprice@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1674664037
+    },
+    {
+        "id": "UJQY3Q26RVW",
+        "team_id": "T02BRNDLCV",
+        "name": "rgomez",
+        "deleted": false,
+        "color": "1fcb17",
+        "real_name": "Robert Gomez",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Customer Success Manager",
+            "real_name": "Robert Gomez",
+            "display_name": "rgomez",
+            "email": "rgomez@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1608582779
+    },
+    {
+        "id": "U5X9PNA34DU",
+        "team_id": "T02BRNDLCV",
+        "name": "tbrown",
+        "deleted": false,
+        "color": "09f849",
+        "real_name": "Thomas Brown",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior CSM",
+            "real_name": "Thomas Brown",
+            "display_name": "Thomas",
+            "email": "tbrown@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1688039519
+    },
+    {
+        "id": "UFQYM82M1LX",
+        "team_id": "T02BRNDLCV",
+        "name": "ffitzgerald",
+        "deleted": true,
+        "color": "f28585",
+        "real_name": "Frances Fitzgerald",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Frances Fitzgerald",
+            "display_name": "ffitzgerald",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1639962896
+    },
+    {
+        "id": "URFUZYLCAEC",
+        "team_id": "T02BRNDLCV",
+        "name": "ztanaka",
+        "deleted": false,
+        "color": "063f29",
+        "real_name": "Zachary Tanaka",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Onboarding Specialist",
+            "real_name": "Zachary Tanaka",
+            "display_name": "",
+            "email": "ztanaka@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1675208327
+    },
+    {
+        "id": "UNPKZYBKYGA",
+        "team_id": "T02BRNDLCV",
+        "name": "ntanaka",
+        "deleted": true,
+        "color": "3c426b",
+        "real_name": "Nicholas Tanaka",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "",
+            "real_name": "Nicholas Tanaka",
+            "display_name": "Nicholas",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1631243876
+    },
+    {
+        "id": "UBK8V2J099L",
+        "team_id": "T02BRNDLCV",
+        "name": "aedwards",
+        "deleted": true,
+        "color": "0d041e",
+        "real_name": "Aaron Edwards",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Aaron Edwards",
+            "display_name": "aedwards",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1629159969
+    },
+    {
+        "id": "UDDBYSY4RFA",
+        "team_id": "T02BRNDLCV",
+        "name": "kcartwright",
+        "deleted": false,
+        "color": "a930cc",
+        "real_name": "Katherine Cartwright",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Renewals Manager",
+            "real_name": "Katherine Cartwright",
+            "display_name": "katherine",
+            "email": "kcartwright@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1642603387
+    },
+    {
+        "id": "UNCGDMQATC5",
+        "team_id": "T02BRNDLCV",
+        "name": "mthomas",
+        "deleted": true,
+        "color": "03f11d",
+        "real_name": "Mei Thomas",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Mei Thomas",
+            "display_name": "mei",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1656155213
+    },
+    {
+        "id": "UDMJ2V8P3C5",
+        "team_id": "T02BRNDLCV",
+        "name": "rmoore",
+        "deleted": false,
+        "color": "0b379f",
+        "real_name": "Ryan Moore",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Onboarding Specialist",
+            "real_name": "Ryan Moore",
+            "display_name": "rmoore",
+            "email": "rmoore@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1623022110
+    },
+    {
+        "id": "UFWAQ6E76D6",
+        "team_id": "T02BRNDLCV",
+        "name": "jbouchard",
+        "deleted": false,
+        "color": "3dba99",
+        "real_name": "Jennifer Bouchard",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Renewals Manager",
+            "real_name": "Jennifer Bouchard",
+            "display_name": "jennifer",
+            "email": "jbouchard@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1605807910
+    },
+    {
+        "id": "U9Y2KF0S90E",
+        "team_id": "T02BRNDLCV",
+        "name": "fquillfeather",
+        "deleted": false,
+        "color": "fbe24c",
+        "real_name": "Frank Quillfeather",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Customer Success Manager",
+            "real_name": "Frank Quillfeather",
+            "display_name": "",
+            "email": "fquillfeather@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1666118010
+    },
+    {
+        "id": "UT7K74ALYGQ",
+        "team_id": "T02BRNDLCV",
+        "name": "lfitzgerald",
+        "deleted": false,
+        "color": "ce0e3a",
+        "real_name": "Lawrence Fitzgerald",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Customer Success Manager",
+            "real_name": "Lawrence Fitzgerald",
+            "display_name": "lawrence",
+            "email": "lfitzgerald@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1650058156
+    },
+    {
+        "id": "UAHZYQG5URJ",
+        "team_id": "T02BRNDLCV",
+        "name": "kjackson",
+        "deleted": false,
+        "color": "efa236",
+        "real_name": "Kathleen Jackson",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Customer Success Manager",
+            "real_name": "Kathleen Jackson",
+            "display_name": "kathleen",
+            "email": "kjackson@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1646770638
+    },
+    {
+        "id": "U22GUF0P303",
+        "team_id": "T02BRNDLCV",
+        "name": "gmorgan",
+        "deleted": false,
+        "color": "5b72fc",
+        "real_name": "Gabriel Morgan",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Onboarding Specialist",
+            "real_name": "Gabriel Morgan",
+            "display_name": "gmorgan",
+            "email": "gmorgan@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1663658861
+    },
+    {
+        "id": "UUFS9CP1A17",
+        "team_id": "T02BRNDLCV",
+        "name": "bcalloway",
+        "deleted": false,
+        "color": "9a6b5f",
+        "real_name": "Brian Calloway",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Support Lead",
+            "real_name": "Brian Calloway",
+            "display_name": "",
+            "email": "bcalloway@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1654198752
+    },
+    {
+        "id": "UUDLJ7GDXKE",
+        "team_id": "T02BRNDLCV",
+        "name": "clockwood",
+        "deleted": false,
+        "color": "5cca80",
+        "real_name": "Carl Lockwood",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "Support Engineer",
+            "real_name": "Carl Lockwood",
+            "display_name": "",
+            "email": "clockwood@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1616078552
+    },
+    {
+        "id": "U9XCAUGPS1F",
+        "team_id": "T02BRNDLCV",
+        "name": "jgarcia",
+        "deleted": false,
+        "color": "9be8a0",
+        "real_name": "Jason Garcia",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Support Engineer",
+            "real_name": "Jason Garcia",
+            "display_name": "jgarcia",
+            "email": "jgarcia@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1684119152
+    },
+    {
+        "id": "UAXWVBRVKW9",
+        "team_id": "T02BRNDLCV",
+        "name": "cpark",
+        "deleted": false,
+        "color": "88d8af",
+        "real_name": "Charlotte Park",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Tier 2 Support",
+            "real_name": "Charlotte Park",
+            "display_name": "",
+            "email": "cpark@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1678317842
+    },
+    {
+        "id": "UJKZ2R47YW9",
+        "team_id": "T02BRNDLCV",
+        "name": "tpeterson",
+        "deleted": false,
+        "color": "14b4ac",
+        "real_name": "Tyler Peterson",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "Support Engineer",
+            "real_name": "Tyler Peterson",
+            "display_name": "",
+            "email": "tpeterson@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1685534911
+    },
+    {
+        "id": "U09CZFTHQSS",
+        "team_id": "T02BRNDLCV",
+        "name": "preed",
+        "deleted": false,
+        "color": "212d2d",
+        "real_name": "Patricia Reed",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Support Engineer",
+            "real_name": "Patricia Reed",
+            "display_name": "patricia",
+            "email": "preed@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1658641830
+    },
+    {
+        "id": "UMYYLUTXG9R",
+        "team_id": "T02BRNDLCV",
+        "name": "phuang",
+        "deleted": false,
+        "color": "adc12a",
+        "real_name": "Pamela Huang",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Support Engineer",
+            "real_name": "Pamela Huang",
+            "display_name": "phuang",
+            "email": "phuang@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1645123355
+    },
+    {
+        "id": "U6TBCUVSYPZ",
+        "team_id": "T02BRNDLCV",
+        "name": "rlopez",
+        "deleted": true,
+        "color": "9d47b5",
+        "real_name": "Russell Lopez",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Russell Lopez",
+            "display_name": "Russell",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1612576198
+    },
+    {
+        "id": "UVX5HCR5MMD",
+        "team_id": "T02BRNDLCV",
+        "name": "jturner",
+        "deleted": false,
+        "color": "19e83a",
+        "real_name": "Jordan Turner",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "Support Lead",
+            "real_name": "Jordan Turner",
+            "display_name": "jordan",
+            "email": "jturner@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1681205322
+    },
+    {
+        "id": "UB8UH2KX2NW",
+        "team_id": "T02BRNDLCV",
+        "name": "chaddad",
+        "deleted": false,
+        "color": "176351",
+        "real_name": "Christina Haddad",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Support Engineer",
+            "real_name": "Christina Haddad",
+            "display_name": "Christina",
+            "email": "chaddad@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1612419820
+    },
+    {
+        "id": "UPGXMWMDQNR",
+        "team_id": "T02BRNDLCV",
+        "name": "cgutierrez",
+        "deleted": false,
+        "color": "f401d2",
+        "real_name": "Chidi Gutierrez",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Tier 2 Support",
+            "real_name": "Chidi Gutierrez",
+            "display_name": "chidi",
+            "email": "cgutierrez@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1657071049
+    },
+    {
+        "id": "UWUGRQ83YYM",
+        "team_id": "T02BRNDLCV",
+        "name": "bcook",
+        "deleted": false,
+        "color": "c34c8e",
+        "real_name": "Bronwen Cook",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Support Engineer",
+            "real_name": "Bronwen Cook",
+            "display_name": "bronwen",
+            "email": "bcook@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1654821012
+    },
+    {
+        "id": "UQXT5A6YMVH",
+        "team_id": "T02BRNDLCV",
+        "name": "dmartin",
+        "deleted": false,
+        "color": "b65f63",
+        "real_name": "David Martin",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Support Engineer",
+            "real_name": "David Martin",
+            "display_name": "dmartin",
+            "email": "dmartin@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1699879267
+    },
+    {
+        "id": "UR12Y3AZNKK",
+        "team_id": "T02BRNDLCV",
+        "name": "ncruz",
+        "deleted": false,
+        "color": "722f61",
+        "real_name": "Noor Cruz",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Support Engineer",
+            "real_name": "Noor Cruz",
+            "display_name": "noor",
+            "email": "ncruz@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1670850201
+    },
+    {
+        "id": "UXS2WD4BYRN",
+        "team_id": "T02BRNDLCV",
+        "name": "jlavoie",
+        "deleted": false,
+        "color": "94e49f",
+        "real_name": "John Lavoie",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Support Engineer",
+            "real_name": "John Lavoie",
+            "display_name": "john",
+            "email": "jlavoie@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1614944197
+    },
+    {
+        "id": "UYFL6320JLT",
+        "team_id": "T02BRNDLCV",
+        "name": "dmacleod",
+        "deleted": false,
+        "color": "430f05",
+        "real_name": "Donald MacLeod",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Senior Software Engineer",
+            "real_name": "Donald MacLeod",
+            "display_name": "donald",
+            "email": "dmacleod@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1663973235
+    },
+    {
+        "id": "UL7VFDJEZ2W",
+        "team_id": "T02BRNDLCV",
+        "name": "bnowak",
+        "deleted": false,
+        "color": "b8b649",
+        "real_name": "Betty Nowak",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "SRE",
+            "real_name": "Betty Nowak",
+            "display_name": "betty",
+            "email": "bnowak@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1687661374
+    },
+    {
+        "id": "UV9KPNCPQJN",
+        "team_id": "T02BRNDLCV",
+        "name": "ithompson",
+        "deleted": true,
+        "color": "7b99e1",
+        "real_name": "Isabella Thompson",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Isabella Thompson",
+            "display_name": "isabella",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1692659594
+    },
+    {
+        "id": "UR3LDWKU006",
+        "team_id": "T02BRNDLCV",
+        "name": "tscott",
+        "deleted": false,
+        "color": "4ed7de",
+        "real_name": "Tyler Scott",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "SRE",
+            "real_name": "Tyler Scott",
+            "display_name": "tyler",
+            "email": "tscott@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1612074209
+    },
+    {
+        "id": "U9SD2024Q7F",
+        "team_id": "T02BRNDLCV",
+        "name": "cross",
+        "deleted": false,
+        "color": "29e69f",
+        "real_name": "Callum Ross",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Staff Engineer",
+            "real_name": "Callum Ross",
+            "display_name": "callum",
+            "email": "cross@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1687198697
+    },
+    {
+        "id": "UFARBQM0LCD",
+        "team_id": "T02BRNDLCV",
+        "name": "jcook",
+        "deleted": false,
+        "color": "816c94",
+        "real_name": "Janice Cook",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Staff Engineer",
+            "real_name": "Janice Cook",
+            "display_name": "Janice",
+            "email": "jcook@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1610429548
+    },
+    {
+        "id": "UZ1V8XFMW0J",
+        "team_id": "T02BRNDLCV",
+        "name": "jpeterson",
+        "deleted": true,
+        "color": "d1374c",
+        "real_name": "Jack Peterson",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Jack Peterson",
+            "display_name": "Jack",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1693356898
+    },
+    {
+        "id": "UH9DL28T3MH",
+        "team_id": "T02BRNDLCV",
+        "name": "rvance",
+        "deleted": false,
+        "color": "317ba3",
+        "real_name": "Renata Vance",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "SRE",
+            "real_name": "Renata Vance",
+            "display_name": "renata",
+            "email": "rvance@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1622150028
+    },
+    {
+        "id": "UQS8MEEHLGZ",
+        "team_id": "T02BRNDLCV",
+        "name": "pbennett",
+        "deleted": false,
+        "color": "1937cb",
+        "real_name": "Peter Bennett",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Software Engineer",
+            "real_name": "Peter Bennett",
+            "display_name": "Peter",
+            "email": "pbennett@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1615828819
+    },
+    {
+        "id": "U2CKCF24AEA",
+        "team_id": "T02BRNDLCV",
+        "name": "awalker",
+        "deleted": false,
+        "color": "3c912d",
+        "real_name": "Ashley Walker",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "SRE",
+            "real_name": "Ashley Walker",
+            "display_name": "awalker",
+            "email": "awalker@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1634823907
+    },
+    {
+        "id": "U0E67MPWRXA",
+        "team_id": "T02BRNDLCV",
+        "name": "njones",
+        "deleted": false,
+        "color": "520ccb",
+        "real_name": "Ngozi Jones",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "DBA",
+            "real_name": "Ngozi Jones",
+            "display_name": "njones",
+            "email": "njones@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1646589899
+    },
+    {
+        "id": "UM2UVLXX7MZ",
+        "team_id": "T02BRNDLCV",
+        "name": "apenhallow",
+        "deleted": false,
+        "color": "157f83",
+        "real_name": "Andrea Penhallow",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "DBA",
+            "real_name": "Andrea Penhallow",
+            "display_name": "",
+            "email": "apenhallow@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1695269558
+    },
+    {
+        "id": "UQTUT2GDN85",
+        "team_id": "T02BRNDLCV",
+        "name": "lpark",
+        "deleted": false,
+        "color": "1dc942",
+        "real_name": "Lauren Park",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "DBA",
+            "real_name": "Lauren Park",
+            "display_name": "",
+            "email": "lpark@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1695109688
+    },
+    {
+        "id": "UDM784MTBQ7",
+        "team_id": "T02BRNDLCV",
+        "name": "jcote",
+        "deleted": true,
+        "color": "0ef525",
+        "real_name": "Jesse Cote",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Jesse Cote",
+            "display_name": "Jesse",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1673638279
+    },
+    {
+        "id": "U69WX6HRQNH",
+        "team_id": "T02BRNDLCV",
+        "name": "abrown",
+        "deleted": false,
+        "color": "958f62",
+        "real_name": "Amara Brown",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Software Engineer",
+            "real_name": "Amara Brown",
+            "display_name": "",
+            "email": "abrown@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1616169011
+    },
+    {
+        "id": "UHN0Q6LZH8E",
+        "team_id": "T02BRNDLCV",
+        "name": "mroberts",
+        "deleted": false,
+        "color": "dedd53",
+        "real_name": "Margaret Roberts",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Staff Engineer",
+            "real_name": "Margaret Roberts",
+            "display_name": "Margaret",
+            "email": "mroberts@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1681970800
+    },
+    {
+        "id": "UHV2RFNY0HN",
+        "team_id": "T02BRNDLCV",
+        "name": "wadams",
+        "deleted": false,
+        "color": "3c5e86",
+        "real_name": "Wei Adams",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Engineering Manager",
+            "real_name": "Wei Adams",
+            "display_name": "wadams",
+            "email": "wadams@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1639788254
+    },
+    {
+        "id": "UKMQNTKUR4V",
+        "team_id": "T02BRNDLCV",
+        "name": "zromano",
+        "deleted": true,
+        "color": "aef3e0",
+        "real_name": "Zachary Romano",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Zachary Romano",
+            "display_name": "zachary",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1651368750
+    },
+    {
+        "id": "UVQRW5SQSEL",
+        "team_id": "T02BRNDLCV",
+        "name": "vdubois",
+        "deleted": false,
+        "color": "827267",
+        "real_name": "Vincent Dubois",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Senior Software Engineer",
+            "real_name": "Vincent Dubois",
+            "display_name": "",
+            "email": "vdubois@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1639983552
+    },
+    {
+        "id": "U8SR98620D7",
+        "team_id": "T02BRNDLCV",
+        "name": "jingleby",
+        "deleted": false,
+        "color": "d29c02",
+        "real_name": "Jordan Ingleby",
+        "tz": "America/Winnipeg",
+        "profile": {
+            "title": "Staff Engineer",
+            "real_name": "Jordan Ingleby",
+            "display_name": "jingleby",
+            "email": "jingleby@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1636165218
+    },
+    {
+        "id": "U1YEVCXATA8",
+        "team_id": "T02BRNDLCV",
+        "name": "tphillips",
+        "deleted": true,
+        "color": "f9bceb",
+        "real_name": "Thuy Phillips",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Thuy Phillips",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1648834197
+    },
+    {
+        "id": "U3NZE1N3PYZ",
+        "team_id": "T02BRNDLCV",
+        "name": "elopez",
+        "deleted": true,
+        "color": "6cb957",
+        "real_name": "Elizabeth Lopez",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Elizabeth Lopez",
+            "display_name": "elizabeth",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1669747064
+    },
+    {
+        "id": "UZACKQ1VXCH",
+        "team_id": "T02BRNDLCV",
+        "name": "jhalvorsen",
+        "deleted": true,
+        "color": "f04d59",
+        "real_name": "Joe Halvorsen",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Joe Halvorsen",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1653381448
+    },
+    {
+        "id": "UP8JCWGGNJ4",
+        "team_id": "T02BRNDLCV",
+        "name": "dhughes",
+        "deleted": false,
+        "color": "361887",
+        "real_name": "Dylan Hughes",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Software Engineer",
+            "real_name": "Dylan Hughes",
+            "display_name": "",
+            "email": "dhughes@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1654773896
+    },
+    {
+        "id": "U7PFYH0YRRG",
+        "team_id": "T02BRNDLCV",
+        "name": "aokafor",
+        "deleted": true,
+        "color": "500676",
+        "real_name": "Angela Okafor",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Angela Okafor",
+            "display_name": "",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1635847439
+    },
+    {
+        "id": "UP51TVUPQU5",
+        "team_id": "T02BRNDLCV",
+        "name": "riyer",
+        "deleted": false,
+        "color": "a16140",
+        "real_name": "Ryan Iyer",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "DBA",
+            "real_name": "Ryan Iyer",
+            "display_name": "ryan",
+            "email": "riyer@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1682422427
+    },
+    {
+        "id": "UAGQX7APZBG",
+        "team_id": "T02BRNDLCV",
+        "name": "okim",
+        "deleted": false,
+        "color": "248656",
+        "real_name": "Omar Kim",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Controller",
+            "real_name": "Omar Kim",
+            "display_name": "okim",
+            "email": "okim@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1656315792
+    },
+    {
+        "id": "UFNKJQT8PV1",
+        "team_id": "T02BRNDLCV",
+        "name": "jhughes",
+        "deleted": false,
+        "color": "0cc416",
+        "real_name": "James Hughes",
+        "tz": "Europe/London",
+        "profile": {
+            "title": "AR Specialist",
+            "real_name": "James Hughes",
+            "display_name": "",
+            "email": "jhughes@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1623351237
+    },
+    {
+        "id": "U48TCJE75PD",
+        "team_id": "T02BRNDLCV",
+        "name": "ijohansson",
+        "deleted": true,
+        "color": "76ebb8",
+        "real_name": "Ines Johansson",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Ines Johansson",
+            "display_name": "Ines",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1665418071
+    },
+    {
+        "id": "UBHB6GTB73U",
+        "team_id": "T02BRNDLCV",
+        "name": "wortiz",
+        "deleted": false,
+        "color": "8f167d",
+        "real_name": "Walter Ortiz",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Staff Accountant",
+            "real_name": "Walter Ortiz",
+            "display_name": "wortiz",
+            "email": "wortiz@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1632192076
+    },
+    {
+        "id": "U773RMBLF5X",
+        "team_id": "T02BRNDLCV",
+        "name": "abailey",
+        "deleted": false,
+        "color": "408607",
+        "real_name": "Andrew Bailey",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "AR Specialist",
+            "real_name": "Andrew Bailey",
+            "display_name": "abailey",
+            "email": "abailey@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1684533048
+    },
+    {
+        "id": "UA3MVBJWAHX",
+        "team_id": "T02BRNDLCV",
+        "name": "mcarter",
+        "deleted": false,
+        "color": "dd8cb4",
+        "real_name": "Marguerite Carter",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "AR Specialist",
+            "real_name": "Marguerite Carter",
+            "display_name": "",
+            "email": "mcarter@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1678072956
+    },
+    {
+        "id": "UE49ET7WGNU",
+        "team_id": "T02BRNDLCV",
+        "name": "brogers",
+        "deleted": false,
+        "color": "179052",
+        "real_name": "Brenda Rogers",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Controller",
+            "real_name": "Brenda Rogers",
+            "display_name": "",
+            "email": "brogers@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1605527838
+    },
+    {
+        "id": "UZ5KFZLKVGN",
+        "team_id": "T02BRNDLCV",
+        "name": "mruiz",
+        "deleted": false,
+        "color": "79d0d1",
+        "real_name": "Minh Ruiz",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Billing Specialist",
+            "real_name": "Minh Ruiz",
+            "display_name": "minh",
+            "email": "mruiz@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1697108186
+    },
+    {
+        "id": "UT9KGXWKHLB",
+        "team_id": "T02BRNDLCV",
+        "name": "dboateng",
+        "deleted": false,
+        "color": "f0dca6",
+        "real_name": "Dennis Boateng",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Billing Specialist",
+            "real_name": "Dennis Boateng",
+            "display_name": "",
+            "email": "dboateng@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1699010396
+    },
+    {
+        "id": "UFULM18ZBQ6",
+        "team_id": "T02BRNDLCV",
+        "name": "npelletier",
+        "deleted": false,
+        "color": "2a538e",
+        "real_name": "Ngozi Pelletier",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Billing Specialist",
+            "real_name": "Ngozi Pelletier",
+            "display_name": "npelletier",
+            "email": "npelletier@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1649215369
+    },
+    {
+        "id": "U3DBR7QKZWE",
+        "team_id": "T02BRNDLCV",
+        "name": "jtaylor",
+        "deleted": true,
+        "color": "33eda5",
+        "real_name": "Jonathan Taylor",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Jonathan Taylor",
+            "display_name": "jtaylor",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1679541950
+    },
+    {
+        "id": "U3YU9TS6QYB",
+        "team_id": "T02BRNDLCV",
+        "name": "dmccarthy",
+        "deleted": false,
+        "color": "a8bff9",
+        "real_name": "Desmond McCarthy",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "IT Administrator",
+            "real_name": "Desmond McCarthy",
+            "display_name": "",
+            "email": "dmccarthy@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1651545827
+    },
+    {
+        "id": "UV8WG09HYBP",
+        "team_id": "T02BRNDLCV",
+        "name": "cfenwick",
+        "deleted": true,
+        "color": "65c650",
+        "real_name": "Christina Fenwick",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Christina Fenwick",
+            "display_name": "christina",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1632630623
+    },
+    {
+        "id": "UTLU2ZXMLEL",
+        "team_id": "T02BRNDLCV",
+        "name": "aflores",
+        "deleted": false,
+        "color": "a4ea2e",
+        "real_name": "Aaron Flores",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Office Manager",
+            "real_name": "Aaron Flores",
+            "display_name": "aflores",
+            "email": "aflores@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1693834011
+    },
+    {
+        "id": "UV9GDKGY32C",
+        "team_id": "T02BRNDLCV",
+        "name": "pgray",
+        "deleted": true,
+        "color": "7df43f",
+        "real_name": "Pamela Gray",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "",
+            "real_name": "Pamela Gray",
+            "display_name": "Pamela",
+            "email": "",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1614577178
+    },
+    {
+        "id": "UQK194B1V43",
+        "team_id": "T02BRNDLCV",
+        "name": "sprice-jones",
+        "deleted": false,
+        "color": "7e09f7",
+        "real_name": "Shirley Price-Jones",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "Mainframe Operator",
+            "real_name": "Shirley Price-Jones",
+            "display_name": "",
+            "email": "sprice-jones@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1617931989
+    },
+    {
+        "id": "UMXMN24FN4K",
+        "team_id": "T02BRNDLCV",
+        "name": "aellsworth",
+        "deleted": false,
+        "color": "307e53",
+        "real_name": "Anthony Ellsworth",
+        "tz": "America/New_York",
+        "profile": {
+            "title": "RevOps Analyst",
+            "real_name": "Anthony Ellsworth",
+            "display_name": "anthony",
+            "email": "aellsworth@brindlecove.example",
+            "image_72": "https://avatars.slack-edge.example/72.png"
+        },
+        "is_admin": false,
+        "is_bot": false,
+        "is_restricted": false,
+        "updated": 1698126726
+    },
+    {
+        "id": "BJ822B6U8EY",
+        "team_id": "T02BRNDLCV",
+        "name": "jira",
+        "deleted": false,
+        "real_name": "Jira",
+        "is_bot": true,
+        "profile": {
+            "real_name": "Jira",
+            "display_name": "jira",
+            "bot_id": "BJ822B6U8EY"
+        }
+    },
+    {
+        "id": "BKA5V5A6JJE",
+        "team_id": "T02BRNDLCV",
+        "name": "pagerduty",
+        "deleted": false,
+        "real_name": "Pagerduty",
+        "is_bot": true,
+        "profile": {
+            "real_name": "Pagerduty",
+            "display_name": "pagerduty",
+            "bot_id": "BKA5V5A6JJE"
+        }
+    },
+    {
+        "id": "BJFJUAAB9RK",
+        "team_id": "T02BRNDLCV",
+        "name": "salesforce",
+        "deleted": false,
+        "real_name": "Salesforce",
+        "is_bot": true,
+        "profile": {
+            "real_name": "Salesforce",
+            "display_name": "salesforce",
+            "bot_id": "BJFJUAAB9RK"
+        }
+    }
+]

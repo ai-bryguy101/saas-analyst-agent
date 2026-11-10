@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "f7d1882e-5ee9-8c9f-a86f-e4d185c4fcb4",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1624890828.020783",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4015aa89-ee38-0519-e928-eccbff2861e9",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> GBP invoices migrating next sprint",
+        "user": "UMDHKXLV8RH",
+        "ts": "1624895340.606179",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68dd373d-f997-9b26-f2a5-206f2e87652a",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U34NH0P5TMZ",
+        "ts": "1624897414.745793",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07949be5-c982-55aa-1a3c-0c31dc1912b1",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UXS2WD4BYRN",
+        "ts": "1624902069.984963",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "817a8f83-a407-632b-d5e7-9254a5a7db41",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UC95B7VAFX0",
+        "ts": "1624910460.114724",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "23c96fcd-2fda-5a44-4a2d-35ee2a1fb654",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UGPRJ4K947R",
+        "ts": "1624911572.118493",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "10b60dd3-640f-14ef-72a2-1629cf05a813",
+        "type": "message",
+        "text": "<@U9XCAUGPS1F> Xero export is the source of truth until April",
+        "user": "U8SR98620D7",
+        "ts": "1624914412.525157",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

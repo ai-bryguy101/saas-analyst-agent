@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "e546838a-93c7-dde9-dca5-2893856802a0",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1767103401.866806",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6dfaad8c-e75e-2422-24b2-f92ae34fa630",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "UT7K74ALYGQ",
+        "ts": "1767103854.708567",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5e04b569-164c-645d-e2d1-fadc4ccb8c05",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U09CZFTHQSS",
+        "ts": "1767114145.404138",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ac692e6-4baa-2bff-c151-031804cb5429",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> Can I get ARR by region for the board?",
+        "user": "U2LMMLL4F31",
+        "ts": "1767120848.923359",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6e70a7fe-8225-e470-40ac-1734641e2969",
+        "type": "message",
+        "text": "<@U8SR98620D7> Dashboard refresh failed overnight",
+        "user": "UB8UH2KX2NW",
+        "ts": "1767121061.640299",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1767100025.103474"
+        }
+    },
+    {
+        "client_msg_id": "5bfc93bb-5d79-14fc-cc2d-fbb365efcb18",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UMXMN24FN4K",
+        "ts": "1767126809.248506",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "554eb6a1-f9b2-515b-c952-f54edfb9aca8",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UP51TVUPQU5",
+        "ts": "1767131222.254556",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f41df3a5-3b61-4e47-1048-32db44b98703",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UXXA9L8HH83",
+        "ts": "1767137422.608050",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "73d28f8f-dd37-65a6-a0c8-730541467b06",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "USW7BR7KTST",
+        "ts": "1767142661.531626",
+        "team": "T02BRNDLCV"
+    }
+]

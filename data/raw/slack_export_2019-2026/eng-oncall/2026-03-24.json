@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "c488bc9f-6f97-3366-6a11-bcd17891c4ab",
+        "type": "message",
+        "text": "deploy v7.37.3 to prod :rocket:",
+        "user": "UC95B7VAFX0",
+        "ts": "1774357608.372407",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c4e4cf77-f5d5-2d12-4e73-9a895b420905",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> replica lag on db-03 again",
+        "user": "UFULM18ZBQ6",
+        "ts": "1774360729.625144",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8efd59e3-2de8-4298-77b9-4c14926c7b12",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1774391120.271940",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#16648 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b33d26a7-0e57-f50c-6955-8222288aabcb",
+        "type": "message",
+        "text": "rolling back v6.15.6",
+        "user": "UG4ETD69L1D",
+        "ts": "1774396732.057809",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5a0c00e4-ef48-fa40-4469-296e212ee1ae",
+        "type": "message",
+        "text": "rolling back v8.21.4",
+        "user": "UQTUT2GDN85",
+        "ts": "1774399398.328276",
+        "team": "T02BRNDLCV"
+    }
+]

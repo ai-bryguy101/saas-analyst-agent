@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "084f22f5-35eb-adfa-3489-3b28858e91a2",
+        "type": "message",
+        "text": "Taylor Properties wants a discount, how far can I go?",
+        "user": "UB8UH2KX2NW",
+        "ts": "1790087586.043951",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "366a8f13-085c-b26a-6d15-ad71c89d2f29",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UYFL6320JLT",
+        "ts": "1790096930.997866",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01badefa-16b6-6104-f687-f1fc97ff45be",
+        "type": "message",
+        "text": "Lost Blackwood Municipal Services Ltd. to Plinthwise on price",
+        "user": "UH9DL28T3MH",
+        "ts": "1790103845.426893",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8c8a9708-6328-f3c4-fb82-ed10259a5838",
+        "type": "message",
+        "text": "Heritage Inns wants a discount, how far can I go?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1790107916.937041",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ed60fd25-4c3e-5617-c51a-5ad08a689786",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UUFS9CP1A17",
+        "ts": "1790109814.731396",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc9d2dfb-1f99-0b0a-bd44-23c0a1953447",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> Pricing question: does Pro include Dispatch?",
+        "user": "UG4ETD69L1D",
+        "ts": "1790114931.214584",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

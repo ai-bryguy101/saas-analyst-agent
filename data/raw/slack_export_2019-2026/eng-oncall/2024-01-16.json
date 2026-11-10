@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "a9ce04a7-4e2f-d62d-870c-2a639000b0ee",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1705412570.547761",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#64761 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03b46e21-5321-6388-17f7-30aff1514a28",
+        "type": "message",
+        "text": "rolling back v8.26.7",
+        "user": "UPHFQAHDPSK",
+        "ts": "1705416879.196764",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fc49da3e-b0e6-20fe-023e-15552f59f5d9",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1705420043.052128",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#24441 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea062bf8-acaa-7c6e-6f0a-87166d09edff",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> deploy v6.7.2 to prod :rocket:",
+        "user": "U773RMBLF5X",
+        "ts": "1705428627.542183",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d2d305f-9501-17c3-bbb9-bac89454f5a3",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1705430625.614237",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7479462e-73e2-8f7a-9dd9-99180798e0cd",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> replica lag on db-03 again",
+        "user": "UV8WG09HYBP",
+        "ts": "1705431006.695830",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "12118e58-7175-c091-3ec4-728041d8bbf5",
+        "type": "message",
+        "text": "deploy v6.14.2 to prod :rocket:",
+        "user": "UP51TVUPQU5",
+        "ts": "1705445444.653971",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5db7129d-f2fa-25f5-64ca-48734a108484",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1705445858.192009",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "91562abb-6355-d1f2-893f-4ffa83dbf2f2",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UMYYLUTXG9R",
+        "ts": "1705446593.727292",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UXETPKNK8MV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "104d2599-afa1-a21f-b2e5-6addc4468585",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1705450217.569826",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#47737 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "692b829b-bd21-e376-508e-4e02649348b0",
+        "type": "message",
+        "text": "<@UVRFQ9LWEVK> cert renewal for *.brindlecove.example done",
+        "user": "U8SR98620D7",
+        "ts": "1705450802.348012",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U8SR98620D7",
+            "ts": "1705428065.845709"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "9e8eb195-d0e5-e5d3-58ac-78dc28c394d9",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U69WX6HRQNH",
+        "ts": "1615316960.725037",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "69a9b366-a2dd-f2d3-37ad-7bcd18036ad9",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1615319488.884157",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2b2da0e-db7b-f842-e81f-65defbb1794c",
+        "type": "message",
+        "text": "AR aging is up, Rivers Couriers is 90+ days",
+        "user": "U48TCJE75PD",
+        "ts": "1615324602.077259",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2927811a-ca1c-4141-9166-6910158b63a5",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2021",
+        "user": "UL8NMQFXPJR",
+        "ts": "1615327822.477310",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c4dacc7-9061-2f19-6da6-5b4171a05b9d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UJQY3Q26RVW",
+        "ts": "1615337424.527387",
+        "team": "T02BRNDLCV"
+    }
+]

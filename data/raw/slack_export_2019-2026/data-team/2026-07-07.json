@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "fff18254-5962-f4d9-1ab8-a721b1bb5bec",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UWUGRQ83YYM",
+        "ts": "1783435147.582567",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "262ec0c4-097b-5b84-8602-9a05e48e8ea7",
+        "type": "message",
+        "text": "<@URWNWW8QFM6> Events schema changed again (tenant_id vs account_id)",
+        "user": "U34NH0P5TMZ",
+        "ts": "1783442123.118234",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "323da39c-d959-2bdd-ce19-d4c9afcc8549",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UJQY3Q26RVW",
+        "ts": "1783455995.314505",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "16557b62-51a1-0214-340c-3070c83d1eb8",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UL8NMQFXPJR",
+        "ts": "1783456811.730412",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a9973a91-9815-a249-19de-df6c4b2efb89",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "U2CKCF24AEA",
+        "ts": "1783471205.482601",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6afd1232-d98c-fdbf-b47f-08bc1e64e757",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "U22GUF0P303",
+        "ts": "1783471566.459552",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

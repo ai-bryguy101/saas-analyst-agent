@@ -53,7 +53,7 @@ def mk(r, frm, to, subject, body, d: datetime, cc=None, reply_to_id=None, charse
     msg["Subject"] = Header(subject, "utf-8").encode() if any(ord(c) > 127 for c in subject) else subject
     msg["Date"] = format_datetime(d)
     # built by hand: email.utils.make_msgid mixes in the clock and PID, which breaks reproducibility
-    mid = f"<{int(d.timestamp() * 100)}.{r.randint(100, 9999)}.{r.randint(10**15, 10**19)}@{'mail.brindlecove.com' if d.year >= 2011 else 'exch01.brindledata.local'}>"
+    mid = f"<{int(d.timestamp() * 100)}.{r.randint(100, 9999)}.{r.randint(10**15, 10**19)}@{'mail.brindlecove.example' if d.year >= 2011 else 'exch01.brindledata.local'}>"
     msg["Message-ID"] = mid
     if reply_to_id:
         msg["In-Reply-To"] = reply_to_id
@@ -126,7 +126,7 @@ def render(world, out, seed):
             "  * Every Classic customer who moves to Ops Cloud before the sunset gets a 25% credit on Ops Cloud subscription fees for their first 12 months.\n"
             "  * Classic maintenance invoices stop with the Q2 2020 quarter.\n\n"
             "Please ignore the earlier draft memo that said 20% - that number was before Lorraine's model.\n\nMargaret")
-    m, _ = mk(r, addr(ceo, d.date()), ["all-staff@brindlecove.com"], "Classic end of life - FINAL", body + DISCLAIMER, d)
+    m, _ = mk(r, addr(ceo, d.date()), ["all-staff@brindlecove.example"], "Classic end of life - FINAL", body + DISCLAIMER, d)
     add(box("exec_announcements_2012-2026"), m, d)
 
     # ------------------------------------------------------------- GF02 Calloway (points to the scanned contract)
@@ -186,7 +186,7 @@ def render(world, out, seed):
         to = [f"{ct.name} <{ct.email}>"] if r.random() < 0.5 else [addr(other, d0)]
         if "Monthly" in subject:
             m = MIMEText(body, "html", "utf-8")
-            m["From"], m["To"], m["Subject"], m["Date"] = "Brindlecove <news@brindlecove.com>", to[0], subject, format_datetime(dd)
+            m["From"], m["To"], m["Subject"], m["Date"] = "Brindlecove <news@brindlecove.example>", to[0], subject, format_datetime(dd)
         else:
             m, _ = mk(r, addr(sender, d0), to, subject, body, dd, charset=r.choice(["utf-8", "utf-8", "iso-8859-1", "windows-1252"]), attach=attach)
         add(box(mboxname), m, dd)

@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "835e3a93-9f7f-15b1-178e-67fdbfd5fd3e",
+        "type": "message",
+        "text": "<@U5TERVWF7JH> Closed Valley County Facilities Corp.! 296 seats, Pro",
+        "user": "U0V9BPHARQX",
+        "ts": "1660144400.757588",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39d9379b-8b4f-a694-c220-f09f5750f21b",
+        "type": "message",
+        "text": "<@UXVNE61TTLN> Pricing question: does Starter include Dispatch?",
+        "user": "UJQY3Q26RVW",
+        "ts": "1660160515.658521",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "359f01d4-2057-2a99-2804-a845c267588e",
+        "type": "message",
+        "text": "Cumberland Resorts wants a discount, how far can I go?",
+        "user": "U3DBR7QKZWE",
+        "ts": "1660161320.957035",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5c2e32bb-5d24-ba4f-7889-f670e177ceb8",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1660166560.152482",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMYYLUTXG9R",
+            "ts": "1660150412.788353"
+        }
+    }
+]

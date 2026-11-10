@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "1382d89a-76ef-7a65-d772-f66aaff4ae95",
+        "type": "message",
+        "text": "rolling back v5.7.1",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1721404554.073679",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2b0a8ada-e195-c857-dc84-17d6203fea0b",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> rolling back v8.27.3",
+        "user": "UPHFQAHDPSK",
+        "ts": "1721405575.743904",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "187ff4f7-2ad6-4c74-5920-378d905b7f40",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1721416777.707946",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#81932 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0656b97c-251a-0de6-7437-93c0a3badf75",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1721426731.974117",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#69586 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c79139aa-5dfa-1af6-9dbb-d0b76d6b3d35",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1721429206.029460",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#91094 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

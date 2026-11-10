@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "0d69d2cf-733f-6e49-ea19-3f51e88246b1",
+        "type": "message",
+        "text": "Renewal risk: Abernathy Realty Management Ltd. unhappy with mobile app",
+        "user": "UZACKQ1VXCH",
+        "ts": "1712587498.359107",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "51d3d8c9-7e41-aca0-53a0-95f55ab5f5d6",
+        "type": "message",
+        "text": "Pioneer Outfitters Co. asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1712590843.018624",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXETPKNK8MV",
+            "ts": "1712613112.083864"
+        }
+    },
+    {
+        "client_msg_id": "3efc9922-a920-ac91-e2e9-2960b1a18d2f",
+        "type": "message",
+        "text": "Renewal risk: Kestrel Unified Schools unhappy with mobile app",
+        "user": "UAXWVBRVKW9",
+        "ts": "1712596625.234109",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1ab0f3f7-9ff7-07be-0a7e-0fd388f9c096",
+        "type": "message",
+        "text": "Sycamore Health System LLC asking for an SLA credit",
+        "user": "U48TCJE75PD",
+        "ts": "1712599556.734751",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f7c80b0-6b25-6786-d0ec-be2eb8853b8d",
+        "type": "message",
+        "text": "Renewal risk: Harbortown County Facilities unhappy with mobile app",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1712604100.136320",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5250996-93f2-b675-fd66-1b4ae79509bd",
+        "type": "message",
+        "text": "Renewal risk: Lakeshore Works Group unhappy with mobile app",
+        "user": "URFUZYLCAEC",
+        "ts": "1712605656.025014",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5d298985-7769-b99d-b007-5268e3fa11ea",
+        "type": "message",
+        "text": "Jimenez Academy wants an exec call about the outage",
+        "user": "U5DYUQUF95P",
+        "ts": "1712613528.591596",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

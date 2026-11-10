@@ -1,0 +1,45 @@
+[
+    {
+        "client_msg_id": "7aa292aa-873b-96ff-7cb3-3b50b2a4f309",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U09CZFTHQSS",
+        "ts": "1583427536.517133",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPGXMWMDQNR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "773d7c03-86b3-3a33-14fe-2b15d0a878cc",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UT9KGXWKHLB",
+        "ts": "1583443170.286097",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e29b93f0-1348-9c0a-2384-764cc0d5e7a7",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1583454621.160123",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88671 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "e80a6fd7-586e-563e-df11-985d0f26551c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1737033558.449215",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#61201 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d324480-ab59-a20e-ccb2-7b40fc6b5ddb",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UMYYLUTXG9R",
+        "ts": "1737034475.546768",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1d38e381-6cde-db79-6af0-105f729b8c76",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UWUGRQ83YYM",
+        "ts": "1737043760.859138",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "87c58323-aadb-d96d-653a-7ef97966210a",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> PagerDuty: high error rate on api-gw",
+        "user": "UWU9WG7ECGY",
+        "ts": "1737050971.347465",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da8c46c7-2878-080d-ae47-814e3c2d2027",
+        "type": "message",
+        "text": "rolling back v5.5.8",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1737051790.799335",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5deb3f4-abe7-0b4e-35e3-fe525f071c39",
+        "type": "message",
+        "text": "deploy v5.35.7 to prod :rocket:",
+        "user": "UNFVCYNZT6K",
+        "ts": "1737071312.597435",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "fa85765c-b49e-b839-d992-5b9dfd0c7421",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U34NH0P5TMZ",
+        "ts": "1655215795.431722",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2defed75-31a6-6221-bb09-59987fcb480e",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Month-end close starts tomorrow",
+        "user": "UE49ET7WGNU",
+        "ts": "1655222622.509915",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f2ed7f9-ed84-a27a-a5b3-eca849b97112",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2022",
+        "user": "U0E67MPWRXA",
+        "ts": "1655226573.432414",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UFJUKVTAA1B"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U0E67MPWRXA",
+            "ts": "1655229311.985201"
+        }
+    },
+    {
+        "client_msg_id": "43c98c2a-e23b-38ed-28ad-e1c5392cee59",
+        "type": "message",
+        "text": "Ostrander Markets paid by wire, applying now",
+        "user": "U3YU9TS6QYB",
+        "ts": "1655235707.475694",
+        "team": "T02BRNDLCV"
+    }
+]

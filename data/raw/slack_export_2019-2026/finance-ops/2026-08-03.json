@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "90df4bc7-d122-62ec-d7e6-82135a4afb07",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UE49ET7WGNU",
+        "ts": "1785781816.382126",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "887936e3-d84f-2444-2ac0-b57aa611e833",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1785788182.666296",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "601e7ed7-8c07-5212-f3fa-70dd04318cde",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2026",
+        "user": "UR3LDWKU006",
+        "ts": "1785789808.596507",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7d7c9242-6595-986a-2fe2-9cc14c862218",
+        "type": "message",
+        "text": "AR aging is up, Kowalski College is 90+ days",
+        "user": "UQXT5A6YMVH",
+        "ts": "1785793168.380175",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91211c4e-ce61-2671-a4d5-5f6ba17ca0f3",
+        "type": "message",
+        "text": "AR aging is up, Boateng Suites LLC is 90+ days",
+        "user": "UVQRW5SQSEL",
+        "ts": "1785798911.861385",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U22GUF0P303"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef77f86d-97ac-d8b5-d9eb-8c0202b2272c",
+        "type": "message",
+        "text": "FX rates loaded for Aug 2026",
+        "user": "UJQY3Q26RVW",
+        "ts": "1785802828.316297",
+        "team": "T02BRNDLCV"
+    }
+]

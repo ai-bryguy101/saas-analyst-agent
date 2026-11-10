@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "c4851087-b4c8-bd71-d68a-6d5ae365f090",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UVX5HCR5MMD",
+        "ts": "1750264084.280042",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5dd7e796-d354-cd77-d84a-b3d3fbd1e975",
+        "type": "message",
+        "text": "<@UXETPKNK8MV> who's watching the game tonight",
+        "user": "UGPRJ4K947R",
+        "ts": "1750274612.733458",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4869cb9d-d6a2-7498-15dc-3d82e38fa9b0",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> happy friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1750280515.907137",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58c59838-1b56-8b2a-fdb7-c7e96e235929",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UJKZ2R47YW9",
+        "ts": "1750287507.087583",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "27e17af6-e525-a86e-223c-fa6be3b7f8e7",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UXETPKNK8MV",
+        "ts": "1750291516.445239",
+        "team": "T02BRNDLCV"
+    }
+]

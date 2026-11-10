@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "d6b3b2bb-5fa7-fc7a-bf0d-b447350491eb",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UX84HDPARWN",
+        "ts": "1584982520.768073",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49ddfa15-c1f6-74c8-1f7e-cccae3e21365",
+        "type": "message",
+        "text": "AR aging is up, Brookside Hotels Holdings is 90+ days",
+        "user": "UFARBQM0LCD",
+        "ts": "1584988958.649018",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd99d6ff-ef1c-bf34-40ea-b8cb5bb66eb7",
+        "type": "message",
+        "text": "AR aging is up, Quarry College Inc. is 90+ days",
+        "user": "UMDHKXLV8RH",
+        "ts": "1585005270.199376",
+        "team": "T02BRNDLCV"
+    }
+]

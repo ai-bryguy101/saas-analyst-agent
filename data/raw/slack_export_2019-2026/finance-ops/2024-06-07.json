@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "4aa636ea-0a91-10fb-e7ad-de330e2b128c",
+        "type": "message",
+        "text": "Commonwealth Builders Ltd. paid by wire, applying now",
+        "user": "U22GUF0P303",
+        "ts": "1717765288.612576",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ce5ac53-4d16-2062-6e75-4b2870ade522",
+        "type": "message",
+        "text": "Muskingum Residential LLC paid by wire, applying now",
+        "user": "UT7K74ALYGQ",
+        "ts": "1717784451.970183",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2b5c8c5d-b118-64ab-b08d-c9fdf0224172",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UE49ET7WGNU",
+        "ts": "1717799101.995614",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U773RMBLF5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58f069d8-8aa2-b49e-3bbb-f7a2e65ec551",
+        "type": "message",
+        "text": "<@UDMJ2V8P3C5> FX rates loaded for Jun 2024",
+        "user": "UMYYLUTXG9R",
+        "ts": "1717805594.855246",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UMYYLUTXG9R",
+            "ts": "1717789008.801753"
+        }
+    }
+]

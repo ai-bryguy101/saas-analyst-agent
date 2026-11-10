@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "ac9b1797-0834-c0b1-77e3-4255cf7d70d4",
+        "type": "message",
+        "text": "FX rates loaded for Dec 2020",
+        "user": "UFULM18ZBQ6",
+        "ts": "1607618872.299673",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFULM18ZBQ6",
+            "ts": "1607626348.726257"
+        }
+    },
+    {
+        "client_msg_id": "2f75a252-2aa0-89c8-855b-4240ca1ee9a4",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U8TVGALMJLQ",
+        "ts": "1607637355.264703",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0a928a8-bc85-3594-aa54-20bd82355152",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1607643936.669054",
+        "team": "T02BRNDLCV"
+    }
+]

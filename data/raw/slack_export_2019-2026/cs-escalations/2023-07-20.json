@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "6be89440-b731-a368-1285-0e5d703277f4",
+        "type": "message",
+        "text": "Tamarack Logistics Co. wants an exec call about the outage",
+        "user": "URWNWW8QFM6",
+        "ts": "1689883449.517058",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6925832b-6d85-2f7f-331b-38d3f654bb44",
+        "type": "message",
+        "text": "Cooper Medical Center Co. asking for an SLA credit",
+        "user": "UE4GTX0EXPH",
+        "ts": "1689883734.491474",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17d37b34-ae44-bc9b-819f-84181b01504e",
+        "type": "message",
+        "text": "Renewal risk: Pelletier Contracting Group unhappy with mobile app",
+        "user": "U09CZFTHQSS",
+        "ts": "1689890047.637904",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f183eec1-804b-3194-5b7a-455c2a261a64",
+        "type": "message",
+        "text": "Renewal risk: Jackson Warehousing Inc. unhappy with mobile app",
+        "user": "U5X9PNA34DU",
+        "ts": "1689890145.107924",
+        "team": "T02BRNDLCV"
+    }
+]

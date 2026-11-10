@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "1cb4cc0b-fd74-073f-f2d9-77e3ce4e09fd",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UL8NMQFXPJR",
+        "ts": "1743085575.648292",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a4e24b2-bf97-4606-6a0f-bf08edaeffb4",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3KL08VJD8C",
+        "ts": "1743086043.377859",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "564fc6f5-59fa-742e-f844-20d0d5664faf",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3KL08VJD8C",
+        "ts": "1743099236.434021",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3ab27cc-0eeb-e4e3-43ed-21aa7d13abf6",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1743104174.108351",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ca265908-7b46-a1cb-641c-88b8457afa68",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMYYLUTXG9R",
+        "ts": "1743106630.098703",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dbd4dab0-4d7f-8cd7-825d-9a980c59e138",
+        "type": "message",
+        "text": "<@UR12Y3AZNKK> FX rates loaded for Mar 2025",
+        "user": "U09CZFTHQSS",
+        "ts": "1743111644.879085",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcd123ec-15d3-aa72-0295-38054f759600",
+        "type": "message",
+        "text": "AR aging is up, Fenwick Residential is 90+ days",
+        "user": "UB8UH2KX2NW",
+        "ts": "1743115869.918589",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77c97ce3-df45-563e-287d-e842eaa927ca",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UMDHKXLV8RH",
+        "ts": "1743122007.691401",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UYR8E48FJ62"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

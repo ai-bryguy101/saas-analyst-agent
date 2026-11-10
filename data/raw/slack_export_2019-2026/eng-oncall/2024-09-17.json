@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "59076861-4749-0516-f2cb-f488bace95d2",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UUFS9CP1A17",
+        "ts": "1726579275.275262",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "670f9543-7c53-29ca-1ba1-84524f2822e2",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UFARBQM0LCD",
+        "ts": "1726589843.182016",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFARBQM0LCD",
+            "ts": "1726594689.373925"
+        }
+    },
+    {
+        "client_msg_id": "888d68e7-36e0-7ca3-7e98-133e9cda3e2d",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UMYYLUTXG9R",
+        "ts": "1726590534.192188",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66acecb1-ea36-2469-d9dd-cc953b923a02",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1726601422.824799",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#84774 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "736d09fd-9cc9-84d7-caf4-cb89b7fbc05e",
+        "type": "message",
+        "text": "<@UFWAQ6E76D6> replica lag on db-03 again",
+        "user": "UXXA9L8HH83",
+        "ts": "1726603915.314588",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "86c98230-c305-a6a3-8ae5-2262109d6dd1",
+        "type": "message",
+        "text": "deploy v9.38.8 to prod :rocket:",
+        "user": "U3EQ075NUYR",
+        "ts": "1726613186.381971",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3YU9TS6QYB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

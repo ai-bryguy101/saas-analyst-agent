@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "e883af66-134f-b439-8316-559369a2f445",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UFNKJQT8PV1",
+        "ts": "1738683047.831389",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UFNKJQT8PV1",
+            "ts": "1738688139.262475"
+        }
+    },
+    {
+        "client_msg_id": "a458e0cf-3d95-5845-1fb1-efcf96609844",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1738683991.505968",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "26aa7f2c-6b4f-2829-21e6-f8c692c96029",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1738692194.073066",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U0V9BPHARQX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab22f4e5-eb55-137b-939c-7953fae01b6b",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UL20M69UM76",
+        "ts": "1738697662.304406",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "748aa794-95f2-a474-3719-f55cdf5b90e3",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UXXA9L8HH83",
+        "ts": "1738700960.031734",
+        "team": "T02BRNDLCV"
+    }
+]

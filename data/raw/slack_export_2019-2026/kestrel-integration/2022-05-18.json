@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "e45d90cb-db72-1c14-2734-c000bb08f304",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UQK194B1V43",
+        "ts": "1652882231.096754",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ba4b2099-3c19-eee3-15e6-1ef951612fb3",
+        "type": "message",
+        "text": "<@UQK194B1V43> Kestrel SSO cutover tonight",
+        "user": "U34NH0P5TMZ",
+        "ts": "1652906200.235167",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "439fc4be-1a15-211b-4ca3-1c1d82c41656",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U7V33ZEGRET",
+        "ts": "1652908251.453955",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b3f017d-9ee0-08e2-2242-48637612d09d",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1652915657.469438",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2af514f3-1a7d-a6bf-9878-d3cc6b31f0cd",
+        "type": "message",
+        "text": "<@UWBW507RCA9> Who owns Lantern pricing?",
+        "user": "UXXA9L8HH83",
+        "ts": "1652918534.063630",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cdd78dc4-1c93-5b58-8ba9-c5502a273f3a",
+        "type": "message",
+        "text": "<@UV9KPNCPQJN> Who owns Lantern pricing?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1652921298.282093",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "9efc62c9-fbff-29f5-66c2-c1a164e33604",
+        "type": "message",
+        "text": "Can someone check McCarthy Fabrication's invoice? They say they were double billed",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1628182914.266826",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "060feb95-ada4-ca38-2388-4e064cf2cdd0",
+        "type": "message",
+        "text": "Wexford Inns wants an exec call about the outage",
+        "user": "UFULM18ZBQ6",
+        "ts": "1628186553.043885",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

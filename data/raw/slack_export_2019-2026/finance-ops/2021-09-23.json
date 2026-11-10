@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "e6313efd-8787-1f14-aa67-2e17de5d77b3",
+        "type": "message",
+        "text": "James Manufacturing Co. paid by wire, applying now",
+        "user": "U773RMBLF5X",
+        "ts": "1632425137.610310",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9U3DZUVA3L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fff86897-0013-7787-b2d2-e90acb4f186d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U3DBR7QKZWE",
+        "ts": "1632440738.649194",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

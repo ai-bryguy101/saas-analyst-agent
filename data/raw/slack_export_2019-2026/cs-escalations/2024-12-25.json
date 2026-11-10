@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "bd64f865-8864-910f-54c6-d361e5f09c21",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> Perez Works Co. wants an exec call about the outage",
+        "user": "UC95B7VAFX0",
+        "ts": "1735131619.998325",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "093534cd-c007-4ba7-47ac-00ea3663494c",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Rivers Realty Management Holdings wants an exec call about the outage",
+        "user": "UDCALCM1RUG",
+        "ts": "1735152780.241133",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

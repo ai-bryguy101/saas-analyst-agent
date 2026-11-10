@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "ff24e2b7-a00b-8776-7717-9d6386139a46",
+        "type": "message",
+        "text": "Bayou School District reporting sync failures since this morning, CSM is Marguerite Carter",
+        "user": "USW7BR7KTST",
+        "ts": "1766410749.715313",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aa221f01-c4ee-235b-473a-f1107d3e1008",
+        "type": "message",
+        "text": "Harbortown County Facilities reporting sync failures since this morning, CSM is Carl Edwards",
+        "user": "UR3LDWKU006",
+        "ts": "1766434875.008086",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "USW7BR7KTST"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "567ffbc7-5dec-f51c-0d23-fdbbbb11a29f",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Dashboard refresh failed overnight",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1774965327.258468",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22092c83-6b8b-eea1-26dd-c730194799fb",
+        "type": "message",
+        "text": "Need churn list for 2025",
+        "user": "UHV2RFNY0HN",
+        "ts": "1774969826.320065",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e17e185a-71ff-f0ca-391b-72b18d1ba1f6",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UFNKJQT8PV1",
+        "ts": "1774970402.658660",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fbd1d6f4-4e91-64fa-bb94-7e1f64eee7c1",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> Can I get ARR by region for the board?",
+        "user": "U7V33ZEGRET",
+        "ts": "1774977610.636827",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d3b67d67-43fc-788e-5a6a-ab3e32792317",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UZJU9N8CY2T",
+        "ts": "1774986915.945447",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48bdaf5a-7bf8-727f-ec0f-a6f5318874fd",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UJRKGMQPU2R",
+        "ts": "1775001887.965260",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b5f3bd57-fb7f-0991-3695-592313ee5c67",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> Events schema changed again (tenant_id vs account_id)",
+        "user": "UL8NMQFXPJR",
+        "ts": "1775003801.428789",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

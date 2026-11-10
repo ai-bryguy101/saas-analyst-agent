@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "20d71726-d62a-7cea-4b76-1acb629c1370",
+        "type": "message",
+        "text": "<@UL20M69UM76> Renewal risk: Tamarack University Facilities Group unhappy with mobile app",
+        "user": "UBHB6GTB73U",
+        "ts": "1619187012.557790",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "aa81c703-0d9e-ea0d-9d08-1823527be422",
+        "type": "message",
+        "text": "Eastlake Realty Management wants an exec call about the outage",
+        "user": "UG4ETD69L1D",
+        "ts": "1619211640.149486",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8858928c-9602-d548-4a18-aeb312645e66",
+        "type": "message",
+        "text": "Renewal risk: Superior Builders Corp. unhappy with mobile app",
+        "user": "U3EQ075NUYR",
+        "ts": "1619217114.274911",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cb7460f-f1bb-ba99-b91c-48d3c88a3ddf",
+        "type": "message",
+        "text": "Renewal risk: Twin Inns Holdings unhappy with mobile app",
+        "user": "UH9DL28T3MH",
+        "ts": "1619218280.165769",
+        "team": "T02BRNDLCV"
+    }
+]

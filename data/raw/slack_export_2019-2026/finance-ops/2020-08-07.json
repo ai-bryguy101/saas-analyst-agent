@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "e99446d9-d4b1-cc09-8354-8225575a618c",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMDHKXLV8RH",
+        "ts": "1596818522.849913",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65399b9d-010a-fe22-71cd-2b13760a0715",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1596822672.931488",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d40cdaf6-7ef6-b97d-58f1-eccb36b40e6c",
+        "type": "message",
+        "text": "Gomez Outfitters Holdings paid by wire, applying now",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1596836155.706174",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "71f2fef3-57c4-f103-5a3b-1074a7d27daa",
+        "type": "message",
+        "text": "AR aging is up, Fairhaven Supply Co Ltd. is 90+ days",
+        "user": "UCQT1GS0C0C",
+        "ts": "1596848377.002380",
+        "team": "T02BRNDLCV"
+    }
+]

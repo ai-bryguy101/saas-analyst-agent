@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "cc655d84-4adb-5db3-4c18-7c3da770aa81",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> postmortem doc for yesterday is up",
+        "user": "U7PFYH0YRRG",
+        "ts": "1654186007.174513",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6c37ada-e29c-26c1-2528-fcd2defe2c6b",
+        "type": "message",
+        "text": "<@UL20M69UM76> replica lag on db-03 again",
+        "user": "UQTUT2GDN85",
+        "ts": "1654192773.516895",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

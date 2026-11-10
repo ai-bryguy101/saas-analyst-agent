@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "c34af3c2-8446-335e-1b7c-9452bd3d1b1f",
+        "type": "message",
+        "text": "Nasser School District reporting sync failures since this morning, CSM is Desmond McCarthy",
+        "user": "UWU9WG7ECGY",
+        "ts": "1641563309.582954",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae9449cc-06f6-80dd-3f61-8b819e89dc5e",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Saginaw Hotels Ltd. asking for an SLA credit",
+        "user": "UHV2RFNY0HN",
+        "ts": "1641564382.615099",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UNCGDMQATC5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5166111a-fc7e-4ce6-ad40-17a87f2f89e9",
+        "type": "message",
+        "text": "Can someone check Bayou Industries's invoice? They say they were double billed",
+        "user": "UQK194B1V43",
+        "ts": "1641566903.347617",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UJRKGMQPU2R"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UQK194B1V43",
+            "ts": "1641561918.813381"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "0f25cab0-d8cc-e46d-a61e-63359a9ce8cd",
+        "type": "message",
+        "text": "Johansson Suites wants a discount, how far can I go?",
+        "user": "U9Y2KF0S90E",
+        "ts": "1607440430.129400",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9Y2KF0S90E",
+            "ts": "1607456564.584235"
+        }
+    },
+    {
+        "client_msg_id": "52a5265b-e2a6-9989-ef2d-6cfbd3615765",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Anyone have a reference customer in Hospitality?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1607450432.272809",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4156676-278e-4a55-d531-db1f454f9d9b",
+        "type": "message",
+        "text": "<@U22GUF0P303> Pipeline review moved to 3pm",
+        "user": "UA3MVBJWAHX",
+        "ts": "1607461892.852952",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d89b972d-7859-8ccd-d89d-6e8a4b8e21f3",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "U2CKCF24AEA",
+        "ts": "1607469740.185206",
+        "team": "T02BRNDLCV"
+    }
+]

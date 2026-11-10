@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "1ee53f4f-2cee-46f9-4fdf-6336bd196b68",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "U5DYUQUF95P",
+        "ts": "1688399563.002338",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UCQT1GS0C0C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3aeb94b4-234e-cc23-c0ce-2b7dccd10541",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UDCALCM1RUG",
+        "ts": "1688400258.397104",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDCALCM1RUG",
+            "ts": "1688400289.381104"
+        }
+    },
+    {
+        "client_msg_id": "af3951b7-8381-b9b5-a53c-84651fed1b86",
+        "type": "message",
+        "text": "Q3 kickoff deck is in the drive",
+        "user": "U48TCJE75PD",
+        "ts": "1688410420.552710",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "809e9749-743f-80f3-6d69-cce3edbdd119",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U69WX6HRQNH",
+        "ts": "1688410822.972929",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b02eccd5-2a8d-7115-a450-20af5fdaf956",
+        "type": "message",
+        "text": "<@U7PFYH0YRRG> Office wifi is back up",
+        "user": "U2CKCF24AEA",
+        "ts": "1688412372.469039",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7eccf27a-4fbb-627a-28bb-62cd8693316f",
+        "type": "message",
+        "text": "Welcome Callum MacLeod to the Sales team!",
+        "user": "UXXA9L8HH83",
+        "ts": "1688417832.250356",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "97f5f741-7f79-5bd8-2bf1-7fde2af326f9",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UQXT5A6YMVH",
+        "ts": "1688419951.700688",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8de99907-e6e6-bbe3-2112-3c3e30b9f9c5",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UJKZ2R47YW9",
+        "ts": "1688426489.378089",
+        "team": "T02BRNDLCV"
+    }
+]

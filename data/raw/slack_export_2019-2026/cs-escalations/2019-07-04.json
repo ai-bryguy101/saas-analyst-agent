@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "5ed69efc-4bcb-73e7-7508-d87e540bd53c",
+        "type": "message",
+        "text": "Moore College LLC asking for an SLA credit",
+        "user": "UAGQX7APZBG",
+        "ts": "1562246196.533953",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3be2af03-4a7a-7df0-1a43-637e48090630",
+        "type": "message",
+        "text": "Can someone check Huron Couriers Corp.'s invoice? They say they were double billed",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1562246338.470346",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cbde5d6b-3051-3cd4-c0f4-56078de50237",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Renewal risk: Valley Public Works Group unhappy with mobile app",
+        "user": "UGUNVSC71NZ",
+        "ts": "1562251223.085307",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5298b860-c5a0-28c0-6746-53c024128a14",
+        "type": "message",
+        "text": "Yamamoto Fabrication Co. asking for an SLA credit",
+        "user": "UQTUT2GDN85",
+        "ts": "1562255430.102482",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8d0c4803-3e84-941c-8729-625f036b3e83",
+        "type": "message",
+        "text": "Hawthorne Realty Management Co. wants an exec call about the outage",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1562266864.716246",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e0902129-5d76-2346-4776-f925a731010e",
+        "type": "message",
+        "text": "Renewal risk: Chavez Markets Group unhappy with mobile app",
+        "user": "UV9GDKGY32C",
+        "ts": "1562273135.303227",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "844b6074-605a-aff1-b3c2-c6b6f9c89faf",
+        "type": "message",
+        "text": "Can someone check Heritage Builders's invoice? They say they were double billed",
+        "user": "U5DYUQUF95P",
+        "ts": "1562273138.413329",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4eaabbad-e1bf-53b8-8847-d9e9e5375bdd",
+        "type": "message",
+        "text": "Renewal risk: Beacon Public Works Corp. unhappy with mobile app",
+        "user": "UJRKGMQPU2R",
+        "ts": "1562278883.145510",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc01c7b8-1fa2-e008-cf13-4f889d12a222",
+        "type": "message",
+        "text": "Tamarack Hospital Corp. reporting sync failures since this morning, CSM is Renata Takahashi",
+        "user": "UXETPKNK8MV",
+        "ts": "1562280817.398445",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f665e27e-368f-62f1-7c35-43bb16dfc968",
+        "type": "message",
+        "text": "Harbortown County Facilities wants an exec call about the outage",
+        "user": "U3KL08VJD8C",
+        "ts": "1562287472.764142",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "client_msg_id": "144983fa-f61b-965b-22a0-7adcb31da3ee",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> deploy v9.23.4 to prod :rocket:",
+        "user": "U773RMBLF5X",
+        "ts": "1620940498.374741",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b54a3be-c4d1-3a54-b603-eddf92111c41",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1620944598.370058",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#23091 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

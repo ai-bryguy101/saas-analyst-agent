@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "39df4f8c-1f2e-9e32-f0c4-e2444af904cc",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UBHB6GTB73U",
+        "ts": "1587997689.846879",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53ada1d3-3e83-7e6b-b208-f18b3aebbc61",
+        "type": "message",
+        "text": "Ozark College paid by wire, applying now",
+        "user": "UE4GTX0EXPH",
+        "ts": "1587998753.833141",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "590a8ef1-c9ea-22d7-b103-d130248aa614",
+        "type": "message",
+        "text": "AR aging is up, Tamarack Supply Co is 90+ days",
+        "user": "UFARBQM0LCD",
+        "ts": "1588003829.484072",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a41b1f4e-7c92-45f9-315d-b59aa70ee76b",
+        "type": "message",
+        "text": "AR aging is up, Allen Properties Co. is 90+ days",
+        "user": "UL8NMQFXPJR",
+        "ts": "1588005625.788818",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UNCGDMQATC5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90045664-fc5f-55ae-cf0f-406d218cb29b",
+        "type": "message",
+        "text": "AR aging is up, Evans Outfitters Group is 90+ days",
+        "user": "UT7K74ALYGQ",
+        "ts": "1588006554.241616",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "68b1ad73-1dfa-8d26-3aa0-cf2e768b451a",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2020",
+        "user": "UL20M69UM76",
+        "ts": "1588014096.064895",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b7eb4c9-4ffc-58b1-a141-3d96de84290b",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UYR8E48FJ62",
+        "ts": "1588021972.120827",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cda32ee8-066a-546d-0d26-92552f7f68db",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UE49ET7WGNU",
+        "ts": "1588024092.654607",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "85c6849f-3bbc-40fb-650d-10c30f113eb9",
+        "type": "message",
+        "text": "Lindqvist Municipal Services paid by wire, applying now",
+        "user": "UL8NMQFXPJR",
+        "ts": "1588033981.266575",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

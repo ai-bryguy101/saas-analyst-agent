@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "08db7aa2-46f0-29a5-7632-fbeeccd71113",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UXETPKNK8MV",
+        "ts": "1715089712.178044",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UXETPKNK8MV",
+            "ts": "1715129354.542640"
+        }
+    },
+    {
+        "client_msg_id": "a780c3c9-a991-1509-6fcf-ef22e4b22f37",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U3YU9TS6QYB",
+        "ts": "1715097258.041312",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL8NMQFXPJR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca7bab22-6413-53a5-0589-ee636caaaeb1",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U7PFYH0YRRG",
+        "ts": "1715098143.395943",
+        "team": "T02BRNDLCV"
+    }
+]

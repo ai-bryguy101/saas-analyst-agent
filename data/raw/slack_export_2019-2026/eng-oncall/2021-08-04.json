@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "502c8874-2040-4168-b59f-6612c4ee8f0b",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> deploy v6.39.7 to prod :rocket:",
+        "user": "UH9DL28T3MH",
+        "ts": "1628090682.060229",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UH9DL28T3MH",
+            "ts": "1628084651.091040"
+        }
+    },
+    {
+        "client_msg_id": "ad62ebed-d054-d376-073a-a26216dd3058",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "U0E67MPWRXA",
+        "ts": "1628096234.676867",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "befae782-cbc0-2efc-ff80-fa0869f4280f",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UC95B7VAFX0",
+        "ts": "1628111421.405011",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ae9e1773-a0ab-7161-e22c-00f07c18ff54",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UJQY3Q26RVW",
+        "ts": "1628124501.460197",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: billing-svc
+  namespace: billing
+spec:
+  replicas: 3
+  selector: {matchLabels: {app: billing-svc}}
+  template:
+    metadata: {labels: {app: billing-svc}}
+    spec:
+      containers:
+      - name: app
+        image: REDACTED.dkr.ecr.us-east-2.amazonaws.com/billing-svc:2025.10.3
+        env:
+        - {name: DB_HOST, value: billing-prod.REDACTED.us-east-2.rds.amazonaws.com}
+        - name: DB_PASSWORD
+          valueFrom: {secretKeyRef: {name: billing-db, key: password}}
+        - {name: STRIPE_COMPAT_MODE, value: "cents"}   # amounts in cents since v3; ledger imports were dollars

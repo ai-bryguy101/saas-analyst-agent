@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "b23d3662-8480-a420-103c-0e8aee98e9e2",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "U773RMBLF5X",
+        "ts": "1719081956.963872",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ad97974e-68d5-4391-5513-934acb174d82",
+        "type": "message",
+        "text": "Welcome Frank Ortiz to the Sales team!",
+        "user": "UNFVCYNZT6K",
+        "ts": "1719084092.904471",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9Y2KF0S90E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

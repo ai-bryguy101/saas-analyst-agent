@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "b3ba295c-af55-e86c-c7e0-28aed11a866a",
+        "type": "message",
+        "text": "Whitlock Academy Co. wants a discount, how far can I go?",
+        "user": "UMYYLUTXG9R",
+        "ts": "1775758935.450625",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9fc7e05-a5ae-6c15-e5b6-e2344a41b8dc",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1775760730.489685",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf2aed0b-7250-7ca9-f05a-ec946135ea65",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "URWNWW8QFM6",
+        "ts": "1775769094.104695",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f3f0730a-c591-4086-d72c-d64c557c94b3",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UFNKJQT8PV1",
+        "ts": "1775777874.251728",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f77a977f-d665-8695-5be6-f048a045c46d",
+        "type": "message",
+        "text": "Closed Morales Supply Co Corp.! 318 seats, Pro",
+        "user": "UPHFQAHDPSK",
+        "ts": "1775779767.282240",
+        "team": "T02BRNDLCV"
+    }
+]

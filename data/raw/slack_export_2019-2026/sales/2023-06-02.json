@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "68f715f3-99e7-b50d-8cdc-dcaf9b19fd7b",
+        "type": "message",
+        "text": "Anyone have a reference customer in Retail?",
+        "user": "U2CKCF24AEA",
+        "ts": "1685737819.687155",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UV8WG09HYBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1affb97-9abe-3b80-24a7-4a4d91d0a2a1",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1685738228.456221",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4ddd25eb-abf0-7321-e167-e9b06cefb3eb",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UR12Y3AZNKK",
+        "ts": "1685745994.772011",
+        "team": "T02BRNDLCV"
+    }
+]

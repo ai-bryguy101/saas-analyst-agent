@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "2ebb1f83-9829-135e-e85a-da8db007224f",
+        "type": "message",
+        "text": "<@UFULM18ZBQ6> Sycamore Distribution wants an exec call about the outage",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1617030823.555839",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d11bdadb-786c-ac0c-1979-d02e59126579",
+        "type": "message",
+        "text": "Kittredge Suites Holdings wants an exec call about the outage",
+        "user": "U773RMBLF5X",
+        "ts": "1617031651.814386",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a947c1be-f4a8-b8c1-4165-e2ddf2ba2deb",
+        "type": "message",
+        "text": "Martin Realty Management Ltd. reporting sync failures since this morning, CSM is Donald MacLeod",
+        "user": "UFULM18ZBQ6",
+        "ts": "1617031892.436354",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a7fd820a-700f-1d0d-dc82-8a9829885f5b",
+        "type": "message",
+        "text": "Tri-County School District Co. wants an exec call about the outage",
+        "user": "UT7K74ALYGQ",
+        "ts": "1617038636.269844",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UT7K74ALYGQ",
+            "ts": "1617054847.107336"
+        }
+    },
+    {
+        "client_msg_id": "5c185133-be7b-aed4-282c-a2c551fbf4fa",
+        "type": "message",
+        "text": "Stonebridge Township Holdings wants an exec call about the outage",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1617041388.532143",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UC95B7VAFX0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ecd8d73-6abb-ef76-81cd-00460e6b808b",
+        "type": "message",
+        "text": "Renewal risk: Granite Medical Center Ltd. unhappy with mobile app",
+        "user": "UFULM18ZBQ6",
+        "ts": "1617041806.364705",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19b51257-3023-bf0a-1a31-acf8a6974d78",
+        "type": "message",
+        "text": "Renewal risk: Dubois Outfitters Holdings unhappy with mobile app",
+        "user": "U69WX6HRQNH",
+        "ts": "1617042295.107459",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c37f840a-ec24-ed63-9eb9-115a62b18717",
+        "type": "message",
+        "text": "Harbortown Markets Corp. wants an exec call about the outage",
+        "user": "UAHZYQG5URJ",
+        "ts": "1617044041.382982",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a373e2ec-d6c1-0abf-6c2b-ff6b6f9e21dd",
+        "type": "message",
+        "text": "Ironwood Hospital reporting sync failures since this morning, CSM is Ines Johansson",
+        "user": "UNPKZYBKYGA",
+        "ts": "1617045639.723212",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ee40b96e-83c4-7e8e-95c4-f3120fb45f22",
+        "type": "message",
+        "text": "Renewal risk: Delacroix County Facilities Group unhappy with mobile app",
+        "user": "U5X9PNA34DU",
+        "ts": "1617048123.662606",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "07175972-5285-3883-45ff-5ec6620a27a9",
+        "type": "message",
+        "text": "Renewal risk: Brookside Medical Center unhappy with mobile app",
+        "user": "UDCALCM1RUG",
+        "ts": "1617054416.388152",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66334d8b-3642-8ca6-f2af-c9523f6f5b89",
+        "type": "message",
+        "text": "Can someone check Morales Medical Center's invoice? They say they were double billed",
+        "user": "UV8WG09HYBP",
+        "ts": "1617057336.992083",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2694e7f-d62e-37b8-c75e-9bf2d904d142",
+        "type": "message",
+        "text": "Can someone check Tidewater Logistics Co.'s invoice? They say they were double billed",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1617063990.914617",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec86dcec-3d29-56f7-9104-91315882c050",
+        "type": "message",
+        "text": "Renewal risk: Yarrow Homes Ltd. unhappy with mobile app",
+        "user": "U7PFYH0YRRG",
+        "ts": "1617065201.164334",
+        "team": "T02BRNDLCV"
+    }
+]

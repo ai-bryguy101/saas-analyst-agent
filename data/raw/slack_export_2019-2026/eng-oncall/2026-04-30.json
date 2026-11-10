@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "30ca9efa-02f4-20c4-0638-79bd5c4c2ef4",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U2CKCF24AEA",
+        "ts": "1777555982.259520",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5cb51838-a1d5-7858-1468-ea6790e9edb3",
+        "type": "message",
+        "text": "<@UAHZYQG5URJ> who owns the cron for nightly exports?",
+        "user": "UWUGRQ83YYM",
+        "ts": "1777564091.121757",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6403bcf-a3b7-9644-bcc0-1d2b750860ad",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U2CKCF24AEA",
+        "ts": "1777567386.740814",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UH9DL28T3MH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d16e23d3-1ab9-139d-9144-df95a87e688f",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1777570116.151508",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#45569 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65adad74-94cb-6f0e-d794-9fc077fac240",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UQTUT2GDN85",
+        "ts": "1777573101.927419",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "47d24198-7e1d-e945-9dc9-e957e19102a1",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1777582989.385228",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#66112 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

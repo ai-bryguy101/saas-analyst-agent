@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "c2ef3df9-9ac7-b260-fb69-dd4b1d4c5610",
+        "type": "message",
+        "text": "FX rates loaded for May 2025",
+        "user": "USW7BR7KTST",
+        "ts": "1747840563.785778",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UE49ET7WGNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47522cf0-7fd7-ddae-d59e-7649736c484a",
+        "type": "message",
+        "text": "AR aging is up, Elmhurst Residential Inc. is 90+ days",
+        "user": "U09CZFTHQSS",
+        "ts": "1747843989.840220",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1747842481.589274"
+        }
+    },
+    {
+        "client_msg_id": "cb97dd88-2e6f-8323-14b9-eb74d8e4732b",
+        "type": "message",
+        "text": "FX rates loaded for May 2025",
+        "user": "UVQRW5SQSEL",
+        "ts": "1747846195.977360",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f923b51b-3406-9964-52d1-791b98ca440f",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U34NH0P5TMZ",
+        "ts": "1747846302.317566",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0380f47d-0414-1758-d4e3-18db14cac6c3",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UL20M69UM76",
+        "ts": "1747855230.802118",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2ccfd3f8-8134-4126-cbdf-9913f7988058",
+        "type": "message",
+        "text": "Plains Works Inc. paid by wire, applying now",
+        "user": "UT7K74ALYGQ",
+        "ts": "1747858287.139401",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7bee0c5d-5751-3e38-0798-ccc68378d456",
+        "type": "message",
+        "text": "Elmhurst County Facilities paid by wire, applying now",
+        "user": "U0E67MPWRXA",
+        "ts": "1747864916.715813",
+        "team": "T02BRNDLCV"
+    }
+]

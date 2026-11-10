@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "d39b820e-e130-d56f-5f9f-e8ed8c862bbf",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UE49ET7WGNU",
+        "ts": "1759936209.776510",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bb7851d2-4d59-2913-547c-ee6022ccf6de",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1759936779.270591",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30df6740-23b8-09f2-9d0c-813372e690ff",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UR12Y3AZNKK",
+        "ts": "1759948287.145188",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "35a2f94e-6424-c8e6-4f5c-3372d2b2eb80",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1759949108.709619",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#47656 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c42d3ab-7c33-9b77-99af-c9073eb8115d",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "U5X9PNA34DU",
+        "ts": "1759954373.277107",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb7883c6-f5fa-0d08-2854-a6ce919a29b6",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> cert renewal for *.brindlecove.example done",
+        "user": "UQTUT2GDN85",
+        "ts": "1759964085.322574",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

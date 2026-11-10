@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "29ef6141-f9f8-c149-f095-7f1fb61bac7f",
+        "type": "message",
+        "text": "Sorensen Freight Corp. reporting sync failures since this morning, CSM is Jennifer Bouchard",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1776870325.118217",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "88ba3c20-2456-f34f-4d11-d150402105ea",
+        "type": "message",
+        "text": "Renewal risk: Summit Mills Inc. unhappy with mobile app",
+        "user": "UB8UH2KX2NW",
+        "ts": "1776875914.401441",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "233e3cff-a694-53a1-fbbd-19f76c1c0e45",
+        "type": "message",
+        "text": "Dubois Hotels Group reporting sync failures since this morning, CSM is Peter Bennett",
+        "user": "U09CZFTHQSS",
+        "ts": "1776882308.254324",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ea568b6-7ad6-b489-9375-3ba26f801244",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Yamamoto Homes Corp. asking for an SLA credit",
+        "user": "UX84HDPARWN",
+        "ts": "1776888922.722080",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

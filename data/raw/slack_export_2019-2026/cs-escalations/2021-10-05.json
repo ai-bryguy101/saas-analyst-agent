@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "56fa65dd-8302-5dcb-46ef-c7ae087edef0",
+        "type": "message",
+        "text": "Renewal risk: Valley Inns unhappy with mobile app",
+        "user": "U48TCJE75PD",
+        "ts": "1633448091.101279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7781e4c8-5984-c52d-374f-83e56fb78f40",
+        "type": "message",
+        "text": "Stonebridge Couriers LLC reporting sync failures since this morning, CSM is Kathryn Lavoie",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1633453137.630936",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U9XCAUGPS1F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8845a18-9de5-240a-bee0-47038b041d07",
+        "type": "message",
+        "text": "Park Freight Co. asking for an SLA credit",
+        "user": "UE49ET7WGNU",
+        "ts": "1633475163.545127",
+        "team": "T02BRNDLCV"
+    }
+]

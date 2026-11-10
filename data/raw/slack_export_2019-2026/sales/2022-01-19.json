@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "40964e61-e283-a9a5-7b2b-95e9455a471a",
+        "type": "message",
+        "text": "Copperfield Maintenance Co Holdings wants a discount, how far can I go?",
+        "user": "U7V33ZEGRET",
+        "ts": "1642605556.006436",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5939fa83-dfa1-2d34-259f-35f0e4eca0ef",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U3DBR7QKZWE",
+        "ts": "1642607608.337657",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99b20924-cad4-542e-0ef8-3b0a4336524e",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UJKZ2R47YW9",
+        "ts": "1642614266.502325",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

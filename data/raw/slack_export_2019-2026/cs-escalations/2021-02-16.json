@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "170f7f80-ff98-4ba1-6516-25112b6b09d2",
+        "type": "message",
+        "text": "Fairhaven Construction Group reporting sync failures since this morning, CSM is Tyler Scott",
+        "user": "U3EQ075NUYR",
+        "ts": "1613485223.358562",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8ea7c267-d1bc-dff9-e3e1-f7b083208454",
+        "type": "message",
+        "text": "Cooper Mechanical Co. reporting sync failures since this morning, CSM is Christina Fenwick",
+        "user": "UVQRW5SQSEL",
+        "ts": "1613485303.673138",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "36d794f8-4e14-8623-209a-2574c10e645a",
+        "type": "message",
+        "text": "Crescent Contracting Inc. reporting sync failures since this morning, CSM is Pamela Huang",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1613496108.291696",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5edf396-d73a-ffe8-752d-9f8a6e1f2b86",
+        "type": "message",
+        "text": "Renewal risk: Frontier Works Co. unhappy with mobile app",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1613496181.146270",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b35633aa-ea27-7a19-38bf-4516396d6d56",
+        "type": "message",
+        "text": "Yarrow Properties LLC wants an exec call about the outage",
+        "user": "UVQRW5SQSEL",
+        "ts": "1613501564.705127",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53747ede-cb3e-a12b-bec8-8c82d58607ef",
+        "type": "message",
+        "text": "Frontier Health System Ltd. reporting sync failures since this morning, CSM is Jae-won Park",
+        "user": "UG4ETD69L1D",
+        "ts": "1613506388.868410",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e6c48c53-25e5-c4fe-a220-d0e4a96a6a54",
+        "type": "message",
+        "text": "Marrow Couriers reporting sync failures since this morning, CSM is Desmond McCarthy",
+        "user": "UQTUT2GDN85",
+        "ts": "1613506977.973191",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e74717aa-8693-0545-8e50-62cac32f1a10",
+        "type": "message",
+        "text": "<@UGPRJ4K947R> Heritage Property Group asking for an SLA credit",
+        "user": "U773RMBLF5X",
+        "ts": "1613516920.866056",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "44a0acfb-9154-446c-31fb-8e9e624eafab",
+        "type": "message",
+        "text": "Marrow University Facilities Co. paid by wire, applying now",
+        "user": "U8SR98620D7",
+        "ts": "1772039551.708645",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U5X9PNA34DU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d335b49a-b41a-cfbf-5472-1c0a0b14eabb",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1772062700.557948",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1772033388.918430"
+        }
+    },
+    {
+        "client_msg_id": "596098ed-a959-b8d9-ed6a-e31e3c49910d",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1772063523.327829",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "37037a4f-04c0-9572-db8b-58724ac22fb0",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U5DYUQUF95P",
+        "ts": "1770213788.043862",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be05d695-8868-cb08-52f3-ca3a5e7fd753",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "USW7BR7KTST",
+        "ts": "1770228802.144306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f5fa5986-8efa-fb27-4d63-ebc30a38dd01",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1770231927.665418",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "df8c73aa-791f-2c88-f63e-54ce0f8de9a5",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UG4ETD69L1D",
+        "ts": "1770234227.491403",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77e2bf55-1f0b-f601-a379-903097fb6f13",
+        "type": "message",
+        "text": "<@UP8JCWGGNJ4> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UA3MVBJWAHX",
+        "ts": "1770240055.536801",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

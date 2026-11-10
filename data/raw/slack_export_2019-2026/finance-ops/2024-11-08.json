@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "d037b833-fc6f-23dc-88f1-49aa4f08eb9a",
+        "type": "message",
+        "text": "<@UNKFW783RHY> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMYYLUTXG9R",
+        "ts": "1731079872.601319",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1c90c392-f0ae-4fa9-1322-ff3e746a81bf",
+        "type": "message",
+        "text": "AR aging is up, Rivers Industries Co. is 90+ days",
+        "user": "U48TCJE75PD",
+        "ts": "1731086161.562796",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d23917b7-534b-8b0c-84a0-9b2fbdfd58e6",
+        "type": "message",
+        "text": "<@UP51TVUPQU5> FX rates loaded for Nov 2024",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1731098903.540328",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UWLZTMJ6YM7",
+            "ts": "1731112480.156418"
+        }
+    },
+    {
+        "client_msg_id": "71b3ce37-9927-522e-3a6e-a0dd1ef1e205",
+        "type": "message",
+        "text": "AR aging is up, Gatehouse Medical Center Ltd. is 90+ days",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1731099932.898331",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UFNKJQT8PV1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82f6bfee-be62-95a7-c039-3ce74a2b1d43",
+        "type": "message",
+        "text": "<@UZJU9N8CY2T> Month-end close starts tomorrow",
+        "user": "UE49ET7WGNU",
+        "ts": "1731108615.811277",
+        "team": "T02BRNDLCV"
+    }
+]

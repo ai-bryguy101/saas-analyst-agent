@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "a5719b07-6282-2510-6ac6-4ee4ab28cf2f",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UL20M69UM76",
+        "ts": "1587390537.853626",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6969228-b4b7-2cc7-e153-6c2609a4d746",
+        "type": "message",
+        "text": "Closed Ridgeline Transit Authority! 400 seats, Starter",
+        "user": "UZ1V8XFMW0J",
+        "ts": "1587398161.306134",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

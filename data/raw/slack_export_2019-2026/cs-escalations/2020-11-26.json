@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "c1647fd4-d4ce-c58d-d2a0-68cfc12245b8",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> Renewal risk: Lakes Hospital Inc. unhappy with mobile app",
+        "user": "U2CKCF24AEA",
+        "ts": "1606403466.837293",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c9a2ce7d-2281-9d60-f302-cb15179d5480",
+        "type": "message",
+        "text": "<@UX84HDPARWN> Saguaro Logistics asking for an SLA credit",
+        "user": "UFJUKVTAA1B",
+        "ts": "1606406519.072564",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5d114261-d61b-f1f0-d03a-162aa4545dd4",
+        "type": "message",
+        "text": "Cedar Residential Inc. wants an exec call about the outage",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1606408043.767424",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UV9KPNCPQJN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "362488a5-c144-007d-b00c-1a56f00dcfc5",
+        "type": "message",
+        "text": "Jackson Fabrication asking for an SLA credit",
+        "user": "U9V01K22TU1",
+        "ts": "1606413849.673839",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U9V01K22TU1",
+            "ts": "1606424810.699656"
+        }
+    },
+    {
+        "client_msg_id": "a20dd363-b6ce-5396-1688-586ced979dd3",
+        "type": "message",
+        "text": "Can someone check Valley Couriers Inc.'s invoice? They say they were double billed",
+        "user": "UNCGDMQATC5",
+        "ts": "1606414623.343920",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95fe8ae1-7c35-f2c8-47b8-9856d8b61114",
+        "type": "message",
+        "text": "Renewal risk: Stewart Markets Co. unhappy with mobile app",
+        "user": "UL20M69UM76",
+        "ts": "1606418516.283558",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "05ff7254-1efe-9641-d764-47d512b070da",
+        "type": "message",
+        "text": "Shenandoah Transit Authority Co. asking for an SLA credit",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1606418626.128192",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c55ff28b-06ee-3963-e949-ed42a64fa5e1",
+        "type": "message",
+        "text": "Nguyen Municipal Services LLC reporting sync failures since this morning, CSM is Renata Vance",
+        "user": "U69WX6HRQNH",
+        "ts": "1606425335.301593",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9ea57f6-3b43-7428-c428-0e7ab8501f07",
+        "type": "message",
+        "text": "<@UV9KPNCPQJN> Can someone check Valley Public Works Group's invoice? They say they were double billed",
+        "user": "U9U3DZUVA3L",
+        "ts": "1606425610.993040",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "61ddc2e6-10f2-3ff6-280e-ae0f33735ef8",
+        "type": "message",
+        "text": "<@U3KL08VJD8C> Moore Hotels LLC asking for an SLA credit",
+        "user": "UNPKZYBKYGA",
+        "ts": "1606426746.877865",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "78cc1068-5219-0bdc-8193-9a34d6dbe932",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Renewal risk: Meadowlark Hotels LLC unhappy with mobile app",
+        "user": "UT9KGXWKHLB",
+        "ts": "1606428848.451876",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "96d8e5d3-e7cf-f5fd-827f-bbcf93894884",
+        "type": "message",
+        "text": "Harbortown Contracting reporting sync failures since this morning, CSM is Renata Vance",
+        "user": "U5DYUQUF95P",
+        "ts": "1606431514.428712",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c3c0f1b-d2ff-9142-5c37-59bde566d096",
+        "type": "message",
+        "text": "Pueblo Public Works Ltd. reporting sync failures since this morning, CSM is Abigail Fenwick",
+        "user": "UFJUKVTAA1B",
+        "ts": "1606436400.734479",
+        "team": "T02BRNDLCV"
+    }
+]

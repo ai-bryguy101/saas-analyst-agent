@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "304d327b-4448-8c1f-6752-8fc732d4fef0",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1645208102.986805",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#14720 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f00d132-bcdb-8e5d-6bf2-d058787e1fc8",
+        "type": "message",
+        "text": "deploy v7.33.8 to prod :rocket:",
+        "user": "UFNKJQT8PV1",
+        "ts": "1645219304.085165",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5561e46-99a9-bb86-8abb-459177e698f5",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UGPRJ4K947R",
+        "ts": "1645223692.122726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5478b2fa-13fb-e7f0-cf54-8b28ee4d2790",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> PagerDuty: high error rate on api-gw",
+        "user": "U9V01K22TU1",
+        "ts": "1645227972.856621",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c47304a6-b51d-6d8b-ce14-0302aee1fc07",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1645231431.881559",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#88894 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

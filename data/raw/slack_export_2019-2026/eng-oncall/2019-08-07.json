@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "cd11c8d8-da4b-eea0-04d1-728bd90a37f9",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1565186101.138882",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#21715 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29febc6f-99de-2346-0365-14169beec92b",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "U773RMBLF5X",
+        "ts": "1565189700.858206",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "212444ee-a579-ed09-d502-036030814eb1",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UC95B7VAFX0",
+        "ts": "1565190933.813430",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d19b29c0-a43f-e985-dcdc-aa6bc1bb519a",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXETPKNK8MV",
+        "ts": "1565215483.686988",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4d3a91f6-358b-0e08-c168-2c5222804970",
+        "type": "message",
+        "text": "rolling back v8.39.0",
+        "user": "U0E67MPWRXA",
+        "ts": "1565218788.427846",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e5c8738b-111d-6363-b59f-a1622eb9721e",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UE49ET7WGNU",
+        "ts": "1565225347.348871",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UBK8V2J099L"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UE49ET7WGNU",
+            "ts": "1565194701.564014"
+        }
+    }
+]

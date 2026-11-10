@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "7807a6ff-56eb-5c85-509a-40ca8517b5c1",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Can someone check Eastlake Freight LLC's invoice? They say they were double billed",
+        "user": "UAGQX7APZBG",
+        "ts": "1646405821.829538",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6a2bb238-2a2a-de98-d070-ab80b62e0f54",
+        "type": "message",
+        "text": "<@UDCALCM1RUG> Frontier Works Co. asking for an SLA credit",
+        "user": "UCQT1GS0C0C",
+        "ts": "1646407827.307735",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fb7a481-c5ca-2bcc-0d68-e4dd7b716c2d",
+        "type": "message",
+        "text": "Quarry County Facilities Corp. reporting sync failures since this morning, CSM is Tyler Peterson",
+        "user": "UUFS9CP1A17",
+        "ts": "1646420492.989258",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4becf7ba-9897-3ef5-b050-f2e504955af7",
+        "type": "message",
+        "text": "Renewal risk: Quillfeather College unhappy with mobile app",
+        "user": "UVX5HCR5MMD",
+        "ts": "1646439791.226586",
+        "team": "T02BRNDLCV"
+    }
+]

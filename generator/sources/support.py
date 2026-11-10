@@ -142,7 +142,7 @@ def render(world, out, seed):
         hd_id += 1
         tickets_hd.append({"id": hd_id, "subject": "URGENT system down - techs cannot see work orders", "status": "closed",
                            "priority": "urgent", "type": "incident", "requester": hb.contacts[0].email,
-                           "organization_name": "Harbortown Property Grp", "assignee": "jpark@brindlecove.com",
+                           "organization_name": "Harbortown Property Grp", "assignee": "jpark@brindlecove.example",
                            "created_at": f"{d}T13:{r.randint(10, 59)}:00Z", "updated_at": f"{d + timedelta(days=2)}T09:00:00Z",
                            "tags": ["outage", "escalated", "vip"], "custom_fields": {"product_area": "Performance", "brix_no": ""},
                            "comments": [{"author": hb.contacts[0].email, "public": True, "created_at": f"{d}T13:20:00Z",

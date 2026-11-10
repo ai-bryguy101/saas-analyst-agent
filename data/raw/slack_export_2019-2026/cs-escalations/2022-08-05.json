@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "a68b6776-6141-247f-d5d9-e20c780bb5c3",
+        "type": "message",
+        "text": "<@UR3LDWKU006> Johansson Academy Ltd. reporting sync failures since this morning, CSM is Amara Brown",
+        "user": "UXXA9L8HH83",
+        "ts": "1659707867.756091",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "680279ab-2af6-bee1-f95a-64499ecc264d",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> Westbrook Mechanical Group asking for an SLA credit",
+        "user": "UV8WG09HYBP",
+        "ts": "1659712660.578590",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5d0bf746-6ca3-ae72-2243-0e70c61dd99d",
+        "type": "message",
+        "text": "Perez Outfitters Corp. asking for an SLA credit",
+        "user": "UVX5HCR5MMD",
+        "ts": "1659726072.307110",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3ff5df3c-d367-8e0f-6b90-1de57224e983",
+        "type": "message",
+        "text": "Kestrel County Facilities Holdings asking for an SLA credit",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1659730443.233539",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b05c0c48-3135-14fa-7477-c99f7f635a91",
+        "type": "message",
+        "text": "Can someone check Erie Works Group's invoice? They say they were double billed",
+        "user": "UYR8E48FJ62",
+        "ts": "1659734564.722419",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0ea72b4-3d46-477a-d303-a6dd90d211be",
+        "type": "message",
+        "text": "Wexford Works reporting sync failures since this morning, CSM is Dennis Boateng",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1659743116.613854",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "84d7d104-2c43-2aa7-b9a2-47e8a790bfa8",
+        "type": "message",
+        "text": "Tidewater Township asking for an SLA credit",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1659744648.568195",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UHN0Q6LZH8E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35ca3846-38fd-2bb7-e6d0-ad1c45fc8fe7",
+        "type": "message",
+        "text": "Renewal risk: Erie University Facilities Inc. unhappy with mobile app",
+        "user": "U773RMBLF5X",
+        "ts": "1659747022.729860",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

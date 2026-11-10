@@ -1,0 +1,20 @@
+[
+    {
+        "client_msg_id": "7b3ebe3c-1246-1c58-796e-e50526b8dd92",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1733428018.483241",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#15980 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

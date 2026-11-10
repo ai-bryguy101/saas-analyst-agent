@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "30220df2-e829-df16-88d1-45f04b69446e",
+        "type": "message",
+        "text": "rolling back v8.3.9",
+        "user": "UFJUKVTAA1B",
+        "ts": "1762191861.006559",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0547a6f-62ac-a47d-569c-09f61f24e42f",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1762207336.484581",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UL20M69UM76"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d3ebc3b-e937-4a43-f7c3-7a4c154f7748",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UDDBYSY4RFA",
+        "ts": "1762207623.738306",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ff23960d-d807-1b3e-093a-44efcb08b444",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UDCALCM1RUG",
+        "ts": "1762211700.598399",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

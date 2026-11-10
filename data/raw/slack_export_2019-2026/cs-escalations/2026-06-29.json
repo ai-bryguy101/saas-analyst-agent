@@ -1,0 +1,84 @@
+[
+    {
+        "client_msg_id": "9ac40255-6938-6b5e-cfdc-d22a0d080ea5",
+        "type": "message",
+        "text": "Renewal risk: Sanchez Resorts Corp. unhappy with mobile app",
+        "user": "U5X9PNA34DU",
+        "ts": "1782742669.138673",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "47049ce1-fa39-2e81-4a10-c570fb7c5064",
+        "type": "message",
+        "text": "Cooper Mechanical Co. reporting sync failures since this morning, CSM is Frank Quillfeather",
+        "user": "U3YU9TS6QYB",
+        "ts": "1782749659.180123",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UTLU2ZXMLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb342ea6-b772-11db-8170-41bed2678cf0",
+        "type": "message",
+        "text": "Miami Industries Holdings wants an exec call about the outage",
+        "user": "UL8NMQFXPJR",
+        "ts": "1782752547.326723",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53f1950d-3ad8-0741-89a4-041ae26fe356",
+        "type": "message",
+        "text": "<@USW7BR7KTST> Mensah Hospitality Group asking for an SLA credit",
+        "user": "UP51TVUPQU5",
+        "ts": "1782756292.740414",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f93ea66b-5d4f-c40f-61b4-ae8d4af95746",
+        "type": "message",
+        "text": "Kingsley Health Partners LLC wants an exec call about the outage",
+        "user": "UA3MVBJWAHX",
+        "ts": "1782757069.050736",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UM2UVLXX7MZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63360eba-9385-4238-1237-0f02aa5253b1",
+        "type": "message",
+        "text": "Rivers Industries Co. reporting sync failures since this morning, CSM is Aaron Flores",
+        "user": "U9XCAUGPS1F",
+        "ts": "1782759717.243744",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1044075e-ab91-a3be-a94a-c7fb9cb6a2c1",
+        "type": "message",
+        "text": "Lantern Mills reporting sync failures since this morning, CSM is Peter Bennett",
+        "user": "UDDBYSY4RFA",
+        "ts": "1782765282.220803",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4018549c-8df1-32b6-a2e6-e1dc7555e80e",
+        "type": "message",
+        "text": "Whitlock Properties reporting sync failures since this morning, CSM is Callum Ross",
+        "user": "UVX5HCR5MMD",
+        "ts": "1782779772.920217",
+        "team": "T02BRNDLCV"
+    }
+]

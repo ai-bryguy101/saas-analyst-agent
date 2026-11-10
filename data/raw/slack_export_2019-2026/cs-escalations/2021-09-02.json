@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "42e64744-85da-28b7-56d6-442044b3a518",
+        "type": "message",
+        "text": "Can someone check Clearwater Couriers Ltd.'s invoice? They say they were double billed",
+        "user": "UV8WG09HYBP",
+        "ts": "1630592530.576314",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQTUT2GDN85"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19c761bc-ae5e-de00-d101-b745a60247c5",
+        "type": "message",
+        "text": "Renewal risk: Gray Inns unhappy with mobile app",
+        "user": "UL8NMQFXPJR",
+        "ts": "1630603942.472471",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a1c9f9d9-366a-fd30-37d3-a0e225028dce",
+        "type": "message",
+        "text": "Renewal risk: Silverleaf Mechanical LLC unhappy with mobile app",
+        "user": "UDCALCM1RUG",
+        "ts": "1630606564.094341",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51f81f62-2e6e-57da-c275-a0d6fba05cd2",
+        "type": "message",
+        "text": "Renewal risk: Pueblo Industries Ltd. unhappy with mobile app",
+        "user": "UAGQX7APZBG",
+        "ts": "1630610341.031217",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "15a71369-9c18-f5bd-01a9-8de802f0919a",
+        "type": "message",
+        "text": "Can someone check Tri-County School District Co.'s invoice? They say they were double billed",
+        "user": "UAXWVBRVKW9",
+        "ts": "1630619301.887847",
+        "team": "T02BRNDLCV"
+    }
+]

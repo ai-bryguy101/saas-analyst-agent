@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "8bfd177e-5bcd-063f-72ab-ee411fd3e393",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1578058646.443361",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#56482 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9a2761f5-d504-cdd6-0e01-8c10cdfc2279",
+        "type": "message",
+        "text": "<@U9U3DZUVA3L> PagerDuty: high error rate on api-gw",
+        "user": "UT7K74ALYGQ",
+        "ts": "1578078468.444644",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d2230769-077c-c4a8-3566-3bfd93fdf7f2",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U94ETEKNM26",
+        "ts": "1578084054.365517",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0132a504-fdae-b3dc-b30f-42c49df26f60",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UHV2RFNY0HN",
+        "ts": "1578084136.685292",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b3ddb6c-82ef-4ce2-e893-60e24df1dbd2",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UV9GDKGY32C",
+        "ts": "1578086864.181318",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

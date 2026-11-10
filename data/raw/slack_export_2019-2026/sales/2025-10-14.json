@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "68356f89-be75-4a8f-601f-f933560d9f8c",
+        "type": "message",
+        "text": "Lost Scioto Construction Group to Plinthwise on price",
+        "user": "UE49ET7WGNU",
+        "ts": "1760449984.384067",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "afee2bde-ebb7-2320-5dab-f9f24b494854",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U5HQ6U91D2E",
+        "ts": "1760451117.523383",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "091df4d0-0e83-39ee-4b97-834e44c559da",
+        "type": "message",
+        "text": "Lost Gatehouse Freight LLC to Plinthwise on price",
+        "user": "UWU9WG7ECGY",
+        "ts": "1760451648.278644",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UNFVCYNZT6K"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UWU9WG7ECGY",
+            "ts": "1760454030.663821"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "13aecd31-4b9c-6594-07ec-6a88eda001a2",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UA3MVBJWAHX",
+        "ts": "1631126232.577516",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c60b2b2f-6ca6-5089-592b-ed3e7fb41494",
+        "type": "message",
+        "text": "Welcome Alexander Zhang to the Customer Success team!",
+        "user": "U22GUF0P303",
+        "ts": "1631139868.732258",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

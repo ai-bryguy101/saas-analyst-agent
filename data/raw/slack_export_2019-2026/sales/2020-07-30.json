@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "d3e7c71b-3ecd-e517-47c8-a20af35e0142",
+        "type": "message",
+        "text": "Lost Stewart Retail Group Corp. to Plinthwise on price",
+        "user": "UAXWVBRVKW9",
+        "ts": "1596115540.132355",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4b57b35e-1107-d22f-2648-91ff7c96ea9f",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Anyone have a reference customer in Facilities Services?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1596117349.570735",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7c5dbd34-50ab-3e46-9f90-baa6f8af8084",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1596139832.511867",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

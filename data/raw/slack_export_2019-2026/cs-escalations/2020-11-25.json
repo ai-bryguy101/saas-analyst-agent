@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "a9d39396-c586-2230-9113-d2b4b224923a",
+        "type": "message",
+        "text": "Allegheny Industries Group wants an exec call about the outage",
+        "user": "UPGXMWMDQNR",
+        "ts": "1606322748.635459",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b6147755-b3c4-19fe-ab48-a02348e33655",
+        "type": "message",
+        "text": "Renewal risk: Wabash Suites Ltd. unhappy with mobile app",
+        "user": "UQXT5A6YMVH",
+        "ts": "1606333000.472837",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c39af5ee-6d2f-f804-4eec-8d2c2f2b5a13",
+        "type": "message",
+        "text": "Allegheny Freight Co. reporting sync failures since this morning, CSM is Aaron Flores",
+        "user": "U7PFYH0YRRG",
+        "ts": "1606347725.364161",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U7PFYH0YRRG",
+            "ts": "1606318409.259901"
+        }
+    },
+    {
+        "client_msg_id": "bbf9d901-6278-f2ff-3801-9304e73851f2",
+        "type": "message",
+        "text": "Kestrel Maintenance Co Ltd. asking for an SLA credit",
+        "user": "UP51TVUPQU5",
+        "ts": "1606350332.514407",
+        "team": "T02BRNDLCV"
+    }
+]

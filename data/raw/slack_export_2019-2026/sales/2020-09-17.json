@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "0d8ff3a3-f102-40bb-c20f-96fb0f0ce11b",
+        "type": "message",
+        "text": "<@UUKT5XWJ0GT> Closed Abernathy Hospital! 73 seats, Starter",
+        "user": "UR12Y3AZNKK",
+        "ts": "1600351455.556513",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efff481f-7451-523a-e5b7-852fbc9e6f9e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Hospitality?",
+        "user": "U09CZFTHQSS",
+        "ts": "1600369069.805357",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c042759-4b38-753a-68f9-534f4c78453d",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U773RMBLF5X",
+        "ts": "1600380523.475658",
+        "team": "T02BRNDLCV"
+    }
+]

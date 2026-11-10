@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "92878aa9-5a9d-0dde-909b-c3958d5bc1a6",
+        "type": "message",
+        "text": "rolling back v5.16.7",
+        "user": "UCQT1GS0C0C",
+        "ts": "1601652417.666439",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6551b5e2-2d62-989d-4bbd-aff49ce723f5",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1601676384.945700",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

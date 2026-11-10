@@ -1,0 +1,87 @@
+[
+    {
+        "client_msg_id": "d4ba6ab0-a2e0-b8f0-4e2f-a906317dce99",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UMYYLUTXG9R",
+        "ts": "1679577250.797801",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9db5b0b3-4dd4-59d4-718f-f063bed4dc58",
+        "type": "message",
+        "text": "<@U09CZFTHQSS> Events schema changed again (tenant_id vs account_id)",
+        "user": "UUFS9CP1A17",
+        "ts": "1679590339.293150",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7b5d69ca-0fa3-6191-0d86-e85039b0eaa7",
+        "type": "message",
+        "text": "Events schema changed again (tenant_id vs account_id)",
+        "user": "U7V33ZEGRET",
+        "ts": "1679593409.259785",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "844bfbab-3db8-0881-92b1-9c80088ec876",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "U2CKCF24AEA",
+        "ts": "1679600959.371365",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "dac34543-36bd-435b-713d-f64674d99da9",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UYR8E48FJ62",
+        "ts": "1679604033.964847",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bfd80869-6bd3-2be1-510d-5275fb88bb05",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UXXA9L8HH83",
+        "ts": "1679607753.932508",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da434daf-8e6c-b42e-851d-44ecc1404e10",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UT7K74ALYGQ",
+        "ts": "1679609207.180047",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4e1d570d-f441-73d4-97f5-a19639926028",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "UCQT1GS0C0C",
+        "ts": "1679609972.889641",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2894ad12-0efe-2488-3278-b6aa5923c556",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UC95B7VAFX0",
+        "ts": "1679613956.495796",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC95B7VAFX0",
+            "ts": "1679605706.699176"
+        }
+    }
+]

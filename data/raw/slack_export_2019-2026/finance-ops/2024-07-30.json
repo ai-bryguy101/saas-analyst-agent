@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "74a84205-a69c-6065-3266-93a64e38cba2",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1722381751.125221",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "28f4b6bd-7bbe-864e-b188-a08470b837ba",
+        "type": "message",
+        "text": "AR aging is up, Sandpiper College is 90+ days",
+        "user": "UAXWVBRVKW9",
+        "ts": "1722386159.881169",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

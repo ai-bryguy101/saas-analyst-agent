@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "eccbd575-9402-d3c5-c923-6e2edcb5ed1e",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UE4GTX0EXPH",
+        "ts": "1650288445.216793",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "72b60b96-ba90-5ad1-a534-980a8a63c8e5",
+        "type": "message",
+        "text": "<@UJRKGMQPU2R> Who owns Lantern pricing?",
+        "user": "U9XCAUGPS1F",
+        "ts": "1650288613.885499",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0fe1462d-5f81-704e-251a-a7ddb6ef8ad8",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U7PFYH0YRRG",
+        "ts": "1650295848.476036",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "76d0f075-3369-b93a-78cb-9810a90ae417",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "U3YU9TS6QYB",
+        "ts": "1650296560.624568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bd16bf2f-f8dc-9823-bf73-d381a589ed98",
+        "type": "message",
+        "text": "<@UQK194B1V43> Lantern dashboards look great on the demo tenant",
+        "user": "UAHZYQG5URJ",
+        "ts": "1650302903.774202",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFULM18ZBQ6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2521ba5c-2d31-e1da-bbcc-a6a4c7a25091",
+        "type": "message",
+        "text": "<@UZACKQ1VXCH> Kestrel SSO cutover tonight",
+        "user": "UB8UH2KX2NW",
+        "ts": "1650312336.947838",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UB8UH2KX2NW",
+            "ts": "1650302278.227121"
+        }
+    },
+    {
+        "client_msg_id": "607e8378-4547-c652-3c6e-3bd11d354405",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UE49ET7WGNU",
+        "ts": "1650328573.900292",
+        "team": "T02BRNDLCV"
+    }
+]

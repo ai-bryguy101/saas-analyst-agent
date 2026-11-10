@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "f1bd8079-6383-46ce-95e9-3f405b3bcd66",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "USW7BR7KTST",
+        "ts": "1781114140.700811",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6bdc53ec-919f-c6d8-783f-5d50daa53547",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMYYLUTXG9R",
+        "ts": "1781123104.273624",
+        "team": "T02BRNDLCV"
+    }
+]

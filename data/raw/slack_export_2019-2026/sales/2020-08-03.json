@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "9afb88b8-1b75-e290-ed64-310ad424832c",
+        "type": "message",
+        "text": "Lost Northgate University Facilities LLC to Plinthwise on price",
+        "user": "UR3LDWKU006",
+        "ts": "1596462302.130549",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f37bc45c-af85-a277-0b3a-911d8b2c36eb",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "U8TVGALMJLQ",
+        "ts": "1596495076.670943",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

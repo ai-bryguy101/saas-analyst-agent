@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "483c1c84-eb31-204b-7738-44f2ee65a92a",
+        "type": "message",
+        "text": "<@UG4ETD69L1D> Can someone check Liu Clinics Corp.'s invoice? They say they were double billed",
+        "user": "U48TCJE75PD",
+        "ts": "1731341629.859683",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0b4106ea-6d53-17a4-a138-ce5cea99d98f",
+        "type": "message",
+        "text": "Redstone Fabrication Group reporting sync failures since this morning, CSM is Margaret Okonkwo-Hale",
+        "user": "UB8UH2KX2NW",
+        "ts": "1731347852.464431",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

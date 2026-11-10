@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "0aab32ac-a6ba-e2cf-437a-8f12dbc9e3f7",
+        "type": "message",
+        "text": "Oakmere Supply Co Co. paid by wire, applying now",
+        "user": "UFWAQ6E76D6",
+        "ts": "1718121316.548019",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFWAQ6E76D6",
+            "ts": "1718141589.728525"
+        }
+    },
+    {
+        "client_msg_id": "5fb97997-a579-4d3e-a642-43ebd6a0fe12",
+        "type": "message",
+        "text": "FX rates loaded for Jun 2024",
+        "user": "U09CZFTHQSS",
+        "ts": "1718133705.511452",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8310435-f3f2-a298-9e01-1ecbd36f9021",
+        "type": "message",
+        "text": "AR aging is up, Ozark Works Holdings is 90+ days",
+        "user": "URWNWW8QFM6",
+        "ts": "1718134274.056913",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

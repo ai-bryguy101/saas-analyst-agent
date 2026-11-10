@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "c7e8c881-f3ca-f53d-7725-1a707e312e64",
+        "type": "message",
+        "text": "Rivera Transit Authority Group reporting sync failures since this morning, CSM is Frances Robinson",
+        "user": "UBHB6GTB73U",
+        "ts": "1575045338.838063",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UBHB6GTB73U",
+            "ts": "1575050787.637198"
+        }
+    },
+    {
+        "client_msg_id": "18004553-0b38-e1eb-2b87-e9bfa2deb761",
+        "type": "message",
+        "text": "Eastlake Warehousing Co. reporting sync failures since this morning, CSM is Zachary Romano",
+        "user": "U09CZFTHQSS",
+        "ts": "1575057617.581756",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1575062728.529144"
+        }
+    },
+    {
+        "client_msg_id": "57e01a15-95b7-e788-f67f-7fbfafeeda7d",
+        "type": "message",
+        "text": "Renewal risk: Cascade Construction unhappy with mobile app",
+        "user": "UKMQNTKUR4V",
+        "ts": "1575067052.509004",
+        "team": "T02BRNDLCV"
+    }
+]

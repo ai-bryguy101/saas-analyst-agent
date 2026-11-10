@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "8b2ac749-1b41-b271-f77b-54b4c5454881",
+        "type": "message",
+        "text": "Calloway Builders asking for an SLA credit",
+        "user": "UXETPKNK8MV",
+        "ts": "1682531460.225545",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "49d9a270-2062-bf87-13a3-dfd7ab20833f",
+        "type": "message",
+        "text": "<@U34NH0P5TMZ> Wabash Transit Authority wants an exec call about the outage",
+        "user": "U69WX6HRQNH",
+        "ts": "1682548567.484733",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

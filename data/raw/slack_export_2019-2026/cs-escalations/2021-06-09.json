@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "a9be8622-f5f9-f17c-21ac-53694c7c3fbd",
+        "type": "message",
+        "text": "Bouchard Manufacturing Group reporting sync failures since this morning, CSM is Walter Ortiz",
+        "user": "U0E67MPWRXA",
+        "ts": "1623243840.604882",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9fd22993-bb83-2d3e-9953-c83661125196",
+        "type": "message",
+        "text": "Can someone check Riverbend Public Works's invoice? They say they were double billed",
+        "user": "UUFS9CP1A17",
+        "ts": "1623245755.621027",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1677387-5bcb-a736-a722-67d17048351e",
+        "type": "message",
+        "text": "Frontier Property Group asking for an SLA credit",
+        "user": "UV9KPNCPQJN",
+        "ts": "1623246006.971602",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8e890d5-37e8-ee7e-3be7-c9eac129f40d",
+        "type": "message",
+        "text": "Cedar Property Group Inc. wants an exec call about the outage",
+        "user": "UA3MVBJWAHX",
+        "ts": "1623249072.628237",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UA3MVBJWAHX",
+            "ts": "1623280102.478855"
+        }
+    },
+    {
+        "client_msg_id": "42e29b10-1e12-826d-99ec-796d43fe0170",
+        "type": "message",
+        "text": "Can someone check Cornerstone Janitorial's invoice? They say they were double billed",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1623255036.567002",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5296ca5d-d77a-0e83-e061-f545a966d32b",
+        "type": "message",
+        "text": "Can someone check Northgate Health System's invoice? They say they were double billed",
+        "user": "UL20M69UM76",
+        "ts": "1623255444.557025",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1ebf4b7a-bbd5-49a3-b085-dd2ae09df42a",
+        "type": "message",
+        "text": "Johansson Contracting reporting sync failures since this morning, CSM is Joao Cook",
+        "user": "UCQT1GS0C0C",
+        "ts": "1623260342.317359",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "90ecc9fd-34a1-66c0-b418-b586ef6ff9eb",
+        "type": "message",
+        "text": "Rivers Mechanical Holdings asking for an SLA credit",
+        "user": "U9SD2024Q7F",
+        "ts": "1623264301.305208",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5fcdd7d4-b384-fe53-7a9d-86426989f9bd",
+        "type": "message",
+        "text": "Morris Mechanical asking for an SLA credit",
+        "user": "UC95B7VAFX0",
+        "ts": "1623267353.913047",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcadb249-a1ec-3a2e-1caf-8a56f9f2a7e7",
+        "type": "message",
+        "text": "Allegheny County Facilities asking for an SLA credit",
+        "user": "U9V01K22TU1",
+        "ts": "1623267844.350844",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a4a13c94-f963-0352-59b1-24a7aa07f92e",
+        "type": "message",
+        "text": "Renewal risk: Hughes Mechanical Holdings unhappy with mobile app",
+        "user": "UE49ET7WGNU",
+        "ts": "1623269253.864861",
+        "team": "T02BRNDLCV"
+    }
+]

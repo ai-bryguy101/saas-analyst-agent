@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "3d506b5f-d1ce-ab9a-42d9-5860b94646a8",
+        "type": "message",
+        "text": "Lakeshore Realty Management Co. wants an exec call about the outage",
+        "user": "U9Y2KF0S90E",
+        "ts": "1712927400.278685",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1672f30d-58e7-bf99-1605-ae91c74608a1",
+        "type": "message",
+        "text": "Zhang Supply Co Inc. asking for an SLA credit",
+        "user": "UAHZYQG5URJ",
+        "ts": "1712935473.436242",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "efd1dca7-7ac7-71e5-9584-e63ac6ce73ae",
+        "type": "message",
+        "text": "<@U2CKCF24AEA> Can someone check Plains Couriers Corp.'s invoice? They say they were double billed",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1712936746.785088",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d44f565c-ba57-882a-25a0-15e3500aaead",
+        "type": "message",
+        "text": "Can someone check Park Markets's invoice? They say they were double billed",
+        "user": "UMDHKXLV8RH",
+        "ts": "1712939097.716323",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7efbc738-58a2-bddf-b922-9965fa93fa3b",
+        "type": "message",
+        "text": "Liberty Building Services Group asking for an SLA credit",
+        "user": "U0E67MPWRXA",
+        "ts": "1712943686.578848",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7261f59c-72ea-d728-031f-ea5a9ba6f0ca",
+        "type": "message",
+        "text": "Can someone check Rivers Unified Schools Holdings's invoice? They say they were double billed",
+        "user": "URFUZYLCAEC",
+        "ts": "1712944145.778420",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9b6130f8-e94e-e421-a07d-bac1b4c472c5",
+        "type": "message",
+        "text": "Ward Public Works Inc. asking for an SLA credit",
+        "user": "U22GUF0P303",
+        "ts": "1712946022.707757",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U22GUF0P303",
+            "ts": "1712938255.814052"
+        }
+    },
+    {
+        "client_msg_id": "9e482dfb-8310-e442-9ec2-1840867cd0d7",
+        "type": "message",
+        "text": "Millbrook Homes Holdings reporting sync failures since this morning, CSM is Callum MacLeod",
+        "user": "UC95B7VAFX0",
+        "ts": "1712951742.521438",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3ab2e66d-0f22-6119-7584-200526acd7cd",
+        "type": "message",
+        "text": "Can someone check Highland Homes's invoice? They say they were double billed",
+        "user": "UFARBQM0LCD",
+        "ts": "1712954215.002146",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94c21bce-c94e-a2f3-0438-dded8bf34f37",
+        "type": "message",
+        "text": "Zhang Inns Inc. reporting sync failures since this morning, CSM is Lauren Park",
+        "user": "UG4ETD69L1D",
+        "ts": "1712959571.697521",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ca0d3fa5-bd91-8f12-57fe-cded86707514",
+        "type": "message",
+        "text": "Bayou Facilities Management asking for an SLA credit",
+        "user": "UVQRW5SQSEL",
+        "ts": "1712960968.490082",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf972193-f488-f053-07c3-e830e2a478a9",
+        "type": "message",
+        "text": "Ozark Suites Ltd. reporting sync failures since this morning, CSM is Megan Ramirez",
+        "user": "UGPRJ4K947R",
+        "ts": "1712961068.737522",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cd5cd2de-1e40-2dfa-8e61-4563abc44202",
+        "type": "message",
+        "text": "Blackhawk Contracting Corp. reporting sync failures since this morning, CSM is Robert Gomez",
+        "user": "UH9DL28T3MH",
+        "ts": "1712962824.217975",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d26d27cd-8d96-3b2b-f38f-55cf9cb52297",
+        "type": "message",
+        "text": "<@UC95B7VAFX0> Renewal risk: Sanchez Construction Holdings unhappy with mobile app",
+        "user": "UQK194B1V43",
+        "ts": "1712964055.474104",
+        "team": "T02BRNDLCV"
+    }
+]

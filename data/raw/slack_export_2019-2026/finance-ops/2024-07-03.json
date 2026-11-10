@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "3fb3ac3e-b61b-ecad-722a-b49b758a274d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UAHZYQG5URJ",
+        "ts": "1720014815.896378",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9df844fb-4a82-e622-379f-b563ed13abbb",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UL8NMQFXPJR",
+        "ts": "1720018908.338031",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2042ed2e-52d8-9eff-3fe0-521a65bc9e2a",
+        "type": "message",
+        "text": "<@UFQYM82M1LX> Month-end close starts tomorrow",
+        "user": "UL20M69UM76",
+        "ts": "1720020899.184779",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUFS9CP1A17"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e50c0964-1a24-20d9-38ff-78cf7c6f0ab4",
+        "type": "message",
+        "text": "AR aging is up, Heron Building Services Corp. is 90+ days",
+        "user": "UR3LDWKU006",
+        "ts": "1720033188.602075",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2bc25c0e-7c11-04e5-62f1-f529c7ae9b83",
+        "type": "message",
+        "text": "FX rates loaded for Jul 2024",
+        "user": "UFWAQ6E76D6",
+        "ts": "1720051850.286864",
+        "team": "T02BRNDLCV"
+    }
+]

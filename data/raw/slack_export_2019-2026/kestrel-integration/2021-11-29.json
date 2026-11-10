@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "7ffcd3cf-2e7f-66ba-8d5c-164466ed6039",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UCQT1GS0C0C",
+        "ts": "1638193790.359645",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b38aa2f5-ab20-52d1-807a-e5337a2d882d",
+        "type": "message",
+        "text": "GBP invoices migrating next sprint",
+        "user": "UH9DL28T3MH",
+        "ts": "1638201996.971745",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "60c20d2e-6206-d8e3-4b36-ae8ee89827a6",
+        "type": "message",
+        "text": "<@UNFVCYNZT6K> Xero export is the source of truth until April",
+        "user": "U4DHNBQWUVZ",
+        "ts": "1638215376.192153",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a9339bc1-980d-2d59-37c0-129e407db11a",
+        "type": "message",
+        "text": "Lantern dashboards look great on the demo tenant",
+        "user": "UAGQX7APZBG",
+        "ts": "1638219894.777301",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2c992e4f-10bd-dc51-edcd-9e0274c5f904",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "UT7K74ALYGQ",
+        "ts": "1638220387.666105",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

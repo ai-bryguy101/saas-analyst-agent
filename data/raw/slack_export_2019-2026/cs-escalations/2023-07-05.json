@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "f9d6305f-f5ba-8250-5e52-e484dbd6372f",
+        "type": "message",
+        "text": "Murphy Health Partners Co. wants an exec call about the outage",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1688563511.993766",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7812ecc7-1f6e-dcdc-8596-da13d98150ba",
+        "type": "message",
+        "text": "Can someone check Keystone Public Works LLC's invoice? They say they were double billed",
+        "user": "UAHZYQG5URJ",
+        "ts": "1688573467.707377",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U2CKCF24AEA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d21426ec-88ab-9189-dfb1-1b7312b15097",
+        "type": "message",
+        "text": "Renewal risk: Blackhawk Couriers Corp. unhappy with mobile app",
+        "user": "UFARBQM0LCD",
+        "ts": "1688587997.438362",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d7b33b7-19e2-25b8-8058-fe32d18b9109",
+        "type": "message",
+        "text": "Prairie Suites reporting sync failures since this morning, CSM is Charlotte Park",
+        "user": "UVX5HCR5MMD",
+        "ts": "1688593591.057720",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8f207856-c6e6-08a0-53de-82efee9d4f23",
+        "type": "message",
+        "text": "Can someone check Cartwright Unified Schools's invoice? They say they were double billed",
+        "user": "UFJUKVTAA1B",
+        "ts": "1688596532.258690",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d614b5b-a67e-18b6-db9e-73a9a85f1e5e",
+        "type": "message",
+        "text": "Phillips Distribution Ltd. wants an exec call about the outage",
+        "user": "U69WX6HRQNH",
+        "ts": "1688597327.497215",
+        "team": "T02BRNDLCV"
+    }
+]

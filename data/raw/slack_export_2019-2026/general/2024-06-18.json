@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "498ac373-957e-c4ba-a6a8-519ba0969f64",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1718723404.270558",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec6c664a-4ce5-9805-4451-78e9d14dfa2f",
+        "type": "message",
+        "text": "Welcome Margaret Okonkwo-Hale to the Finance team!",
+        "user": "UT9KGXWKHLB",
+        "ts": "1718732803.934243",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

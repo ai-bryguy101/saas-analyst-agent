@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "44fed161-c7ef-2b00-150f-39e981c4eb8c",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "U5DYUQUF95P",
+        "ts": "1769092434.877365",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9578f103-3a4d-380e-557f-1462bf953e64",
+        "type": "message",
+        "text": "Welcome Renata Vance to the Engineering team!",
+        "user": "UP8JCWGGNJ4",
+        "ts": "1769095170.660232",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UP8JCWGGNJ4",
+            "ts": "1769115043.890637"
+        }
+    },
+    {
+        "client_msg_id": "a268e6eb-1af1-611d-629c-044d35f91c2c",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U9SD2024Q7F",
+        "ts": "1769108301.600416",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2d2d8ed4-5e5c-e262-768d-701cfb5ccb86",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UQK194B1V43",
+        "ts": "1769125502.898477",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UAXWVBRVKW9"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "42ec688f-4819-104f-5675-bd661e203d5b",
+        "type": "message",
+        "text": "Jones Residential paid by wire, applying now",
+        "user": "UPHFQAHDPSK",
+        "ts": "1577204814.579500",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UZJU9N8CY2T"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UPHFQAHDPSK",
+            "ts": "1577210445.573355"
+        }
+    }
+]

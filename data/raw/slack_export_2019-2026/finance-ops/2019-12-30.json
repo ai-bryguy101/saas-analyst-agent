@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "b191ff9f-faed-232f-60eb-ac8334f18d63",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXETPKNK8MV",
+        "ts": "1577734917.076149",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6137d93-0239-043f-2934-0243dd423df9",
+        "type": "message",
+        "text": "AR aging is up, Lindenwood Manufacturing Co. is 90+ days",
+        "user": "UP51TVUPQU5",
+        "ts": "1577736478.098313",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

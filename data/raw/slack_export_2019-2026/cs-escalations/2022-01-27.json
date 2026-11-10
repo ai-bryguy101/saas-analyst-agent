@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "49530b68-320d-a075-2f58-b427d3c409e5",
+        "type": "message",
+        "text": "Can someone check Ashford Property Services Holdings's invoice? They say they were double billed",
+        "user": "URWNWW8QFM6",
+        "ts": "1643311151.953951",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9332c159-4bd6-4851-fc58-0b0819d32dfc",
+        "type": "message",
+        "text": "Can someone check Ironwood Works's invoice? They say they were double billed",
+        "user": "UXXA9L8HH83",
+        "ts": "1643323280.851348",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UR12Y3AZNKK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10f2f3c3-f737-7f54-a1fd-603a6d6b6fad",
+        "type": "message",
+        "text": "<@UE49ET7WGNU> Clearwater Builders Group reporting sync failures since this morning, CSM is Joao Cook",
+        "user": "UJQY3Q26RVW",
+        "ts": "1643325080.362080",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UMDHKXLV8RH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5852b05-5aae-fe0c-abb2-87338a92b45a",
+        "type": "message",
+        "text": "<@U48TCJE75PD> Ozark Maintenance Co wants an exec call about the outage",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1643325588.110575",
+        "team": "T02BRNDLCV"
+    }
+]

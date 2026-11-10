@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "acddfe10-3c29-4a98-91b1-eec050660fdf",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> postmortem doc for yesterday is up",
+        "user": "U0V9BPHARQX",
+        "ts": "1729861576.956370",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bf4ebb69-647f-733f-97f4-b295a03f442c",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1729863204.377260",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#80593 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3be2e7d1-a8db-16e5-5176-f394ae531dd9",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UZJU9N8CY2T",
+        "ts": "1729866188.747198",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc529ff9-ee7c-4100-c374-46191af7b6a7",
+        "type": "message",
+        "text": "rolling back v9.31.0",
+        "user": "UPHFQAHDPSK",
+        "ts": "1729882883.928606",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "74cf31ba-2418-ad07-a0a4-d2a88c47733e",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UYFL6320JLT",
+        "ts": "1729891197.439552",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UR3LDWKU006"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UYFL6320JLT",
+            "ts": "1729881682.437395"
+        }
+    },
+    {
+        "client_msg_id": "7a3c99eb-61ff-0a4d-fce8-38249d3f0a18",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UPGXMWMDQNR",
+        "ts": "1729902005.215486",
+        "team": "T02BRNDLCV"
+    }
+]

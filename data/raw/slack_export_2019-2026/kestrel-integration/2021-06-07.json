@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "0e8cda18-5b99-bc47-f857-eec49475107d",
+        "type": "message",
+        "text": "Who owns Lantern pricing?",
+        "user": "UAGQX7APZBG",
+        "ts": "1623078325.632425",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b33a7d93-4aac-b8bb-fd2e-86a03ef152ce",
+        "type": "message",
+        "text": "Kestrel SSO cutover tonight",
+        "user": "U5TERVWF7JH",
+        "ts": "1623091638.344164",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ec09182-7df8-1f9b-0010-3dc8d331d3a5",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1623101187.098558",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UHN0Q6LZH8E",
+            "ts": "1623079784.297842"
+        }
+    },
+    {
+        "client_msg_id": "2dcd89c8-2753-77cc-2165-2a834f517f09",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "U48TCJE75PD",
+        "ts": "1623103377.048094",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9812606b-518f-ee17-9b78-22f99ce830aa",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UDCALCM1RUG",
+        "ts": "1623105725.524574",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6ca0aa85-bdf8-17ad-998e-3421f5c677fe",
+        "type": "message",
+        "text": "Xero export is the source of truth until April",
+        "user": "UMYYLUTXG9R",
+        "ts": "1623109162.565356",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7787a13e-4c2b-578b-893f-285544adf7ee",
+        "type": "message",
+        "text": "<@UT9KGXWKHLB> Xero export is the source of truth until April",
+        "user": "U9Y2KF0S90E",
+        "ts": "1623109259.761330",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "6814f302-080a-29ac-9be8-924edd0bdf10",
+        "type": "message",
+        "text": "<@UXVNE61TTLN> Month-end close starts tomorrow",
+        "user": "UVQRW5SQSEL",
+        "ts": "1656619658.176794",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "99c9b85e-83ea-286f-95c6-9c23a99dadb7",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UWBW507RCA9",
+        "ts": "1656626830.013450",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e90dfdef-5212-7597-49ee-47d70ecec091",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UE49ET7WGNU",
+        "ts": "1656628040.836799",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "95351d09-71a1-2dd5-18a6-eeab93c18c62",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U7V33ZEGRET",
+        "ts": "1656635211.503840",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

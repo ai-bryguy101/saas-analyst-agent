@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "dc13b7f6-3b03-df6b-4aeb-8e04f222c97e",
+        "type": "message",
+        "text": "FX rates loaded for Apr 2026",
+        "user": "U9V01K22TU1",
+        "ts": "1777472114.377664",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ac504a71-f580-2bd6-9b5f-8c798484b32a",
+        "type": "message",
+        "text": "Hall University Facilities paid by wire, applying now",
+        "user": "U2CKCF24AEA",
+        "ts": "1777474615.434883",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "24de2e61-ea4e-f3d7-1046-21af9885d178",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U3KL08VJD8C",
+        "ts": "1777475235.546234",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "faac1683-80db-7ca6-6496-777a0518a0d1",
+        "type": "message",
+        "text": "Allegheny Fabrication Inc. paid by wire, applying now",
+        "user": "URWNWW8QFM6",
+        "ts": "1777475465.434485",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U3EQ075NUYR"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99326c78-917c-ba5e-1b97-a4be8701eb20",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1777477623.371702",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "fa07a701-f488-9e00-4ccb-bb91d537a122",
+        "type": "message",
+        "text": "AR aging is up, Calloway Property Group Co. is 90+ days",
+        "user": "USW7BR7KTST",
+        "ts": "1777482930.901064",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "def7696c-5632-1147-a95d-0b73d9e385d1",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UPHFQAHDPSK",
+        "ts": "1777484807.801073",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6c0d4bc5-17fb-a915-0569-2f25df72929f",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UHV2RFNY0HN",
+        "ts": "1777500250.332803",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7fd205cf-9a42-076b-dd0c-5ff9e5a341d5",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UG4ETD69L1D",
+        "ts": "1777503960.999150",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2dc45014-e860-cddf-03ab-34614d6ecf3d",
+        "type": "message",
+        "text": "<@UMXMN24FN4K> AR aging is up, Lantern Contracting is 90+ days",
+        "user": "U5DYUQUF95P",
+        "ts": "1777504641.855184",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "356e69a7-6f44-d8d4-f0fc-a2cc1559ec69",
+        "type": "message",
+        "text": "<@UM2UVLXX7MZ> AR aging is up, Plains Stores Co. is 90+ days",
+        "user": "UT9KGXWKHLB",
+        "ts": "1777509818.793469",
+        "team": "T02BRNDLCV"
+    }
+]

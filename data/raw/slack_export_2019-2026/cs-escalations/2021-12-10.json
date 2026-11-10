@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "3ad7a2bf-1c96-dedb-5afd-9fa6fafe1494",
+        "type": "message",
+        "text": "Can someone check Maplewood Academy Co.'s invoice? They say they were double billed",
+        "user": "UVX5HCR5MMD",
+        "ts": "1639158781.255864",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c3018a9f-2059-efd3-b01a-a602783815a0",
+        "type": "message",
+        "text": "<@UVRFQ9LWEVK> Hawthorne Hotels reporting sync failures since this morning, CSM is Renata Esposito",
+        "user": "UPGXMWMDQNR",
+        "ts": "1639159778.728002",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "117a152e-d5c9-c0b8-f3fc-a71c701de7e9",
+        "type": "message",
+        "text": "Jimenez Academy asking for an SLA credit",
+        "user": "UCQT1GS0C0C",
+        "ts": "1639178457.956082",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

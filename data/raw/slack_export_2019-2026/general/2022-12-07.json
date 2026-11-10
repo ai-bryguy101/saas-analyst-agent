@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "f7f5a35e-fd35-94f6-7527-3e16bad08756",
+        "type": "message",
+        "text": "Welcome Angela Okafor to the Finance team!",
+        "user": "U48TCJE75PD",
+        "ts": "1670425588.145526",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8eb0f622-cb48-bbc1-06d0-9e11ad7ddf94",
+        "type": "message",
+        "text": "<@U9V01K22TU1> Q4 kickoff deck is in the drive",
+        "user": "UB8UH2KX2NW",
+        "ts": "1670425847.179908",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U69WX6HRQNH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bd2f507-0976-d8c4-2be4-a72286fecc13",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UFNKJQT8PV1",
+        "ts": "1670444915.720797",
+        "team": "T02BRNDLCV"
+    }
+]

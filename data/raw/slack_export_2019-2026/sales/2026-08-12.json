@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "3f3f0fa6-b802-283a-e504-9eeaf6f6d62b",
+        "type": "message",
+        "text": "Pricing question: does Enterprise include Dispatch?",
+        "user": "U773RMBLF5X",
+        "ts": "1786540618.282374",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53f74a91-9f52-4421-6570-ac43e2a44fcf",
+        "type": "message",
+        "text": "Lost Juniper Mechanical Group to Plinthwise on price",
+        "user": "U5HQ6U91D2E",
+        "ts": "1786549985.986933",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UGPRJ4K947R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4147c59c-1dab-1464-cf4a-a1ddd806daac",
+        "type": "message",
+        "text": "Anyone have a reference customer in Construction?",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1786550350.589353",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80ef8251-5d80-1490-3836-b06b672f43d7",
+        "type": "message",
+        "text": "Juniper Contracting wants a discount, how far can I go?",
+        "user": "UQK194B1V43",
+        "ts": "1786551118.064327",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0b1be30a-0c41-be02-1756-8ecf38e60bee",
+        "type": "message",
+        "text": "<@UA3MVBJWAHX> Pipeline review moved to 3pm",
+        "user": "UUDLJ7GDXKE",
+        "ts": "1786556953.158949",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7bc48fab-d7b9-36c9-9325-445ffa5c9413",
+        "type": "message",
+        "text": "Closed Penhallow Outfitters Ltd.! 350 seats, Starter",
+        "user": "UWU9WG7ECGY",
+        "ts": "1786563253.523872",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UUDLJ7GDXKE"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f4701bf-dbc0-e23a-8412-b3c3f017e69b",
+        "type": "message",
+        "text": "Pricing question: does Starter include Dispatch?",
+        "user": "UMDHKXLV8RH",
+        "ts": "1786567433.843221",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0133f92f-8e0c-f070-baef-721520cb4979",
+        "type": "message",
+        "text": "Closed Johansson Academy Ltd.! 313 seats, Starter",
+        "user": "UB8UH2KX2NW",
+        "ts": "1786573909.045788",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UP8JCWGGNJ4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f64dbb0-1b75-4ba3-1619-43e50aeb5db7",
+        "type": "message",
+        "text": "Anyone have a reference customer in Education?",
+        "user": "UGPRJ4K947R",
+        "ts": "1786580752.455559",
+        "team": "T02BRNDLCV"
+    }
+]

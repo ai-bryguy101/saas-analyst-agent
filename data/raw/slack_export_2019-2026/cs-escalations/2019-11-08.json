@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "a92f8e49-3de1-b105-8f20-43a673ccef80",
+        "type": "message",
+        "text": "Can someone check Bluewater Janitorial Corp.'s invoice? They say they were double billed",
+        "user": "UPGXMWMDQNR",
+        "ts": "1573233020.863261",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d6be295e-620f-c98a-47a6-dc9d7a9549ea",
+        "type": "message",
+        "text": "Miami Realty Management Corp. reporting sync failures since this morning, CSM is Amara Brown",
+        "user": "U3YU9TS6QYB",
+        "ts": "1573234502.351114",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1b7273b3-5c3d-b57d-005e-0ce9241df8e6",
+        "type": "message",
+        "text": "Renewal risk: Valley Maintenance Co LLC unhappy with mobile app",
+        "user": "UFJUKVTAA1B",
+        "ts": "1573244119.488578",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9bb56b61-596a-d540-c044-2292c7107a75",
+        "type": "message",
+        "text": "Highland Markets Ltd. asking for an SLA credit",
+        "user": "UB0YL0LKYC7",
+        "ts": "1573259378.212484",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UB0YL0LKYC7",
+            "ts": "1573227875.713712"
+        }
+    }
+]

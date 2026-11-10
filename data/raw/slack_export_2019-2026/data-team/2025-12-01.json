@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "92f678f5-d0fe-44eb-dfc2-d568922a9044",
+        "type": "message",
+        "text": "<@UL8NMQFXPJR> Dashboard refresh failed overnight",
+        "user": "U34NH0P5TMZ",
+        "ts": "1764594487.645062",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed9c9eb8-c934-54da-7a8d-68df1941f712",
+        "type": "message",
+        "text": "Need churn list for 2024",
+        "user": "U9XCAUGPS1F",
+        "ts": "1764597930.203403",
+        "team": "T02BRNDLCV"
+    }
+]

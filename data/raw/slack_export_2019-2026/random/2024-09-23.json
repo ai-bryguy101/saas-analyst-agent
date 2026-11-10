@@ -1,0 +1,36 @@
+[
+    {
+        "client_msg_id": "53d89d22-1e21-1034-bdff-e73f2bf02a6d",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1727107685.699857",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    },
+    {
+        "client_msg_id": "51e50b62-f530-c336-599c-f12e374f1df0",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UV9KPNCPQJN",
+        "ts": "1727123139.542697",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UMYYLUTXG9R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39756fc5-bdf2-f422-799b-02bc15dc1fa1",
+        "type": "message",
+        "text": "who's watching the game tonight",
+        "user": "UAHZYQG5URJ",
+        "ts": "1727134648.219450",
+        "team": "T02BRNDLCV"
+    }
+]

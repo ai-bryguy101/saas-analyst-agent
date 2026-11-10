@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "330ab57c-40cb-cce1-77ea-e842391a4b25",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "U9V01K22TU1",
+        "ts": "1784124531.861333",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30d82c7a-0464-3076-5313-9e682281d8a8",
+        "type": "message",
+        "text": "Pricing question: does Pro include Dispatch?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1784138583.223089",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a5b17e0-5f16-e8d1-a5d8-e4af8d2ba403",
+        "type": "message",
+        "text": "Lost Collins Markets Ltd. to Plinthwise on price",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1784157668.941962",
+        "team": "T02BRNDLCV"
+    }
+]

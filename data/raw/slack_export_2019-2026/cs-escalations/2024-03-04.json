@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "235411c9-3df4-fba5-7d1e-59d09644dd3f",
+        "type": "message",
+        "text": "<@UVQRW5SQSEL> Taylor Markets Inc. reporting sync failures since this morning, CSM is Tomasz Kowalski",
+        "user": "UZJU9N8CY2T",
+        "ts": "1709560271.685110",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5824a3b-9a46-4c6f-0b00-3e134f67439b",
+        "type": "message",
+        "text": "Silverleaf Township Group reporting sync failures since this morning, CSM is Margaret Roberts",
+        "user": "UV9KPNCPQJN",
+        "ts": "1709576134.582170",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f1b0e71c-d076-7f78-d765-c83888fe5fe0",
+        "type": "message",
+        "text": "Can someone check Castillo Hospitality Group Inc.'s invoice? They say they were double billed",
+        "user": "UX84HDPARWN",
+        "ts": "1709579343.476773",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a0c27182-dad2-4789-1f7b-11dd52c68f10",
+        "type": "message",
+        "text": "Union Restoration LLC reporting sync failures since this morning, CSM is Tyler Scott",
+        "user": "UTLU2ZXMLEL",
+        "ts": "1709597984.547815",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UZACKQ1VXCH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75ffad0c-d1d3-3714-76d0-ca5d8b74862a",
+        "type": "message",
+        "text": "Ravenwood Resorts Holdings asking for an SLA credit",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1709598854.439655",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b8c46776-d789-487d-7dd3-54aa6f8704d1",
+        "type": "message",
+        "text": "Gonzalez Janitorial Holdings asking for an SLA credit",
+        "user": "UC70JNE74S7",
+        "ts": "1709599071.411577",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "89f64f73-9bef-63f0-0892-5a5ca8493371",
+        "type": "message",
+        "text": "Gray Inns reporting sync failures since this morning, CSM is Megan Ramirez",
+        "user": "UX84HDPARWN",
+        "ts": "1709599322.134850",
+        "team": "T02BRNDLCV"
+    }
+]

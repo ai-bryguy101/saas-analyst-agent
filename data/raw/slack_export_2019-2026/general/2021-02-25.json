@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "253131db-b1b6-5e32-a252-5e27a42de32c",
+        "type": "message",
+        "text": "Q1 kickoff deck is in the drive",
+        "user": "UG4ETD69L1D",
+        "ts": "1614262984.524821",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "19504d08-7102-a5e5-9955-3439140d6f05",
+        "type": "message",
+        "text": "<@U773RMBLF5X> Office wifi is back up",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1614266788.336268",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c1df0bc1-1579-f508-07e2-d2313327a727",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UAGQX7APZBG",
+        "ts": "1614290691.631908",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "cfcd8c40-6356-15ae-4655-78922cb3422d",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> Office wifi is back up",
+        "user": "UXETPKNK8MV",
+        "ts": "1614292070.903731",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8744d3a-1ed6-ff66-a536-68eb9410e6cb",
+        "type": "message",
+        "text": "Welcome Ines Johansson to the Engineering team!",
+        "user": "UVQRW5SQSEL",
+        "ts": "1614299408.101234",
+        "team": "T02BRNDLCV"
+    }
+]

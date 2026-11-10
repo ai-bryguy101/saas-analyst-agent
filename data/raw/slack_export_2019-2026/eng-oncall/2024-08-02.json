@@ -1,0 +1,148 @@
+[
+    {
+        "client_msg_id": "56ecf97a-5da8-8ca3-c93a-b73166974576",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "U22GUF0P303",
+        "ts": "1722606603.258121",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5865fad8-6977-0fcd-6239-938ca1f0a345",
+        "type": "message",
+        "text": "<@UWU9WG7ECGY> replica lag on db-03 again",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1722607461.287213",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "77df1399-3047-9392-f33f-e39668546349",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UT7K74ALYGQ",
+        "ts": "1722609228.924084",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UPHFQAHDPSK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1322b115-ab79-e281-57e4-1dbc71a27506",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1722622789.145261",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#11455 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb754a78-ede4-db74-3124-095b5d3c8ae9",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UT9KGXWKHLB",
+        "ts": "1722623136.352785",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UFWAQ6E76D6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e2ca163-21e0-178e-7226-85097c2578c0",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UQTUT2GDN85",
+        "ts": "1722629140.975590",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "76dc174d-3574-41ba-4f82-404cf27b5052",
+        "type": "message",
+        "text": "deploy v8.35.3 to prod :rocket:",
+        "user": "UNKFW783RHY",
+        "ts": "1722629471.780695",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0E67MPWRXA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5a62ea5-4d94-451f-fc73-3e45ff72cd68",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1722630616.120009",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#91293 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41686b72-f91e-f3a0-d085-694426532ea2",
+        "type": "message",
+        "text": "<@U9V01K22TU1> who owns the cron for nightly exports?",
+        "user": "UV9KPNCPQJN",
+        "ts": "1722631914.112006",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UL7VFDJEZ2W"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f53b04d9-3ba6-369c-5d91-5f2ba8cb79c4",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1722632209.006601",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#18329 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

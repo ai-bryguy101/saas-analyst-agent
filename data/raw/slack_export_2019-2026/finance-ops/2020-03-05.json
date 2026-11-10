@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "20f14b32-11fb-8157-7865-cccedda41d94",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2020",
+        "user": "UJQ9E01DWPS",
+        "ts": "1583423106.581068",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a714feeb-ffd3-9c02-1838-57ef6625cbd4",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1583423922.283759",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1583434200.548508"
+        }
+    },
+    {
+        "client_msg_id": "e83afaae-3bde-e5d8-175a-8a88819713c8",
+        "type": "message",
+        "text": "FX rates loaded for Mar 2020",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1583425493.933276",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5c39ec4-658b-3b34-34ea-b2038a334563",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Granite Restoration paid by wire, applying now",
+        "user": "UJRKGMQPU2R",
+        "ts": "1583426442.296189",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "e721fc38-fc99-fad9-de08-7aa74b5ccf57",
+        "type": "message",
+        "text": "AR aging is up, Wexford Works is 90+ days",
+        "user": "UL8NMQFXPJR",
+        "ts": "1583433806.168648",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UV9GDKGY32C"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UL8NMQFXPJR",
+            "ts": "1583416124.179886"
+        }
+    },
+    {
+        "client_msg_id": "6c7912da-86b0-0c8d-6391-01aaee0750fe",
+        "type": "message",
+        "text": "Stewart Properties Ltd. paid by wire, applying now",
+        "user": "UV9GDKGY32C",
+        "ts": "1583448687.817069",
+        "team": "T02BRNDLCV"
+    }
+]

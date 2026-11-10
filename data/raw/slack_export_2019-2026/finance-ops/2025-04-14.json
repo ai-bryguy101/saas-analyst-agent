@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "1c37d000-f7a8-44f2-c967-a9f19559dc3e",
+        "type": "message",
+        "text": "AR aging is up, Fairhaven Builders Group is 90+ days",
+        "user": "UJKZ2R47YW9",
+        "ts": "1744652331.670129",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53efdcca-cf3b-0afe-71bd-689440d76bca",
+        "type": "message",
+        "text": "AR aging is up, Sandpiper Distribution Inc. is 90+ days",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1744652788.593764",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UJQY3Q26RVW"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a0c9342-090c-8b17-9edd-2e67d540323e",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UWUGRQ83YYM",
+        "ts": "1744664576.272135",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9d78b0f3-4ec7-560a-3774-eec42895b07e",
+        "type": "message",
+        "text": "<@U9Y2KF0S90E> Month-end close starts tomorrow",
+        "user": "U22GUF0P303",
+        "ts": "1744666978.147850",
+        "team": "T02BRNDLCV"
+    }
+]

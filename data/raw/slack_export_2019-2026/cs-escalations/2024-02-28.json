@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "e0609062-3f0a-6c62-eaff-2c4fc5026c03",
+        "type": "message",
+        "text": "<@UAXWVBRVKW9> Jackson University Facilities Corp. wants an exec call about the outage",
+        "user": "UFJUKVTAA1B",
+        "ts": "1709151536.726264",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "53f4aef1-e91c-01f6-6560-41b51c2f5136",
+        "type": "message",
+        "text": "Juniper Township Ltd. reporting sync failures since this morning, CSM is Ashley Walker",
+        "user": "UFNKJQT8PV1",
+        "ts": "1709151623.714503",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b0aec02d-24ab-5e9b-a9b8-1d29f80c44a6",
+        "type": "message",
+        "text": "Renewal risk: Pioneer Mechanical Holdings unhappy with mobile app",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1709152425.735515",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

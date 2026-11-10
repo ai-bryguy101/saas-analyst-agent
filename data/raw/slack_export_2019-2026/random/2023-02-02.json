@@ -1,0 +1,19 @@
+[
+    {
+        "client_msg_id": "40d7aac2-4882-62b0-2f67-1538b21003b6",
+        "type": "message",
+        "text": "<@U22GUF0P303> anyone want coffee",
+        "user": "UM2UVLXX7MZ",
+        "ts": "1675357484.126129",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "382cf470-9eec-3c31-78d9-09c6879c150d",
+        "type": "message",
+        "text": "",
+        "user": "USLACKBOT",
+        "ts": "1675382765.557069",
+        "team": "T02BRNDLCV",
+        "subtype": "channel_join"
+    }
+]

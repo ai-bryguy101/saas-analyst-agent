@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "098f089d-0ec5-21f7-a4b7-696070e6d2ec",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UKMQNTKUR4V",
+        "ts": "1613481815.929192",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a9a7c223-f638-9a5a-5493-ccd8fbecf083",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1613482377.846279",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "929d3e0b-7a9d-3dcb-6e0c-49a1b410b47f",
+        "type": "message",
+        "text": "FX rates loaded for Feb 2021",
+        "user": "UC95B7VAFX0",
+        "ts": "1613485267.056057",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "84a40864-75e5-1a34-08f0-c83ad194a533",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UC95B7VAFX0",
+        "ts": "1613489888.096850",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UVRFQ9LWEVK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

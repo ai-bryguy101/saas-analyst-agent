@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "db3e6b6d-14c8-d1aa-e03a-e7f7cf010c53",
+        "type": "message",
+        "text": "<@UMYYLUTXG9R> Office wifi is back up",
+        "user": "UHV2RFNY0HN",
+        "ts": "1770822865.021374",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ab0e68ff-8960-2b46-0b7c-12386fb76e07",
+        "type": "message",
+        "text": "<@U5HQ6U91D2E> Welcome Tomasz Kowalski to the Support team!",
+        "user": "UPGXMWMDQNR",
+        "ts": "1770827278.809607",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "570bcb40-3fa2-d7ee-2d5c-f61f088a48be",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UWU9WG7ECGY",
+        "ts": "1770832536.962969",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UWLZTMJ6YM7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45f661d0-5503-d629-c565-413c0fc63da1",
+        "type": "message",
+        "text": "<@UMDHKXLV8RH> Welcome Alexander Zhang to the Finance team!",
+        "user": "UDCALCM1RUG",
+        "ts": "1770840986.636221",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UDCALCM1RUG",
+            "ts": "1770832040.502435"
+        }
+    }
+]

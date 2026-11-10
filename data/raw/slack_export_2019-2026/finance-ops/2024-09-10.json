@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "2f7fb956-e48c-45cc-a051-6eae6dac5272",
+        "type": "message",
+        "text": "AR aging is up, Elmhurst County Facilities is 90+ days",
+        "user": "UAXWVBRVKW9",
+        "ts": "1725984609.999378",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "84d8641d-5ad7-286b-f3be-bdf2f4d0b73e",
+        "type": "message",
+        "text": "Wexford Health Partners Group paid by wire, applying now",
+        "user": "UWLZTMJ6YM7",
+        "ts": "1725986614.478447",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c993d47d-6693-ee18-c181-b7789e34f133",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "U48TCJE75PD",
+        "ts": "1725988766.746567",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "09864020-91c4-f8fa-8fb2-bfab33b8b88d",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UXETPKNK8MV",
+        "ts": "1725989491.283427",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4377fb82-2189-9f5a-1a61-93aa8269fd99",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "U3EQ075NUYR",
+        "ts": "1725993306.290888",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U9V01K22TU1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe3bcf41-e0b2-9f36-34d7-165aa8518dbd",
+        "type": "message",
+        "text": "FX rates loaded for Sep 2024",
+        "user": "UL8NMQFXPJR",
+        "ts": "1726004245.303273",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UL8NMQFXPJR",
+            "ts": "1726000267.335264"
+        }
+    },
+    {
+        "client_msg_id": "47fa9935-04cc-32ee-ae80-9d85875edb00",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UXVNE61TTLN",
+        "ts": "1726010627.575568",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "8c2f8c63-6988-7c9a-8e6d-5a292986bca4",
+        "type": "message",
+        "text": "<@UE49ET7WGNU> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1726016063.722626",
+        "team": "T02BRNDLCV"
+    }
+]

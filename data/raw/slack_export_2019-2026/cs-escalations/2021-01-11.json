@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "c3dc5b30-56b1-0a20-74c4-e36d2966360b",
+        "type": "message",
+        "text": "Walker Hotels Group reporting sync failures since this morning, CSM is Ines Johansson",
+        "user": "UDMJ2V8P3C5",
+        "ts": "1610374207.244772",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "553b92b8-c1aa-3cac-3a25-4b76552b3c22",
+        "type": "message",
+        "text": "<@UT7K74ALYGQ> McCarthy Suites asking for an SLA credit",
+        "user": "UJRKGMQPU2R",
+        "ts": "1610379720.290279",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bdfc239f-0ee6-9ec6-71b7-5be14909a7bd",
+        "type": "message",
+        "text": "Renewal risk: Clearwater University Facilities Holdings unhappy with mobile app",
+        "user": "U9V01K22TU1",
+        "ts": "1610395427.563847",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "498e8f86-bfea-3db1-285a-d4e549deed7e",
+        "type": "message",
+        "text": "O'Brien Building Services reporting sync failures since this morning, CSM is Amara Brown",
+        "user": "U5DYUQUF95P",
+        "ts": "1610396364.549592",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "574c6d66-6a2e-31b8-f2c7-fa704649d5e1",
+        "type": "message",
+        "text": "Can someone check Tri-County Warehousing's invoice? They say they were double billed",
+        "user": "U3YU9TS6QYB",
+        "ts": "1610405049.534696",
+        "team": "T02BRNDLCV"
+    }
+]

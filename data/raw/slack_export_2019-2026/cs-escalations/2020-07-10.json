@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "39383592-624a-ee49-4676-8987a3ceee01",
+        "type": "message",
+        "text": "Ashford Residential LLC wants an exec call about the outage",
+        "user": "UPGXMWMDQNR",
+        "ts": "1594405141.123871",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e3f6e7f-75ad-dc6c-a18d-0097ebb42ce8",
+        "type": "message",
+        "text": "Renewal risk: Patriot Public Works Co. unhappy with mobile app",
+        "user": "UNPKZYBKYGA",
+        "ts": "1594408617.441816",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U9SD2024Q7F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6189ed10-f308-01b5-f0c0-22951bc273cb",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> Young Supply Co Co. asking for an SLA credit",
+        "user": "U69WX6HRQNH",
+        "ts": "1594415047.157892",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "628bde6e-16c3-f595-9996-ea8368edc953",
+        "type": "message",
+        "text": "Cascade Stores wants an exec call about the outage",
+        "user": "UXETPKNK8MV",
+        "ts": "1594416387.705493",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a35c5f68-6306-4832-1b5c-be6d9d17084b",
+        "type": "message",
+        "text": "Stonebridge Mechanical Co. asking for an SLA credit",
+        "user": "U8TVGALMJLQ",
+        "ts": "1594419783.984885",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U8TVGALMJLQ",
+            "ts": "1594394965.404474"
+        }
+    }
+]

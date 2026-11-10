@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "110e45bc-2999-595f-d7ce-e25ed921e433",
+        "type": "message",
+        "text": "Pueblo Medical Center Ltd. asking for an SLA credit",
+        "user": "UR3LDWKU006",
+        "ts": "1764335561.636156",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7ff69f16-160e-973b-5be1-0125d92acfbe",
+        "type": "message",
+        "text": "Elmhurst Medical Center Group asking for an SLA credit",
+        "user": "UJRKGMQPU2R",
+        "ts": "1764336646.686765",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UG4ETD69L1D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f45a4001-7a8f-2cb3-df28-801e85c50dc9",
+        "type": "message",
+        "text": "Renewal risk: Fairhaven Freight Inc. unhappy with mobile app",
+        "user": "UWUGRQ83YYM",
+        "ts": "1764348996.958763",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "da7871a1-c15d-0abb-856e-cd5c3cbcc69f",
+        "type": "message",
+        "text": "Renewal risk: Sycamore Works Corp. unhappy with mobile app",
+        "user": "UNKFW783RHY",
+        "ts": "1764350582.453521",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "56c513e9-7a27-1103-53ff-e39c475ae5e8",
+        "type": "message",
+        "text": "Heron Mills Group asking for an SLA credit",
+        "user": "UVX5HCR5MMD",
+        "ts": "1764358599.776980",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "18795118-0149-44c9-e1a0-781871f533c0",
+        "type": "message",
+        "text": "Lindqvist Retail Group Corp. reporting sync failures since this morning, CSM is Frank Quillfeather",
+        "user": "UWU9WG7ECGY",
+        "ts": "1764361747.735923",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f8341afe-fb38-abb0-d480-bef5ca5bbe0d",
+        "type": "message",
+        "text": "Renewal risk: Wexford Health Partners Group unhappy with mobile app",
+        "user": "UUFS9CP1A17",
+        "ts": "1764362857.438731",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "97377f89-783f-ab49-4322-60f4f9794169",
+        "type": "message",
+        "text": "Yarrow Suites Holdings reporting sync failures since this morning, CSM is Ines Delacroix",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1764363315.960006",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "80d398c8-6839-4418-673f-e8ef7d679287",
+        "type": "message",
+        "text": "Fairhaven Homes Co. reporting sync failures since this morning, CSM is Jennifer Bouchard",
+        "user": "U09CZFTHQSS",
+        "ts": "1764367686.534660",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UMXMN24FN4K"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "U09CZFTHQSS",
+            "ts": "1764367931.329186"
+        }
+    },
+    {
+        "client_msg_id": "c607c54e-a0a0-6242-8c38-4b193d8917b3",
+        "type": "message",
+        "text": "Renewal risk: Jackson Property Group Inc. unhappy with mobile app",
+        "user": "UMDHKXLV8RH",
+        "ts": "1764367983.355453",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "068df7a5-44d6-5013-cc87-0f59aee8dec3",
+        "type": "message",
+        "text": "Wexford Builders Inc. wants an exec call about the outage",
+        "user": "UL20M69UM76",
+        "ts": "1764373141.573845",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2LMMLL4F31"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UL20M69UM76",
+            "ts": "1764337160.299063"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "783fccc8-8a19-8e7e-7306-6257e2362dd1",
+        "type": "message",
+        "text": "Patel Health Partners Co. asking for an SLA credit",
+        "user": "UYR8E48FJ62",
+        "ts": "1656428464.737564",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d64038d3-042c-ba1f-321c-dbabf89dc838",
+        "type": "message",
+        "text": "Carter Manufacturing Inc. wants an exec call about the outage",
+        "user": "UWU9WG7ECGY",
+        "ts": "1656445702.739576",
+        "team": "T02BRNDLCV"
+    }
+]

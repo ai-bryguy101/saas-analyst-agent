@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "534854d0-edef-ea8d-5097-23e3c04fb819",
+        "type": "message",
+        "text": "<@UL7VFDJEZ2W> happy friday",
+        "user": "U9XCAUGPS1F",
+        "ts": "1601990358.425840",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5e164d3c-9dfc-cc4b-c8ff-b38969d58590",
+        "type": "message",
+        "text": "<@U9U3DZUVA3L> anyone want coffee",
+        "user": "UAHZYQG5URJ",
+        "ts": "1602009419.830741",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UAGQX7APZBG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beb6b89f-618d-47c8-5bfb-02cef1d6ddb1",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UT7K74ALYGQ",
+        "ts": "1602015092.184980",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a815e5f-48a7-aa06-99d0-2139f73f6b33",
+        "type": "message",
+        "text": "<@U5DYUQUF95P> anyone want coffee",
+        "user": "UKMQNTKUR4V",
+        "ts": "1602019978.481128",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a1c86074-f100-d7fc-262c-ce630edb828f",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U773RMBLF5X",
+        "ts": "1602031372.214454",
+        "team": "T02BRNDLCV"
+    }
+]

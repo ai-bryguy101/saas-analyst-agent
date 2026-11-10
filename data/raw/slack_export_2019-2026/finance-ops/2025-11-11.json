@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "cac088cb-1609-6e38-f7f7-4b4f1148d3a3",
+        "type": "message",
+        "text": "FX rates loaded for Nov 2025",
+        "user": "UR3LDWKU006",
+        "ts": "1762873276.691095",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3fbb0a7a-5224-981e-76e0-eb4a6cbb7cea",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UNFVCYNZT6K",
+        "ts": "1762888783.585959",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "ec49f242-ae63-3fcf-ca96-f1c473b5570b",
+        "type": "message",
+        "text": "<@U4DHNBQWUVZ> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U9V01K22TU1",
+        "ts": "1762903393.514311",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

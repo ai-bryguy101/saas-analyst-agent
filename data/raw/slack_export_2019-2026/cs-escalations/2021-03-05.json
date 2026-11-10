@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "aac4d20f-da4e-f91b-9d04-14eeec93c357",
+        "type": "message",
+        "text": "<@U3YU9TS6QYB> Three Building Services wants an exec call about the outage",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1614958525.012580",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bc63a72f-3d98-9801-cd9f-eba59ddd7ecb",
+        "type": "message",
+        "text": "<@UQTUT2GDN85> Can someone check Heritage Couriers Holdings's invoice? They say they were double billed",
+        "user": "U0E67MPWRXA",
+        "ts": "1614958660.868093",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "84263aaa-e042-0ce4-3996-9c3d12ec0d53",
+        "type": "message",
+        "text": "Liberty Mills Inc. asking for an SLA credit",
+        "user": "U0E67MPWRXA",
+        "ts": "1614965618.401046",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3b33b4da-4fc1-a4cb-a56b-156eba070441",
+        "type": "message",
+        "text": "Lindenwood Mechanical Co. wants an exec call about the outage",
+        "user": "UNPKZYBKYGA",
+        "ts": "1614968643.795731",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U3KL08VJD8C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3493d2a8-27b3-01ef-ca2a-5cf56f9b385b",
+        "type": "message",
+        "text": "Renewal risk: Marrow Mills Corp. unhappy with mobile app",
+        "user": "UAGQX7APZBG",
+        "ts": "1614969842.291763",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UWU9WG7ECGY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9fcd0d5-34c2-365c-f927-40a7dee81637",
+        "type": "message",
+        "text": "Tillamook Academy asking for an SLA credit",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1614973617.582822",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b88c3b25-d1b2-c3be-0909-6edb89c85935",
+        "type": "message",
+        "text": "Keystone Logistics Group reporting sync failures since this morning, CSM is Ngozi Jones",
+        "user": "UB0YL0LKYC7",
+        "ts": "1614976439.952301",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0cf6988c-2d74-f1a6-c781-250b7d8af6e0",
+        "type": "message",
+        "text": "Morris Couriers LLC reporting sync failures since this morning, CSM is Anthony Ellsworth",
+        "user": "U2CKCF24AEA",
+        "ts": "1614984364.735714",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f4f1ee44-8b05-7cf5-563e-8ac8b3162f47",
+        "type": "message",
+        "text": "Tamarack Stores Ltd. wants an exec call about the outage",
+        "user": "UFARBQM0LCD",
+        "ts": "1614986176.280750",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U34NH0P5TMZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ca4c385-d709-6d13-c2d7-9dcd4218c672",
+        "type": "message",
+        "text": "Can someone check Erie Academy Co.'s invoice? They say they were double billed",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1614989076.848831",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UHN0Q6LZH8E",
+            "ts": "1614974336.624853"
+        }
+    },
+    {
+        "client_msg_id": "fdd5e0ca-fc1a-9a52-4493-7d5ee170caff",
+        "type": "message",
+        "text": "Harbortown Transit Authority Holdings wants an exec call about the outage",
+        "user": "UR12Y3AZNKK",
+        "ts": "1614990477.891387",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3d9dd53f-6120-b77d-1115-a1b13e9aa4bd",
+        "type": "message",
+        "text": "Can someone check Cornerstone Markets LLC's invoice? They say they were double billed",
+        "user": "U0E67MPWRXA",
+        "ts": "1614991104.658565",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9cabed29-f2d8-903a-62ce-0ebc2adb41e9",
+        "type": "message",
+        "text": "Eastlake Facilities Management reporting sync failures since this morning, CSM is Brandon Price",
+        "user": "U773RMBLF5X",
+        "ts": "1614992232.346884",
+        "team": "T02BRNDLCV"
+    }
+]

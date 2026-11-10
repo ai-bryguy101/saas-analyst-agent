@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "a053d7ed-064f-eb08-5732-d1a269de39bc",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UG4ETD69L1D",
+        "ts": "1704379020.310674",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "00354654-7b6d-7498-b5df-a12993afed5a",
+        "type": "message",
+        "text": "Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UXXA9L8HH83",
+        "ts": "1704380181.966817",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f0efed5c-740d-6858-33bc-4469e630f0fc",
+        "type": "message",
+        "text": "Stonebridge Mechanical Co. paid by wire, applying now",
+        "user": "U773RMBLF5X",
+        "ts": "1704395396.131373",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "U773RMBLF5X",
+            "ts": "1704389956.139464"
+        }
+    },
+    {
+        "client_msg_id": "9e894ed8-2bf2-b681-00f6-aca2441feb23",
+        "type": "message",
+        "text": "AR aging is up, Superior Maintenance Co Holdings is 90+ days",
+        "user": "UFARBQM0LCD",
+        "ts": "1704397903.884976",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f59b8454-9f00-d039-1f53-9f4c61772ac5",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1704400497.569915",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7f5cb195-cb83-49a9-897c-aa3981dfcad2",
+        "type": "message",
+        "text": "FX rates loaded for Jan 2024",
+        "user": "UL20M69UM76",
+        "ts": "1704400922.694051",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "30990e01-38dc-9129-06cd-1308acc3e772",
+        "type": "message",
+        "text": "Morales Supply Co Corp. paid by wire, applying now",
+        "user": "UX84HDPARWN",
+        "ts": "1704401923.291207",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1922418e-5df3-3025-c8f1-f6700c204aad",
+        "type": "message",
+        "text": "<@UJQY3Q26RVW> Reminder: ledger_import rows are in dollars, not cents",
+        "user": "UMDHKXLV8RH",
+        "ts": "1704414499.291109",
+        "team": "T02BRNDLCV"
+    }
+]

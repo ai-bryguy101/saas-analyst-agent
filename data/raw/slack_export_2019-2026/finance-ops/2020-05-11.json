@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "edb032ea-5e16-e0ab-0149-5f4815f4e424",
+        "type": "message",
+        "text": "Twin Transit Authority Inc. paid by wire, applying now",
+        "user": "UGPRJ4K947R",
+        "ts": "1589212054.380800",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U4DHNBQWUVZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9971a430-802c-2788-68d2-930d70f68f23",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "UA3MVBJWAHX",
+        "ts": "1589223812.134081",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "22af7b3e-3b41-34c3-457d-f51ec4549e09",
+        "type": "message",
+        "text": "AR aging is up, Okafor Janitorial LLC is 90+ days",
+        "user": "U9V01K22TU1",
+        "ts": "1589231244.867115",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "17b93017-2bf3-ac55-a406-3bb2e42c5bec",
+        "type": "message",
+        "text": "Can someone explain why invoices.csv amounts look 100x too big for 2016?",
+        "user": "U5DYUQUF95P",
+        "ts": "1589233860.699373",
+        "team": "T02BRNDLCV"
+    }
+]

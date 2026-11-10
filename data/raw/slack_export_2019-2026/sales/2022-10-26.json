@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "e4cef2a4-3899-4258-1bb2-cab2d7715a88",
+        "type": "message",
+        "text": "Harbortown Construction Holdings wants a discount, how far can I go?",
+        "user": "UFJUKVTAA1B",
+        "ts": "1666796656.447932",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UFJUKVTAA1B",
+            "ts": "1666794379.669557"
+        }
+    },
+    {
+        "client_msg_id": "caa5a8de-c1d0-8a7f-aaf1-00ba4404e5ca",
+        "type": "message",
+        "text": "Closed Pham Mills Holdings! 362 seats, Starter",
+        "user": "UV8WG09HYBP",
+        "ts": "1666799738.732780",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c6fc6f26-a390-749e-ba9e-e3919d4b2fab",
+        "type": "message",
+        "text": "Pipeline review moved to 3pm",
+        "user": "UCQT1GS0C0C",
+        "ts": "1666805449.221869",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U5DYUQUF95P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "052ac402-67c4-fb3d-56f3-fb22b3221698",
+        "type": "message",
+        "text": "<@U7V33ZEGRET> Pricing question: does Pro include Dispatch?",
+        "user": "UC70JNE74S7",
+        "ts": "1666819042.809687",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UC70JNE74S7",
+            "ts": "1666831519.125855"
+        }
+    },
+    {
+        "client_msg_id": "98b8174c-8d44-8f79-0222-9fceb942f834",
+        "type": "message",
+        "text": "Marrow Distribution Co. wants a discount, how far can I go?",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1666820864.640979",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UUKT5XWJ0GT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7342a6a8-5aba-772b-b3b9-562949a6306d",
+        "type": "message",
+        "text": "<@UJKZ2R47YW9> Ravenwood Properties Ltd. wants a discount, how far can I go?",
+        "user": "UWU9WG7ECGY",
+        "ts": "1666820867.319111",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UXS2WD4BYRN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

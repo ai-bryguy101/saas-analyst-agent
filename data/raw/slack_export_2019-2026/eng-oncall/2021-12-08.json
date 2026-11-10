@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "7a2fd520-9f50-2828-6727-15fd4339088a",
+        "type": "message",
+        "text": "<@UWUGRQ83YYM> deploy v7.40.0 to prod :rocket:",
+        "user": "U8TVGALMJLQ",
+        "ts": "1638978926.517846",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1a930973-97af-edbb-438c-36d6e1240619",
+        "type": "message",
+        "text": "deploy v5.12.1 to prod :rocket:",
+        "user": "UNCGDMQATC5",
+        "ts": "1638991095.898529",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UXVNE61TTLN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c54c0c8-074f-c446-b233-16bfd9350940",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UUFS9CP1A17",
+        "ts": "1638996888.108484",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a6565bf8-982d-19a4-b928-77e490cd42db",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UAHZYQG5URJ",
+        "ts": "1638998301.028009",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "14f63194-2f9e-2b7f-1671-dd7e1ae91a3c",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UQTUT2GDN85",
+        "ts": "1638998451.842364",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "01196c05-a9d0-2c28-6338-c8965dc5f541",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UVX5HCR5MMD",
+        "ts": "1639002509.399836",
+        "team": "T02BRNDLCV"
+    }
+]

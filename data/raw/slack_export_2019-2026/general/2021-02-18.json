@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "da6500f6-21bd-c766-69e8-2af19c5e1d9b",
+        "type": "message",
+        "text": "Office wifi is back up",
+        "user": "UT9KGXWKHLB",
+        "ts": "1613670890.198478",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c508b819-0439-f942-4c02-a65fe23296a1",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "U5DYUQUF95P",
+        "ts": "1613676488.813489",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U09CZFTHQSS"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29d4c03d-072b-bda7-81ab-e5268fdadff2",
+        "type": "message",
+        "text": "Reminder: all-hands Thursday at 1pm ET",
+        "user": "UUKT5XWJ0GT",
+        "ts": "1613679906.782689",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UVQRW5SQSEL"
+                ],
+                "count": 1
+            }
+        ],
+        "edited": {
+            "user": "UUKT5XWJ0GT",
+            "ts": "1613674779.742906"
+        }
+    },
+    {
+        "client_msg_id": "a250c2d2-9ab1-4705-bdfe-ca4172f89180",
+        "type": "message",
+        "text": "Benefits enrollment closes Friday",
+        "user": "UT9KGXWKHLB",
+        "ts": "1613691937.952104",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "5b11ba96-21f8-c5cf-03aa-b37bddeb0902",
+        "type": "message",
+        "text": "Welcome Hamid Roberts to the Executive team!",
+        "user": "UGPRJ4K947R",
+        "ts": "1613692724.933589",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "c113dc88-cf67-f371-8d49-194dda40632b",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1650034614.302606",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f8fca36e-aa37-0a3b-3a03-fc87018bc709",
+        "type": "message",
+        "text": "rolling back v9.13.5",
+        "user": "UT7K74ALYGQ",
+        "ts": "1650038557.710011",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "4eecad22-3254-aaba-9ed8-b935aae79ea8",
+        "type": "message",
+        "text": "who owns the cron for nightly exports?",
+        "user": "UXVNE61TTLN",
+        "ts": "1650044430.254639",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04aba690-09e5-7977-e55e-4f9907cee032",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "U773RMBLF5X",
+        "ts": "1650055828.252083",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c244149b-bf15-1bc9-dd53-4d89ca0d9745",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UX84HDPARWN",
+        "ts": "1650058827.856696",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ec04383-b7e7-1b0f-811c-a5483cd82650",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1650068129.087529",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#94581 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    }
+]

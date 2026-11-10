@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "28b7bcd1-1377-09ec-864e-3635773325e1",
+        "type": "message",
+        "text": "Welcome Pamela Huang to the Support team!",
+        "user": "UUFS9CP1A17",
+        "ts": "1574775277.361161",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UFARBQM0LCD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ab09a0c-3405-80b4-7c3d-89504f4f0ee6",
+        "type": "message",
+        "text": "Who left a lasagna in the 3rd floor fridge",
+        "user": "UT9KGXWKHLB",
+        "ts": "1574784351.308588",
+        "team": "T02BRNDLCV"
+    }
+]

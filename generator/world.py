@@ -143,14 +143,14 @@ class Person:
     def email(self, on: date) -> str:
         f, l = self.first.lower().replace("'", ""), self.last.lower().replace("'", "").replace(" ", "")
         if self.origin == "tallyflow" and on < date(2015, 6, 1):
-            return f"{f}@tallyflow.io"
+            return f"{f}@tallyflow.example"
         if self.origin == "meridian" and on < date(2019, 1, 1):
-            return f"{f}.{l}@meridiandispatch.ca"
+            return f"{f}.{l}@meridiandispatch.example"
         if self.origin == "kestrel" and on < date(2022, 1, 1):
-            return f"{f[0]}.{l}@kestrel-analytics.co.uk"
+            return f"{f[0]}.{l}@kestrel-analytics.example"
         if on < ERA["saas_launch"]:
-            return f"{f}.{l}@brindledata.com"
-        return f"{f[0]}{l}@brindlecove.com"
+            return f"{f}.{l}@brindledata.example"
+        return f"{f[0]}{l}@brindlecove.example"
 
 
 @dataclass
@@ -357,11 +357,9 @@ def name_variants(r, name: str) -> list:
 
 
 def make_contacts(r, c: Customer, n: int):
-    dom = "".join(ch for ch in c.name.lower().split(" ")[0] if ch.isalnum()) + r.choice([".com", ".org", ".net", "-inc.com"])
-    if c.country == "CA":
-        dom = dom.replace(".com", ".ca")
-    if c.country == "GB":
-        dom = dom.split(".")[0] + ".co.uk"
+    # Every customer domain uses the reserved .example TLD (RFC 2606) so no address can belong to a real organisation.
+    dom = "".join(ch for ch in c.name.lower().split(" ")[0] if ch.isalnum()) + r.choice(["", "hq", "-inc", "corp"])
+    dom += {"CA": "-ca", "GB": "-uk"}.get(c.country, "") + ".example"
     titles = ["Facilities Director", "Maintenance Manager", "Operations Manager", "IT Manager", "Controller",
               "AP Clerk", "Office Manager", "VP Operations", "Building Engineer", "Procurement Lead"]
     out = []
@@ -559,8 +557,8 @@ def plant_golden(r, people, customers):
     g["harbortown"].owner = "E013"
     g["harbortown"].csm = "E014"
     g["calloway"].contacts[0] = Contact("Theodora", "Vance", "Facilities Director", "(513) 555-0142",
-                                        "callowayfm.com")
-    g["harbortown"].contacts[0] = Contact("Lionel", "Ashby", "VP Operations", "(614) 555-0177", "harbortownpg.com")
+                                        "callowayfm.example")
+    g["harbortown"].contacts[0] = Contact("Lionel", "Ashby", "VP Operations", "(614) 555-0177", "harbortownpg.example")
     return g
 
 
@@ -705,6 +703,7 @@ def build_world(seed: int = 42, scale: float = 1.0) -> World:
     customers = build_customers(r, people, int(3200 * scale))
     golden = plant_golden(r, people, customers)
     assign_ids(r, customers, golden)
+    plant_round2(seed, customers, golden)
     for c in customers:
         c.signed = c.first_seen - timedelta(days=r.randint(3, 60))
     invoices = build_invoices(r, customers)
@@ -713,6 +712,18 @@ def build_world(seed: int = 42, scale: float = 1.0) -> World:
             inv.status, inv.paid_on = "paid", inv.issued + timedelta(days=21)
     prospects = build_prospects(r, people, int(1800 * scale))
     return World(seed, people, customers, invoices, golden, prospects)
+
+
+def plant_round2(seed, customers, golden):
+    """Round-2 plants that must exist before invoices are built. Own RNG stream, so round-1 data is untouched."""
+    taken = {id(c) for c in golden.values()}
+    pool = [c for c in customers if c.origin == "cloud" and c.country == "US" and c.cloud_start and not c.end
+            and date(2022, 3, 1) <= c.cloud_start <= date(2022, 9, 30) and c.discount == 0 and not c.deleted_in_crm
+            and id(c) not in taken and c.contacts]
+    c = pool[0]
+    c.discount = 0.12            # GF18: agreed by text message only
+    c.owner = "E007"
+    golden["sms_discount"] = c
 
 
 def arr_at(world: World, d: date, currency_to_usd=None) -> float:

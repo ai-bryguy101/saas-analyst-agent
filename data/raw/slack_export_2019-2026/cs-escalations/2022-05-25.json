@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "43f78bc2-46a9-e05c-a408-5400c08f0388",
+        "type": "message",
+        "text": "Zhang Janitorial asking for an SLA credit",
+        "user": "U3YU9TS6QYB",
+        "ts": "1653489843.089361",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "7e582ede-c7a0-7923-e157-b1e5317196c5",
+        "type": "message",
+        "text": "Can someone check Saginaw Health System Group's invoice? They say they were double billed",
+        "user": "U7V33ZEGRET",
+        "ts": "1653490050.921545",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a8973ea5-550c-6a07-11b5-6b16b77b3f00",
+        "type": "message",
+        "text": "Watson Fabrication reporting sync failures since this morning, CSM is Brian Calloway",
+        "user": "U3EQ075NUYR",
+        "ts": "1653493160.438818",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f6bba074-3c6f-9aa7-ed8b-2c9d6dfa73e1",
+        "type": "message",
+        "text": "Copperfield Maintenance Co Holdings reporting sync failures since this morning, CSM is Kathryn Lavoie",
+        "user": "UG4ETD69L1D",
+        "ts": "1653495343.880148",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "510e3f48-375e-4731-8a17-3d1e6671e2b9",
+        "type": "message",
+        "text": "Silverleaf Hotels LLC asking for an SLA credit",
+        "user": "UFGLBSDS2XV",
+        "ts": "1653498448.633516",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "UA3MVBJWAHX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22c45e5e-5f55-650f-2a48-90a95935d3d9",
+        "type": "message",
+        "text": "Perez Logistics Corp. reporting sync failures since this morning, CSM is Joseph Reed",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1653509555.662022",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "UDMJ2V8P3C5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f288a4b2-8331-8e9e-0e4c-480254937201",
+        "type": "message",
+        "text": "<@UFJUKVTAA1B> Can someone check Marrow Builders Group's invoice? They say they were double billed",
+        "user": "U3KL08VJD8C",
+        "ts": "1653525300.695222",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "7e75e873-103e-2fb9-7784-39e47d80b313",
+        "type": "message",
+        "text": "<@UB8UH2KX2NW> Foxglove Clinics Co. reporting sync failures since this morning, CSM is Nicole Johansson",
+        "user": "U48TCJE75PD",
+        "ts": "1689358102.742042",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "9d81e239-17ab-d0b4-1b66-05263e8ddd28",
+        "type": "message",
+        "text": "Huang Couriers Ltd. asking for an SLA credit",
+        "user": "UQS8MEEHLGZ",
+        "ts": "1689361450.966310",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UBHB6GTB73U"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f2480ec-d1da-f4ed-f4d2-0e3c82f10bdc",
+        "type": "message",
+        "text": "Prairie Couriers LLC asking for an SLA credit",
+        "user": "UDDBYSY4RFA",
+        "ts": "1689363311.261409",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UQS8MEEHLGZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83ab17c0-a918-5d40-e519-acdeeb35880f",
+        "type": "message",
+        "text": "Ward University Facilities asking for an SLA credit",
+        "user": "UYR8E48FJ62",
+        "ts": "1689365722.208344",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5TERVWF7JH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c325dae6-2d74-f4fe-5a52-13294cdbb655",
+        "type": "message",
+        "text": "Thompson Builders Inc. wants an exec call about the outage",
+        "user": "UL8NMQFXPJR",
+        "ts": "1689366703.754048",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "b3dcac1a-9021-85d2-0492-4e3241d88891",
+        "type": "message",
+        "text": "Magnolia Stores wants an exec call about the outage",
+        "user": "UB8UH2KX2NW",
+        "ts": "1689373317.789387",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "04469806-97f5-2da7-7f8d-030583507c41",
+        "type": "message",
+        "text": "Kowalski Residential reporting sync failures since this morning, CSM is Russell Lopez",
+        "user": "U48TCJE75PD",
+        "ts": "1689379732.781918",
+        "team": "T02BRNDLCV"
+    }
+]

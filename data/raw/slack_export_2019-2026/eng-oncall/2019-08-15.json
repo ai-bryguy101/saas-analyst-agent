@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "8ba6ce32-0231-3dce-8ad3-da6c7f200492",
+        "type": "message",
+        "text": "PagerDuty: high error rate on api-gw",
+        "user": "UL8NMQFXPJR",
+        "ts": "1565874183.992488",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "251f9c29-a54d-91dd-c944-41eff0f751ed",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1565881557.645986",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#68829 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3318d196-a8bc-9998-5a05-cfbfb5d06f65",
+        "type": "message",
+        "text": "<@UQK194B1V43> replica lag on db-03 again",
+        "user": "UB8UH2KX2NW",
+        "ts": "1565885971.521211",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "82500185-b206-0e50-0872-d218c937751d",
+        "type": "message",
+        "text": "<@UAGQX7APZBG> deploy v8.4.0 to prod :rocket:",
+        "user": "UUFS9CP1A17",
+        "ts": "1565887981.810564",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "740ba030-38a1-5c3c-8b87-6a466cc19500",
+        "type": "message",
+        "text": "",
+        "user": "BKA5V5A6JJE",
+        "ts": "1565896385.988022",
+        "team": "T02BRNDLCV",
+        "subtype": "bot_message",
+        "bot_id": "BKA5V5A6JJE",
+        "username": "PagerDuty",
+        "attachments": [
+            {
+                "fallback": "Triggered: api-gw 5xx > 2%",
+                "color": "a6001a",
+                "title": "#19112 Triggered: api-gw 5xx > 2%"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a758da61-506b-69e9-58cc-7671772d5d66",
+        "type": "message",
+        "text": "deploy v5.2.2 to prod :rocket:",
+        "user": "UT7K74ALYGQ",
+        "ts": "1565898264.882902",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "UE4GTX0EXPH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d25ea1a-a378-6386-73f5-dd223cd12cb3",
+        "type": "message",
+        "text": "postmortem doc for yesterday is up",
+        "user": "UBHB6GTB73U",
+        "ts": "1565898468.322449",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UZ5KFZLKVGN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef4c2df5-4683-9555-5672-42a809cd441b",
+        "type": "message",
+        "text": "<@UUFS9CP1A17> deploy v9.18.8 to prod :rocket:",
+        "user": "URWNWW8QFM6",
+        "ts": "1565905269.381797",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "66306bab-b5c1-5432-19ce-67f72fab50fb",
+        "type": "message",
+        "text": "rolling back v7.24.3",
+        "user": "UBHB6GTB73U",
+        "ts": "1565912533.746782",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UT7K74ALYGQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f11a2fb5-4331-ecc1-ec6f-cb1f5723e6bf",
+        "type": "message",
+        "text": "<@U773RMBLF5X> deploy v9.34.8 to prod :rocket:",
+        "user": "UVRFQ9LWEVK",
+        "ts": "1565915783.870927",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "UHV2RFNY0HN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe665d88-8842-3807-7658-4ffe04f12d40",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UMYYLUTXG9R",
+        "ts": "1565916581.280871",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "7386774d-ae68-9d06-9310-39a0c6010e4a",
+        "type": "message",
+        "text": "Brookside Building Services Co. reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "UPGXMWMDQNR",
+        "ts": "1676643737.017358",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0ee5d9b4-e300-afe0-aa71-c48f40916e31",
+        "type": "message",
+        "text": "Marchetti Contracting Ltd. reporting sync failures since this morning, CSM is Janice Mendoza",
+        "user": "UHN0Q6LZH8E",
+        "ts": "1676648259.953726",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "bb1e897d-7306-4d08-a0b1-3e3bb1c46363",
+        "type": "message",
+        "text": "Beacon Facilities Management Inc. reporting sync failures since this morning, CSM is Angela Okafor",
+        "user": "UWUGRQ83YYM",
+        "ts": "1676658390.350734",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "d1e9c364-be5b-2dd2-167b-5218ff34aaec",
+        "type": "message",
+        "text": "Quillfeather Hospitality Group Group reporting sync failures since this morning, CSM is Bjorn Wright",
+        "user": "U0E67MPWRXA",
+        "ts": "1676672661.628223",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U8SR98620D7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c46d4155-736d-f666-b7d8-8c957fc066d6",
+        "type": "message",
+        "text": "Renewal risk: Saginaw Health Partners Corp. unhappy with mobile app",
+        "user": "UE4GTX0EXPH",
+        "ts": "1676677053.437901",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "rotating_light",
+                "users": [
+                    "U5HQ6U91D2E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

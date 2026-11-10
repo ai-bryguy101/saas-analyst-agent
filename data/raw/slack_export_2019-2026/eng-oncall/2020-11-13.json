@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "d86af8d2-78af-198e-45ae-6b5f77c1c3ff",
+        "type": "message",
+        "text": "replica lag on db-03 again",
+        "user": "UYFL6320JLT",
+        "ts": "1605287656.656867",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "1771579e-ba01-af23-d66a-0bb6604297dc",
+        "type": "message",
+        "text": "rolling back v8.29.6",
+        "user": "UBK8V2J099L",
+        "ts": "1605301038.895988",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "0638816a-74d7-f101-76a9-3c9402e31b17",
+        "type": "message",
+        "text": "deploy v8.6.9 to prod :rocket:",
+        "user": "UT9KGXWKHLB",
+        "ts": "1605301712.951058",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UQXT5A6YMVH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf12a134-d433-8d5c-a963-bc3d26fb4fcb",
+        "type": "message",
+        "text": "cert renewal for *.brindlecove.example done",
+        "user": "UFARBQM0LCD",
+        "ts": "1605308442.564628",
+        "team": "T02BRNDLCV"
+    }
+]

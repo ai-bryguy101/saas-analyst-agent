@@ -1,0 +1,35 @@
+[
+    {
+        "client_msg_id": "5cbadd96-c7d2-697d-093d-a8793c9acb91",
+        "type": "message",
+        "text": "Month-end close starts tomorrow",
+        "user": "UZ5KFZLKVGN",
+        "ts": "1620667091.536610",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76036d0f-3e9a-741c-3b96-91c438cbf61b",
+        "type": "message",
+        "text": "Lakeshore Realty Management Co. paid by wire, applying now",
+        "user": "U7PFYH0YRRG",
+        "ts": "1620686951.990085",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "df63db9e-4a59-a1b3-9b6d-098fbf023c85",
+        "type": "message",
+        "text": "<@UH9DL28T3MH> Cox Property Services LLC paid by wire, applying now",
+        "user": "U8TVGALMJLQ",
+        "ts": "1620691815.376745",
+        "team": "T02BRNDLCV"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "0157295e-9615-c82e-9484-ffd9ae3125d1",
+        "type": "message",
+        "text": "rolling back v8.27.9",
+        "user": "UJRKGMQPU2R",
+        "ts": "1683294636.451901",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3475a7b7-00fc-4eca-828e-405159862c01",
+        "type": "message",
+        "text": "deploy v9.20.5 to prod :rocket:",
+        "user": "UPHFQAHDPSK",
+        "ts": "1683296474.970280",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "a5eb5ca4-b5e8-bfef-2f54-cf3af179d67e",
+        "type": "message",
+        "text": "deploy v9.14.5 to prod :rocket:",
+        "user": "U2LMMLL4F31",
+        "ts": "1683314439.101425",
+        "team": "T02BRNDLCV"
+    }
+]

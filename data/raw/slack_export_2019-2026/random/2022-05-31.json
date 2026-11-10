@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "6d75c3ae-9ce7-74ea-6e5a-6e86b795881e",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "U3KL08VJD8C",
+        "ts": "1654008996.151659",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "f3419c27-d784-562b-8a6e-b01b50a2ea6a",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UL7VFDJEZ2W",
+        "ts": "1654020330.997021",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UL7VFDJEZ2W",
+            "ts": "1654012822.738741"
+        }
+    },
+    {
+        "client_msg_id": "3d1ea992-e870-ed3d-7057-400af7435d66",
+        "type": "message",
+        "text": "happy friday",
+        "user": "U5TERVWF7JH",
+        "ts": "1654021216.849809",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "6eb46448-04c6-40cd-835a-136d11ad2e2b",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UP51TVUPQU5",
+        "ts": "1654033912.462521",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UNPKZYBKYGA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84670c87-3218-16fd-7acf-6aa2078ab1f2",
+        "type": "message",
+        "text": "happy friday",
+        "user": "UZACKQ1VXCH",
+        "ts": "1654038112.676621",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "3530ac0d-8514-2a1b-46b3-49868884cc16",
+        "type": "message",
+        "text": "anyone want coffee",
+        "user": "UMDHKXLV8RH",
+        "ts": "1654041481.197023",
+        "team": "T02BRNDLCV"
+    }
+]

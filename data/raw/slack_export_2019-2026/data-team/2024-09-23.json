@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "526595e6-b3e1-b9ed-58ca-be561f09c76a",
+        "type": "message",
+        "text": "Dashboard refresh failed overnight",
+        "user": "UQTUT2GDN85",
+        "ts": "1727098128.580187",
+        "team": "T02BRNDLCV",
+        "edited": {
+            "user": "UQTUT2GDN85",
+            "ts": "1727119442.256309"
+        }
+    },
+    {
+        "client_msg_id": "f9ee8485-46d7-b757-22a2-155c9c7026e8",
+        "type": "message",
+        "text": "Can I get ARR by region for the board?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1727115038.246153",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72e6cfb0-46d2-e32a-f16c-d6998b43932c",
+        "type": "message",
+        "text": "<@UQS8MEEHLGZ> Don't use ARR__c from Salesforce, it's stale",
+        "user": "UPGXMWMDQNR",
+        "ts": "1727115799.895468",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "2e6315e3-245c-f12a-0b1c-65fad7bc838b",
+        "type": "message",
+        "text": "Don't use ARR__c from Salesforce, it's stale",
+        "user": "U5HQ6U91D2E",
+        "ts": "1727124587.761125",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "URWNWW8QFM6"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

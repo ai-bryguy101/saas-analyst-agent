@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "217681aa-987e-060e-0bf2-2e443db3840e",
+        "type": "message",
+        "text": "Anyone have a reference customer in Healthcare?",
+        "user": "UPHFQAHDPSK",
+        "ts": "1627917914.644233",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "c5509997-4d92-8c94-52d7-b838780b5481",
+        "type": "message",
+        "text": "Anyone have a reference customer in Government?",
+        "user": "UBHB6GTB73U",
+        "ts": "1627928041.219548",
+        "team": "T02BRNDLCV",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UAHZYQG5URJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "467f5a85-6ecd-868d-9b05-e5cdb18085d2",
+        "type": "message",
+        "text": "Closed Robinson Industries LLC! 240 seats, Starter",
+        "user": "UX84HDPARWN",
+        "ts": "1627936909.866760",
+        "team": "T02BRNDLCV"
+    },
+    {
+        "client_msg_id": "00085d6c-dc6f-140e-55bd-9e9e2d933796",
+        "type": "message",
+        "text": "Lost Willow Academy Group to Plinthwise on price",
+        "user": "UH9DL28T3MH",
+        "ts": "1627938532.589986",
+        "team": "T02BRNDLCV"
+    }
+]
