@@ -162,7 +162,8 @@ data, index and eval scorecard on their own machine.
 ## 5. Open decisions [NEEDS CLARIFICATION]
 
 Each is explained with options, trade-offs and a recommendation on the
-decision page. Each becomes an ADR in `docs/adr/` once Bryan picks.
+decision page (https://claude.ai/artifact/CNKyUeYTvkph6LaT9siDSz, private to
+Bryan). Each becomes an ADR in `docs/adr/` once Bryan picks.
 
 | ID | Decision | Recommendation (not yet chosen) |
 |---|---|---|
@@ -187,8 +188,8 @@ decision page. Each becomes an ADR in `docs/adr/` once Bryan picks.
   about the topic, without naming the pattern.
 - **SC-004** Typical answer starts streaming within 3 seconds and finishes
   within 30 seconds.
-- **SC-005** Average cost per answered question is under $0.15 (tracked on the
-  admin view).
+- **SC-005** Average cost per answered question stays under the target set in
+  D2 (tracked on the admin view).
 - **SC-006** Zero findings at high severity from the red-team prompt set and
   the secret scan.
 - **SC-007** A new developer rebuilds the app and reproduces the scorecard
