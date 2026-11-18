@@ -123,6 +123,13 @@ data, index and eval scorecard on their own machine.
   flagged in the answer and in the document viewer.
 - **FR-009** A public "How it works" page and the eval scorecard are visible
   without asking a question.
+- **FR-011** The agent's SQL tool is storage-agnostic: it talks to an
+  interface, not to Postgres directly, so a second analytics engine can be
+  added without changing the agent (ADR-0004).
+- **FR-012** A scaling benchmark (later phase) grows the synthetic data with
+  the generator's `--scale` option, times a fixed set of analytics queries at
+  each size, and reports where Postgres misses its time budget. DuckDB is added
+  as the analytics engine at that point (ADR-0004).
 - **FR-010** Bryan has an admin view: questions asked, cost per question and
   per visitor, cap status, and the ability to revoke a visitor link.
 
@@ -167,7 +174,7 @@ Bryan). Each becomes an ADR in `docs/adr/` once Bryan picks.
 
 | ID | Decision | Recommendation (not yet chosen) |
 |---|---|---|
-| D1 | Data store | Postgres with pgvector |
+| D1 | Data store | **Decided (ADR-0004):** Postgres with pgvector, scaling benchmark later |
 | D2 | Language model, how the agent loop runs, and the monthly cap | Claude Opus 5.5 behind a one-line setting, our own tool loop, $20 a month cap |
 | D3 | Embeddings | Voyage AI voyage-4 (current free allowance covers this corpus) |
 | D4 | Retrieval and citations | Chunks that follow each document's structure, hybrid search, passage-level citations |

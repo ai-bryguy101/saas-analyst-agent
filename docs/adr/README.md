@@ -12,8 +12,9 @@ Status values: **Proposed** (written, waiting on Bryan), **Accepted**,
 | [0001](0001-record-decisions-and-use-spec-kit.md) | Record decisions as ADRs; follow GitHub Spec Kit | Accepted |
 | [0002](0002-fictional-saas-company-public-repo.md) | Fictional SaaS company; public repo | Accepted |
 | [0003](0003-synthetic-data-conventions.md) | Reserved domains and committed data | Proposed |
+| [0004](0004-postgres-pgvector-with-scaling-benchmark.md) | Postgres + pgvector now; benchmark decides when to add DuckDB | Accepted |
 
-Open decisions D1 to D9 are listed in `specs/001-analyst-app/spec.md`,
+Open decisions D2 to D9 (D1 is ADR-0004) are listed in `specs/001-analyst-app/spec.md`,
 section 5. Each becomes an ADR here once chosen.
 
 ## Template
