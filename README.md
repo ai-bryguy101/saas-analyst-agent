@@ -36,4 +36,8 @@ The same seed gives byte-identical files on every run. Options:
 
 The data store and agent stack are not chosen yet. The raw data is
 deliberately store-agnostic. Decisions are recorded as we go using the
-Spec Kit workflow.
+Spec Kit workflow:
+
+- Constitution (the project's rules): `.specify/memory/constitution.md`
+- Spec for the end-to-end analyst app: `specs/001-analyst-app/spec.md`
+- Decision records: `docs/adr/`
