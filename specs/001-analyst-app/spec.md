@@ -2,7 +2,7 @@
 
 **Feature branch**: `claude/project-thread-ofnqev`
 **Created**: 2026-11-18
-**Status**: Draft, waiting on the open decisions in section 5
+**Status**: Draft. D1 to D6 and D8 to D9 decided (section 5); hosting (D7) open
 **Input**: Bryan, Nov 18: "build this pipeline with RAG and everything with a
 website that I can use end to end as an analyst for this made up company. I
 will be able to ask it a question and it will show me the answer, then where
@@ -130,6 +130,9 @@ data, index and eval scorecard on their own machine.
   the generator's `--scale` option, times a fixed set of analytics queries at
   each size, and reports where Postgres misses its time budget. DuckDB is added
   as the analytics engine at that point (ADR-0004).
+- **FR-013** Images (scans, faxes, photos) are described by a vision model at
+  ingest; each description becomes a searchable passage linked to its image
+  and labelled as a machine description (ADR-0008).
 - **FR-010** Bryan has an admin view: questions asked, cost per question and
   per visitor, cap status, and the ability to revoke a visitor link.
 
@@ -166,23 +169,25 @@ data, index and eval scorecard on their own machine.
   tokens and cost.
 - **Visitor**: an access grant with its quota, expiry and usage.
 
-## 5. Open decisions [NEEDS CLARIFICATION]
+## 5. Decisions
 
-Each is explained with options, trade-offs and a recommendation on the
-decision page (https://claude.ai/artifact/CNKyUeYTvkph6LaT9siDSz, private to
-Bryan). Each becomes an ADR in `docs/adr/` once Bryan picks.
+All nine were explained with options and trade-offs on the decision page
+(https://claude.ai/artifact/CNKyUeYTvkph6LaT9siDSz, private to Bryan).
 
-| ID | Decision | Recommendation (not yet chosen) |
-|---|---|---|
-| D1 | Data store | **Decided (ADR-0004):** Postgres with pgvector, scaling benchmark later |
-| D2 | Language model, how the agent loop runs, and the monthly cap | Claude Opus 5.5 behind a one-line setting, our own tool loop, $20 a month cap |
-| D3 | Embeddings | Voyage AI voyage-4 (current free allowance covers this corpus) |
-| D4 | Retrieval and citations | Chunks that follow each document's structure, hybrid search, passage-level citations |
-| D5 | What to ingest first | Text-native formats plus existing OCR text and legacy tables; images later |
-| D6 | Visitor access | Per-employer invite links plus a bot check |
-| D7 | Hosting | His Hostinger VPS with Docker Compose behind Cloudflare |
-| D8 | App stack | Python FastAPI for the API, React for the site |
-| D9 | Eval plan | Free retrieval eval on every change; paid full eval before merge; held-out test set |
+| ID | Decision | Choice | Record |
+|---|---|---|---|
+| D1 | Data store | Postgres with pgvector; scaling benchmark later decides on DuckDB | ADR-0004 |
+| D2 | Model, loop, cap | Claude Haiku 5.5 as a one-line setting, our own loop, $10 a month | ADR-0005 |
+| D3 | Embeddings | Voyage AI voyage-4 | ADR-0006 |
+| D4 | Retrieval and citations | Shape-aware passages, hybrid search merged by rank, exact passage checked by the server | ADR-0007 |
+| D5 | What to ingest | Text, OCR text and legacy tables, plus images read by a vision model | ADR-0008 |
+| D6 | Visitor access | Invite link per employer plus bot check | ADR-0009 |
+| D7 | Hosting | **[NEEDS CLARIFICATION]** Bryan has no VPS yet; choice and cost open | pending |
+| D8 | App stack | Python FastAPI + React (TypeScript) | ADR-0010 |
+| D9 | Eval plan | Free checks on every change, full eval before merge, held-out set | ADR-0011 |
+
+Everything is built to run with Docker Compose, so the code does not depend
+on which host D7 picks.
 
 ## 6. Success criteria
 
@@ -195,8 +200,8 @@ Bryan). Each becomes an ADR in `docs/adr/` once Bryan picks.
   about the topic, without naming the pattern.
 - **SC-004** Typical answer starts streaming within 3 seconds and finishes
   within 30 seconds.
-- **SC-005** Average cost per answered question stays under the target set in
-  D2 (tracked on the admin view).
+- **SC-005** Monthly model spend stays under the $10 cap (ADR-0005), and
+  average cost per answered question is tracked on the admin view.
 - **SC-006** Zero findings at high severity from the red-team prompt set and
   the secret scan.
 - **SC-007** A new developer rebuilds the app and reproduces the scorecard
